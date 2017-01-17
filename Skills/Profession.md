@@ -1,0 +1,52 @@
+# Profession (WIS) (Specific)
+
+Examples of profession skills:
+
+- Acrobat
+- Architect
+- Astronomer
+- Baker
+- Barkeep
+- Barmaid
+- Barrister
+- Brewer
+- Butcher
+- Charcoal Burner
+- Clerk
+- Cook
+- Courtesan
+- Driver
+- Engineer
+- Farmer
+- Fisherman
+- Fortuneteller
+- Gambler
+- Gardener
+- Gladiator
+- Herbalist
+- Innkeeper
+- Jeweler
+- Lamp Lighter
+- Lawyer
+- Librarian
+- Medium
+- Merchant
+- Midwife
+- Miller
+- Miner
+- Porter
+- Priest
+- Rancher
+- Sailor
+- Scribe
+- Shepherd
+- Siege Engineer
+- Soldier
+- Soothsayer
+- Stable Master
+- Tanner
+- Teacher
+- Torturer
+- Trapper
+- Woodcutter
+- <Other Profession>

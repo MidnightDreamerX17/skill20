@@ -1,0 +1,28 @@
+# Druid Magic (WIS)
+
+Druid Magic comes from nature, the soil, the trees, all nearby animals and insects, the air, the sun, the moon, the stars, and everything else in the environment. Typically, only those who actually like nature will have the patience to utilize Druid Magic.
+
+Read Druid Scroll: Druid Magic Level is added as a bonus to rolls to use the power of druid scrolls.
+
+- Level 1: 1st-circle spells
+- Level 3: 2nd-circle spells
+- Level 5: 3rd-circle spells
+- Level 7: 4th-circle spells
+- Level 9: 5th-circle spells
+- Level 11: 6th-circle spells
+- Level 13: 7th-circle spells
+- Level 15: 8th-circle spells
+- Level 17: 9th-circle spells
+- Level 19: 10th-circle spells
+- Level 21: 11th-circle spells
+- Level 23: 12th-circle spells
+- Level 25: 13th-circle spells
+- Level 27: 14th-circle spells
+- Level 29: 15th-circle spells
+- Level 31: 16th-circle spells
+- Level 33: 17th-circle spells
+- Level 35: 18th-circle spells
+- Level 37: 19th-circle spells
+- Level 39: 20th-circle spells
+
+Wild Shape: Once per day, the character can turn into an animal of the same level. This lasts for a number of rounds equal to double the Druid Magic Level. The character's maximum hit points are not changed.
