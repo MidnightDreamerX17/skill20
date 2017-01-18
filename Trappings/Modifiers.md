@@ -5,7 +5,7 @@
 Quality modifiers add an amount of cost that is relative to the base cost of the equipment. They only provide benefits if the user possesses certain skill requirements.
 
 | Quality                | Cost Mod | Requirement               | Notes |
-| ---                    | ---      |                           | ---   |
+| ---                    | ---      | ---                       | ---   |
 | Expert-Crafted Armor   | + x5     | Armor Training 2          | +1 AC
 | Master-Crafted Armor   | + x10    | Armor Training 5          | +2 AC
 | Custom-Fitted Armor    | + x20    | Armor Training 10         | +3 AC
@@ -21,7 +21,7 @@ Quality modifiers add an amount of cost that is relative to the base cost of the
 Material modifiers add an amount of cost that is relative to the base cost of the equipment. The default material is assumed to be Common Steel.
 
 | Material              | Cost Mod  | Weight Mod | Armor AC       | Weapon Mod                       | Special |
-| ---                   | ---       | ---        | ---            | ---                              |         |
+| ---                   | ---       | ---        | ---            | ---                              | ---     |
 | Bronze                | halved    | none       | -1 AC          | -1 accuracy and damage           |         |
 | Exotic Steel          | + x2      | +1         | +1 AC          | +1 accuracy and damage           |         |
 | Ironwood              | + x4      | none       | none           | none                             | not metal
