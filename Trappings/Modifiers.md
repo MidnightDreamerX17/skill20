@@ -64,7 +64,7 @@ Each infusion has a flat cost of 5,000 gold.
 - Raw: The weapon gains +5 accuracy and damage. It no longer uses any attributes for accuracy or damage, nor can it be reinforced.
 - Refined: The average of the user's Strength & Dexterity are used for attack accuracy and damage.
 - Sharp: The weapon requires (16 + Reinforcement) Dexterity in order to use. The weapon now always uses Dexterity for accuracy and damage. For each Dexterity bonus at +4 and higher, an additional point of bonus is gained.
-- Simple: The weapon has a penalty of -2 to accuracy and damage. It increases caster experience level by an amount equal to its Reinforcement number.
+- Simple: The weapon has a penalty of -3 to accuracy and damage. It increases caster experience level by an amount equal to its Reinforcement number.
 
 ### Crafting Weapon Infusions
 

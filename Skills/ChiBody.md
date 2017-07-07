@@ -4,4 +4,4 @@ Iron Body: This ability requires that the character is not wearing any armor, he
 
 Hagane Yoroi Ha: If the character also has the Chi Mysticism skill, then they can spend a Chi Power Point to cut the damage of a physical attack in half.
 
-Mahou Seki Ha: If the character also has the Chi Mysticism skill, then they can spend a Chi Power Point to cut the damage of a spell, power, or breath in half.
+Mahou Seki Ha: If the character also has the Chi Mysticism skill, then they can spend a Chi Power Point to cut the damage of a spell, power, breath, or psionic power in half.

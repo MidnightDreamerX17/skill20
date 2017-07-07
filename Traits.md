@@ -8,9 +8,9 @@
 
 **Favored Enemy Category** - The character gains a bonus of +2 for everything relating to that enemy category, including Armor Class.
 
-**Magic Domain** - The character is strongly aligned with a specific domain of magic, causing the domain spells to be considered a lower magic circle. For example, having the Healing Domain will cause Cure Light Wounds to be considered a spell of the 0th circle.
+**Magic Domain** - The character is strongly aligned with a specific domain of magic, causing the domain spells to be considered a lower magic circle. For example, having the Healing Domain will cause *Cure Light Wounds* to be considered a spell of the 0th circle.
 
-**Magic School** - The character is strongly aligned with one specific school of magic, causing that school's spells to be considered a lower magic circle. For example, having the Evocation Magic School will cause Magic Missile to be considered a spell of the 0th circle.
+**Magic School** - The character is strongly aligned with one specific school of magic, causing that school's spells to be considered a lower magic circle. For example, having the Evocation Magic School will cause *Magic Missile* to be considered a spell of the 0th circle.
 
 **Natural Armor 2** - The character's Armor Class is improved by 2. This trait cannot be taken if the character's race already provides Natural Armor.
 
@@ -22,9 +22,9 @@
 
 **Powerful Family** - The character has a powerful family with many servants and a fortified home. The family home is big and secure enough to accommodate the whole party. The character can attempt to beg for money from their family as well, although that is better covered by the Wealthy Family trait.
 
-**Psionic Category** - The character is strongly aligned with a specific category of psionics, causing that category's powers to be considered a lower power circle. For example, having the Clairsentience category will cause Aura Sight to become a 3rd-circle power.
+**Psionic Category** - The character is strongly aligned with a specific category of psionics, causing that category's powers to be considered a lower power circle. For example, having the Clairsentience category will cause *Aura Sight* to become a 3rd-circle power.
 
-**Psionic Discipline** - The character is strongly aligned with a specific discipline of psionics, causing that discipline's powers to be considered a lower power circle. For example, having the Warrior discipline will cause Body Adjustment to become a 3rd-circle power.
+**Psionic Discipline** - The character is strongly aligned with a specific discipline of psionics, causing that discipline's powers to be considered a lower power circle. For example, having the Warrior discipline will cause *Body Adjustment* to become a 3rd-circle power.
 
 **Skilled** - The character starts with 1 additional skill. It cannot be an Advanced skill. For starting with additional Craft, Knowledge, Perform, or Profession skills, the advantage of Work Experience is more efficient.
 
@@ -84,17 +84,17 @@
 
 **Opposed Guild** - The character is banned for life from a guild, and has a penalty of -10 to all reactions with members of that guild. The character must start with at least six of that guild's primary skills in order to be opposed to it. Or, if opposed to an Association, then the character must have a Quirk that makes them of the same alignment as that Association.
 
-**Opposed Magic Domain** - Spells from this domain are considered to be of a higher spell circle. For example, being opposed to the Healing domain will result in Cure Light Wounds being a spell of the 2nd circle. A character must start with the ability to memorize and cast 1st-circle spells in order to have an Opposed Magic Domain.
+**Opposed Magic Domain** - Spells from this domain are considered to be of a higher spell circle. For example, being opposed to the Healing domain will result in *Cure Light Wounds* being a spell of the 2nd circle. A character must start with the ability to memorize and cast 1st-circle spells in order to have an Opposed Magic Domain.
 
-**Opposed Magic School** - Spells from this school are considered to be of a higher spell circle. For example, being opposed to the Evocation school will result in Magic Missile being a spell of the 2nd circle. A character must start with the ability to memorize and cast 1st-circle spells in order to have an Opposed Magic School.
+**Opposed Magic School** - Spells from this school are considered to be of a higher spell circle. For example, being opposed to the Evocation school will result in *Magic Missile* being a spell of the 2nd circle. A character must start with the ability to memorize and cast 1st-circle spells in order to have an Opposed Magic School.
 
 **Opposed Psionic Category** - Powers from this category are considered to be of a higher power circle. For example, being opposed to the ... A character must start with the ability to use 1st-circle powers and have psionic power points in order to have an Opposed Psionic Category.
 
 **Opposed Psionic Discipline** - Powers from this discipline are considered to be of a higher power circle. For example, being opposed to the ... A character must start with the ability to use 1st-circle powers and have psionic power points in order to have an Opposed Psionic Discipline.
 
-**Racist** - The character has a penalty of -10 to all interactions with the specified race. It must be a civilized and common race.
+**Racist** - The character has a penalty of -10 to all interactions with the specified race. It must be a civilized and common race. The character's Intelligence and Wisdom must be 10 or lower.
 
-**Sexist** - The character has a penalty of -10 to all interactions with the specified sex. If the sex is "neutral", "plural", or "other" then the character must be of a race for which this is common, e.g. a Law-Mech being sexist against neuters.
+**Sexist** - The character has a penalty of -10 to all interactions with the specified sex. If the sex is "neutral", "plural", or "other" then the character must be of a race for which this is common, e.g. a Law-Mech being sexist against neuters. The character's Intelligence and Wisdom must be 10 or lower.
 
 **Slow Starter** - The character only rolls 1d10 for initiative, rather than 1d100 + Dexterity score.
 
@@ -104,7 +104,7 @@
 - Each level of Armor Training reduces this by only 1%.
 - Some types of armor may specify that they have reduced weight, such as Elven Chain. These armor types will also reduce spell failure by 5% per point of weight reduction.
 
-**Terminal Disorder** - The character's Constitution decreases by 1 at every Experience Level. This can only be removed by Greater Restoration or greater magical power.
+**Terminal Disorder** - The character's Constitution decreases by 1 at every Experience Level. This can only be removed by *Greater Restoration* or greater magical power.
 
 **Theoretical Idiot** - The character thinks that Attacks-of-Opportunity exist and are realistic.
 
@@ -116,7 +116,7 @@
 
 ## Quirks
 
-**Beastial Spirit (Specific)** - Spells and powers relating to this spirit are considered to be one circle lower. For example, having a Beastial Spirit of Bear will allow the character to use Summon Nature's Ally I as if it were Summon Nature's Ally II in order to summon a bear. On the other hand, the character's personality is strongly modified depending on the spirit, having a penalty of -10 to all actions that are contrary to the spirit's nature.
+**Beastial Spirit (Specific)** - Spells and powers relating to this spirit are considered to be one circle lower. For example, having a Beastial Spirit of Bear will allow the character to use *Summon Nature's Ally I* as if it were *Summon Nature's Ally II* in order to summon a bear. On the other hand, the character's personality is strongly modified depending on the spirit, having a penalty of -10 to all actions that are contrary to the spirit's nature.
 
 **Darksign** - The character is undead, harmed by most effects that heal mortals. The character does not regain hit points by resting, instead needing to sit near magically-blessed fires. If killed, the character will come back to life the next day with 1 less maximum hit point and looking more dead. Once the character's maximum hit points go to zero, they will be raised as a mindless hollow. The cure to the darksign is only known by a select few, and by specific gods.
 

@@ -103,7 +103,7 @@ There is no limit to skill level, but it is considered highly unlikely that leve
 
 A character's Experience Level is equal to that of their tenth-highest skill level. This means that characters must invest their experience points into at least ten different skills to increase their Experience Level.
 
-At every Experience Level after the first, the character's maximum Hit Points are increased by 1d6 + Constitution modifier. It is possible that characters with 9 or less Constitution will lose maximum Hit Points after their first Experience Level.
+At every Experience Level after the first, the character's maximum Hit Points are increased by 1d6 + Constitution modifier. It is possible that characters with 7 or less Constitution will lose maximum Hit Points after their first Experience Level.
 
 Whenever the character's Constitution is increased, they reroll all of their Hit Points. They then choose whether to use their old maximum Hit Points or the new roll.
 
