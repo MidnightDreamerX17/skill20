@@ -2,6 +2,7 @@
 
 - Vision: Infravision
 - Theoretical Lifespan: 10,000 years
+- Map Movement: 30 feet
 - -1 Strength
 - +1 Dexterity
 - +1 Intelligence

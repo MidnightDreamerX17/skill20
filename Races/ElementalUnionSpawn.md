@@ -5,6 +5,7 @@
 
 Air:
 
+- Map Movement: 40 feet
 - +1 Dexterity
 - +1 Intelligence
 - -1 Wisdom
@@ -14,16 +15,18 @@ Air:
 
 Earth:
 
+- Map Movement: 20 feet
 - +1 Strength
 - +1 Constitution
 - -1 Wisdom
 - -1 Charisma
-- Natural Armor 2
+- Natural Armor 4
 - Pass Without Trace 1/day
 - Immune to earth damage, and guaranteed to save against earth magic.
 
 Fire:
 
+- Map Movement: 30 feet
 - +1 Dexterity
 - -1 Constitution
 - +1 Intelligence
@@ -33,6 +36,7 @@ Fire:
 
 Water
 
+- Map Movement: 30 feet
 - +1 Strength
 - -1 Dexterity
 - +1 Constitution

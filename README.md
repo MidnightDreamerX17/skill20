@@ -5,14 +5,15 @@
 1. Introduction
 2. [Quickstart Characters](/QuickstartCharacters)
 3. [Playable Characters](/Characters.md)
-  - [Languages](/Languages.md)
-  - [Traits](/Traits.md)
+  -- [Languages](/Languages.md)
+  -- [Traits](/Traits.md)
 4. [Races](/Races)
 5. [Skills](/Skills)
 6. [Trappings, Equipment, Weapons, and Armor](/Trappings)
 7. [Magic](/Magic)
 8. [Psionics](/Psionics)
 9. [Example Guilds](/ExampleGuilds)
+10. [Rules](/Rules.md)
 
 ## Introduction
 

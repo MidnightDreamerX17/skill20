@@ -2,6 +2,7 @@
 
 - Vision: Twilight Vision
 - Theoretical Lifespan: 200 years
+- Map Movement: 20 feet
 - -1 Strength
 - +2 Dexterity
 - -1 Constitution

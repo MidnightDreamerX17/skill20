@@ -2,6 +2,7 @@ Draconians are born as a result of dragons shapeshifting and mating with mortals
 
 - Vision: Infravision
 - Theoretical Lifespan: Unlimited
+- Map Movement: 30 feet
 - +1 Strength
 - -1 Dexterity
 - +1 Constitution

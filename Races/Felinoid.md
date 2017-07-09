@@ -4,6 +4,7 @@ Felinoids range from human-looking people with cat ears and tails, to more beast
 
 - Vision: Twilight Vision
 - Theoretical Lifespan: 120 years
+- Map Movement: 30 feet
 - +1 Dexterity
 - +1 Intelligence
 - -1 Charisma

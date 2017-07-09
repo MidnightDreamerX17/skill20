@@ -2,6 +2,7 @@
 
 - Vision: Darkvision
 - Theoretical Lifespan: 200 years / Unlimited
+- Map Movement: 20 feet
 - +1 Strength
 - +1 Constitution
 - -1 Charisma

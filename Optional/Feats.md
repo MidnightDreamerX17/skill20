@@ -1,0 +1,93 @@
+# Feats
+
+These rules should only be used if the gaming group agrees that they will spend a lot of time on character building.
+
+Characters start with 10 feats and gain an additional feat at every single experience level.
+
+- **Ace Surgeon** - The character uses Healing Kits on a time scale of one check per 10 minutes.
+- **Acrobatic** - The character gains a bonus of +2 to jumping, tumbling, and falling safely.
+- **Additional Advantage** (uses 2 feats) - The character gains an additional Advantage.
+- **Agile** - The character gains a bonus of +2 to balancing, escaping from restraints, walking on tightropes, and other such checks.
+- **Alertness** - The character gains a bonus of +2 to sensory perception.
+- **Animal Affinity** - The character gains a bonus of +2 to deal with animals.
+- **Arms Master** - The character gains a bonus of +1 to all attack accuracy checks.
+- **Astrologer** - The character gains two 0th-circle Druid spell energies.
+- **Athletic** - The character gains a bonus of +2 to climbing, swimming, running, and other activities for extended periods of time.
+- **Augment Summoning** - The character's summons gain a bonus of +1 to experience level.
+- **Blessed Attribute** (specific) (requires Experience Level 10) - One of the character's attributes is increased by 1. This feat can be taken once per attribute.
+- **Blessed Attribute, Greater** (specific) (requires Experience Level 20) - One of the character's attributes is increased by 1. This feat can be taken once per attribute.
+- **Body Builder** - The character's minimum dice rolls for maximum Hit Points are increased by 1. This means that they can roll a 2 through 6 on each die. If combined with *Toughness*, the total result is that a 3 through 6 could be rolled per die.
+- **Brace** - When the character's HPs are reduced to 0 or less, the character makes a d20 roll. On a natural roll of 20, they have 1 HP left.
+- **Cartographer** - The character gains a bonus of +4 to checks relating to maps.
+- **Chaos Shaping** - The character gains a bonus of +2 to stabilize, maintain, modify, and shape chaos matter. This is most effective in planes that work this way, e.g. the Gnosa and Bia strongholds.
+- **Combat Casting** - The character gains a bonus of +4 to concentration checks.
+- **Counter Attack** - The character may choose to hold all actions and increase their Armor Class by 2. Any melee attack against the character that misses allows usage of one of their attacks.
+- **Danger Sense** - The character gains a bonus of +4 to avoid surprise.
+- **Direction Sense** - The character gains a bonus of +4 to checks relating to direction, estimating distance, and the like.
+- **Deceitful** - The character gains a bonus of +2 to disguise, forgery, lying, and other such checks.
+- **Deft Hands** - The character gains a bonus of +2 to steal, use rope, manipulate coin tosses, and other such checks.
+- **Diehard** - When the character is bleeding, they only bleed every 2 rounds rather than every single round.
+- **Diligent** - The character gains a bonus of +2 to appraise the gold value of items, as well as to decipher ancient scripts.
+- **Divination** - The character gains a bonus of +2 to identify anything, including magical and psionic items.
+- **Drunken Master** - When the character is under the effect of a poison or disease, they gain a bonus of +4 to attack accuracy and damage.
+- **Endurance** - The character gains a bonus of +2 to Strength and Constitution saving throws.
+- **Enemy Category Specialization** (specific) - The character gains a bonus of +1 to all actions against the enemy category.
+- **Forester** - The character gains a bonus of +4 to checks relating to forests, survival in them, and traversing through them.
+- **Fortunate** - The character gains a bonus of +2 to avoid surprise.
+- **Hand of Kindness** - The character's healing magic is improved by 1 hit point per die.
+- **Healing Moment** - The character rests just as well in rough conditions as they do in a civilized bed.
+- **Holy Weapon Charge** (requires Cleric Power skill) - The character can expend a 1st-circle Cleric spell energy to make the whole party's weapons able to damage incorporeal, undead, and other such creatures. This effect lasts for a number of rounds equal to the character's Experience Level. This is not considered to be a spell casting.
+- **Improved Familiar** - The character casts the *Find Familiar* spell with a bonus of +4 caster experience levels.
+- **Improved Initiative** - The character gains a bonus of +4 to initiative rolls.
+- **Intuition** - The character gains a bonus of +2 to find and disarm traps.
+- **Investigator** - The character gains a bonus of +2 to examine scenes for details, ask groups of people for information, and other such checks.
+- **Invincible** - The character gains a bonus of +2 to save against instant-death, petrification, polymorph, and other body-altering "game-ending" effects.
+- **Invincible Heart** (requires Invincible) - The character gains a bonus of +2 to save against instant-death, petrification, polymorph, and other body-altering "game-ending" effects.
+- **Iron Will** - The character gains a bonus of +2 to Wisdom and Charisma saving throws.
+- **Item Trick** - The character can use two items in one action.
+- **Item Trick, Improved** (requires Item Trick) - The character can use three items in one action.
+- **Last Stand** - When the character has less than half of their hit points remaining, they gain a bonus of +1 to all checks. When they are down to only 10% of their hit points remaining, requiring that they have at least 10 maximum hit points, the bonus changes to +4 to all checks.
+- **Lightning Reflexes** - The character gains a bonus of +2 to Dexterity and Intelligence saving throws.
+- **Linguist** - The character gets the Knowledge (Int) (Linguistics) skill for free, and it always equals the character's experience level. Any experience points put into that skill are refunded.
+- **Magic Essence** (requires Spell Penetration) - The character gains a bonus of +2 to penetrate spell resistance.
+- **Magic Weapon Charge** (requires Wizard Power skill) - The character can expend a 1st-circle Wizard spell energy to make the whole party's weapons able to damage incorporeal, gelatinous, and other such creatures. This effect lasts for a number of rounds equal to the character's Experience Level. This is not considered to be a spell casting.
+- **Magical Aptitude** - The character gains a bonus of +2 to identify the magical specifics of anything.
+- **Mana Heal** (requires Experience Level 10) - The character only needs 6 hours of sleep to regain all spell energies.
+- **Mariner** - The character gains a bonus of +4 to checks relating to oceans, survival in them, and traversing through them.
+- **Mountaineer** - The character gains a bonus of +4 to checks relating to mountains, survival in them, and traversing through them.
+- **Mysterious Bag** - The character can instantly send items to their home. However, they must go back home to get those items back.
+- **Mystical Knack** - The character gains two additional 0th-circle Wizard spell energies.
+- **Negotiator** - The character gains a bonus of +2 to conduct diplomacy and haggle over prices.
+- **Nimble Fingers** - The character gains a bonus of +2 to open locks, crack safes, and disarm traps.
+- **Pass-Along Theft** - When the character successfully steals something, they can pass the item to another character without using any actions.
+- **Pathfinder** - The character gains a bonus of +4 to checks relating to forests, survival in them, and traversing through them.
+- **Persuasive** - The character gains a bonus of +2 to convince people of something.
+- **Planar Attack** - When the character uses a weapon that has been reinforced at least +1, its reinforcement is further increased by +1 against extraplanars and incorporeal creatures.
+- **Planar Magic** (requires Spell Penetration) - The character gains a bonus of +2 to penetrate spell resistance.
+- **Planar Sense** - The character gains a bonus of +2 to sense any sudden change of terrain, weather, environmental conditions, etc. in exotic, neutral, chaotic, elemental, etc. planes.
+- **Planar Survival** - The character gains a bonus of +2 to survive in exotic, neutral, chaotic, elemental, etc. planes.
+- **Planology** - The character gains a bonus of +4 to sense good or bad luck in the planes.
+- **Polyglot** - The character gains 4 additional languages, and a bonus of +2 to Knowledge (Linguistics) (INT) skill checks.
+- **Portal Feel** - The character gains a bonus of +4 to identify portals, and to identify what is at the other end.
+- **Prayer Master** - The character gains two additional 0th-circle Cleric spell energies.
+- **Prestidigitator** - The character gains two additional 0th-circle Illusionist spell energies.
+- **Quick Roll** - The character can choose to lose all attack actions in order to gain a +5 bonus to move through enemies.
+- **Reckless Attack** - The character can sacrifice 4 of their Armor Class in order to gain a bonus of +2 to accuracy and damage. If this feat is used, then it starts at the very beginning of the character's turn and lasts until the character's next turn.
+- **Self-Sufficient** - The character gains a bonus of +2 to use healing kits, as well as to survival.
+- **Spell Focus** (specific) - One spell is considered to be one circle lower for the character.
+- **Spell Focus, Greater** (specific) (requires Spell Focus) - One spell is considered to be one circle lower for the character.
+- **Spell Penetration** - The character gains a bonus of +2 to penetrate spell resistance.
+- **Spell Penetration, Greater** (requires Spell Penetration) - The character gains a bonus of +2 to penetrate spell resistance.
+- **Spell Recovery** - The character gains a bonus of +4 to know which spells will not work on their current plane, as well as which spells are enhanced on the current plane.
+- **Stealthy** - The character gains a bonus of +2 to hide from sight and to move silently.
+- **Swimming Expert** - The character gains a bonus of +4 to swimming.
+- **Terrain Category Specialization** (specific) - The character gains a bonus of +1 to all actions of tracking, foraging, survival, hunting, hiding, etc. in the terrain category.
+- **Toughness** - The character's minimum dice rolls for maximum Hit Points are increased by 1. This means that they can roll a 2 through 6 on each die. If combined with *Body Builder*, the total result is that a 3 through 6 could be rolled per die.
+- **Vanguard Stance** - The character can take damage from a ranged attack in place of an adjacent ally. Usage of this feat can be declared starting from when the enemy chooses to do a ranged attack, up to immediately after damage is rolled.
+- **Weapon Focus** (specific) - The character gains a bonus of +1 to accuracy and damage with one specific weapon type.
+- **Weapon Focus, Greater** (specific) (requires Weapon Focus) - The character gains a bonus of +1 to accuracy and damage with one specific weapon type.
+- **Weapon Specialization** (specific) (requires Weapon Focus) - The character gains a bonus of +1 to accuracy and damage with one specific weapon type.
+- **Weapon Specialization, Greater** (specific) (requires Weapon Specialization) - The character gains a bonus of +1 to accuracy and damage with one specific weapon type.
+- **Weapon Trick** - The character can throw any weapon as a ranged weapon. The damage of the weapon is unchanged.
+- **Wide Slash** - The character can use two of their attacks to do one attack against an enemy in the back row. In map combat, the character can use two of their attacks to do one attack 10 feet away.
+- **Wild Eye** - The character gains a bonus of +2 to find secret doors.

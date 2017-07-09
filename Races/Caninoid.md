@@ -4,6 +4,7 @@ Caninoids range from human-looking people with dog ears and tails, to werewolf-l
 
 - Vision: Twilight Vision
 - Theoretical Lifespan: 80 years
+- Map Movement: 30 feet
 - +1 Strength
 - +1 Dexterity
 - -1 Constitution
@@ -16,7 +17,7 @@ Blood Scent - Caninoids gain a bonus of +2 to smell.
 
 Colorblind - Caninoids cannot perceive colors.
 
-Fur & Fang - Caninoids can bite for 1d6 puncture damage and claw for 1d6 slashing damage.
+Fur & Fang - Caninoids have natural weapons of biting for 1d6 puncture damage and clawing for 1d6 slashing damage.
 
 Pack Instinct - Caninoids gain a bonus of +2 to accuracy when fighting alongside two or more other caninoids, as well as when part of a well-trained military unit fighting in formation.
 

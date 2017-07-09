@@ -4,6 +4,7 @@ Dhampires are born from mortal pregnant women who were infected by vampires. The
 
 - Vision: Infravision
 - Theoretical Lifespan: Unlimited
+- Map Movement: 40 feet
 - +1 Dexterity
 - -1 Constitution
 - -1 Wisdom

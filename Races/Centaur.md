@@ -4,6 +4,7 @@ Centaurs range from being human-looking above the waist, to being totally beasti
 
 - Vision: Infravision
 - Theoretical Lifespan: 200 years
+- Map Movement: 40 feet
 - Unusual Body Shape
 
 Males:

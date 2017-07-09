@@ -4,6 +4,7 @@ Angelic Union Spawn are caused by Outsiders of Good planes mating with mortals. 
 
 - Vision: Infravision
 - Theoretical Lifespan: 1000 years
+- Map Movement: 30 feet
 - +1 Strength
 - -2 Constitution
 - +1 Wisdom
@@ -12,11 +13,11 @@ Angelic Union Spawn are caused by Outsiders of Good planes mating with mortals. 
 
 All That Is Under Heaven - Angelic Union Spawn gain a bonus of +2 against surprise
 
-Angelic Power - Angelic Union Spawn can memorize Detect Evil, Detect Lie, and Light as if they were 0th-circle spells.
+Angelic Power - Angelic Union Spawn can memorize *Detect Evil*, *Detect Lie*, and *Light* as if they were 0th-circle spells. They can memorize these spells into any type of memorization slot, without needing them in a spellbook.
 
-Angelic Presence - Angelic Union Spawn are detectable by any kind of Detect Good magic. However, if they actually have some other alignment quirk, then they will additionally be detectable according to their actual alignment.
+Angelic Presence - Angelic Union Spawn are detectable by any kind of *Detect Good* magic. However, if they actually have some other alignment quirk, then they will additionally be detectable according to their actual alignment.
 
-Angelic Wings - Angelic Union Spawn have big wings. At Experience Level 10, they can glide and slowfall. At Experience Level 20, they can fly with wing-in-ground-effect, close to the ground. At Experience Level 30, they can fly normally.
+Angelic Wings - Angelic Union Spawn have big wings, allowing them to fall from greater heights without being harmed. At Experience Level 10, they can glide, slowfall, and use updrafts to ascend. At Experience Level 20, they can fly with wing-in-ground-effect, close to the ground. At Experience Level 30, they can fly normally.
 
 Beyond Mortal Concerns - Angelic Union Spawn gain a bonus of +2 to all saving throws
 

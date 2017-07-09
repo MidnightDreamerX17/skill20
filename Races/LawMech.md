@@ -2,6 +2,7 @@
 
 - Vision: Day Vision
 - Theoretical Lifespan: 10 years / Unlimited
+- Map Movement: 20 feet
 - -1 Dexterity
 - +2 Constitution
 - +1 Intelligence
@@ -23,6 +24,6 @@ Fried Circuits: Law-Mechs are always stunned upon taking lightning damage.
 
 Maintenance: Law-Mechs require roughly eight hours of self-maintenance every day, but unlike most mortals, these hours do not need to be contiguous. Without proper maintenance, they will eventually break down and die after 10 years. If they are properly maintained, then they can last forever.
 
-Repair: Law-Mechs can be repaired as constructs for one hit point per day, with the difficulty being equal to the Law-Mech's own experience level. This is in addition to hit points regained by resting.
+Repair: Law-Mechs can be repaired as constructs for one hit point per day, with the difficulty being equal to 10 + the Law-Mech's own experience level. This is in addition to hit points regained by resting.
 
-Reboot: Dead Law-Mechs can be resurrected by repairing them for 7 days straight. One check must be made each day. The difficulty is equal to the Law-Mech's Experience Level. Once a successful check is made for 7 days straight, the Law-Mech comes back to life with 1 hit point at the end of the 7th day.
+Reboot: Dead Law-Mechs can be resurrected by repairing them for 7 days straight. One check must be made each day. The difficulty is equal to 10 + the Law-Mech's Experience Level. Once a successful check is made for 7 days straight, the Law-Mech comes back to life with 1 hit point at the end of the 7th day.

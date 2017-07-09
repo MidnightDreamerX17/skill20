@@ -31,10 +31,12 @@ There are many possible methods of determining attribute numbers. The GM chooses
 1. Method 1: Roll six sets of 3d6, and assign them in order to Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma.
 2. Method 2: Roll six sets of 3d6, and assign each set to one attribute of your choosing. Each attribute must get exactly one set.
 3. Method 3: Roll six sets of 4d6, drop the lowest die from each set, and assign each set to one attribute of your choosing. Each attribute must get exactly one set.
-4. Method 4: Roll 5d6 six times, and drop the lowest two dice of each, then choose the order
-5. Method 5: Roll 2d6+6 six times, and choose the order
+4. Method 4: Roll 5d6 six times, and drop the lowest two dice of each, then choose the order.
+5. Method 5: Roll 2d6+6 six times, and choose the order.
 6. Method 6: Assign the following numbers: 16, 14, 12, 10, 8, 6
 7. Method 7: Roll 18 dice, then group them up into 6 triplets. Assign each triplet to an attribute.
+8. Method 8: Roll 24 dice, drop the lowest six dice, then group up the remaining 18 dice into 6 triplets. Assign each triplet to an attribute.
+9. Method 9: Allow the players to write whatever attribute numbers they want, up to a maximum of 18 per attribute. The GM then chooses whether to approve each set of numbers. This method is based on the idea that the GM can write in whatever monsters they want, and having attributes of all 18 is equivalent to having only 2 more experience levels.
 
 Attribute numbers cause bonuses or penalties to d20 rolls based on attributes.
 
@@ -74,30 +76,30 @@ Experience Points must then be allocated to the character's skills, growing the 
 
 The skill level of each skill is determined by the number of experience points allocated to it, according to the following table:
 
-| LVL    | XP    | LVL    | XP  |
-| ---    | ---   | ---    | --- |
-| **1**  | 100   | **21** | 23100
-| **2**  | 300   | **22** | 25300
-| **3**  | 600   | **23** | 27600
-| **4**  | 1000  | **24** | 30000
-| **5**  | 1500  | **25** | 32500
-| **6**  | 2100  | **26** | 35100
-| **7**  | 2800  | **27** | 37800
-| **8**  | 3600  | **28** | 40600
-| **9**  | 4500  | **29** | 43500
-| **10** | 5500  | **30** | 46500
-| **11** | 6600  | **31** | 49600
-| **12** | 7800  | **32** | 52800
-| **13** | 9100  | **33** | 56100
-| **14** | 10500 | **34** | 59500
-| **15** | 12000 | **35** | 63000
-| **16** | 13600 | **36** | 66600
-| **17** | 15300 | **37** | 70300
-| **18** | 17100 | **38** | 74100
-| **19** | 19000 | **39** | 78000
-| **20** | 21000 | **40** | 82000
+| LVL    | XP    | LVL    | XP    | LVL    | XP     |
+| ---    | ---   | ---    | ---   | ---    | ---    |
+| **1**  | 100   | **21** | 23100 | **41** | 86100  |
+| **2**  | 300   | **22** | 25300 | **42** | 90300  |
+| **3**  | 600   | **23** | 27600 | **43** | 94600  |
+| **4**  | 1000  | **24** | 30000 | **44** | 99000  |
+| **5**  | 1500  | **25** | 32500 | **45** | 103500 |
+| **6**  | 2100  | **26** | 35100 | **46** | 108100 |
+| **7**  | 2800  | **27** | 37800 | **47** | 112800 |
+| **8**  | 3600  | **28** | 40600 | **48** | 117600 |
+| **9**  | 4500  | **29** | 43500 | **49** | 122500 |
+| **10** | 5500  | **30** | 46500 | **50** | 127500 |
+| **11** | 6600  | **31** | 49600 | **51** | 132600 |
+| **12** | 7800  | **32** | 52800 | **52** | 137800 |
+| **13** | 9100  | **33** | 56100 | **53** | 143100 |
+| **14** | 10500 | **34** | 59500 | **54** | 148500 |
+| **15** | 12000 | **35** | 63000 | **55** | 154000 |
+| **16** | 13600 | **36** | 66600 | **56** | 159600 |
+| **17** | 15300 | **37** | 70300 | **57** | 165300 |
+| **18** | 17100 | **38** | 74100 | **58** | 171100 |
+| **19** | 19000 | **39** | 78000 | **59** | 177000 |
+| **20** | 21000 | **40** | 82000 | **60** | 183000 |
 
-There is no limit to skill level, but it is considered highly unlikely that level 41 would be reached for any skill.
+There is no limit to skill level, but it is considered highly unlikely that level 61 would be reached for any skill.
 
 ### Experience Level
 
@@ -117,7 +119,7 @@ This rule works best with the "Skills Capped By Experience Level" rule, and shou
 
 ### Optional: Class-Style Advancement
 
-If a character learns a new skill, then they cannot advance any other skill until the new skill is raised to the same level as the others. Combined with the "Skills Capped by Experience Level" rule, this means that characters with many skills will take a long time to gain experience levels compared to those who do not learn any. This rule is only provided for GMs who want to be strict about the possible character types and punish players for trying to do too many things at once.
+If a character learns a new skill, then they cannot advance any other skill until the new skill is raised to the same level as the others. Combined with the "Skills Capped by Experience Level" rule, this means that characters with many skills will take a long time to gain experience levels compared to those who do not learn any. This rule is only provided for GMs who also want to allow characters to be able to gain experience levels while advancing fewer than ten skills.
 
 ### Optional: Attribute Improvements With Experience
 

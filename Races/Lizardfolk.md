@@ -4,6 +4,7 @@ Lizardfolk range from human-looking people with lizard tails, to more beastial a
 
 - Vision: Twilight Vision
 - Theoretical Lifespan: 60 years
+- Map Movement: 30 feet
 - +1 Strength
 - +1 Constitution
 - -1 Intelligence

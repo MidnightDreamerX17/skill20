@@ -2,6 +2,7 @@
 
 - Vision: Day Vision
 - Theoretical Lifespan: 80 years
+- Map Movement: 30 feet
 - -1 Strength
 - -1 Constitution
 - +1 Intelligence

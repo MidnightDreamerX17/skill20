@@ -60,15 +60,15 @@
 
 **Cannot Shed Blood** - The character is not allowed to do any puncture or slashing damage. The character must start with both Melee Fighting and Ranged Fighting skills in order to have this disadvantage.
 
+**Claustrophobia** - The character is afraid of enclosed spaces and narrow hallways, and has a penalty of -2 to all checks while in such a place.
+
 **Compulsive Lying Disorder** - The character must make an Intelligence or Wisdom check at difficulty 30 in order to speak one true sentence.
 
 **Critical Weakness (specific)** - The character takes double damage from one element or damage type.
 
 **Defiler** - When the character uses magic, the energy is taken from the surrounding nature and wildlife. This is extremely obvious to anyone who has magic sight, and may even attract the wrath of other planes. The character must start with the ability to memorize and cast 1st-circle spells in order to be a Defiler.
 
-**Dependent** - The character has a non-adventurer dependent. If this person is killed, then the character must cease adventuring immediately for the rest of their lives and all future incarnations.
-
-**Enemy God** - The enemy god will give a bonus of +2 to its servants to all rolls against the character.
+**Enemy God** - The enemy god will give a bonus of +2 to its servants, for all d20 rolls against the character.
 
 **Hoarder** - The character cannot sell anything, and cannot trade or give to anyone who will just sell it later. The character must make an Intelligence or Wisdom check at difficulty 30 in order to throw away or sell something.
 
@@ -92,21 +92,15 @@
 
 **Opposed Psionic Discipline** - Powers from this discipline are considered to be of a higher power circle. For example, being opposed to the ... A character must start with the ability to use 1st-circle powers and have psionic power points in order to have an Opposed Psionic Discipline.
 
-**Racist** - The character has a penalty of -10 to all interactions with the specified race. It must be a civilized and common race. The character's Intelligence and Wisdom must be 10 or lower.
+**Racist** - The character has a penalty of -10 to all interactions with the specified race. It must be a civilized and common race. The character's Intelligence and Wisdom must be 9 or lower.
 
-**Sexist** - The character has a penalty of -10 to all interactions with the specified sex. If the sex is "neutral", "plural", or "other" then the character must be of a race for which this is common, e.g. a Law-Mech being sexist against neuters. The character's Intelligence and Wisdom must be 10 or lower.
+**Sexist** - The character has a penalty of -10 to all interactions with the specified sex. If the sex is "neutral", "plural", or "other" then the character must be of a race for which this is common, e.g. a Law-Mech being sexist against neuters. The character's Intelligence and Wisdom must be 9 or lower.
 
 **Slow Starter** - The character only rolls 1d10 for initiative, rather than 1d100 + Dexterity score.
 
-**Spell Failure** - The character must start with the ability to memorize and cast 1st-circle spells in order to have a Spell Failure chance. The character has a percentage chance of failing spellcasting while wearing armor. It is calculated as follows:
-
-- Base Armor Class from equipment (before all bonuses) * 5%
-- Each level of Armor Training reduces this by only 1%.
-- Some types of armor may specify that they have reduced weight, such as Elven Chain. These armor types will also reduce spell failure by 5% per point of weight reduction.
+**Spell Failure** - The character must start with the ability to memorize and cast 1st-circle spells in order to have a Spell Failure chance. The character has a percentage chance of failing spellcasting while wearing armor, equal to Armor Weight * 5%.
 
 **Terminal Disorder** - The character's Constitution decreases by 1 at every Experience Level. This can only be removed by *Greater Restoration* or greater magical power.
-
-**Theoretical Idiot** - The character thinks that Attacks-of-Opportunity exist and are realistic.
 
 **Unskilled** - The character only starts with four skills of choice, rather than six. Note that this makes it hard for the character to gain Experience Levels until they can get training from guilds for two new skills.
 
@@ -119,6 +113,10 @@
 **Beastial Spirit (Specific)** - Spells and powers relating to this spirit are considered to be one circle lower. For example, having a Beastial Spirit of Bear will allow the character to use *Summon Nature's Ally I* as if it were *Summon Nature's Ally II* in order to summon a bear. On the other hand, the character's personality is strongly modified depending on the spirit, having a penalty of -10 to all actions that are contrary to the spirit's nature.
 
 **Darksign** - The character is undead, harmed by most effects that heal mortals. The character does not regain hit points by resting, instead needing to sit near magically-blessed fires. If killed, the character will come back to life the next day with 1 less maximum hit point and looking more dead. Once the character's maximum hit points go to zero, they will be raised as a mindless hollow. The cure to the darksign is only known by a select few, and by specific gods.
+
+**Dependent** - The character has a non-adventurer dependent. If this person is killed, then the character must cease adventuring immediately for the rest of their lives and all future incarnations.
+
+**Documented Identity** - The character has a large number of records about them in multiple places, identifying their appearance, place of residence, family, and other such things. This could be used for the character's benefit, proving that they are an upstanding citizen, proving that they possess a noble title, etc. But, this information is also readily available to those who wish to do harm to the character.
 
 **Aligned: Lawful Good (Alignment)** - The character starts at Rank 2 in both the Law and Good Associations. On the other hand, the character has a penalty of -10 to reactions with chaotic and evil people.
 
