@@ -1,6 +1,6 @@
 # Barbaric Rage (STR)
 
-Uncontrollable Rage: Once per day, the character can go into an uncontrollable rage for a number of combat rounds equal to Barbaric Rage Level. While enraged, the character must make melee attacks against the nearest person, regardless of friend or foe. The character may make an Intelligence or Wisdom check at Difficulty 20 in order to end the rage before its duration has finished. The rage also has effects as follows:
+Uncontrollable Rage: Once per day, the character can go into an uncontrollable rage for a number of combat rounds equal to Barbaric Rage Level. While enraged, the character must make melee attacks against the nearest person, regardless of friend or foe. The character may make an Intelligence or Wisdom check at Difficulty 20 in order to end the rage before its duration has finished. Leftover rounds of the rage are wasted. The rage also has effects as follows:
 
 - Barbaric Rage Level 1: +2 to attack, +2 to damage, +2 to saving throws, -4 Armor Class, Spell Resistance 5
 - Barbaric Rage Level 5: +3 to attack, +3 to damage, +3 to saving throws, -3 Armor Class, Spell Resistance 10

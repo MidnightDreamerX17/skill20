@@ -1,3 +1,5 @@
+# Sorcery (CHA)
+
 Sorcery allows a character to change one of their memorized spells in the middle of combat (as well as at any other time). The character makes a Sorcery check, with the difficulty being determined by the spell circle that is being changed. Sorcery is instantaneous, and spellcasting can begin in the same action. Sorcery cannot be used to add spells to empty memorization slots.
 
 | Circle | Difficulty |

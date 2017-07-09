@@ -121,6 +121,10 @@ This rule works best with the "Skills Capped By Experience Level" rule, and shou
 
 If a character learns a new skill, then they cannot advance any other skill until the new skill is raised to the same level as the others. Combined with the "Skills Capped by Experience Level" rule, this means that characters with many skills will take a long time to gain experience levels compared to those who do not learn any. This rule is only provided for GMs who also want to allow characters to be able to gain experience levels while advancing fewer than ten skills.
 
+### Optional: Training Required for Skill Advancement
+
+Characters must spend a number of days training equal to their next skill level. This is in addition to the expenditure of experience points. For example, advancing the Melee Fighting (STR) skill from 6 to 7 would require 7 days of training. The GM may additionally require guild facilities, skilled training partners, blessings from the gods, and the like.
+
 ### Optional: Attribute Improvements With Experience
 
 Characters gain one attribute point at every 4th experience level.

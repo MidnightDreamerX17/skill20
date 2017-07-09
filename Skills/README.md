@@ -10,7 +10,6 @@
 - [Barbaric Rage (STR)](/Skills/BarbaricRage.md)
 - [Charisma Training (CHA) (Advanced)](/Skills/CharismaTraining.md)
 - [Chi Body (CON)](/Skills/ChiBody.md)
-- [Chi Channelling (CON)](/Skills/ChiChannelling.md)
 - [Chi Fist (CON)](/Skills/ChiFist.md)
 - [Chi Mysticism (CON)](/Skills/ChiMysticism.md)
 - [Cleric Potential (WIS)](/Skills/ClericPotential.md)
@@ -71,7 +70,6 @@
 
 - [Armor Training (CON)](/Skills/ArmorTraining.md)
 - [Chi Body (CON)](/Skills/ChiBody.md)
-- [Chi Channelling (CON)](/Skills/ChiChannelling.md)
 - [Chi Fist (CON)](/Skills/ChiFist.md)
 - [Chi Mysticism (CON)](/Skills/ChiMysticism.md)
 - [Constitution Training (CON) (Advanced)](/Skills/ConstitutionTraining.md)

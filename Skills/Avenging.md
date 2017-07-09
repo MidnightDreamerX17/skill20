@@ -21,4 +21,4 @@ Taunt: The character can use Charisma + Avenging skill for taunting enemies. Tau
 
 Avenging Level 5: Chaos Minion: The gods grant the character one chaotic minion of the same level. The chaos minion is always of at least average intelligence, if not better. If the chaos minion dies, then the character must either wait a year, or increase their Avenging level, to get a new one.
 
-Avenging Level 10: Chaos Focus: Whenever the character has a chaotic weapon drawn, they project a constant Circle of Protection From Law. Examples of chaotic weapons include Stormbringer, Mournblade, and the like.
+Avenging Level 10: Chaos Focus: Whenever the character has a chaotic weapon drawn, they project a constant *Circle of Protection From Law*. Examples of chaotic weapons include Stormbringer, Mournblade, and the like.

@@ -2,11 +2,11 @@
 
 Back Attack: The character must be behind the enemy somehow - whether through the Stealth skill's infiltration ability, by ambush, or by other means. The character gains a bonus of +5 to attack accuracy and physical damage against the backs of enemies.
 
-Infiltration: The character can spend a full action to both hide and move silently in the middle of combat. If successful on both checks, then they advance one row into the enemy rows.
+Infiltration (non-map combat): The character can spend a full action to both hide and move silently in the middle of combat. If successful on both checks, then they advance one row into the enemy rows.
 
-Stealth Level 20: Jump Into Shadow: If the character successfully hides, then they become invisible as per the spell invisibility until they move out of shadows.
+Stealth Level 20: Jump Into Shadow: If the character successfully hides, then they become invisible as per the spell *Invisibility* until they move out of shadows.
 
-Stealth Level 30: Greater Jump Into Shadow: If the character successfully hides, then they become invisible as per the spell greater invisibility until they move out of shadows.
+Stealth Level 30: Greater Jump Into Shadow: If the character successfully hides, then they become invisible as per the spell *Greater Invisibility* until they move out of shadows.
 
 Stealth Level 40: Ultimate Jump Into Shadow: If the character successfully hides, then they shift into their own personal shadow plane until they do a non-movement action.
 

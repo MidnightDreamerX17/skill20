@@ -24,7 +24,7 @@ The spell no longer requires a verbal component.
 
 Extend Spell - +1 circle
 
-The spell's duration is doubled. The spell must have a duration other than "instantaneous".
+The spell's duration is doubled. The spell's base duration must be two rounds or longer.
 
 #### Metamagic Level 8
 

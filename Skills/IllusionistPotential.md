@@ -25,7 +25,7 @@ Possible Spells: In combination with the Illusionist Power (INT) skill, the char
 - Level 37: 19th-circle spells
 - Level 39: 20th-circle spells
 
-Read Illusionist Scroll: Illusionist Potential is added as a bonus to rolls to use the power of wizard scrolls, as well as to meld these scrolls into a spellbook.
+Read Illusionist Scroll: Illusionist Potential is added as a bonus to rolls to use the power of illusionist scrolls, as well as to meld these scrolls into a spellbook.
 
 Illusionist Spellbook: Each level of Illusionist Potential allows the character to get one free spell in their spellbook. The spell must be of a Spell Circle that is allowed by their new Illusionist Potential Level.
 

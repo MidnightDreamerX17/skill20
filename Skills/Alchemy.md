@@ -1,7 +1,5 @@
 # Alchemy (INT)
 
-Skilled Potion Brewing: The character chooses either their Alchemy Level or their Experience Level when brewing potions, whichever is most favorable to the character at the time that the check is made.
-
 Potion Fusion: It takes one day to conduct an act of Potion Fusion. The character can combine potions in the following manner:
 
 - 2 Potions of First Aid into 1 Potion of Cure Light Wounds
