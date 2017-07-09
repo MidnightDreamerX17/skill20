@@ -1,8 +1,8 @@
-# Druid Magic (WIS)
+# Druid Potential (WIS)
 
 Druid Magic comes from nature, the soil, the trees, all nearby animals and insects, the air, the sun, the moon, the stars, and everything else in the environment. Typically, only those who actually like nature will have the patience to utilize Druid Magic.
 
-Read Druid Scroll: Druid Magic Level is added as a bonus to rolls to use the power of druid scrolls.
+Possible Spells: In combination with the Druid Power (WIS) skill, the character can use their Druid Memorization Slots and Druid Spell Energies as follows:
 
 - Level 1: 1st-circle spells
 - Level 3: 2nd-circle spells
@@ -25,4 +25,6 @@ Read Druid Scroll: Druid Magic Level is added as a bonus to rolls to use the pow
 - Level 37: 19th-circle spells
 - Level 39: 20th-circle spells
 
-Wild Shape: Once per day, the character can turn into an animal of the same level. This lasts for a number of rounds equal to double the Druid Magic Level. The character's maximum hit points are not changed.
+Read Druid Scroll: Druid Potential Level is added as a bonus to rolls to use the power of druid scrolls.
+
+Wild Shape: Once per day, the character can turn into an animal of the same level. This lasts for a number of rounds equal to double the Druid Potential Level. The character's maximum hit points are not changed.

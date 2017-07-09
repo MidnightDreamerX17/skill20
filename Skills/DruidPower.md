@@ -1,10 +1,12 @@
-# Druid Slots (WIS)
+# Druid Power (WIS)
 
-Druid Spells Memorized: Always 2 higher than the number of spell slots for each circle.
+The Druid Power skill is intended to be used in combination with the Druid Potential skill. There may be special situations that may allow usage of Druid Memorization Slots and Druid Spell Energies in other ways.
 
-Bonus Slots: Characters get one bonus slot for spell circles depending on their Wisdom modifier. For example, a character with a Wisdom of 18 will get a bonus slot for the 0th, 1st, 2nd, and 3rd spell circles.
+Druid Spells Memorized: Always 2 higher than the number of spell energies for each circle.
 
-## Spell Slots Table
+Bonus Slots: Characters get one bonus spell energy for spell circles depending on their Wisdom modifier. For example, a character with a Wisdom of 18 will get a bonus spell energie for the 0th, 1st, 2nd, and 3rd spell circles.
+
+## Spell Energies Table
 
 | Skill LVL | 0th | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th | 10th | 11th | 12th | 13th | 14th | 15th | 16th | 17th | 18th | 19th | 20th |
 | ---      | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---  | ---  | ---  | ---  | ---  | ---  | ---  | ---  | ---  | ---  | ---  |

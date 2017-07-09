@@ -1,4 +1,4 @@
-# Wizard Slots (INT)
+# Wizard Power (INT)
 
 Wizard Spells Memorized: Always 2 higher than the number of spell slots for each circle.
 

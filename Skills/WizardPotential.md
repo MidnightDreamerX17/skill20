@@ -1,10 +1,8 @@
-# Wizard Magic (INT)
+# Wizard Potential (INT)
 
 Wizard Magic is based on study, grasping complex concepts, and trying to focus on magic by itself without any other distractions. Such a style of magic typically requires a large amount of formal education. That failing, much practice is required in order to master it.
 
-Read Wizard Scroll: Wizard Magic is added as a bonus to rolls to use the power of wizard scrolls, as well as to meld these scrolls into a spellbook.
-
-Wizard Spellbook: Each level of Wizard Magic allows the character to get one free spell in their spellbook. The spell must be of a Spell Circle that is allowed by their new Wizard Magic Level.
+Possible Spells: In combination with the Wizard Power (INT) skill, the character can use their Wizard Memorization Slots and Wizard Spell Energies as follows:
 
 - Level 1: 1st-circle spells
 - Level 3: 2nd-circle spells
@@ -26,3 +24,7 @@ Wizard Spellbook: Each level of Wizard Magic allows the character to get one fre
 - Level 35: 18th-circle spells
 - Level 37: 19th-circle spells
 - Level 39: 20th-circle spells
+
+Read Wizard Scroll: Wizard Potential is added as a bonus to rolls to use the power of wizard scrolls, as well as to meld these scrolls into a spellbook.
+
+Wizard Spellbook: Each level of Wizard Potential allows the character to get one free spell in their spellbook. The spell must be of a Spell Circle that is allowed by their new Wizard Potential Level.

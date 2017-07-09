@@ -1,10 +1,10 @@
-# Psionic Points (INT)
+# Psionic Power (INT)
 
 The points cost of a psionic power is specified in its description.
 
-Bonus Psionic Points: Characters get an additional number of Psionic Points equal to their Intelligence bonus. For example, a character with an Intelligence of 16 will get 3 bonus Psionic Points.
+Bonus Psionic Points: Characters get an additional number of Psionic Power Points equal to their Intelligence bonus. For example, a character with an Intelligence of 16 will get 3 bonus Psionic Points.
 
-| Skill LVL | Psionic Points |
+| Skill LVL | Psionic Power Points |
 | --- | --- |
 | 1 | 5
 | 2 | 9

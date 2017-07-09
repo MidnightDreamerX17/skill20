@@ -1,10 +1,10 @@
-# Illusionist Slots (INT)
+# Illusionist Power (INT)
 
-Illusionist Spells Memorized: Always 2 higher than the number of spell slots for each circle.
+Illusionist Spells Memorized: Always 2 higher than the number of spell energies for each circle.
 
-Bonus Slots: Characters get one bonus slot for spell circles depending on their Intelligence modifier. For example, a character with an Intelligence of 18 will get a bonus slot for the 0th, 1st, 2nd, and 3rd spell circles.
+Bonus Slots: Characters get one bonus spell energy for spell circles depending on their Intelligence modifier. For example, a character with an Intelligence of 18 will get a bonus spell energy for the 0th, 1st, 2nd, and 3rd spell circles.
 
-## Spell Slots Table
+## Spell Energies Table
 
 | Skill LVL | 0th | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th | 10th | 11th | 12th | 13th | 14th | 15th | 16th | 17th | 18th | 19th | 20th |
 | ---      | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---  | ---  | ---  | ---  | ---  | ---  | ---  | ---  | ---  | ---  | ---  |
