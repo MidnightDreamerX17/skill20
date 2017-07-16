@@ -31,12 +31,13 @@ There are many possible methods of determining attribute numbers. The GM chooses
 1. Method 1: Roll six sets of 3d6, and assign them in order to Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma.
 2. Method 2: Roll six sets of 3d6, and assign each set to one attribute of your choosing. Each attribute must get exactly one set.
 3. Method 3: Roll six sets of 4d6, drop the lowest die from each set, and assign each set to one attribute of your choosing. Each attribute must get exactly one set.
-4. Method 4: Roll 5d6 six times, and drop the lowest two dice of each, then choose the order.
-5. Method 5: Roll 2d6+6 six times, and choose the order.
-6. Method 6: Assign the following numbers: 16, 14, 12, 10, 8, 6
-7. Method 7: Roll 18 dice, then group them up into 6 triplets. Assign each triplet to an attribute.
-8. Method 8: Roll 24 dice, drop the lowest six dice, then group up the remaining 18 dice into 6 triplets. Assign each triplet to an attribute.
-9. Method 9: Allow the players to write whatever attribute numbers they want, up to a maximum of 18 per attribute. The GM then chooses whether to approve each set of numbers. This method is based on the idea that the GM can write in whatever monsters they want, and having attributes of all 18 is equivalent to having only 2 more experience levels.
+4. Method 4: Roll nine sets of 4d6, drop the lowest die from each set, drop the three lowest sets, and assign each remaining set to one attribute of your choosing. Each attribute must get exactly one set.
+5. Method 5: Roll 5d6 six times, and drop the lowest two dice of each, then choose the order.
+6. Method 6: Roll 2d6+6 six times, and choose the order.
+7. Method 7: Assign the following numbers: 16, 14, 12, 10, 8, 6
+8. Method 8: Roll 18 dice, then group them up into 6 triplets. Assign each triplet to an attribute.
+9. Method 9: Roll 24 dice, drop the lowest six dice, then group up the remaining 18 dice into 6 triplets. Assign each triplet to an attribute.
+10. Method 10: Allow the players to write whatever attribute numbers they want, up to a maximum of 18 per attribute. The GM then chooses whether to approve each set of numbers. This method is based on the idea that the GM can write in whatever monsters they want, and having attributes of all 18 is equivalent to having only 2 more experience levels.
 
 Attribute numbers cause bonuses or penalties to d20 rolls based on attributes.
 
