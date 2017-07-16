@@ -15,6 +15,10 @@
 9. [Example Guilds](/ExampleGuilds)
 10. [Rules](/Rules.md)
 
+Optional Sections:
+
+- [Feats](/Optional/Feats.md)
+
 ## Introduction
 
 Goals:

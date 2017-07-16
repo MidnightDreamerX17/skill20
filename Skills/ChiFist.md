@@ -10,7 +10,7 @@ Weapon Channelling: The character improves weapon accuracy and damage, both rang
 - Chi Channelling Level 15: Weapon Channelling adds Dexterity, Constitution, Intelligence, and Wisdom modifiers to weapon accuracy and damage
 - Chi Channelling Level 20: Weapon Channelling adds Dexterity, Constitution, Intelligence, Wisdom, and Charisma modifiers to weapon accuracy and damage
 
-Hagane Ken: If the character also has the Chi Mysticism skill, then they can spend a Chi Power Point in combination with a full defense action. This adds Chi Fist level to their Armor Class for as long as the full defense is maintained.
+Hagane Ken: If the character also has the Chi Mysticism skill, then they can spend two Chi Power Points in combination with a full defense action. This adds Chi Fist level to their Armor Class for as long as the full defense is maintained.
 
 Juurensha Ken: If the character also has the Chi Mysticism, then they can spend a Chi Power Point to do one additional attack in the round.
 
@@ -25,4 +25,4 @@ Power Grip: The character gains a bonus to grappling and other such combat maneu
 
 Seimitsu Ken: If the character also has the Chi Mysticism skill, then they can spend a Chi Power Point to add +4 to the accuracy and damage of one attack.
 
-Tenrai Ken: If the character also has the Chi Mysticism skill, then they can spend a Chi Power Point to do a melee attack against one enemy within visual range.
+Tenrai Ken: If the character also has the Chi Mysticism skill, then they can spend two Chi Power Points to do a melee attack against one enemy within visual range.

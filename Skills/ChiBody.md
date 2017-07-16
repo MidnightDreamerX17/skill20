@@ -10,6 +10,6 @@ Armor Channelling: The character improves Armor Class while wearing armor - incl
 
 Iron Body: This ability requires that the character is not wearing any armor, helmet, shield, or any other gear that gives Armor Class through mundane means. The character's Armor Class is improved by an amount equal to their Chi Body Level. This cannot be used during the same combat round as Armor Channelling.
 
-Hagane Yoroi Ha: If the character also has the Chi Mysticism skill, then they can spend a Chi Power Point to cut the damage of a physical attack in half.
+Hagane Yoroi Ha: If the character also has the Chi Mysticism skill, then they can spend two Chi Power Points to cut the damage of a physical attack in half.
 
-Mahou Seki Ha: If the character also has the Chi Mysticism skill, then they can spend a Chi Power Point to cut the damage of a spell, power, breath, or psionic power in half.
+Mahou Seki Ha: If the character also has the Chi Mysticism skill, then they can spend two Chi Power Points to cut the damage of a spell, power, breath, or psionic power in half.

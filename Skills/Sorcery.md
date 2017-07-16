@@ -1,6 +1,8 @@
 # Sorcery (CHA)
 
-Sorcery allows a character to change one of their memorized spells in the middle of combat (as well as at any other time). The character makes a Sorcery check, with the difficulty being determined by the spell circle that is being changed. Sorcery is instantaneous, and spellcasting can begin in the same action. Sorcery cannot be used to add spells to empty memorization slots.
+Sorcery allows a character to change one of their memorized spells in the middle of combat (as well as at any other time). The character makes a Sorcery check, with the difficulty being determined by the spell circle that is being changed. A single act of Sorcery is instantaneous, and spellcasting can begin in the same action. Sorcery cannot be used to add spells to empty memorization slots. Multiple acts of Sorcery in one instant are not possible.
+
+If changing Cleric or Druid spells, the character must be permitted to memorize that spell by their patron powers. If changing Illusionist or Wizard memorized spells, the character must have that spell in their spellbook or a corresponding *book of one spell*.
 
 | Circle | Difficulty |
 | ---    | --- |

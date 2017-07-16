@@ -1,6 +1,6 @@
 # Armor
 
-Armor requires the Armor Training skill in order to wear without being burdened. Armor Weight that exceeds Armor Training skill will be a penalty to all physical actions, and will also cancel out the Dexterity bonus to Armor Class. For example, a character with Armor Training Level 10 can wear armor with Armor Weight of up to 10 (such as bullet-proofed plate) before being burdened.
+Armor and shields require the Armor Training skill in order to wear without being burdened. Armor Weight that exceeds Armor Training skill will be a penalty to all physical actions, and will also cancel out the Dexterity bonus to Armor Class. For example, a character with Armor Training Level 10 can wear armor with Armor Weight of up to 10 (such as bullet-proofed plate) before being burdened.
 
 | Armor                  | Cost      | AC  | Weight | Special |
 | ---                    | ---       | --- | ---    | ---     |
@@ -23,20 +23,17 @@ Armor requires the Armor Training skill in order to wear without being burdened.
 | Flak Suit              | 2,000.00  | 4   | 1      |         |
 | Tactical Armor         | 4,000.00  | 5   | 1      |         |
 
-
-Shields require the Armor Training skill in order to wield without being burdened. For example, a character with Armor Training Level 10 can use a shield with Weight of up to 10 (such as a siege shield) before being burdened.
-
 | Shield                | Cost   | AC  | Weight | Special |
 | ---                   | ---    | --- | ---    | ---     |
 | Buckler               | 15.00  | 1   | 1      | AC +3 for duelling
 | Shield, Light Wooden  | 3.00   | 1   | 1      |         |
 | Shield, Light Metal   | 9.00   | 1   | 1      |         |
-| Shield, Heavy Wooden  | 7.00   | 2   | 4      |         |
-| Shield, Heavy Metal   | 20.00  | 2   | 4      |         |
-| Shield, Great Wooden  | 15.00  | 3   | 6      |         |
-| Shield, Great Metal   | 40.00  | 3   | 6      |         |
-| Shield, Tower Wooden  | 30.00  | 4   | 8      |         |
-| Shield, Tower Metal   | 60.00  | 4   | 8      |         |
-| Shield, Siege         | 100.00 | 5   | 10     |         |
-| Blast Shield          | 250.00 | 6   | 12     |         |
-| Ballistic Shield      | 500.00 | 3   | 4      |         |
+| Shield, Heavy Wooden  | 7.00   | 2   | 2      |         |
+| Shield, Heavy Metal   | 20.00  | 2   | 2      |         |
+| Shield, Great Wooden  | 15.00  | 3   | 3      |         |
+| Shield, Great Metal   | 40.00  | 3   | 3      |         |
+| Shield, Tower Wooden  | 30.00  | 4   | 4      |         |
+| Shield, Tower Metal   | 60.00  | 4   | 4      |         |
+| Shield, Siege         | 100.00 | 5   | 5      |         |
+| Blast Shield          | 250.00 | 6   | 6      |         |
+| Ballistic Shield      | 500.00 | 3   | 1      |         |
