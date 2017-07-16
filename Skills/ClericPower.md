@@ -4,7 +4,7 @@ The Cleric Power skill is intended to be used in combination with the Cleric Pot
 
 Cleric Spells Memorized: Always 2 higher than the number of spell energies for each circle.
 
-Bonus Slots: Characters get one bonus spell energy for spell circles depending on their Wisdom modifier. For example, a character with a Wisdom of 18 will get a bonus spell energy for the 0th, 1st, 2nd, and 3rd spell circles.
+Bonus Slots: Characters get one bonus spell energy for spell circles depending on their Wisdom modifier. For example, a character with a Wisdom of 16 will get a bonus spell energy for the 0th, 1st, 2nd, and 3rd spell circles.
 
 ## Spell Energies Table
 

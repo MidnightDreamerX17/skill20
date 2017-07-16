@@ -2,7 +2,7 @@
 
 Wizard Spells Memorized: Always 2 higher than the number of spell slots for each circle.
 
-Bonus Slots: Characters get one bonus slot for spell circles depending on their Intelligence modifier. For example, a character with an Intelligence of 18 will get a bonus slot for the 0th, 1st, 2nd, and 3rd spell circles.
+Bonus Slots: Characters get one bonus slot for spell circles depending on their Intelligence modifier. For example, a character with an Intelligence of 16 will get a bonus slot for the 0th, 1st, 2nd, and 3rd spell circles.
 
 ## Spell Slots Table
 

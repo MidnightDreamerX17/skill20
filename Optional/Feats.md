@@ -37,7 +37,7 @@ Characters start with 10 feats and gain an additional feat at every single exper
 - **Hand of Kindness** - The character's healing magic is improved by 1 hit point per die.
 - **Healing Moment** - The character rests just as well in rough conditions as they do in a civilized bed.
 - **Holy Weapon Charge** (requires Cleric Power skill) - The character can expend a 1st-circle Cleric spell energy to make the whole party's weapons able to damage incorporeal, undead, and other such creatures. This effect lasts for a number of rounds equal to the character's Experience Level. This is not considered to be a spell casting.
-- **Improved Familiar** - The character casts the *Find Familiar* spell with a bonus of +4 caster experience levels.
+- **Improved Familiar** - The character casts the *Find Familiar* spell with a bonus of +4 caster levels.
 - **Improved Initiative** - The character gains a bonus of +4 to initiative rolls.
 - **Intuition** - The character gains a bonus of +2 to find and disarm traps.
 - **Investigator** - The character gains a bonus of +2 to examine scenes for details, ask groups of people for information, and other such checks.

@@ -1,6 +1,6 @@
 # Stealth (DEX)
 
-Back Attack: The character must be behind the enemy somehow - whether through the Stealth skill's infiltration ability, by ambush, or by other means. The character gains a bonus of +5 to attack accuracy and physical damage against the backs of enemies.
+Back Attack: The character must be behind the enemy somehow - whether through the Stealth skill's infiltration ability, by ambush, by tactical combat movement, or by other means. The character gains a bonus of +5 to attack accuracy and physical damage against the backs of enemies.
 
 Infiltration (non-map combat): The character can spend a full action to both hide and move silently in the middle of combat. If successful on both checks, then they advance one row into the enemy rows.
 

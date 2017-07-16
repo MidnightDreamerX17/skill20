@@ -10,11 +10,11 @@
 
 Battle Frenzy - Orc Hybrids must make an Intelligence or Wisdom check, difficulty 10, to get out of combat mode. One check is made per round after combat has ended.
 
-Horns - Orc Hybrids have noticeable horns. For males, they are big enough to grab by the hands, and can be used to headbutt for 1d4 piercing damage. For females, they are rounded and stubby, so cannot be grabbed.
+Horns - Orc Hybrids have noticeable horns. For males, they are big enough to grab by the hands, and can be used to headbutt as a natural weapon for 1d4 piercing damage. For females, they are rounded and stubby, so cannot be grabbed.
 
 Sterility - Orc Hybrids cannot produce any offspring.
 
-Tusks - Orc Hybrids have four big tusks that stick out noticeably - two in each row of teeth. They can bite for 1d6 piercing damage.
+Tusks - Orc Hybrids have four big tusks that stick out noticeably - two in each row of teeth. They can bite as a natural weapon for 1d6 piercing damage.
 
 Warcry Frenzy - Orc Hybrids must make an Intelligence or Wisdom check, difficulty 10, to avoid being caught up in a warcry, sporting chant, a bunch of people queuing up to buy something, a crowd fleeing a burning building, or similar event.
 

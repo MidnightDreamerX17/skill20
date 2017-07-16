@@ -9,7 +9,7 @@
 - +2 Charisma
 - Unusual Body Shape
 
-Fairy Ring - Fairies can teleport to their home fairy ring once per day, even if it is on a different plane. They can return to their previous location by using the fairy ring as a portal, and no other fairies can follow them.
+Fairy Ring - Fairies can teleport to their home fairy ring once per day, even if it is on a different plane. They can return to their previous location by using the fairy ring as a portal, and no one else can follow them.
 
 Fairy Wings - At Experience Level 5, fairies can glide and slowfall. At Experience Level 10, fairies can fly close to the ground. At Experience Level 20, fairies can fly normally.
 
