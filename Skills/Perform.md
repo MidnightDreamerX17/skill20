@@ -19,5 +19,5 @@ Examples of Perform skills:
 - String Instruments
 - Turntables
 - Wind Instruments
-- <Specific Sport>
-- <Other Performance Type>
+- \<Specific Sport\>
+- \<Other Performance Type\>

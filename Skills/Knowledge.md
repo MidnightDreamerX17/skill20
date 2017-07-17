@@ -19,5 +19,5 @@ Examples of knowledge skills:
 - Planes
 - Religion
 - Riddles
-- <Specific Area Knowledge>
-- <Other Knowledge>
+- \<Specific Area Knowledge\>
+- \<Other Knowledge\>

@@ -37,4 +37,4 @@ Examples of Craft skills:
 - Tattoo
 - Traps
 - Weapons
-- <Other Craft>
+- \<Other Craft\>

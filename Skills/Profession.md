@@ -49,4 +49,4 @@ Examples of profession skills:
 - Torturer
 - Trapper
 - Woodcutter
-- <Other Profession>
+- \<Other Profession\>
