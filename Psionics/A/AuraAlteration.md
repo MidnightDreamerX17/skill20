@@ -1,13 +1,13 @@
 # Aura Alteration
 
-**Circle:** 6
-**Category:** Power
-**Discipline:** Telepathy
-**Display:** Material
-**Map Range:** Medium (100 feet + 10 feet per manifester level)
-**Target:** One willing creature
-**Duration:** 10 minutes per manifester level or instantaneous; see text
-**Power Points:** 11
+- **Circle:** 6
+- **Category:** Power
+- **Discipline:** Telepathy
+- **Display:** Material
+- **Map Range:** Medium (100 feet + 10 feet per manifester level)
+- **Target:** One willing creature
+- **Duration:** 10 minutes per manifester level or instantaneous; see text
+- **Power Points:** 11
 
 You can use this power in one of two ways: to disguise the subject’s aura (alignment) and experience level, or to remove a compulsion or charm effect from the subject.
 

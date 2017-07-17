@@ -1,14 +1,14 @@
 # Astral Caravan
 
-**Circle:** 4
-**Category:** Nomad
-**Discipline:** Psychoportation
-**Display:** None
-**Manifesting Time:** 1 hour
-**Map Range:** Personal
-**Targets:** You and touched willing creatures
-**Duration:** See text
-**Power Points:** 5
+- **Circle:** 4
+- **Category:** Nomad
+- **Discipline:** Psychoportation
+- **Display:** None
+- **Manifesting Time:** 1 hour
+- **Map Range:** Personal
+- **Targets:** You and touched willing creatures
+- **Duration:** See text
+- **Power Points:** 5
 
 You lead a caravan into the Astral Plane, leaving the Material Plane behind. Since the Astral Plane touches upon other planes, you can travel astrally to any of these other planes as you wish, but only if you know your way (see below).
 

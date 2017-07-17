@@ -1,16 +1,16 @@
 # Aura Sight
 
-**Circle:** 4
-**Category:** Power
-**Discipline:** Clairsentience
-**Display:** Visual
-**Map Range:** 60 feet
-**Map Area:** Cone-shaped emanation centered on you
-**Map-less Range:** Line of sight within throwing range
-**Duration:** Concentration, up to 10 minutes per manifester level
-**Saving Throw:** None
-**Power Resistance:** No
-**Power Points:** 7
+- **Circle:** 4
+- **Category:** Power
+- **Discipline:** Clairsentience
+- **Display:** Visual
+- **Map Range:** 60 feet
+- **Map Area:** Cone-shaped emanation centered on you
+- **Map-less Range:** Line of sight within throwing range
+- **Duration:** Concentration, up to 10 minutes per manifester level
+- **Saving Throw:** None
+- **Power Resistance:** No
+- **Power Points:** 7
 
 You discern auras. Auras are invisible to the naked eye, but to a psionic viewer manifesting this power they appear as glowing halos or envelopes of colored light that surround all objects. The color of each aura reveals information to the psionic character. The amount of information revealed depends on how long you study a
 particular area.
