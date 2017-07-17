@@ -1,0 +1,50 @@
+[b]Name[/b]
+[b]Race[/b]
+[b]Snappy one-word name for my "class"[/b]
+Alignment (or "Non-Aligned")
+
+Experience Level: 1
+XP spent/total: 0 / 0
+
+HP: 0 / 0
+start at Constitution + 1d6
+
+[b]=== Stats ===[/b]
+
+AC: 10
+BtH: +0
+Damage: 0
+
+STR: 
+DEX: 
+CON: 
+INT: 
+WIS: 
+CHA: 
+
+[b]=== Background & Traits ===[/b]
+
+Languages: Common, ...
+
+[b]=== Skills ===[/b]
+
+Craft (INT) (specify) - Level 1
+Knowledge (INT) (specify) - Level 1
+Perform (CHA) (specify) - Level 1
+Profession (WIS) (specify) - Level 1
+6 skills of choice at Level 1
+
+[b]=== Abilities / Spells ===[/b]
+
+Eat Dirt: ...
+
+[b]=== Equipment ===[/b]
+
+Gold: 200.00
+
+Loans:
+- 250.00 gold owed to Adventure Capital
+
+[b]=== Will ===[/b]
+
+Leave it to...

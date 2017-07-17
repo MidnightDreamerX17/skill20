@@ -1,5 +1,9 @@
 # Player Characters
 
+[Character sheet template for forums](/CharsheetForForums.txt)
+
+[Character sheet template for MarkDown](/CharsheetForMarkdown.txt)
+
 ## Character Creation Procedure
 
 1. Choose a [race](/Races).
