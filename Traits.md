@@ -10,7 +10,7 @@
 
 **Magic Domain** - The character is strongly aligned with a specific domain of magic, causing the domain spells to be considered a lower magic circle. For example, having the Healing Domain will cause *Cure Light Wounds* to be considered a spell of the 0th circle.
 
-**Magic School** - The character is strongly aligned with one specific school of magic, causing that school's spells to be considered a lower magic circle. For example, having the Evocation Magic School will cause *Magic Missile* to be considered a spell of the 0th circle.
+**Magic School** - The character is strongly aligned with one specific school of magic, causing that school's spells to be considered a lower magic circle. For example, having the Evocation Magic School will cause *Magic Missile* to be considered a spell of the 0th circle. "Universal" is not a valid school for this trait.
 
 **Natural Armor 2** - The character's Armor Class is improved by 2. This trait cannot be taken if the character's race already provides Natural Armor.
 
@@ -22,7 +22,7 @@
 
 **Powerful Family** - The character has a powerful family with many servants and a fortified home. The family home is big and secure enough to accommodate the whole party. The character can attempt to beg for money from their family as well, although that is better covered by the Wealthy Family trait.
 
-**Psionic Category** - The character is strongly aligned with a specific category of psionics, causing that category's powers to be considered a lower power circle. For example, having the Clairsentience category will cause *Aura Sight* to become a 3rd-circle power.
+**Psionic Category** - The character is strongly aligned with a specific category of psionics, causing that category's powers to be considered a lower power circle. For example, having the Clairsentience category will cause *Aura Sight* to become a 3rd-circle power. The "Power" category cannot be taken with this trait.
 
 **Psionic Discipline** - The character is strongly aligned with a specific discipline of psionics, causing that discipline's powers to be considered a lower power circle. For example, having the Warrior discipline will cause *Body Adjustment* to become a 3rd-circle power.
 
@@ -88,9 +88,9 @@
 
 **Opposed Magic School** - Spells from this school are considered to be of a higher spell circle. For example, being opposed to the Evocation school will result in *Magic Missile* being a spell of the 2nd circle. A character must start with the ability to memorize and cast 1st-circle spells in order to have an Opposed Magic School.
 
-**Opposed Psionic Category** - Powers from this category are considered to be of a higher power circle. For example, being opposed to the ... A character must start with the ability to use 1st-circle powers and have psionic power points in order to have an Opposed Psionic Category.
+**Opposed Psionic Category** - Powers from this category are considered to be of a higher power circle. For example, being opposed to the Clairsentience category will cause *Aura Sight* to become a 5th-circle power. A character must start with the ability to use 1st-circle powers and have psionic power points in order to have an Opposed Psionic Category.
 
-**Opposed Psionic Discipline** - Powers from this discipline are considered to be of a higher power circle. For example, being opposed to the ... A character must start with the ability to use 1st-circle powers and have psionic power points in order to have an Opposed Psionic Discipline.
+**Opposed Psionic Discipline** - Powers from this discipline are considered to be of a higher power circle. For example, being opposed to the Warrior discipline will cause *Body Adjustment* to become a 5th-circle power. A character must start with the ability to use 1st-circle powers and have psionic power points in order to have an Opposed Psionic Discipline.
 
 **Racist** - The character has a penalty of -10 to all interactions with the specified race. It must be a civilized and common race. The character's Intelligence and Wisdom must be 9 or lower.
 

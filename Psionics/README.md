@@ -1,5 +1,9 @@
 # Psionics
 
+Psionic Power lists by [Circle](/Psionics/ListByCircle.md)
+
+Psionic Power lists by [Alphabet](/Psionics/ListByName.md)
+
 Psionic Power lists by [Discipline](/Psionics/Disciplines.md)
 
 Psionic Power lists by [Category](/Psionics/Categories.md)
@@ -18,7 +22,7 @@ The manifester chooses one of their known powers. Manifestation is mutually excl
 
 Any amount of damage during the manifestation will force a skill check to maintain concentration. The difficulty is 10 + the Experience Level of the one who did the damage to the manifester. On a success, the power is not interrupted. On a failure, the power is interrupted, but the psionic power points are not expended.
 
-## Converting Powers to Map-less Combat
+## Converting Powers from d20 to Skill20
 
 See the [Magic](/Magic) section for Converting Spells. In addition, the following conversions are suggested:
 
