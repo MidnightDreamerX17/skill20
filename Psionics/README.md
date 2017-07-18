@@ -18,7 +18,9 @@ After eight hours of rest, all Psionic Power Points are regained. Interruptions 
 
 ## Manifesting Powers
 
-The manifester chooses one of their known powers. Manifestation is mutually exclusive with all other actions. The manifestation takes a full round, and takes effect immediately before the manifester's next turn. Once the manifestation is finished, the manifester uses up all the Psionic Power Points required for the power. For example, manifesting Adapt Body uses up 9 Psionic Power Points.
+The manifester chooses one of their known powers. Manifestation is mutually exclusive with all other actions. The manifestation takes a full round, and takes effect immediately before the manifester's next turn. Once the manifestation is finished, the manifester uses up all the Psionic Power Points required for the power. For example, manifesting *Adapt Body* uses up 9 Psionic Power Points.
+
+The maximum amount of Psionic Power Points that can be spent on one power - combining base cost and any *augment* options - is equal to the manifester level. For example, at a manifester level of 10 using a power with a base cost of 5, no more than 5 power points can be spent to *augment* the power.
 
 Any amount of damage during the manifestation will force a skill check to maintain concentration. The difficulty is 10 + the Experience Level of the one who did the damage to the manifester. On a success, the power is not interrupted. On a failure, the power is interrupted, but the psionic power points are not expended.
 
