@@ -19,3 +19,16 @@
 
 ## B
 
+- [Baleful Teleport](/Psionics/B/BalefulTeleport.md)
+- [Banishment, Psionic](/Psionics/B/BanishmentPsionic.md)
+- [Bend Reality](/Psionics/B/BendReality.md)
+- [Bestow Power](/Psionics/B/BestowPower.md)
+- [Biofeedback](/Psionics/B/Biofeedback.md)
+- [Bite of the Wolf](/Psionics/B/BiteOfTheWolf.md)
+- [Body Adjustment](/Psionics/B/BodyAdjustment.md)
+- [Body Equilibrium](/Psionics/B/BodyEquilibrium.md)
+- [Body Purification](/Psionics/B/BodyPurification.md)
+- [Bolt](/Psionics/B/Bolt.md)
+- [Brain Lock](/Psionics/B/BrainLock.md)
+- [Breath of the Black Dragon](/Psionics/B/BreathOfTheBlackDragon.md)
+- [Burst](/Psionics/B/Burst.md)

@@ -18,6 +18,9 @@ The psionic categories are as follows:
 ## Nomad
 
 - [Astral Caravan](/Psionics/A/AstralCaravan.md)
+- [Baleful Teleport](/Psionics/B/BalefulTeleport.md)
+- [Banishment, Psionic](/Psionics/B/BanishmentPsionic.md)
+- [Burst](/Psionics/B/Burst.md)
 
 ## Power
 
@@ -27,12 +30,21 @@ The psionic categories are as follows:
 - [Attraction](/Psionics/A/Attraction.md)
 - [Aura Alteration](/Psionics/A/AuralAlteration.md)
 - [Aura Sight](/Psionics/A/AuraSight.md)
+- [Bend Reality](/Psionics/B/BendReality.md)
+- [Bestow Power](/Psionics/B/BestowPower.md)
+- [Bolt](/Psionics/B/Bolt.md)
 
 ## Warrior
 
 - [Adapt Body](/Psionics/A/AdaptBody.md)
 - [Animal Affinity](/Psionics/A/AnimalAffinity.md)
 - [Astral Traveler](/Psionics/A/AstralTraveler.md)
+- [Biofeedback](/Psionics/B/Biofeedback.md)
+- [Bite of the Wolf](/Psionics/B/BiteOfTheWolf.md)
+- [Body Adjustment](/Psionics/B/BodyAdjustment.md)
+- [Body Equilibrium](/Psionics/B/BodyEquilibrium.md)
+- [Body Purification](/Psionics/B/BodyPurification.md)
+- [Breath of the Black Dragon](/Psionics/B/BreathOfTheBlackDragon.md)
 
 ## Seer
 
@@ -46,3 +58,4 @@ The psionic categories are as follows:
 ## Telepath
 
 - [Aversion](/Psionics/A/Aversion.md)
+- [Brain Lock](/Psionics/B/BrainLock.md)
