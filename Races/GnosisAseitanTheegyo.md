@@ -14,7 +14,7 @@ Know Your Family: Allow nothing to hinder the survival of the Gnosa as a whole.
 
 Know Your Freedom: Do not allow anyone else to ever enslave them again. A Gnosa must also avoid being personally enslaved in any way. Obligations and duties to anything other than their own race are distressing as well, e.g. owing your life to someone or making a promise to a non-Gnosa.
 
-Know Your Magic Resistance: Gnosa have an inherent Spell Resistance number equal to their Experience Level. Furthermore, in order for a Gnosa to use or equip a magic item, they must make a check to beat their own Spell Resistance + 10. On a failure, the Gnosa do not gain the magical benefits of that item, instead treating it as mundane gear. The Gnosa may choose to use a magic skill as a penalty to their Spell Resistance for 24 hours at a time.
+Know Your Magic Resistance: Gnosa have an inherent Spell Resistance number equal to their Experience Level. Furthermore, in order for a Gnosa to use or equip a magic item, they must make a check to beat their own Spell Resistance + 10. On a failure, the Gnosa do not gain the magical benefits of that item, instead treating it as mundane gear. The Gnosa may choose to use a magic power skill as a penalty to their Spell Resistance for 24 hours at a time.
 
 ## Gnosa History
 

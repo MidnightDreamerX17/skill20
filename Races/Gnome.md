@@ -7,7 +7,7 @@
 - -2 Constitution
 - +2 Intelligence
 
-Collective Gnomish Consciousness - Gnomes can maintain physical contact in order to share spell slots, psionic power points, and chi power points.
+Collective Gnomish Consciousness - Gnomes can maintain physical contact in order to share spell energies, psionic power points, and chi power points.
 
 Innate Magical Playfulness - Gnomes can memorize any Illusionist spell of the 0th circle into any memorization slot, without needing a spellbook.
 
