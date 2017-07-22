@@ -1,0 +1,104 @@
+# Miyu Ashibi
+
+**Felinoid**
+
+**Self-Titled: Rogue**
+
+Non-Aligned
+
+Experience Level: 1
+
+XP spent/total: 1000 / 1000
+
+HP: 14 / 14
+
+## Stats
+
+AC: 14
+
+- +1 skill ability, +3 attribute
+
+Melee BtH: +1
+
+- +1 skill
+
+Melee Damage: 1d6+1
+
+- +1 skill ability
+
+Ranged BtH: +4
+
+- +1 skill, +3 attribute
+
+Ranged Damage: 1d4+3
+
+- +3 attribute
+
+STR: 10
+DEX: 16 (+3)
+CON: 10
+INT: 12 (+1)
+WIS: 8 (-1)
+CHA: 10
+
+## Background & Traits
+
+Languages: Common, Cant
+
+Advantage: Streetwise
+
+Disadvantage: Natural Equipment Only
+
+## Skills
+
+Melee Fighting (STR)
+Athletics (DEX)
+Locks (DEX)
+Ranged Fighting (DEX)
+Stealth (DEX)
+Armor Training (CON)
+Chi Body (CON)
+Chi Fist (CON)
+Traps (INT)
+Persuasion (CHA)
+
+## Abilities / Spells
+
+Skill: Iron Body level 1
+
+Skill: Iron Fist level 1
+
+## Equipment
+
+Maximum Armor Weight: 1
+
+- +1 skill
+
+Gold: 55.00
+
+Loans:
+
+- 250.00 gold owed to Adventure Capital
+
+Kunai x 100 - 1d4
+Thief Tools, Masterwork
+
+Backpack
+Bedroll
+Blanket, Winter
+Firewood, 7 days
+Fishhook
+Flint and Steel
+Lantern, Bullseye
+Mirror, Small Steel
+Oil, 1 pint
+Rations, Trail, for 7 days
+Rope, Hemp, 50 feet
+Soap, 2 pounds
+Tent
+Waterskin
+Whetstone
+
+## Will
+
+Leave it all to the orphanage that the character grew up in.

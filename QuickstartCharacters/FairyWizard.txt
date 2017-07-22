@@ -1,0 +1,111 @@
+# Loumiri Cham
+
+**Fairy**
+
+**Self-Titled: Wizard**
+
+Chaotic Good
+
+Experience Level: 1
+
+XP spent/total: 1000 / 1000
+
+HP: 11 / 11
+
+## Stats
+
+AC: 12
+
+- +2 attribute
+
+Ranged BtH: +3
+
+- +1 skill, +2 attribute
+
+Ranged Damage: 1d8+2
+
+- +2 attribute
+
+STR: 6 (-2)
+DEX: 14 (+2)
+CON: 8 (-1)
+INT: 18 (+4)
+WIS: 12 (+1)
+CHA: 12 (+1)
+
+## Background & Traits
+
+Languages: Common, Ancient Common, Precursor, Sylvian, Treant
+
+Guild Ranks: Chaos Association 2nd rank, Good Association 2nd rank
+
+Advantage: Favored Enemy Category: Humanoids
+
+Disadvantage: Claustrophobia
+
+Quirk: Aligned: Chaotic Good
+
+## Skills
+
+Craft (INT) (Magic Focuses) - Level 1
+Knowledge (INT) (Arcana) - Level 1
+Perform (CHA) (Dance) - Level 1
+Profession (WIS) (Librarian) - Level 1
+
+Ranged Fighting (DEX) - Level 1
+Alchemy (INT) - Level 1
+Metamagic (INT) - Level 1
+Wizard Potential (INT) - Level 1
+Wizard Power (INT) - Level 1
+Music (CHA) - Level 1
+
+## Abilities / Spells
+
+Racial: Magic Dust: Own body dust provides material spell components
+
+Skill: Magic Song: 1 / day
+
+Wizard Memorized:
+
+- 0th: Daze, Detect Magic, Light, Mage Hand, Read Magic
+- 1st: Charm Person, Identify, Magic Missile, Summon Monster I
+
+Wizard Spell Energies:
+
+- 0th: 3 / 3
+- 1st: 2 / 2
+
+## Equipment
+
+Gold: 60.00
+
+Loans:
+
+- 250.00 gold owed to Adventure Capital
+
+Longbow, Composite - 1d10
+
+Wizard Spellbook containing:
+
+- 0th: Daze, Detect Magic, Light, Mage Hand, Read Magic
+- 1st: Charm Person, Identify, Magic Missile, Summon Monster I
+
+Backpack
+Bedroll
+Blanket, Winter
+Firewood, 7 days
+Fishhook
+Flint and Steel
+Lantern, Bullseye
+Mirror, Small Steel
+Oil, 1 pint
+Rations, Trail, for 7 days
+Rope, Hemp, 50 feet
+Soap, 2 pounds
+Tent
+Waterskin
+Whetstone
+
+## Will
+
+Leave it all to the next good-hearted wizard.

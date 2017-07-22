@@ -1,0 +1,111 @@
+# Dukk Etoh
+
+**Draconian**
+
+**Self-Titled: Cleric**
+
+Lawful Good
+
+Experience Level: 1
+
+XP spent/total: 1000 / 1000
+
+HP: 18 / 18
+
+## Stats
+
+AC: 16
+
+- +2 racial, +1 attribute, +3 shield
+
+BtH: +1
+
+- +1 skill
+
+Damage: 1d8
+
+STR: 10
+DEX: 12 (+1)
+CON: 14 (+2)
+INT: 12 (+1)
+WIS: 16 (+3)
+CHA: 10
+
+## Background & Traits
+
+Mother was a Golden Dragon.
+
+Languages: Common, Draconic
+
+Guild Ranks: Law Association 2nd rank, Good Association 2nd rank
+
+Advantage: Patron God of Lawful Good Healing
+
+Disadvantage: Vow of Poverty
+
+Quirk: Aligned: Lawful Good
+
+## Skills
+
+Craft (INT) (Magic Writing) - Level 1
+Knowledge (INT) (Religion) - Level 1
+Perform (CHA) (Sing) - Level 1
+Profession (WIS) (Priest) - Level 1
+
+Melee Fighting (STR) - Level 1
+Ranged Fighting (DEX) - Level 1
+Armor Training (CON) - Level 1
+Cleric Potential (WIS) - Level 1
+Cleric Power (WIS) - Level 1
+True Faith (CHA) - Level 1
+
+## Abilities / Spells
+
+Skill: Detect Evil
+
+Skill: Lay on Hands: 1 / day
+
+Cleric Memorized:
+
+- 0th: Create Water, Cure Minor Wounds, Detect Magic, Detect Poison, Purify Food and Drink
+- 1st: Bless Water, Cure Light Wounds, Detect Evil, Shield of Faith
+
+Cleric Spell Energies:
+
+- 0th: 3 / 3
+- 1st: 2 / 2
+
+## Equipment
+
+Maximum Armor Weight: 3
+
+- +1 skill, +2 attribute
+
+Gold: 108.00
+
+Loans:
+
+- 250.00 gold owed to Adventure Capital
+
+Mace, Heavy - 1d8
+Shield, Great Metal - AC 3
+
+Backpack
+Bedroll
+Blanket, Winter
+Firewood, 7 days
+Fishhook
+Flint and Steel
+Lantern, Bullseye
+Mirror, Small Steel
+Oil, 1 pint
+Rations, Trail, for 7 days
+Rope, Hemp, 50 feet
+Soap, 2 pounds
+Tent
+Waterskin
+Whetstone
+
+## Will
+
+Leave it all to the next good cleric.

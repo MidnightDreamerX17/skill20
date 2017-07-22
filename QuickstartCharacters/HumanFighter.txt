@@ -1,0 +1,106 @@
+# Maxim Ysadol
+
+**Human**
+
+**Self-Titled: Fighter**
+
+Neutral Good
+
+Experience Level: 1
+
+XP spent/total: 1000 / 1000
+
+HP: 18 / 18
+
+## Stats
+
+AC: 17
+
+- +1 attribute, +4 armor, +2 shield
+
+BtH: +4
+
+- +1 skill, +3 attribute
+
+Damage: 1d8+3
+
+- +3 attribute
+
+STR: 16 (+3)
+DEX: 12 (+1)
+CON: 14 (+2)
+INT: 8 (-1)
+WIS: 10
+CHA: 10
+
+## Background & Traits
+
+Short red hair, and gray eyes.
+
+Languages: Common
+
+Human Virtue: Chastity
+
+Human Vice: Sloth
+
+Guild Ranks: Good Association 2nd rank, Neutral Association 2nd rank
+
+Advantage: Natural Insulation 5
+
+Disadvantage: Enemy God of Lawful Evil
+
+Quirk: Aligned: Neutral Good
+
+## Skills
+
+Craft (INT) (Weapons) - Level 1
+Knowledge (INT) (Dungeoneering) - Level 1
+Perform (CHA) (Martial Arts Kata) - Level 1
+Profession (WIS) (Soldier) - Level 1
+
+Melee Fighting (STR) - Level 1
+Athletics (DEX) - Level 1
+Ranged Fighting (DEX) - Level 1
+Armor Training (CON) - Level 1
+Animals (WIS) - Level 1
+Survival (WIS) - Level 1
+
+## Abilities / Spells
+
+No special abilities
+
+## Equipment
+
+Max Armor Weight: 6
+
+- +1 skill, +3 attribute, +2 attribute
+
+Gold: 25.00
+
+Loans:
+
+- 250.00 gold owed to Adventure Capital
+
+Longsword - 1d8
+Chain Shirt - AC 4
+Shield, Heavy Metal - AC 2
+
+Backpack
+Bedroll
+Blanket, Winter
+Firewood, 7 days
+Fishhook
+Flint and Steel
+Lantern, Bullseye
+Mirror, Small Steel
+Oil, 1 pint
+Rations, Trail, for 7 days
+Rope, Hemp, 50 feet
+Soap, 2 pounds
+Tent
+Waterskin
+Whetstone
+
+## Will
+
+Leave it all to the next good front-liner.

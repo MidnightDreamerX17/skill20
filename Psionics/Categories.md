@@ -13,6 +13,8 @@ The psionic categories are as follows:
 
 ## Egoist
 
+- [Chameleon](/Psionics/C/Chameleon.md)
+
 ## Kineticist
 
 ## Nomad
@@ -22,7 +24,7 @@ The psionic categories are as follows:
 - [Banishment, Psionic](/Psionics/B/BanishmentPsionic.md)
 - [Burst](/Psionics/B/Burst.md)
 
-## Power
+## Power (cannot be specialized or opposed)
 
 - [Affinity Field](/Psionics/A/AffinityField.md)
 - [Apopsi](/Psionics/A/Apopsi.md)
@@ -33,6 +35,10 @@ The psionic categories are as follows:
 - [Bend Reality](/Psionics/B/BendReality.md)
 - [Bestow Power](/Psionics/B/BestowPower.md)
 - [Bolt](/Psionics/B/Bolt.md)
+- [Call to Mind](/Psionics/C/CallToMind.md)
+- [Cloud Mind](/Psionics/C/CloudMind.md)
+- [Cloud Mind, Mass](/Psionics/C/CloudMindMass.md)
+- [Conceal Thoughts](/Psionics/C/ConcealThoughts.md)
 
 ## Warrior
 
@@ -45,10 +51,19 @@ The psionic categories are as follows:
 - [Body Equilibrium](/Psionics/B/BodyEquilibrium.md)
 - [Body Purification](/Psionics/B/BodyPurification.md)
 - [Breath of the Black Dragon](/Psionics/B/BreathOfTheBlackDragon.md)
+- [Call Weaponry](/Psionics/C/CallWeaponry.md)
+- [Catapsi](/Psionics/C/Catapsi.md)
+- [Catfall](/Psionics/C/Catfall.md)
+- [Claw of Energy](/Psionics/C/ClawOfEnergy.md)
+- [Claws of the Beast](/Psionics/C/ClawsOfTheBeast)
+- [Claws of the Vampire](/Psionics/C/ClawsOfTheVampire.md)
+- [Compression](/Psionics/C/Compression.md)
 
 ## Seer
 
 - [Anchored Navigation](/Psionics/A/AnchoredNavigation.md)
+- [Clairtangent Hand](/Psionics/C/ClairtangentHand.md)
+- [Clairvoyant Sense](/Psionics/C/ClairvoyantSense)
 
 ## Shaper
 
@@ -59,3 +74,4 @@ The psionic categories are as follows:
 
 - [Aversion](/Psionics/A/Aversion.md)
 - [Brain Lock](/Psionics/B/BrainLock.md)
+- [Charm, Psionic](/Psionics/C/CharmPsionic.md)

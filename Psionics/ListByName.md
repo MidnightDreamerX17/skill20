@@ -32,3 +32,21 @@
 - [Brain Lock](/Psionics/B/BrainLock.md)
 - [Breath of the Black Dragon](/Psionics/B/BreathOfTheBlackDragon.md)
 - [Burst](/Psionics/B/Burst.md)
+
+## C
+
+- [Call to Mind](/Psionics/C/CallToMind.md)
+- [Call Weaponry](/Psionics/C/CallWeaponry.md)
+- [Catapsi](/Psionics/C/Catapsi.md)
+- [Catfall](/Psionics/C/Catfall.md)
+- [Chameleon](/Psionics/C/Chameleon.md)
+- [Charm, Psionic](/Psionics/C/CharmPsionic.md)
+- [Clairtangent Hand](/Psionics/C/ClairtangentHand.md)
+- [Clairvoyant Sense](/Psionics/C/ClairvoyantSense)
+- [Claw of Energy](/Psionics/C/ClawOfEnergy.md)
+- [Claws of the Beast](/Psionics/C/ClawsOfTheBeast)
+- [Claws of the Vampire](/Psionics/C/ClawsOfTheVampire.md)
+- [Cloud Mind](/Psionics/C/CloudMind.md)
+- [Cloud Mind, Mass](/Psionics/C/CloudMindMass.md)
+- [Compression](/Psionics/C/Compression.md)
+- [Conceal Thoughts](/Psionics/C/ConcealThoughts.md)
