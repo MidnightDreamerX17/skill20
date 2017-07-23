@@ -16,16 +16,29 @@ The psionic disciplines are as follows:
 - [Bend Reality](/Psionics/B/BendReality.md)
 - [Clairtangent Hand](/Psionics/C/ClairtangentHand.md)
 - [Clairvoyant Sense](/Psionics/C/ClairvoyantSense)
+- [Contingency, Psionic](/Psionics/C/ContingencyPsionic.md)
 
 ## Metacreativity
 
 - [Astral Construct](/Psionics/A/AstralConstruct.md)
 - [Astral Seed](/Psionics/A/AstralSeed.md)
 - [Bolt](/Psionics/B/Bolt.md)
+- [Concealing Amorpha](/Psionics/C/ConcealingAmorpha.md)
+- [Concealing Amorpha, Greater](/Psionics/C/ConcealingAmorphaGreater.md)
+- [Create Sound](/Psionics/C/CreateSound.md)
+- [Crystal Shard](/Psionics/C/CrystalShard.md)
+- [Crystallize](/Psionics/C/Crystallize.md)
 
 ## Psychokinesis
 
 - [Claw of Energy](/Psionics/C/ClawOfEnergy.md)
+- [Concussion Blast](/Psionics/C/ConcussionBlast.md)
+- [Control Air](/Psionics/C/ControlAir.md)
+- [Control Body](/Psionics/C/ControlBody.md)
+- [Control Flames](/Psionics/C/ControlFlames.md)
+- [Control Light](/Psionics/C/ControlLight.md)
+- [Control Object](/Psionics/C/ControlObject.md)
+- [Control Sound](/Psionics/C/ControlSound.md)
 
 ## Psychometabolism
 
@@ -68,3 +81,7 @@ The psionic disciplines are as follows:
 - [Cloud Mind](/Psionics/C/CloudMind.md)
 - [Cloud Mind, Mass](/Psionics/C/CloudMindMass.md)
 - [Conceal Thoughts](/Psionics/C/ConcealThoughts.md)
+- [Co-Opt Concentration](/Psionics/C/CoOptConcentration.md)
+- [Correspond](/Psionics/C/Correspond.md)
+- [Crisis Of Breath](/Psionics/C/CrisisOfBreath.md)
+- [Crisis of Life](/Psionics/C/CrisisOfLife.md)

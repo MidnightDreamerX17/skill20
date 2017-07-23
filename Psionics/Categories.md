@@ -17,6 +17,10 @@ The psionic categories are as follows:
 
 ## Kineticist
 
+- [Control Air](/Psionics/C/ControlAir.md)
+- [Control Body](/Psionics/C/ControlBody.md)
+- [Control Object](/Psionics/C/ControlObject.md)
+
 ## Nomad
 
 - [Astral Caravan](/Psionics/A/AstralCaravan.md)
@@ -39,6 +43,16 @@ The psionic categories are as follows:
 - [Cloud Mind](/Psionics/C/CloudMind.md)
 - [Cloud Mind, Mass](/Psionics/C/CloudMindMass.md)
 - [Conceal Thoughts](/Psionics/C/ConcealThoughts.md)
+- [Concealing Amorpha](/Psionics/C/ConcealingAmorpha.md)
+- [Concussion Blast](/Psionics/C/ConcussionBlast.md)
+- [Contingency, Psionic](/Psionics/C/ContingencyPsionic.md)
+- [Control Flames](/Psionics/C/ControlFlames.md)
+- [Control Light](/Psionics/C/ControlLight.md)
+- [Control Sound](/Psionics/C/ControlSound.md)
+- [Co-Opt Concentration](/Psionics/C/CoOptConcentration.md)
+- [Correspond](/Psionics/C/Correspond.md)
+- [Create Sound](/Psionics/C/CreateSound.md)
+- [Crystal Shard](/Psionics/C/CrystalShard.md)
 
 ## Warrior
 
@@ -69,9 +83,13 @@ The psionic categories are as follows:
 
 - [Astral Construct](/Psionics/A/AstralConstruct.md)
 - [Astral Seed](/Psionics/A/AstralSeed.md)
+- [Concealing Amorpha, Greater](/Psionics/C/ConcealingAmorphaGreater.md)
+- [Crystallize](/Psionics/C/Crystallize.md)
 
 ## Telepath
 
 - [Aversion](/Psionics/A/Aversion.md)
 - [Brain Lock](/Psionics/B/BrainLock.md)
 - [Charm, Psionic](/Psionics/C/CharmPsionic.md)
+- [Crisis Of Breath](/Psionics/C/CrisisOfBreath.md)
+- [Crisis of Life](/Psionics/C/CrisisOfLife.md)
