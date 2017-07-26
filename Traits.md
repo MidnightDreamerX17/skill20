@@ -22,9 +22,9 @@
 
 **Powerful Family** - The character has a powerful family with many servants and a fortified home. The family home is big and secure enough to accommodate the whole party. The character can attempt to beg for money from their family as well, although that is better covered by the Wealthy Family trait.
 
-**Psionic Category** - The character is strongly aligned with a specific category of psionics, causing that category's powers to be considered a lower power circle. For example, having the Clairsentience category will cause *Aura Sight* to become a 3rd-circle power. The "Power" category cannot be taken with this trait.
+**Psionic Category** - The character is strongly aligned with a specific category of psionics, causing that category's powers to be considered a lower power circle.  For example, having the Warrior discipline will cause *Body Adjustment* to become a 3rd-circle power. The "Power" category cannot be taken with this trait.
 
-**Psionic Discipline** - The character is strongly aligned with a specific discipline of psionics, causing that discipline's powers to be considered a lower power circle. For example, having the Warrior discipline will cause *Body Adjustment* to become a 3rd-circle power.
+**Psionic Discipline** - The character is strongly aligned with a specific discipline of psionics, causing that discipline's powers to be considered a lower power circle. For example, having the Clairsentience discipline will cause *Aura Sight* to become a 3rd-circle power.
 
 **Skilled** - The character starts with 1 additional skill. It cannot be an Advanced skill. For starting with additional Craft, Knowledge, Perform, or Profession skills, the advantage of Work Experience is more efficient.
 
@@ -54,7 +54,7 @@
 
 **Arachnophobia** - The character is afraid of spiders and has a penalty of -2 to all checks relating to them.
 
-**Bad Credit Rating** - The character's starting wealth is changed to only 70 gold loaned from Adventure Capital, with 40 gold already spent on an adventuring kit. Furthermore, the character will be unable to get financing of any kind, except from loan sharks and other illegal channels.
+**Bad Credit Rating** - The character's starting wealth is changed to only 70 gold loaned from Adventure Capital, with 40 gold already spent on an adventuring kit. Furthermore, the character will be unable to get financing of any kind, except from loan sharks and other illegal channels. Clearing up the credit rating will take a lot more than just showing off how much wealth the character has gotten through adventuring. It will require all sorts of paperwork, difficult interactions with banks, etc.
 
 **Brand of the Convict** - The character is not allowed to have any titles, own any land, or participate in any government. Furthermore, the character has a penalty of -10 to all interactions with guards, inquisitors, knights, the Law Association, and other sorts.
 
@@ -74,6 +74,8 @@
 
 **Low Attribute** - One of the character's attributes is decreased by 2.
 
+**Narcissistic Personality Disorder** - The character constantly suffers a penalty of -2 to all actions while other people are not doing exactly what the character says.
+
 **Natural Equipment Only** - The character must start with Melee Fighting and Armor Training skills in order to have this disadvantage. The character cannot use metal equipment unless it was made through one of the following methods:
 
 - The equipment was made from wood, then turned into ironwood or other metal material achieved by Druid Magic (market price * 5 before other modifiers)
@@ -88,9 +90,9 @@
 
 **Opposed Magic School** - Spells from this school are considered to be of a higher spell circle. For example, being opposed to the Evocation school will result in *Magic Missile* being a spell of the 2nd circle. A character must start with the ability to memorize and cast 1st-circle spells in order to have an Opposed Magic School.
 
-**Opposed Psionic Category** - Powers from this category are considered to be of a higher power circle. For example, being opposed to the Clairsentience category will cause *Aura Sight* to become a 5th-circle power. A character must start with the ability to use 1st-circle powers and have psionic power points in order to have an Opposed Psionic Category.
+**Opposed Psionic Category** - Powers from this category are considered to be of a higher power circle. For example, being opposed to the Warrior category will cause *Body Adjustment* to become a 5th-circle power. A character must start with the ability to use 1st-circle powers and have psionic power points in order to have an Opposed Psionic Category. The "Power" category cannot be opposed.
 
-**Opposed Psionic Discipline** - Powers from this discipline are considered to be of a higher power circle. For example, being opposed to the Warrior discipline will cause *Body Adjustment* to become a 5th-circle power. A character must start with the ability to use 1st-circle powers and have psionic power points in order to have an Opposed Psionic Discipline.
+**Opposed Psionic Discipline** - Powers from this discipline are considered to be of a higher power circle. For example, being opposed to the Clairsentience discipline will cause *Aura Sight* to become a 5th-circle power. A character must start with the ability to use 1st-circle powers and have psionic power points in order to have an Opposed Psionic Discipline.
 
 **Racist** - The character has a penalty of -10 to all interactions with the specified race. It must be a civilized and common race. The character's Intelligence and Wisdom must be 9 or lower.
 

@@ -19,9 +19,9 @@ Magic is a specific expression of elemental power and of life energy. In this wa
 
 Memorization slots and spell energies are separate for each type of magic. For example, Cleric spells cannot be memorized into Wizard memorization slots, nor can Cleric spells use Wizard spell energies for spellcasting. A character with all four magic skill types would have quite a bit of bookkeeping to do.
 
-The number of memorization slots are always 2 higher than the number of spell energies for each circle. For example, if a character has the Wizard Potential and Wizard Power skills, and the *Spell Energies Per Day* table says that the character has 2 wizard spell energies of the 0th circle, then they have 4 wizard memorization slots for the 0th circle.
+The number of memorization slots are always 2 higher than the number of spell energies for each circle. For example, if a character has the Wizard Potential (INT) and Wizard Power (INT) skills, and the *Spell Energies Per Day* table says that the character has 2 wizard spell energies of the 0th circle, then they have 4 wizard memorization slots for the 0th circle.
 
-After eight hours of rest, all spell energies are regained, and the memorization slots can be changed once. It must be noted that *being woken up in the middle of the night* cancels the refreshment of spell energies. The Sorcery skill grants the possibility of further changes to memorized spells.
+After eight hours of rest, all spell energies are regained, and the memorization slots can be changed once. It must be noted that *being woken up in the middle of the night* cancels the refreshment of spell energies. The Sorcery (CHA) skill grants the possibility of further changes to memorized spells.
 
 Cleric and Druid spells must be memorized by praying to gods, nature, planes, elements, and the like. It is possible for the gods to disallow characters from memorizing certain spells into their Cleric and Druid memorization slots.
 
@@ -80,7 +80,7 @@ The common market value per use of an item is as follows:
 
 **Spell Focus** *(Rod / Staff / Wand)* - The user must have the magic potential skill that corresponds to the spell focus, but a skill level of 1 is sufficient to utilize the full power. The caster level of the spell effect is equal to the caster level of the one who crafted the spell focus. If the user has the spell memorized, then they can spend spell energies to add charges to the spell focus at a rate of one per day. The crafting cost for one use of the spell must also be paid to add the charge. Once all charges in the spell focus are used up, the spell focus is vaporized.
 
-**Scroll** - The reader must make a skill check to read the scroll with a difficulty of 12 + (Spell Circle * 2). The caster level is the minimum required to be able to cast the spell normally, so for example, a Scroll of Identify has a caster level of 1. Once the spell is cast, the scroll is vaporized. If the skill check fails or if concentration is broken, the scroll is preserved.
+**Scroll** - The reader must make a skill check to read the scroll with a difficulty of 12 + (Spell Circle * 2). The caster level is the minimum required to be able to cast the spell normally, so for example, a Scroll of Identify has a caster level of 1. Once the spell is cast, the scroll is vaporized. If the skill check fails or if concentration is broken, the scroll is preserved. In addition to the effective caster level, scrolls have another key difference to papers. A Wizard Scroll can be inserted into a Wizard Spellbook, taking one hour and no skill check, in order to permanently become part of that spellbook. Likewise for Illusionist Scrolls and Illusionist Spellbooks.
 
 ## Crafting Spellcasting Items
 

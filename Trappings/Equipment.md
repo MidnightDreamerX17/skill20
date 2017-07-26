@@ -118,6 +118,7 @@ Adventure Capital Official Starter Kit: 40.00 gold (discount of 2.39 gold)
 | Everburning Torch | 110.00
 | Holy Water, 1 flask | 25.00
 | Smokestick | 20.00
+| Skull of Planar Knowledge | 2,000.00
 | Sunrod | 2.00
 | Tanglefoot Bag | 50.00
 | Thunderstone | 30.00
