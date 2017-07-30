@@ -16,13 +16,17 @@ Characters start with 10 feats and gain an additional feat at every single exper
 - **Augment Summoning** - The character's summons gain a bonus of +1 to experience level.
 - **Blessed Attribute** (specific) (requires Experience Level 10) - One of the character's attributes is increased by 1. This feat can be taken once per attribute.
 - **Blessed Attribute, Greater** (specific) (requires Experience Level 20) - One of the character's attributes is increased by 1. This feat can be taken once per attribute.
+- **Blind Fight** - The character does melee fighting normally while blind.
+- **Blind Fight, Greater** (requires Blind Fight) - The character does ranged fighting normally while blind.
 - **Body Builder** - The character's minimum dice rolls for maximum Hit Points are increased by 1. This means that they can roll a 2 through 6 on each die. If combined with *Toughness*, the total result is that a 3 through 6 could be rolled per die.
 - **Brace** - When the character's HPs are reduced to 0 or less, the character makes a d20 roll. On a natural roll of 19 or 20, they have 1 HP left.
 - **Cartographer** - The character gains a bonus of +4 to checks relating to maps.
 - **Chaos Shaping** - The character gains a bonus of +2 to stabilize, maintain, modify, and shape chaos matter. This is most effective in planes that work this way, e.g. the Gnosa and Bia strongholds.
 - **Combat Casting** - The character gains a bonus of +4 to concentration checks.
+- **Combat Casting, Greater** (requires Combat Casting) - The character gains a bonus of +4 to concentration checks.
 - **Counter Attack** - The character may choose to hold all actions and increase their Armor Class by 2. Any melee attack against the character that misses allows usage of one of their attacks.
 - **Danger Sense** - The character gains a bonus of +4 to avoid surprise.
+- **Danger Sense, Greater** (requires Danger Sense) - The character gains a bonus of +4 to avoid surprise.
 - **Direction Sense** - The character gains a bonus of +4 to checks relating to direction, estimating distance, and the like.
 - **Deceitful** - The character gains a bonus of +2 to disguise, forgery, lying, and other such checks.
 - **Deft Hands** - The character gains a bonus of +2 to steal, use rope, manipulate coin tosses, and other such checks.
@@ -38,7 +42,9 @@ Characters start with 10 feats and gain an additional feat at every single exper
 - **Healing Moment** - The character rests just as well in rough conditions as they do in a civilized bed.
 - **Holy Weapon Charge** (requires Cleric Power skill) - The character can expend a 1st-circle Cleric spell energy to make the whole party's weapons able to damage incorporeal, undead, and other such creatures. This effect lasts for a number of rounds equal to the character's Experience Level. This is not considered to be a spell casting.
 - **Improved Familiar** - The character casts the *Find Familiar* spell with a bonus of +4 caster levels.
-- **Improved Initiative** - The character gains a bonus of +4 to initiative rolls.
+- **Improved Familiar, Greater** (requires Improved Familiar) - The character casts the *Find Familiar* spell with a bonus of +4 caster levels.
+- **Improved Initiative** - The character gains a bonus of +10 to initiative rolls.
+- **Improved Initiative, Greater** (requires Improved Initiative) - The character gains a bonus of +10 to initiative rolls.
 - **Intuition** - The character gains a bonus of +2 to find and disarm traps.
 - **Investigator** - The character gains a bonus of +2 to examine scenes for details, ask groups of people for information, and other such checks.
 - **Invincible** - The character gains a bonus of +2 to save against instant-death, petrification, polymorph, and other body-altering "game-ending" effects.
@@ -48,7 +54,7 @@ Characters start with 10 feats and gain an additional feat at every single exper
 - **Item Trick, Improved** (requires Item Trick) - The character can use three items in one action.
 - **Last Stand** - When the character has less than half of their hit points remaining, they gain a bonus of +1 to all checks. When they are down to only 10% of their hit points remaining, requiring that they have at least 10 maximum hit points, the bonus changes to +4 to all checks.
 - **Lightning Reflexes** - The character gains a bonus of +2 to Dexterity and Intelligence saving throws.
-- **Linguist** - The character gets the Knowledge (Int) (Linguistics) skill for free, and it always equals the character's experience level. Any experience points put into that skill are refunded.
+- **Linguist** - The character gets the Knowledge (INT) (Linguistics) skill for free, and it always equals the character's experience level. Any experience points put into that skill are refunded.
 - **Magic Essence** (requires Spell Penetration) - The character gains a bonus of +2 to penetrate spell resistance.
 - **Magic Weapon Charge** (requires Wizard Power skill) - The character can expend a 1st-circle Wizard spell energy to make the whole party's weapons able to damage incorporeal, gelatinous, and other such creatures. This effect lasts for a number of rounds equal to the character's Experience Level. This is not considered to be a spell casting.
 - **Magical Aptitude** - The character gains a bonus of +2 to identify the magical specifics of anything.
@@ -64,8 +70,8 @@ Characters start with 10 feats and gain an additional feat at every single exper
 - **Persuasive** - The character gains a bonus of +2 to convince people of something.
 - **Planar Attack** - When the character uses a weapon that has been reinforced at least +1, its reinforcement is further increased by +1 against extraplanars and incorporeal creatures.
 - **Planar Magic** (requires Spell Penetration) - The character gains a bonus of +2 to penetrate spell resistance.
-- **Planar Sense** - The character gains a bonus of +2 to sense any sudden change of terrain, weather, environmental conditions, etc. in exotic, neutral, chaotic, elemental, etc. planes.
-- **Planar Survival** - The character gains a bonus of +2 to survive in exotic, neutral, chaotic, elemental, etc. planes.
+- **Planar Sense** - The character gains a bonus of +2 to sense any sudden change of terrain, weather, environmental conditions, etc. in alignment and elemental planes.
+- **Planar Survival** - The character gains a bonus of +2 to survive in alignment and elemental planes.
 - **Planology** - The character gains a bonus of +4 to sense good or bad luck in the planes.
 - **Polyglot** - The character gains 4 additional languages, and a bonus of +2 to Knowledge (Linguistics) (INT) skill checks.
 - **Portal Feel** - The character gains a bonus of +4 to identify portals, and to identify what is at the other end.
