@@ -20,6 +20,7 @@ The psionic categories are as follows:
 - [Control Air](/Psionics/C/ControlAir.md)
 - [Control Body](/Psionics/C/ControlBody.md)
 - [Control Object](/Psionics/C/ControlObject.md)
+- [Dispelling Buffer](/Psionics/D/DispellingBuffer.md)
 
 ## Nomad
 
@@ -31,6 +32,7 @@ The psionic categories are as follows:
 - [Dimension Swap](/Psionics/D/DimensionSwap.md)
 - [Dimensional Anchor, Psionic](/Psionics/D/DimensionalAnchorPsionic.md)
 - [Dismissal, Psionic](/Psionics/D/DismissalPsionic.md)
+- [Dream Travel](/Psionics/D/DreamTravel.md)
 
 ## Power (cannot be specialized or opposed)
 
@@ -73,6 +75,10 @@ The psionic categories are as follows:
 - [Disintegrate, Psionic](/Psionics/D/DisintegratePsionic.md)
 - [Dismiss Ectoplasm](/Psionics/D/DismissEctoplasm.md)
 - [Dispel Psionics](/Psionics/D/DispelPsionics.md)
+- [Dissipating Touch.md](/Psionics/D/DissipatingTouch.md)
+- [Distract](/Psionics/D/Distract.md)
+- [Divert Teleport](/Psionics/D/DivertTeleport.md)
+- [Divination, Psionic](/Psionics/D/DivinationPsionic.md)
 
 ## Warrior
 
@@ -93,6 +99,9 @@ The psionic categories are as follows:
 - [Claws of the Vampire](/Psionics/C/ClawsOfTheVampire.md)
 - [Compression](/Psionics/C/Compression.md)
 - [Darkvision, Psionic](/Psionics/D/Darkvision.md)
+- [Dissolving Touch](/Psionics/D/DissolvingTouch.md)
+- [Dissolving Weapon](/Psionics/D/DissolvingWeapon.md)
+- [Duodimensional Claw](/Psionics/D/DuodimensionalClaw.md)
 
 ## Seer
 
@@ -115,3 +124,4 @@ The psionic categories are as follows:
 - [Charm, Psionic](/Psionics/C/CharmPsionic.md)
 - [Crisis Of Breath](/Psionics/C/CrisisOfBreath.md)
 - [Crisis of Life](/Psionics/C/CrisisOfLife.md)
+- [Dominate, Psionic](/Psionics/D/DominatePsionic.md)

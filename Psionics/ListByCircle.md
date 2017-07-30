@@ -19,6 +19,8 @@
 - [Demoralize](/Psionics/D/Demoralize.md)
 - [Detect Psionics](/Psionics/D/DetectPsionics.md)
 - [Disable](/Psionics/D/Disable.md)
+- [Dissipating Touch.md](/Psionics/D/DissipatingTouch.md)
+- [Distract](/Psionics/D/Distract.md)
 
 ## 2nd Circle
 
@@ -57,6 +59,8 @@
 - [Dimension Swap](/Psionics/D/DimensionSwap.md)
 - [Dismiss Ectoplasm](/Psionics/D/DismissEctoplasm.md)
 - [Dispel Psionics](/Psionics/D/DispelPsionics.md)
+- [Dissolving Touch](/Psionics/D/DissolvingTouch.md)
+- [Dissolving Weapon](/Psionics/D/DissolvingWeapon.md)
 
 ## 4th Circle
 
@@ -70,6 +74,8 @@
 - [Detect Remote Viewing](/Psionics/D/DetectRemoteViewing.md)
 - [Dimension Door, Psionic](/Psionics/D/DimensionDoorPsionic.md)
 - [Dimension Slide](/Psionics/D/DimensionSlide.md)
+- [Divination, Psionic](/Psionics/D/DivinationPsionic.md)
+- [Duodimensional Claw](/Psionics/D/DuodimensionalClaw.md)
 
 ## 5th Circle
 
@@ -79,6 +85,7 @@
 - [Control Body](/Psionics/C/ControlBody.md)
 - [Dimensional Anchor, Psionic](/Psionics/D/DimensionalAnchorPsionic.md)
 - [Dismissal, Psionic](/Psionics/D/DismissalPsionic.md)
+- [Dominate, Psionic](/Psionics/D/DominatePsionic.md)
 
 ## 6th Circle
 
@@ -97,11 +104,14 @@
 - [Banishment, Psionic](/Psionics/B/BanishmentPsionic.md)
 - [Crystallize](/Psionics/C/Crystallize.md)
 - [Decerebrate](/Psionics/D/Decerebrate.md)
+- [Dispelling Buffer](/Psionics/D/DispellingBuffer.md)
+- [Divert Teleport](/Psionics/D/DivertTeleport.md)
 
 ## 8th Circle
 
 - [Bend Reality](/Psionics/B/BendReality.md)
 - [Crisis of Life](/Psionics/C/CrisisOfLife.md)
+- [Dream Travel](/Psionics/D/DreamTravel.md)
 
 ## 9th Circle
 

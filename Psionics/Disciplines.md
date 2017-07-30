@@ -23,6 +23,7 @@ The psionic disciplines are as follows:
 - [Detect Psionics](/Psionics/D/DetectPsionics.md)
 - [Detect Remote Viewing](/Psionics/D/DetectRemoteViewing.md)
 - [Detect Teleportation](/Psionics/D/DetectTeleportation.md)
+- [Divination, Psionic](/Psionics/D/DivinationPsionic.md)
 
 ## Metacreativity
 
@@ -47,6 +48,7 @@ The psionic disciplines are as follows:
 - [Control Object](/Psionics/C/ControlObject.md)
 - [Control Sound](/Psionics/C/ControlSound.md)
 - [Dispel Psionics](/Psionics/D/DispelPsionics.md)
+- [Dispelling Buffer](/Psionics/D/DispellingBuffer.md)
 
 ## Psychometabolism
 
@@ -64,6 +66,9 @@ The psionic disciplines are as follows:
 - [Claws of the Beast](/Psionics/C/ClawsOfTheBeast)
 - [Claws of the Vampire](/Psionics/C/ClawsOfTheVampire.md)
 - [Compression](/Psionics/C/Compression.md)
+- [Dissolving Touch](/Psionics/D/DissolvingTouch.md)
+- [Dissolving Weapon](/Psionics/D/DissolvingWeapon.md)
+- [Duodimensional Claw](/Psionics/D/DuodimensionalClaw.md)
 
 ## Psychoportation
 
@@ -82,6 +87,9 @@ The psionic disciplines are as follows:
 - [Dimensional Anchor, Psionic](/Psionics/D/DimensionalAnchorPsionic.md)
 - [Disintegrate, Psionic](/Psionics/D/DisintegratePsionic.md)
 - [Dismissal, Psionic](/Psionics/D/DismissalPsionic.md)
+- [Dissipating Touch.md](/Psionics/D/DissipatingTouch.md)
+- [Divert Teleport](/Psionics/D/DivertTeleport.md)
+- [Dream Travel](/Psionics/D/DreamTravel.md)
 
 ## Telepathy
 
@@ -107,3 +115,5 @@ The psionic disciplines are as follows:
 - [Demoralize](/Psionics/D/Demoralize.md)
 - [Detect Hostile Intent](/Psionics/D/DetectHostileIntent.md)
 - [Disable](/Psionics/D/Disable.md)
+- [Distract](/Psionics/D/Distract.md)
+- [Dominate, Psionic](/Psionics/D/DominatePsionic.md)
