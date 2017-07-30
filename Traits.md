@@ -8,9 +8,9 @@
 
 **Favored Enemy Category** - The character gains a bonus of +2 for everything relating to that enemy category, including Armor Class.
 
-**Magic Domain** - The character is strongly aligned with a specific domain of magic, causing the domain spells to be considered a lower magic circle. For example, having the Healing Domain will cause *Cure Light Wounds* to be considered a spell of the 0th circle.
+**Magic Domain** - The character is strongly aligned with a specific domain of magic, causing the domain spells to be considered a lower magic circle. For example, being specialized in the Healing Domain will cause *Cure Light Wounds* to be considered a spell of the 0th circle. If a spell was already 0th-circle, then its casting time becomes a move action.
 
-**Magic School** - The character is strongly aligned with one specific school of magic, causing that school's spells to be considered a lower magic circle. For example, having the Evocation Magic School will cause *Magic Missile* to be considered a spell of the 0th circle. "Universal" is not a valid school for this trait.
+**Magic School** - The character is strongly aligned with one specific school of magic, causing that school's spells to be considered a lower magic circle. For example, being specialized in the Evocation Magic School will cause *Magic Missile* to be considered a spell of the 0th circle. If a spell was already 0th-circle, then its casting time becomes a move action. "Universal" is not a valid school for this trait.
 
 **Natural Armor 2** - The character's Armor Class is improved by 2. This trait cannot be taken if the character's race already provides Natural Armor.
 
@@ -22,9 +22,11 @@
 
 **Powerful Family** - The character has a powerful family with many servants and a fortified home. The family home is big and secure enough to accommodate the whole party. The character can attempt to beg for money from their family as well, although that is better covered by the Wealthy Family trait.
 
-**Psionic Category** - The character is strongly aligned with a specific category of psionics, causing that category's powers to be considered a lower power circle.  For example, having the Warrior discipline will cause *Body Adjustment* to become a 3rd-circle power. The "Power" category cannot be taken with this trait.
+**Psionic Category** - The character is strongly aligned with a specific category of psionics, causing that category's powers to be considered a lower power circle, and its power point cost to be reduced by 1.  For example, being specialized in the Warrior category will cause *Body Adjustment* to become a 3rd-circle power. If a power was already 0th-circle, then its manifestation time becomes a move action. Power point costs cannot go below 1. The "Power" category cannot be taken with this trait.
 
-**Psionic Discipline** - The character is strongly aligned with a specific discipline of psionics, causing that discipline's powers to be considered a lower power circle. For example, having the Clairsentience discipline will cause *Aura Sight* to become a 3rd-circle power.
+**Psionic Discipline** - The character is strongly aligned with a specific discipline of psionics, causing that discipline's powers to be considered a lower power circle, and its power point cost to be reduced by 1. For example, being specialized in the Clairsentience discipline will cause *Aura Sight* to become a 3rd-circle power. If a power was already 0th-circle, then its manifestation time becomes a move action. Power point costs cannot go below 1.
+
+**Reincarnate** - The character is a reincarnation. As the character gains experience levels, they regain memories of people, places, and events from their past lives. Spending experience points on skills could be role-played as the character remembering old instincts. If the GM requires training time for skill improvement, then the character can use that time to revisit places that their past lives have used those skills at.
 
 **Skilled** - The character starts with 1 additional skill. It cannot be an Advanced skill. For starting with additional Craft, Knowledge, Perform, or Profession skills, the advantage of Work Experience is more efficient.
 

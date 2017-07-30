@@ -1,5 +1,7 @@
 # Skill20 RPG
 
+[Skill20 Official Discord channel](https://discord.gg/BaaHt6Z)
+
 ## Table of Contents
 
 1. Introduction
@@ -23,14 +25,14 @@ Optional Sections:
 
 Goals:
 
-- Map-less rules provided in core, for those who prefer the "Mind's Eye Theater" style of play.
 - Class-less, while still allowing players to quickstart as easy-to-play characters who fit the D&D classes if they choose to.
-- As compatible as possible with D&D-family modules (except 4th edition).
+- Map-less rules options provided in core, for those who prefer the "Mind's Eye Theater" style of play.
+- As compatible as possible with D&D-family material (except 4th edition).
 
 Key Points for D&D veterans:
 
 - Class-less - but it is easy to put together a skill set that contains everything you liked about the classic classes. In particular, fighters and wizards can now branch out a lot more easily. The need for a pure Thief is reduced if each character takes one or two skills typically associated with Thieves.
-- Map-less rules provided in the core ruleset. This ruleset is designed to maintain a fast pace, to reduce prep time, and to avoid getting bogged down in minutiae during combat. All spells and psionics also gain map-less variants.
+- Map-less rules options provided in the core ruleset. This ruleset is designed to maintain a fast pace, to reduce prep time, and to avoid getting bogged down in minutiae during combat. All spells and psionics also gain map-less variants. This opens up options for gaming on small tables without miniatures or maps, gaming online without a dedicated map program, and so on.
 - Characters can learn new skills from guilds. No need for prestige classes - having a wide set of skills requires your character to be prestigious in role-playing terms instead. If there are special abilities that come only from prestige classes, then they can easily be rewritten to come from new skills that are exclusive to certain guilds.
 - Magic and psionics always take a full round to cast, making it more possible for spellcasters to get interrupted. The rules for interrupting spellcasting are also changed - damage must be dealt to the spellcaster in order to force a concentration check.
 - No attacks of opportunity, because they make no sense.
