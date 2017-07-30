@@ -13,6 +13,12 @@
 - [Control Light](/Psionics/C/ControlLight.md)
 - [Create Sound](/Psionics/C/CreateSound.md)
 - [Crystal Shard](/Psionics/C/CrystalShard.md)
+- [Daze, Psionic](/Psionics/D/Daze.md)
+- [Deceleration](/Psionics/D/Deceleration.md)
+- [Déjà Vu](/Psionics/D/DejaVu.md)
+- [Demoralize](/Psionics/D/Demoralize.md)
+- [Detect Psionics](/Psionics/D/DetectPsionics.md)
+- [Disable](/Psionics/D/Disable.md)
 
 ## 2nd Circle
 
@@ -33,6 +39,9 @@
 - [Concussion Blast](/Psionics/C/ConcussionBlast.md)
 - [Control Object](/Psionics/C/ControlObject.md)
 - [Control Sound](/Psionics/C/ControlSound.md)
+- [Destiny Dissonance](/Psionics/D/DestinyDissonance.md)
+- [Detect Hostile Intent](/Psionics/D/DetectHostileIntent.md)
+- [Detect Teleportation](/Psionics/D/DetectTeleportation.md)
 
 ## 3rd Circle
 
@@ -43,6 +52,11 @@
 - [Brain Lock](/Psionics/B/BrainLock.md)
 - [Clairvoyant Sense](/Psionics/C/ClairvoyantSense)
 - [Control Air](/Psionics/C/ControlAir.md)
+- [Danger Sense](/Psionics/D/DangerSense.md)
+- [Darkvision, Psionic](/Psionics/D/Darkvision.md)
+- [Dimension Swap](/Psionics/D/DimensionSwap.md)
+- [Dismiss Ectoplasm](/Psionics/D/DismissEctoplasm.md)
+- [Dispel Psionics](/Psionics/D/DispelPsionics.md)
 
 ## 4th Circle
 
@@ -52,6 +66,10 @@
 - [Concealing Amorpha, Greater](/Psionics/C/ConcealingAmorphaGreater.md)
 - [Correspond](/Psionics/C/Correspond.md)
 - [Crisis Of Breath](/Psionics/C/CrisisOfBreath.md)
+- [Death Urge](/Psionics/D/DeathUrge.md)
+- [Detect Remote Viewing](/Psionics/D/DetectRemoteViewing.md)
+- [Dimension Door, Psionic](/Psionics/D/DimensionDoorPsionic.md)
+- [Dimension Slide](/Psionics/D/DimensionSlide.md)
 
 ## 5th Circle
 
@@ -59,6 +77,8 @@
 - [Catapsi](/Psionics/C/Catapsi.md)
 - [Claw of Energy](/Psionics/C/ClawOfEnergy.md)
 - [Control Body](/Psionics/C/ControlBody.md)
+- [Dimensional Anchor, Psionic](/Psionics/D/DimensionalAnchorPsionic.md)
+- [Dismissal, Psionic](/Psionics/D/DismissalPsionic.md)
 
 ## 6th Circle
 
@@ -70,11 +90,13 @@
 - [Cloud Mind, Mass](/Psionics/C/CloudMindMass.md)
 - [Contingency, Psionic](/Psionics/C/ContingencyPsionic.md)
 - [Co-Opt Concentration](/Psionics/C/CoOptConcentration.md)
+- [Disintegrate, Psionic](/Psionics/D/DisintegratePsionic.md)
 
 ## 7th Circle
 
 - [Banishment, Psionic](/Psionics/B/BanishmentPsionic.md)
 - [Crystallize](/Psionics/C/Crystallize.md)
+- [Decerebrate](/Psionics/D/Decerebrate.md)
 
 ## 8th Circle
 

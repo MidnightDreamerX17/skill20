@@ -27,6 +27,10 @@ The psionic categories are as follows:
 - [Baleful Teleport](/Psionics/B/BalefulTeleport.md)
 - [Banishment, Psionic](/Psionics/B/BanishmentPsionic.md)
 - [Burst](/Psionics/B/Burst.md)
+- [Detect Teleportation](/Psionics/D/DetectTeleportation.md)
+- [Dimension Swap](/Psionics/D/DimensionSwap.md)
+- [Dimensional Anchor, Psionic](/Psionics/D/DimensionalAnchorPsionic.md)
+- [Dismissal, Psionic](/Psionics/D/DismissalPsionic.md)
 
 ## Power (cannot be specialized or opposed)
 
@@ -53,6 +57,22 @@ The psionic categories are as follows:
 - [Correspond](/Psionics/C/Correspond.md)
 - [Create Sound](/Psionics/C/CreateSound.md)
 - [Crystal Shard](/Psionics/C/CrystalShard.md)
+- [Danger Sense](/Psionics/D/DangerSense.md)
+- [Daze, Psionic](/Psionics/D/Daze.md)
+- [Death Urge](/Psionics/D/DeathUrge.md)
+- [Deceleration](/Psionics/D/Deceleration.md)
+- [Decerebrate](/Psionics/D/Decerebrate.md)
+- [Déjà Vu](/Psionics/D/DejaVu.md)
+- [Demoralize](/Psionics/D/Demoralize.md)
+- [Detect Hostile Intent](/Psionics/D/DetectHostileIntent.md)
+- [Detect Psionics](/Psionics/D/DetectPsionics.md)
+- [Detect Remote Viewing](/Psionics/D/DetectRemoteViewing.md)
+- [Dimension Door, Psionic](/Psionics/D/DimensionDoorPsionic.md)
+- [Dimension Slide](/Psionics/D/DimensionSlide.md)
+- [Disable](/Psionics/D/Disable.md)
+- [Disintegrate, Psionic](/Psionics/D/DisintegratePsionic.md)
+- [Dismiss Ectoplasm](/Psionics/D/DismissEctoplasm.md)
+- [Dispel Psionics](/Psionics/D/DispelPsionics.md)
 
 ## Warrior
 
@@ -72,12 +92,14 @@ The psionic categories are as follows:
 - [Claws of the Beast](/Psionics/C/ClawsOfTheBeast)
 - [Claws of the Vampire](/Psionics/C/ClawsOfTheVampire.md)
 - [Compression](/Psionics/C/Compression.md)
+- [Darkvision, Psionic](/Psionics/D/Darkvision.md)
 
 ## Seer
 
 - [Anchored Navigation](/Psionics/A/AnchoredNavigation.md)
 - [Clairtangent Hand](/Psionics/C/ClairtangentHand.md)
 - [Clairvoyant Sense](/Psionics/C/ClairvoyantSense)
+- [Destiny Dissonance](/Psionics/D/DestinyDissonance.md)
 
 ## Shaper
 

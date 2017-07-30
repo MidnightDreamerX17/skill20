@@ -17,6 +17,12 @@ The psionic disciplines are as follows:
 - [Clairtangent Hand](/Psionics/C/ClairtangentHand.md)
 - [Clairvoyant Sense](/Psionics/C/ClairvoyantSense)
 - [Contingency, Psionic](/Psionics/C/ContingencyPsionic.md)
+- [Danger Sense](/Psionics/D/DangerSense.md)
+- [Darkvision, Psionic](/Psionics/D/Darkvision.md)
+- [Destiny Dissonance](/Psionics/D/DestinyDissonance.md)
+- [Detect Psionics](/Psionics/D/DetectPsionics.md)
+- [Detect Remote Viewing](/Psionics/D/DetectRemoteViewing.md)
+- [Detect Teleportation](/Psionics/D/DetectTeleportation.md)
 
 ## Metacreativity
 
@@ -28,6 +34,7 @@ The psionic disciplines are as follows:
 - [Create Sound](/Psionics/C/CreateSound.md)
 - [Crystal Shard](/Psionics/C/CrystalShard.md)
 - [Crystallize](/Psionics/C/Crystallize.md)
+- [Dismiss Ectoplasm](/Psionics/D/DismissEctoplasm.md)
 
 ## Psychokinesis
 
@@ -39,6 +46,7 @@ The psionic disciplines are as follows:
 - [Control Light](/Psionics/C/ControlLight.md)
 - [Control Object](/Psionics/C/ControlObject.md)
 - [Control Sound](/Psionics/C/ControlSound.md)
+- [Dispel Psionics](/Psionics/D/DispelPsionics.md)
 
 ## Psychometabolism
 
@@ -66,6 +74,14 @@ The psionic disciplines are as follows:
 - [Burst](/Psionics/B/Burst.md)
 - [Call Weaponry](/Psionics/C/CallWeaponry.md)
 - [Catfall](/Psionics/C/Catfall.md)
+- [Deceleration](/Psionics/D/Deceleration.md)
+- [Decerebrate](/Psionics/D/Decerebrate.md)
+- [Dimension Door, Psionic](/Psionics/D/DimensionDoorPsionic.md)
+- [Dimension Slide](/Psionics/D/DimensionSlide.md)
+- [Dimension Swap](/Psionics/D/DimensionSwap.md)
+- [Dimensional Anchor, Psionic](/Psionics/D/DimensionalAnchorPsionic.md)
+- [Disintegrate, Psionic](/Psionics/D/DisintegratePsionic.md)
+- [Dismissal, Psionic](/Psionics/D/DismissalPsionic.md)
 
 ## Telepathy
 
@@ -85,3 +101,9 @@ The psionic disciplines are as follows:
 - [Correspond](/Psionics/C/Correspond.md)
 - [Crisis Of Breath](/Psionics/C/CrisisOfBreath.md)
 - [Crisis of Life](/Psionics/C/CrisisOfLife.md)
+- [Daze, Psionic](/Psionics/D/Daze.md)
+- [Death Urge](/Psionics/D/DeathUrge.md)
+- [Déjà Vu](/Psionics/D/DejaVu.md)
+- [Demoralize](/Psionics/D/Demoralize.md)
+- [Detect Hostile Intent](/Psionics/D/DetectHostileIntent.md)
+- [Disable](/Psionics/D/Disable.md)
