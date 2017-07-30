@@ -17,7 +17,7 @@ Characters start with 10 feats and gain an additional feat at every single exper
 - **Blessed Attribute** (specific) (requires Experience Level 10) - One of the character's attributes is increased by 1. This feat can be taken once per attribute.
 - **Blessed Attribute, Greater** (specific) (requires Experience Level 20) - One of the character's attributes is increased by 1. This feat can be taken once per attribute.
 - **Body Builder** - The character's minimum dice rolls for maximum Hit Points are increased by 1. This means that they can roll a 2 through 6 on each die. If combined with *Toughness*, the total result is that a 3 through 6 could be rolled per die.
-- **Brace** - When the character's HPs are reduced to 0 or less, the character makes a d20 roll. On a natural roll of 20, they have 1 HP left.
+- **Brace** - When the character's HPs are reduced to 0 or less, the character makes a d20 roll. On a natural roll of 19 or 20, they have 1 HP left.
 - **Cartographer** - The character gains a bonus of +4 to checks relating to maps.
 - **Chaos Shaping** - The character gains a bonus of +2 to stabilize, maintain, modify, and shape chaos matter. This is most effective in planes that work this way, e.g. the Gnosa and Bia strongholds.
 - **Combat Casting** - The character gains a bonus of +4 to concentration checks.

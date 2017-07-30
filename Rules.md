@@ -6,6 +6,13 @@ Non-skill checks generally consist of 1d20 + (Attribute bonus) + Experience leve
 
 The average difficulty of a check is 10.
 
+## Time Scales
+
+- 1 Combat Round = 10 seconds
+- 1 minute = 6 combat rounds = 60 seconds
+- 10 minutes = 60 combat rounds = 600 seconds
+- 1 hour = 360 combat rounds = 3,600 seconds
+
 ## Extended Checks
 
 Extended Checks have a Threshold difficulty and a Time Scale Per Check.
