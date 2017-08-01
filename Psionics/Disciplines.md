@@ -36,6 +36,12 @@ The psionic disciplines are as follows:
 - [Crystal Shard](/Psionics/C/CrystalShard.md)
 - [Crystallize](/Psionics/C/Crystallize.md)
 - [Dismiss Ectoplasm](/Psionics/D/DismissEctoplasm.md)
+- [Ecto Protection](/Psionics/E/EctoProtection.md)
+- [Ectoplasmic Cocoon](/Psionics/E/EctoplasmicCocoon.md)
+- [Ectoplasmic Cocoon, Mass](/Psionics/E/EctoplasmicCocoonMass.md)
+- [Ectoplasmic Shambler](/Psionics/E/EctoplasmicShambler.md)
+- [Energy Wall](/Psionics/E/EnergyWall.md)
+- [Entangling Ectoplasm](/Psionics/E/EntanglingEctoplasm.md)
 
 ## Psychokinesis
 
@@ -49,6 +55,16 @@ The psionic disciplines are as follows:
 - [Control Sound](/Psionics/C/ControlSound.md)
 - [Dispel Psionics](/Psionics/D/DispelPsionics.md)
 - [Dispelling Buffer](/Psionics/D/DispellingBuffer.md)
+- [Energy Ball](/Psionics/E/EnergyBall.md)
+- [Energy Bolt](/Psionics/E/EnergyBolt.md)
+- [Energy Burst](/Psionics/E/EnergyBurst.md)
+- [Energy Cone](/Psionics/E/EnergyCone.md)
+- [Energy Current](/Psionics/E/EnergyCurrent.md)
+- [Energy Missile](/Psionics/E/EnergyMissile.md)
+- [Energy Push](/Psionics/E/EnergyPush.md)
+- [Energy Ray](/Psionics/E/EnergyRay.md)
+- [Energy Retort](/Psionics/E/EnergyRetort.md)
+- [Energy Wave](/Psionics/E/EnergyWave.md)
 
 ## Psychometabolism
 
@@ -69,6 +85,12 @@ The psionic disciplines are as follows:
 - [Dissolving Touch](/Psionics/D/DissolvingTouch.md)
 - [Dissolving Weapon](/Psionics/D/DissolvingWeapon.md)
 - [Duodimensional Claw](/Psionics/D/DuodimensionalClaw.md)
+- [Ectoplasmic Form](/Psionics/E/EctoplasmicForm.md)
+- [Elfsight](/Psionics/E/Elfsight.md)
+- [Empathic Transfer](/Psionics/E/EmpathicTransfer.md)
+- [Energy Adaptation](/Psionics/E/EnergyAdaptation.md)
+- [Energy Adaptation, Specified](/Psionics/E/EnergyAdaptationSpecified.md)
+- [Energy Conversion](/Psionics/E/EnergyConversion.md)
 
 ## Psychoportation
 
@@ -117,3 +139,8 @@ The psionic disciplines are as follows:
 - [Disable](/Psionics/D/Disable.md)
 - [Distract](/Psionics/D/Distract.md)
 - [Dominate, Psionic](/Psionics/D/DominatePsionic.md)
+- [Ego Whip](/Psionics/E/EgoWhip.md)
+- [Empathic Feedback](/Psionics/E/EmpathicFeedback.md)
+- [Empathic Transfer, Hostile](/Psionics/E/EmpathicTransferHostile.md)
+- [Empathy](/Psionics/E/Empathy.md)
+- [Empty Mind](/Psionics/E/EmptyMind.md)

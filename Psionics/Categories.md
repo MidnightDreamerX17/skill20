@@ -14,6 +14,8 @@ The psionic categories are as follows:
 ## Egoist
 
 - [Chameleon](/Psionics/C/Chameleon.md)
+- [Ectoplasmic Form](/Psionics/E/EctoplasmicForm.md)
+- [Empathic Transfer](/Psionics/E/EmpathicTransfer.md)
 
 ## Kineticist
 
@@ -21,6 +23,10 @@ The psionic categories are as follows:
 - [Control Body](/Psionics/C/ControlBody.md)
 - [Control Object](/Psionics/C/ControlObject.md)
 - [Dispelling Buffer](/Psionics/D/DispellingBuffer.md)
+- [Energy Ball](/Psionics/E/EnergyBall.md)
+- [Energy Cone](/Psionics/E/EnergyCone.md)
+- [Energy Current](/Psionics/E/EnergyCurrent.md)
+- [Energy Missile](/Psionics/E/EnergyMissile.md)
 
 ## Nomad
 
@@ -79,6 +85,24 @@ The psionic categories are as follows:
 - [Distract](/Psionics/D/Distract.md)
 - [Divert Teleport](/Psionics/D/DivertTeleport.md)
 - [Divination, Psionic](/Psionics/D/DivinationPsionic.md)
+- [Ecto Protection](/Psionics/E/EctoProtection.md)
+- [Ectoplasmic Shambler](/Psionics/E/EctoplasmicShambler.md)
+- [Ego Whip](/Psionics/E/EgoWhip.md)
+- [Elfsight](/Psionics/E/Elfsight.md)
+- [Empathic Feedback](/Psionics/E/EmpathicFeedback.md)
+- [Empathy](/Psionics/E/Empathy.md)
+- [Empty Mind](/Psionics/E/EmptyMind.md)
+- [Energy Adaptation](/Psionics/E/EnergyAdaptation.md)
+- [Energy Adaptation, Specified](/Psionics/E/EnergyAdaptationSpecified.md)
+- [Energy Bolt](/Psionics/E/EnergyBolt.md)
+- [Energy Burst](/Psionics/E/EnergyBurst.md)
+- [Energy Conversion](/Psionics/E/EnergyConversion.md)
+- [Energy Push](/Psionics/E/EnergyPush.md)
+- [Energy Ray](/Psionics/E/EnergyRay.md)
+- [Energy Retort](/Psionics/E/EnergyRetort.md)
+- [Energy Wall](/Psionics/E/EnergyWall.md)
+- [Energy Wave](/Psionics/E/EnergyWave.md)
+- [Entangling Ectoplasm](/Psionics/E/EntanglingEctoplasm.md)
 
 ## Warrior
 
@@ -116,6 +140,8 @@ The psionic categories are as follows:
 - [Astral Seed](/Psionics/A/AstralSeed.md)
 - [Concealing Amorpha, Greater](/Psionics/C/ConcealingAmorphaGreater.md)
 - [Crystallize](/Psionics/C/Crystallize.md)
+- [Ectoplasmic Cocoon](/Psionics/E/EctoplasmicCocoon.md)
+- [Ectoplasmic Cocoon, Mass](/Psionics/E/EctoplasmicCocoonMass.md)
 
 ## Telepath
 
@@ -125,3 +151,4 @@ The psionic categories are as follows:
 - [Crisis Of Breath](/Psionics/C/CrisisOfBreath.md)
 - [Crisis of Life](/Psionics/C/CrisisOfLife.md)
 - [Dominate, Psionic](/Psionics/D/DominatePsionic.md)
+- [Empathic Transfer, Hostile](/Psionics/E/EmpathicTransferHostile.md)

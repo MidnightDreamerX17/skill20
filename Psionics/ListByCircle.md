@@ -21,6 +21,11 @@
 - [Disable](/Psionics/D/Disable.md)
 - [Dissipating Touch.md](/Psionics/D/DissipatingTouch.md)
 - [Distract](/Psionics/D/Distract.md)
+- [Ecto Protection](/Psionics/E/EctoProtection.md)
+- [Empathy](/Psionics/E/Empathy.md)
+- [Empty Mind](/Psionics/E/EmptyMind.md)
+- [Energy Ray](/Psionics/E/EnergyRay.md)
+- [Entangling Ectoplasm](/Psionics/E/EntanglingEctoplasm.md)
 
 ## 2nd Circle
 
@@ -44,6 +49,10 @@
 - [Destiny Dissonance](/Psionics/D/DestinyDissonance.md)
 - [Detect Hostile Intent](/Psionics/D/DetectHostileIntent.md)
 - [Detect Teleportation](/Psionics/D/DetectTeleportation.md)
+- [Ego Whip](/Psionics/E/EgoWhip.md)
+- [Elfsight](/Psionics/E/Elfsight.md)
+- [Energy Adaptation, Specified](/Psionics/E/EnergyAdaptationSpecified.md)
+- [Energy Push](/Psionics/E/EnergyPush.md)
 
 ## 3rd Circle
 
@@ -61,6 +70,12 @@
 - [Dispel Psionics](/Psionics/D/DispelPsionics.md)
 - [Dissolving Touch](/Psionics/D/DissolvingTouch.md)
 - [Dissolving Weapon](/Psionics/D/DissolvingWeapon.md)
+- [Empathic Transfer](/Psionics/E/EmpathicTransfer.md)
+- [Energy Bolt](/Psionics/E/EnergyBolt.md)
+- [Energy Burst](/Psionics/E/EnergyBurst.md)
+- [Energy Missile](/Psionics/E/EnergyMissile.md)
+- [Energy Retort](/Psionics/E/EnergyRetort.md)
+- [Energy Wall](/Psionics/E/EnergyWall.md)
 
 ## 4th Circle
 
@@ -76,6 +91,12 @@
 - [Dimension Slide](/Psionics/D/DimensionSlide.md)
 - [Divination, Psionic](/Psionics/D/DivinationPsionic.md)
 - [Duodimensional Claw](/Psionics/D/DuodimensionalClaw.md)
+- [Ectoplasmic Cocoon](/Psionics/E/EctoplasmicCocoon.md)
+- [Ectoplasmic Form](/Psionics/E/EctoplasmicForm.md)
+- [Empathic Feedback](/Psionics/E/EmpathicFeedback.md)
+- [Empathic Transfer, Hostile](/Psionics/E/EmpathicTransferHostile.md)
+- [Energy Adaptation](/Psionics/E/EnergyAdaptation.md)
+- [Energy Cone](/Psionics/E/EnergyCone.md)
 
 ## 5th Circle
 
@@ -86,6 +107,8 @@
 - [Dimensional Anchor, Psionic](/Psionics/D/DimensionalAnchorPsionic.md)
 - [Dismissal, Psionic](/Psionics/D/DismissalPsionic.md)
 - [Dominate, Psionic](/Psionics/D/DominatePsionic.md)
+- [Ectoplasmic Shambler](/Psionics/E/EctoplasmicShambler.md)
+- [Energy Ball](/Psionics/E/EnergyBall.md)
 
 ## 6th Circle
 
@@ -98,6 +121,7 @@
 - [Contingency, Psionic](/Psionics/C/ContingencyPsionic.md)
 - [Co-Opt Concentration](/Psionics/C/CoOptConcentration.md)
 - [Disintegrate, Psionic](/Psionics/D/DisintegratePsionic.md)
+- [Energy Current](/Psionics/E/EnergyCurrent.md)
 
 ## 7th Circle
 
@@ -106,12 +130,15 @@
 - [Decerebrate](/Psionics/D/Decerebrate.md)
 - [Dispelling Buffer](/Psionics/D/DispellingBuffer.md)
 - [Divert Teleport](/Psionics/D/DivertTeleport.md)
+- [Energy Conversion](/Psionics/E/EnergyConversion.md)
+- [Energy Wave](/Psionics/E/EnergyWave.md)
 
 ## 8th Circle
 
 - [Bend Reality](/Psionics/B/BendReality.md)
 - [Crisis of Life](/Psionics/C/CrisisOfLife.md)
 - [Dream Travel](/Psionics/D/DreamTravel.md)
+- [Ectoplasmic Cocoon, Mass](/Psionics/E/EctoplasmicCocoonMass.md)
 
 ## 9th Circle
 
