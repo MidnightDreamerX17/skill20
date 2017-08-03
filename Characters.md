@@ -10,10 +10,10 @@
 2. Choose a plane of origin.
 3. Choose [Traits](/Traits.md). Advantages and Disadvantages must balance out. A maximum of 5 Quirks can be chosen, with Alignment Quirks being mutually exclusive.
 4. Determine attribute numbers.
-5. Choose 1 [Craft](/Skills/Craft.md) skill
-6. Choose 1 [Knowledge](/Skills/Knowledge.md) skill
-7. Choose 1 [Perform](/Skills/Perform.md) skill
-8. Choose 1 [Profession](/Skills/Profession.md) skill
+5. Choose 1 [Craft](/Skills/SkillDetails/Craft.md) skill
+6. Choose 1 [Knowledge](/Skills/SkillDetails/Knowledge.md) skill
+7. Choose 1 [Perform](/Skills/SkillDetails/Perform.md) skill
+8. Choose 1 [Profession](/Skills/SkillDetails/Profession.md) skill
 9. Choose 6 additional starting [skills](/Skills). These skills start at Level 1 each, with enough experience points to stay at Level 1. Skills marked as "Advanced" cannot be chosen at the start.
 10. Choose [Languages](/Languages.md). All characters start with a number of languages equal to 1 + their Intelligence modifier. If the character's Intelligence modifier is -1, then they are illiterate. If the character's Intelligence modifier is -2, then they start talking dumb. If the character's Intelligence modifier is -3, then they randomly shout words that make no sense. If the character's Intelligence modifier is -4 then they cannot even understand exaggerated facial expressions or body language.
 11. If the character starts with magic skills which require a spellbook, then they start with as many spells in their spellbook as they are able to memorize.
