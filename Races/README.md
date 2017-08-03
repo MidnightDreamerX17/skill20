@@ -19,4 +19,5 @@ Race Index:
 - [Human](/Races/Human.md)
 - [Law-Mech](/Races/LawMech.md)
 - [Lizardfolk](/Races/Lizardfolk.md)
+- [Minotaur](/Races/Minotaur.md)
 - [Orc Hybrid](/Races/OrcHybrid.md)
