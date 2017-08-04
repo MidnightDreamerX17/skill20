@@ -28,3 +28,11 @@ Possible Spells: In combination with the Druid Power (WIS) skill, the character 
 Read Druid Scroll: Druid Potential Level is added as a bonus to rolls to use the power of druid scrolls.
 
 Wild Shape: Once per day, the character can turn into an animal of the same level. This lasts for a number of rounds equal to double the Druid Potential Level. The character's maximum hit points are not changed.
+
+## Learning From Party Members
+
+Average Gold Cost: 100
+
+Average Training Time for 1st Skill Level: 6 months
+
+Access to elder trees, figurines, sacred groves, and druids dedicated to nature. The trainer must have Druid Potential Level 10.

@@ -27,3 +27,11 @@ If changing Cleric or Druid spells, the character must be permitted to memorize 
 | 18th | Difficulty 47
 | 19th | Difficulty 49
 | 20th | Difficulty 51
+
+## Learning From Party Members
+
+Average Gold Cost: 200
+
+Average Training Time for 1st Skill Level: 6 months
+
+Magical ingredients for practicing the transformation of spells. The trainer must have Sorcery Level 10.

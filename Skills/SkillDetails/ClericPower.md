@@ -50,3 +50,11 @@ Bonus Slots: Characters get one bonus spell energy for spell circles depending o
 | **38**   | 9   | 9   | 8   | 8   | 8   | 8   | 7   | 7   | 7   | 7   | 6    | 6    | 6    | 5    | 5    | 4    | 4    | 3    | 3    | 2    |      |
 | **39**   | 9   | 9   | 9   | 8   | 8   | 8   | 8   | 7   | 7   | 7   | 6    | 6    | 6    | 5    | 5    | 5    | 4    | 4    | 3    | 2    | 1    |
 | **40**   | 9   | 9   | 9   | 8   | 8   | 8   | 8   | 7   | 7   | 7   | 7    | 6    | 6    | 6    | 5    | 5    | 4    | 4    | 3    | 3    | 2    |
+
+## Learning From Party Members
+
+Average Gold Cost: 100
+
+Average Training Time for 1st Skill Level: 6 months
+
+Access to holy texts, statues, temples, and clerics dedicated to the gods. The trainer must have Cleric Power Level 10.

@@ -32,3 +32,11 @@ Solid Blade:
 
 - Psy Blade Level 20: The character can lend one copy of the Projected Blade to one ally. If the character falls unconscious or comes under a mind-altering effect, then both Projected Blades disappear.
 - Psy Blade Level 40: The Projected Blade becomes a permanent and real object, which will continue to exist even if the character is unconscious or killed. However, its damage is divided by 10 in the hands of someone who does not have any levels in Psy Blade.
+
+## Learning From Party Members
+
+Average Gold Cost: 200
+
+Average Training Time for 1st Skill Level: 6 months
+
+Access to specially-crafted targets and other objects to practice cutting with the Psy Blade. The trainer must have Psy Blade Level 10.

@@ -69,3 +69,11 @@ Pile Bunker:
 
 - Crafting: 500 gold, threshold difficulty 50
 - Melee Weapon: 3d12 puncture damage, reload time of 2 actions
+
+## Learning From Party Members
+
+Average Gold Cost: 2,000
+
+Average Training Time for 1st Skill Level: 3 months
+
+Supplies and metals for practicing the component construction and assembly. Access to heavy tools. The trainer must have Power Tools Level 10.

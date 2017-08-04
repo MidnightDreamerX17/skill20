@@ -50,3 +50,11 @@ Disbelieving Illusions: If other people collectively decide to resist the Illusi
 - and so on...
 
 If the combined results of Grandiose Show and Disbelieving Illusions cause caster level to go to zero or less, then the spell does not function and is wasted. An illusionist who can make something happen in the midst of the most skeptical of crowds is truly powerful.
+
+## Learning From Party Members
+
+Average Gold Cost: 1,000
+
+Average Training Time for 1st Skill Level: 6 months
+
+Theater space, wide variety of props and materials, other people to scrutinize the trainee's performance and look for flaws in the illusions. The trainer must have Illusionist Potential Level 10.

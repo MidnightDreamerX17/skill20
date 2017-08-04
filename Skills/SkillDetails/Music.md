@@ -9,3 +9,11 @@ Magic Song: Magic Songs always last for one minute (6 combat rounds), unless oth
 - Song of Luck: All saving throws
 - Song of Rhythm: Concentration checks
 - Song of Themes: One attribute, chosen at the time of singing
+
+## Learning From Party Members
+
+Average Gold Cost: 100
+
+Average Training Time for 1st Skill Level: 2 months
+
+Musical instruments with replacement parts. Sheet music for the instrument type. The trainer must have Music Level 5.

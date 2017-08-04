@@ -26,3 +26,11 @@ Power Grip: The character gains a bonus to grappling and other such combat maneu
 Seimitsu Ken: If the character also has the Chi Mysticism skill, then they can spend a Chi Power Point to add +4 to the accuracy and damage of one attack.
 
 Tenrai Ken: If the character also has the Chi Mysticism skill, then they can spend two Chi Power Points to do a melee attack against one enemy within visual range.
+
+## Learning From Party Members
+
+Average Gold Cost: 500
+
+Average Training Time for 1st Skill Level: 3 months
+
+Access to trees, wooden and brick pillars, and other objects for practicing the strength of one's fist. Mystically-infused items to attempt to strike. The trainer must have Chi Fist Level 10.

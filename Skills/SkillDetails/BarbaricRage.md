@@ -11,3 +11,11 @@ Uncontrollable Rage: Once per day, the character can go into an uncontrollable r
 - Barbaric Rage Level 30: +8 to attack, +8 to damage, +8 to saving throws, +2 Armor Class, Spell Resistance 35
 - Barbaric Rage Level 35: +9 to attack, +9 to damage, +9 to saving throws, +3 Armor Class, Spell Resistance 40
 - Barbaric Rage Level 40: +12 to attack, +12 to damage, +12 to saving throws, +5 Armor Class, Spell Resistance 50
+
+## Learning From Party Members
+
+Average Gold Cost: 100
+
+Average Training Time for 1st Skill Level: 2 months
+
+Drugs and mushrooms that induce a rage state. The trainer must have Barbaric Rage Level 5.

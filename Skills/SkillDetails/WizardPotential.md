@@ -28,3 +28,11 @@ Possible Spells: In combination with the Wizard Power (INT) skill, the character
 Read Wizard Scroll: Wizard Potential is added as a bonus to rolls to use the power of wizard scrolls, as well as to meld these scrolls into a spellbook.
 
 Wizard Spellbook: Each level of Wizard Potential allows the character to get one free spell in their spellbook. The spell must be of a Spell Circle that is allowed by their new Wizard Potential Level.
+
+## Learning From Party Members
+
+Average Gold Cost: 2,000
+
+Average Training Time for 1st Skill Level: 6 months
+
+Spellbooks, spell components, magical foci, apparatus for experimentation. The trainer must have Wizard Potential Level 10.

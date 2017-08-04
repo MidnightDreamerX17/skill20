@@ -46,3 +46,11 @@ Bonus Psionic Points: Characters get an additional number of Psionic Power Point
 | 38 | 1091
 | 39 | 1113
 | 40 | 1155
+
+## Learning From Party Members
+
+Average Gold Cost: 500
+
+Average Training Time for 1st Skill Level: 6 months
+
+Access to minor psionic items. The trainer must have Psionic Power Level 10.

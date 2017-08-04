@@ -17,3 +17,11 @@ Opposite of the correct race (e.g. Bia trying to use a Gnosa Psyblade) - Difficu
 Different alignment (e.g. Neutral or non-aligned character trying to wield Nok'kad Therz's Blade) - Difficulty +10
 
 Opposite of the correct alignment (e.g. Chaotic character trying to wield Nok'kad Therz's Blade) - Difficulty +20
+
+## Learning From Party Members
+
+Average Gold Cost: 2,000
+
+Average Training Time for 1st Skill Level: 3 months
+
+Access to psionic items that have various restrictions. The trainer must have Use Psionic Device Level 10.

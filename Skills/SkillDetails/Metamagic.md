@@ -79,3 +79,11 @@ All variable, numeric effects of a spell are maximized.
 Quicken Spell - +4 circles
 
 The spell does not take any actions, and takes effect instantly with no chance of interruption.
+
+## Learning From Party Members
+
+Average Gold Cost: 0
+
+Average Training Time for 1st Skill Level: 6 months
+
+Access to a variety of subjects and materials for practicing magic on. The trainer must have Metamagic Level 10.

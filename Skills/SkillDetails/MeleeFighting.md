@@ -25,3 +25,11 @@ Combat Dominance: The character uses one of their attacks to instantly kill a lo
 - Melee Fighting Level 32: Level 7 enemies
 - Melee Fighting Level 36: Level 8 enemies
 - Melee Fighting Level 40: Level 9 enemies
+
+## Learning From Party Members
+
+Average Gold Cost: 200
+
+Average Training Time for 1st Skill Level: 1 month
+
+Sparring gear and wooden weapons. Training partners to spar with. The trainer must have Melee Fighting Level 5.

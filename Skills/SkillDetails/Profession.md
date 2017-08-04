@@ -50,3 +50,11 @@ Examples of profession skills:
 - Trapper
 - Woodcutter
 - \<Other Profession\>
+
+## Learning From Party Members
+
+Average Gold Cost: 0
+
+Average Training Time for 1st Skill Level: 1 to 6 months
+
+The trainee must spend time working as an apprentice in the profession. The time required depends on the complexity of the profession. For example, Siege Engineer would be on the high end. Lamp Lighter would be on the low end. The trainer must have Profession Level 5 to 10 depending on the profession's complexity, and must have an open position for the trainee to work in.

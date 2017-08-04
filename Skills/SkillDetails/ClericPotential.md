@@ -38,3 +38,11 @@ Turn Undead: Characters of any Good or Neutral alignment may attempt to Turn Und
 Rebuke Undead: Characters of Neutral or Evil alignment may attempt to Rebuke Undead. They make a Cleric Potential check, with the difficulty equal to the undead's highest level + 10. On a success, the undead are unable to attack the party for as long as the character continues to concentrate on rebuking. If the character gets a natural 20, then the undead will also not report anything they see to their masters, but instead, may share information they know about their masters with the party.
 
 Control Undead: Characters of Evil alignment may attempt to Control Undead. They make a Cleric Potential check, with the difficulty equal to the undead's highest level + 20. On a success, the undead serve the character for as long as they continue to concentrate on controlling. If the character gets a natural 20, then the range of control extends to anywhere within visual range, although it still requires concentration.
+
+## Learning From Party Members
+
+Average Gold Cost: 100
+
+Average Training Time for 1st Skill Level: 6 months
+
+Access to holy texts, statues, temples, and clerics dedicated to the gods. The trainer must have Cleric Potential Level 10.

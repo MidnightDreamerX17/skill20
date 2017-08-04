@@ -30,3 +30,11 @@ Lay on Hands: Once per day, the character may touch themself or one ally to rest
 True Faith Level 5: Divine Companion: The gods grant the character one celestial companion of the same level. This is most frequently a Celestial Heavy Warhorse, as commonly ridden by Paladins, but may take other forms as well. The Divine Companion is always of at least average intelligence, if not better. If the Divine Companion dies, then the character must either wait a year, or must increase their True Faith Level, to get another one.
 
 True Faith Level 10: Holy Focus: Whenever the character has a holy weapon drawn, they project a constant *Circle of Dispelling*. Holy weapons include and are not limited to the Holy Avenger, Carsomyr, Excalibur (not to be confused with the Pendragon Sword-in-the-Stone), the Lunarian Mythgraven Blade, the Save-the-Queen Greatsword, Abel's Lance, and other such artifacts. The DM may rule that magic weapons of +5 quality and higher which are dedicated to the gods of Lawful Good are also included.
+
+## Learning From Party Members
+
+Average Gold Cost: 0
+
+Average Training Time for 1st Skill Level: 6 months
+
+Spending a lot of time with other faithful. The trainer must have True Faith Level 10.

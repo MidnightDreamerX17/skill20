@@ -49,3 +49,11 @@ Chi Mysticism Level 23: *CHAKRA*: The character may use a Chi Power Point in ord
 Chi Mysticism Level 30: *STAND*: The character gains the ability to project a mystical embodiment of their own soul, called a "stand". The character can switch between normal mode and stand projection mode at will. The stand can be projected to anywhere within visual range, including behind an enemy group. The stand shares hit points with the character, so any damage done to the stand is basically done to the character instead.
 
 Chi Mysticism Level 40: *MUSOU TENSEI*: Once per day, the character can project up to six of their comrades who have ever died as real mystical beings, with the full capabilities that they had in life. This lasts for one minute. The character can still act normally during this time.
+
+## Learning From Party Members
+
+Average Gold Cost: 1,000
+
+Average Training Time for 1st Skill Level: 3 months
+
+Access to sacred scrolls and scriptures of mysticism. Access to multiple sites of meditating on different elements and concepts. The trainer must have Chi Mysticism Level 10.

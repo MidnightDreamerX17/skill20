@@ -31,6 +31,16 @@ Characters regain 1 hit point per period of rest.
 
 Healing Kits can be used to restore a number of hit points equal to the target's Constitution score. However, this requires an extended check with a difficulty of 100, and a time scale of 1 hour per roll.
 
+## Learning New Skills
+
+The fastest way to learn new skills is to perform the following steps:
+
+1. Find a guild, order, temple, etc. that is willing to teach you the skill. **Advanced** skills generally require that you have achieved the rank of Master in a guild before a guildmaster will teach you one.
+2. Train for a week. Magic, psionic, and advanced skills require a whole month.
+3. Pay 100 XP for the first level of the skill.
+
+It is also possible for a character to learn skills from their own party members. This requires 100 XP plus additional requirements. The requirements for such a process are detailed in each skill's description.
+
 ## Combat
 
 ### Initiative

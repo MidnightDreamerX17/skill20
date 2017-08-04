@@ -26,3 +26,11 @@ Possible Powers: At each level including the first, the character learns two psi
 - Level 39: 20th-circle powers
 
 Bonus Psionic Powers: The character gets a number of additional 0th-circle and 1st-circle psionic powers known equal to their Intelligence bonus. For example, a character with an Intelligence score of 16 will start with 3 additional 0th-circle powers and 3 additional 1st-circle powers.
+
+## Learning From Party Members
+
+Average Gold Cost: 500
+
+Average Training Time for 1st Skill Level: 6 months
+
+Access to minor psionic items. The trainer must have Psionic Potential Level 10.

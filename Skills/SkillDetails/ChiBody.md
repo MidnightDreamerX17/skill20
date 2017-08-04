@@ -13,3 +13,11 @@ Iron Body: This ability requires that the character is not wearing any armor, he
 Hagane Yoroi Ha: If the character also has the Chi Mysticism skill, then they can spend two Chi Power Points to cut the damage of a physical attack in half.
 
 Mahou Seki Ha: If the character also has the Chi Mysticism skill, then they can spend two Chi Power Points to cut the damage of a spell, power, breath, or psionic power in half.
+
+## Learning From Party Members
+
+Average Gold Cost: 500
+
+Average Training Time for 1st Skill Level: 3 months
+
+Training weapons for hitting the trainee with. Acupuncture needles, incense, and other supplies for modifying the trainee's energy flows. Herbal medicines. The trainer must have Chi Body Level 10.

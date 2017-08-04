@@ -17,3 +17,11 @@ Opposite of the correct race (e.g. Elf trying to wield a Dwarven Thrower) - Diff
 Different alignment (e.g. Neutral or non-aligned character trying to wield the Holy Avenger) - Difficulty +10
 
 Opposite of the correct alignment (e.g. Evil character trying to wield the Holy Avenger) - Difficulty +20
+
+## Learning From Party Members
+
+Average Gold Cost: 2,000
+
+Average Training Time for 1st Skill Level: 3 months
+
+Access to magic items that have various restrictions. The trainer must have Use Magic Device Level 10.

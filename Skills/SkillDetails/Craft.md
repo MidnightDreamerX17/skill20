@@ -38,3 +38,11 @@ Examples of Craft skills:
 - Traps
 - Weapons
 - \<Other Craft\>
+
+## Learning From Party Members
+
+Average Gold Cost: 100 to 1,000
+
+Average Training Time for 1st Skill Level: 3 to 6 months
+
+The supplies required depend on the type of crafting. Magic and psionic crafting requires the high end of the gold cost and training time. The trainer must have Craft Level 5 for mundane crafting, or Craft Level 10 for magic and psionic crafting.

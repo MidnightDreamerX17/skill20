@@ -24,3 +24,11 @@ First Attack: The target must not be in active combat awareness. If the target c
 - Stealth Level 32: +18 to attack, x7 damage
 - Stealth Level 36: +20 to attack, x8 damage
 - Stealth Level 40: +25 to attack, x10 damage
+
+## Learning From Party Members
+
+Average Gold Cost: 100
+
+Average Training Time for 1st Skill Level: 3 months
+
+Obstacle course with a variety of floor types. Training partners with acute senses. The trainer must have Stealth Level 10.
