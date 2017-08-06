@@ -1,0 +1,124 @@
+# Elf Bishop
+
+**Elf**
+
+**Self-Titled: Bishop**
+
+Lawful Neutral
+
+Experience Level: 1
+
+XP spent/total: 1,000 / 1,000
+
+HP: 0 / 0
+start at Constitution + 1d6
+
+## Stats
+
+AC: 10
+
+BtH: +0
+
+Damage: 0
+
+STR: 8 (-1)
+DEX: 10
+CON: 10
+INT: 16 (+3)
+WIS: 16 (+3)
+CHA: 10
+
+## Background & Traits
+
+Languages: Common, Planar Common, 
+
+Guild Ranks: Law Association 2nd rank, Neutral Association 2nd rank, Bishop Guild 2nd rank
+
+Advantage: Patron Guild: Bishop
+
+Disadvantage: Opposed God: A god of Chaotic Good
+
+Quirk: Aligned: Lawful Neutral
+
+## Skills
+
+Craft (INT) (Magic Focuses) - Level 1
+Knowledge (INT) (Religion) - Level 1
+Perform (CHA) (Oratory) - Level 1
+Profession (WIS) (Priest) - Level 1
+
+Cleric Potential (WIS) - Level 1
+Cleric Power (WIS) - Level 1
+Druid Potential (WIS) - Level 1
+Druid Power (WIS) - Level 1
+Wizard Potential (INT) - Level 1
+Wizard Power (INT) - Level 1
+
+## Abilities
+
+Highland Elf: +2 to bargaining, haggling, negotiation, contracts, trading, etc.
+
+## Magic
+
+Cleric Memorized:
+
+- 0th: Cure Minor Wounds, Detect Poison, Mending, Purify Food and Drink, Virtue
+- 1st: Bane, Command, Cure Light Wounds, Inflict Light Wounds
+
+Cleric Spell Energies:
+
+- 0th: 3 / 3
+- 1st: 2 / 2
+
+Druid Memorized:
+
+- 0th: Create Water, Flare, Light, Know Direction, Resistance
+- 1st: Entangle, Faerie Fire, Goodberry, Shillelagh, Summon Nature's Ally I
+
+Druid Spell Energies:
+
+- 0th: 3 / 3
+- 1st: 2 / 2
+
+Wizard Memorized:
+
+- 0th: Daze, Detect Magic, Mage Hand, Open/Close, Read Magic
+- 1st: Alarm, Charm Person, Identify, Magic Missile
+
+Wizard Spell Energies:
+
+- 0th: 3 / 3
+- 1st: 2 / 2
+
+## Equipment
+
+Gold: 160.00
+
+Wizard Spellbook:
+
+- 0th: Daze, Detect Magic, Mage Hand, Open/Close, Read Magic
+- 1st: Alarm, Charm Person, Identify, Magic Missile
+
+Loans:
+
+- 250.00 gold owed to Adventure Capital
+
+Backpack
+Bedroll
+Blanket, Winter
+Firewood, 7 days
+Fishhook
+Flint and Steel
+Lantern, Bullseye
+Mirror, Small Steel
+Oil, 1 pint
+Rations, Trail, for 7 days
+Rope, Hemp, 50 feet
+Soap, 2 pounds
+Tent
+Waterskin
+Whetstone
+
+## Will
+
+Leave it all to the Bishop Guild.

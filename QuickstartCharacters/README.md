@@ -13,7 +13,7 @@ These characters are meant to exemplify how Skill20 characters can be just like 
 
 These characters are more min-maxed, and are very lacking in other areas.
 
-- Bishop, Elf
+- [Bishop, Elf](/QuickstartCharacters/ElfBishop.txt)
 - Engineer, Dwarf
 - Fencer, Dhampire
 - Travelling Meditator, Orc Hybrid
