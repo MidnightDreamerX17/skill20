@@ -76,6 +76,8 @@
 
 **Low Attribute** - One of the character's attributes is decreased by 2.
 
+**Moon Madness** - During the three nights of the full moon, the character is unable to sleep while the full moon is out in the night sky. The character has a penalty of -2 to all d20 checks until they are able to rest for eight hours. The character also rolls a d20 in each full moon night to determine if they run around under the stars. On a roll of 1, they run around uncontrollable beneath the night sky while the full moon is showing.
+
 **Narcissistic Personality Disorder** - The character constantly suffers a penalty of -2 to all actions while other people are not doing exactly what the character says.
 
 **Natural Equipment Only** - The character must start with Melee Fighting and Armor Training skills in order to have this disadvantage. The character cannot use metal equipment unless it was made through one of the following methods:
@@ -103,6 +105,8 @@
 **Slow Starter** - The character only rolls 1d10 for initiative, rather than 1d100 + Dexterity score.
 
 **Spell Failure** - The character must start with the ability to memorize and cast 1st-circle spells in order to have a Spell Failure chance. The character has a percentage chance of failing spellcasting while wearing armor, equal to Armor Weight * 5%.
+
+**Static Burn** - The character must not sleep in the same place for more than 3 days in a row. Otherwise, they suffer a penalty of -2 to Intelligence and Charisma until they change their dwelling like a proper nomad.
 
 **Terminal Disorder** - The character's Constitution decreases by 1 at every Experience Level. This can only be removed by *Greater Restoration* or greater magical power.
 
