@@ -1,4 +1,4 @@
-# Elf Bishop
+# Robert Andrew
 
 **Elf**
 
@@ -10,8 +10,7 @@ Experience Level: 1
 
 XP spent/total: 1,000 / 1,000
 
-HP: 0 / 0
-start at Constitution + 1d6
+HP: 13 / 13
 
 ## Stats
 
@@ -30,7 +29,7 @@ CHA: 10
 
 ## Background & Traits
 
-Languages: Common, Planar Common, 
+Languages: Common, Planar Common, Rhetorican (All Lawful), Sequentialis Ordnan (Lawful Neutral)
 
 Guild Ranks: Law Association 2nd rank, Neutral Association 2nd rank, Bishop Guild 2nd rank
 

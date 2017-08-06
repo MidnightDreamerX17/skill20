@@ -1,0 +1,86 @@
+# Adrian Tapash
+
+**Dhampire**
+
+**Self-Titled: Fencer**
+
+Non-Aligned
+
+Experience Level: 1
+XP spent/total: 1,000 / 1,000
+
+HP: 13 / 13
+start at Constitution + 1d6
+
+## Stats
+
+AC: 14
+
+Melee BtH: +2
+
+Melee Damage: 5 psionic
+
+Ranged BtH: +4
+
+Ranged Damage: 5 psionic
+
+STR: 12 (+1)
+DEX: 16 (+3)
+CON: 10
+INT: 14 (+2)
+WIS: 10
+CHA: 10
+
+## Background & Traits
+
+Languages: Common, Ancient Common, Precursor
+
+## Skills
+
+Craft (INT) (specify) - Level 1
+Knowledge (INT) (specify) - Level 1
+Perform (CHA) (specify) - Level 1
+Profession (WIS) (specify) - Level 1
+
+Melee Fighting (STR) - Level 1
+Athletics (DEX) - Level 1
+Ranged Fighting (DEX) - Level 1
+Chi Body (CON) - Level 1
+Psy Blade (INT) - Level 1
+Persuasion (CHA) - Level 1
+
+## Abilities
+
+Dhampire: Acidic Blood: Take half damage from acid. Blood is highly acidic to other things.
+
+Dhampire: Entrancing Gaze: Charm Person, once per day
+
+Dhampire: Soul Eater: Can bite and eat spirits as if they were meat
+
+## Equipment
+
+Gold: 160.00
+
+Loans:
+
+- 250.00 gold owed to Adventure Capital
+
+Backpack
+Bedroll
+Blanket, Winter
+Firewood, 7 days
+Fishhook
+Flint and Steel
+Lantern, Bullseye
+Mirror, Small Steel
+Oil, 1 pint
+Rations, Trail, for 7 days
+Rope, Hemp, 50 feet
+Soap, 2 pounds
+Tent
+Waterskin
+Whetstone
+
+## Will
+
+Leave it all on the grave of my dear mother.
