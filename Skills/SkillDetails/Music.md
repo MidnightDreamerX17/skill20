@@ -1,6 +1,6 @@
 # Music (CHA)
 
-Magic Song: Magic Songs always last for one minute (6 combat rounds), unless otherwise noted for the song type. The number of songs per day is equal to half their Music Level. For example, a Music Level of 10 allows five songs per day. The bonus given by a Magic Song is equal to half their Music Level. The song type determines what the bonus is applied to:
+Magic Song: Magic Songs always last for one minute (6 combat rounds), unless otherwise noted for the song type. The number of songs per day is equal to half their Music Level, with at least one song per day at Music Level 1. For example, a Music Level of 10 allows five songs per day. The bonus given by a Magic Song is equal to half their Music Level, with at least a bonus of +1 at Music Level 1. The song type determines what the bonus is applied to:
 
 - Song of Aesthetic: Calm down crowds
 - Song of Battle: All attack accuracy rolls
