@@ -46,6 +46,7 @@
 - [Claw of Energy](/Psionics/C/ClawOfEnergy.md)
 - [Claws of the Beast](/Psionics/C/ClawsOfTheBeast)
 - [Claws of the Vampire](/Psionics/C/ClawsOfTheVampire.md)
+- [Clay Figurine](/Psionics/C/ClayFigurine.md)
 - [Cloud Mind](/Psionics/C/CloudMind.md)
 - [Cloud Mind, Mass](/Psionics/C/CloudMindMass.md)
 - [Compression](/Psionics/C/Compression.md)
@@ -88,6 +89,7 @@
 - [Dimension Swap](/Psionics/D/DimensionSwap.md)
 - [Dimensional Anchor, Psionic](/Psionics/D/DimensionalAnchorPsionic.md)
 - [Disable](/Psionics/D/Disable.md)
+- [Disappearing Trick](/Psionics/D/DisappearingTrick.md)
 - [Disintegrate, Psionic](/Psionics/D/DisintegratePsionic.md)
 - [Dismissal, Psionic](/Psionics/D/DismissalPsionic.md)
 - [Dismiss Ectoplasm](/Psionics/D/DismissEctoplasm.md)
@@ -132,3 +134,19 @@
 - [Energy Wall](/Psionics/E/EnergyWall.md)
 - [Energy Wave](/Psionics/E/EnergyWave.md)
 - [Entangling Ectoplasm](/Psionics/E/EntanglingEctoplasm.md)
+
+## H
+
+- [Hand Eye](/Psionics/H/HandEye.md)
+
+## M
+
+- [Microlevitation](/Psionics/M/Microlevitation.md)
+
+## S
+
+- [Self Immolation](/Psionics/S/SelfImmolation.md)
+
+## T
+
+- [Touch Speech](/Psionics/T/TouchSpeech.md)

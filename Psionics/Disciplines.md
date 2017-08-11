@@ -24,12 +24,14 @@ The psionic disciplines are as follows:
 - [Detect Remote Viewing](/Psionics/D/DetectRemoteViewing.md)
 - [Detect Teleportation](/Psionics/D/DetectTeleportation.md)
 - [Divination, Psionic](/Psionics/D/DivinationPsionic.md)
+- [Hand Eye](/Psionics/H/HandEye.md)
 
 ## Metacreativity
 
 - [Astral Construct](/Psionics/A/AstralConstruct.md)
 - [Astral Seed](/Psionics/A/AstralSeed.md)
 - [Bolt](/Psionics/B/Bolt.md)
+- [Clay Figurine](/Psionics/C/ClayFigurine.md)
 - [Concealing Amorpha](/Psionics/C/ConcealingAmorpha.md)
 - [Concealing Amorpha, Greater](/Psionics/C/ConcealingAmorphaGreater.md)
 - [Create Sound](/Psionics/C/CreateSound.md)
@@ -65,6 +67,7 @@ The psionic disciplines are as follows:
 - [Energy Ray](/Psionics/E/EnergyRay.md)
 - [Energy Retort](/Psionics/E/EnergyRetort.md)
 - [Energy Wave](/Psionics/E/EnergyWave.md)
+- [Microlevitation](/Psionics/M/Microlevitation.md)
 
 ## Psychometabolism
 
@@ -91,6 +94,7 @@ The psionic disciplines are as follows:
 - [Energy Adaptation](/Psionics/E/EnergyAdaptation.md)
 - [Energy Adaptation, Specified](/Psionics/E/EnergyAdaptationSpecified.md)
 - [Energy Conversion](/Psionics/E/EnergyConversion.md)
+- [Self Immolation](/Psionics/S/SelfImmolation.md)
 
 ## Psychoportation
 
@@ -107,6 +111,7 @@ The psionic disciplines are as follows:
 - [Dimension Slide](/Psionics/D/DimensionSlide.md)
 - [Dimension Swap](/Psionics/D/DimensionSwap.md)
 - [Dimensional Anchor, Psionic](/Psionics/D/DimensionalAnchorPsionic.md)
+- [Disappearing Trick](/Psionics/D/DisappearingTrick.md)
 - [Disintegrate, Psionic](/Psionics/D/DisintegratePsionic.md)
 - [Dismissal, Psionic](/Psionics/D/DismissalPsionic.md)
 - [Dissipating Touch.md](/Psionics/D/DissipatingTouch.md)
@@ -144,3 +149,4 @@ The psionic disciplines are as follows:
 - [Empathic Transfer, Hostile](/Psionics/E/EmpathicTransferHostile.md)
 - [Empathy](/Psionics/E/Empathy.md)
 - [Empty Mind](/Psionics/E/EmptyMind.md)
+- [Touch Speech](/Psionics/T/TouchSpeech.md)

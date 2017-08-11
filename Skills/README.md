@@ -55,14 +55,15 @@
 
 ### Charisma
 
-- [Avenging (CHA)](/Skills/SkillDetails/Avenging.md)
+- [Avenging (CHA) (Aligned)](/Skills/SkillDetails/Avenging.md)
 - [Charisma Training (CHA) (Advanced)](/Skills/SkillDetails/CharismaTraining.md)
 - [Music (CHA)](/Skills/SkillDetails/Music.md)
 - [Perform (CHA) (Specific)](/Skills/SkillDetails/Perform.md)
 - [Persuasion (CHA)](/Skills/SkillDetails/Persuasion.md)
 - [Sorcery (CHA)](/Skills/SkillDetails/Sorcery.md)
-- [True Faith (CHA)](/Skills/SkillDetails/TrueFaith.md)
+- [True Faith (CHA) (Aligned)](/Skills/SkillDetails/TrueFaith.md)
 - [Use Magic Device (CHA)](/Skills/SkillDetails/UseMagicDevice.md)
+- [Use Psionic Device (CHA)](/Skills/SkillDetails/UsePsionicDevice.md)
 - [Warlock Pacts (CHA)](/Skills/SkillDetails/WarlockPacts.md)
 
 ## Skills Index by skill name first
@@ -71,7 +72,7 @@
 - [Animals (WIS)](/Skills/SkillDetails/Animals.md)
 - [Armor Training (CON)](/Skills/SkillDetails/ArmorTraining.md)
 - [Athletics (DEX)](/Skills/SkillDetails/Athletics.md)
-- [Avenging (CHA)](/Skills/SkillDetails/Avenging.md)
+- [Avenging (CHA) (Aligned)](/Skills/SkillDetails/Avenging.md)
 - [Barbaric Rage (STR)](/Skills/SkillDetails/BarbaricRage.md)
 - [Charisma Training (CHA) (Advanced)](/Skills/SkillDetails/CharismaTraining.md)
 - [Chi Body (CON)](/Skills/SkillDetails/ChiBody.md)
@@ -106,7 +107,7 @@
 - [Strength Training (STR) (Advanced)](/Skills/SkillDetails/StrengthTraining.md)
 - [Survival (WIS)](/Skills/SkillDetails/Survival.md)
 - [Traps (INT)](/Skills/SkillDetails/Traps.md)
-- [True Faith (CHA)](/Skills/SkillDetails/TrueFaith.md)
+- [True Faith (CHA) (Aligned)](/Skills/SkillDetails/TrueFaith.md)
 - [Use Magic Device (CHA)](/Skills/SkillDetails/UseMagicDevice.md)
 - [Use Psionic Device (CHA)](/Skills/SkillDetails/UsePsionicDevice.md)
 - [Warlock Pacts (CHA)](/Skills/SkillDetails/WarlockPacts.md)

@@ -2,6 +2,13 @@
 
 ## 0th Circle
 
+- [Clay Figurine](/Psionics/C/ClayFigurine.md)
+- [Disappearing Trick](/Psionics/D/DisappearingTrick.md)
+- [Hand Eye](/Psionics/H/HandEye.md)
+- [Microlevitation](/Psionics/M/Microlevitation.md)
+- [Self Immolation](/Psionics/S/SelfImmolation.md)
+- [Touch Speech](/Psionics/T/TouchSpeech.md)
+
 ## 1st Circle
 
 - [Attraction](/Psionics/A/Attraction.md)

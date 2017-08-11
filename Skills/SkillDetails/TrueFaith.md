@@ -1,4 +1,6 @@
-# True Faith (CHA)
+# True Faith (CHA) (Aligned)
+
+The True Faith skill requires its users to be Lawful Good.
 
 Aura of Faith: For all saving throws, both for the character and for all allies, the True Faith Level may be used instead of Experience Level. The one making the saving throw chooses which is more favorable at the time of the check.
 

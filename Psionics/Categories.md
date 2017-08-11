@@ -16,6 +16,7 @@ The psionic categories are as follows:
 - [Chameleon](/Psionics/C/Chameleon.md)
 - [Ectoplasmic Form](/Psionics/E/EctoplasmicForm.md)
 - [Empathic Transfer](/Psionics/E/EmpathicTransfer.md)
+- [Self Immolation](/Psionics/S/SelfImmolation.md)
 
 ## Kineticist
 
@@ -27,6 +28,7 @@ The psionic categories are as follows:
 - [Energy Cone](/Psionics/E/EnergyCone.md)
 - [Energy Current](/Psionics/E/EnergyCurrent.md)
 - [Energy Missile](/Psionics/E/EnergyMissile.md)
+- [Microlevitation](/Psionics/M/Microlevitation.md)
 
 ## Nomad
 
@@ -37,6 +39,7 @@ The psionic categories are as follows:
 - [Detect Teleportation](/Psionics/D/DetectTeleportation.md)
 - [Dimension Swap](/Psionics/D/DimensionSwap.md)
 - [Dimensional Anchor, Psionic](/Psionics/D/DimensionalAnchorPsionic.md)
+- [Disappearing Trick](/Psionics/D/DisappearingTrick.md)
 - [Dismissal, Psionic](/Psionics/D/DismissalPsionic.md)
 - [Dream Travel](/Psionics/D/DreamTravel.md)
 
@@ -133,11 +136,13 @@ The psionic categories are as follows:
 - [Clairtangent Hand](/Psionics/C/ClairtangentHand.md)
 - [Clairvoyant Sense](/Psionics/C/ClairvoyantSense)
 - [Destiny Dissonance](/Psionics/D/DestinyDissonance.md)
+- [Hand Eye](/Psionics/H/HandEye.md)
 
 ## Shaper
 
 - [Astral Construct](/Psionics/A/AstralConstruct.md)
 - [Astral Seed](/Psionics/A/AstralSeed.md)
+- [Clay Figurine](/Psionics/C/ClayFigurine.md)
 - [Concealing Amorpha, Greater](/Psionics/C/ConcealingAmorphaGreater.md)
 - [Crystallize](/Psionics/C/Crystallize.md)
 - [Ectoplasmic Cocoon](/Psionics/E/EctoplasmicCocoon.md)
@@ -152,3 +157,4 @@ The psionic categories are as follows:
 - [Crisis of Life](/Psionics/C/CrisisOfLife.md)
 - [Dominate, Psionic](/Psionics/D/DominatePsionic.md)
 - [Empathic Transfer, Hostile](/Psionics/E/EmpathicTransferHostile.md)
+- [Touch Speech](/Psionics/T/TouchSpeech.md)

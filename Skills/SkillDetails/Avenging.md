@@ -1,4 +1,6 @@
-# Avenging (CHA)
+# Avenging (CHA) (Aligned)
+
+The Avenging skill requires its users to be Chaotic.
 
 Aura of Clear Mindedness: The character can use Avenging skill as a replacement for any saving throw against mind-affecting magic, both for themself and for all allies.
 
