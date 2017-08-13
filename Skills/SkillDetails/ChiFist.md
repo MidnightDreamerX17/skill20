@@ -12,7 +12,7 @@ Weapon Channelling: The character improves weapon accuracy and damage, both rang
 
 Hagane Ken: If the character also has the Chi Mysticism skill, then they can spend two Chi Power Points in combination with a full defense action. This adds Chi Fist level to their Armor Class for as long as the full defense is maintained.
 
-Juurensha Ken: If the character also has the Chi Mysticism, then they can spend a Chi Power Point to do one additional attack in the round.
+Juurensha Ken: If the character also has the Chi Mysticism, then they can spend two Chi Power Points to do one additional attack in the round.
 
 Noushintou Ken: If the character also has the Chi Mysticism skill, then they can spend a Chi Power Point to add the stunning effect to an attack. This usage must be declared before rolling attack accuracy.
 
