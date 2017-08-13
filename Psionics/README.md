@@ -92,7 +92,7 @@ First, the character must provide a certain amount of gold value in materials. T
 
 Second, the character must make one skill check per day, accumulating a total throughout multiple days, until the threshold difficulty is exceeded.
 
-Psionic Tattoos require only one hour of inscription per day. Psionic Tattoos do not finish faster than other manifestation items, but up to ten can be worked-on per day.
+**Psionic Tattoos** require only one hour of inscription per day. Psionic Tattoos do not finish faster than other manifestation items, but up to ten can be worked-on per day. On the other hand, they have the limitation of no more than one tattoo for the same power on a person at a time.
 
 The skill used for crafting is Craft (INT) (Psionic Focuses)
 
