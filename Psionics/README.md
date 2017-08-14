@@ -75,9 +75,9 @@ The common market value per use of an item is as follows:
 
 Manifestation items include and are not limited to:
 
-- **Dorjes** - Crystals with multiple uses.
+- **Dorjes** - Crystals with multiple uses. They take up a whole hand to use.
 - **Power Stones** - Stones with a single use each.
-- **Psicrowns** - Items worn on the head, with multiple uses.
+- **Psicrowns** - Items worn on the head, with multiple uses. They are not compatible with any other headgear.
 - **Psionic Tattoos** - Psionic inks inscribed into your skin. Each tattoo is a single use.
 
 In order to use a manifestation item, you must have an Intelligence equal to 10 + Power Circle.
