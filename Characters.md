@@ -14,10 +14,11 @@
 6. Choose 1 [Knowledge](/Skills/SkillDetails/Knowledge.md) skill
 7. Choose 1 [Perform](/Skills/SkillDetails/Perform.md) skill
 8. Choose 1 [Profession](/Skills/SkillDetails/Profession.md) skill
-9. Choose 6 additional starting [skills](/Skills). These skills start at Level 1 each, with enough experience points to stay at Level 1. Skills marked as "Advanced" cannot be chosen at the start.
-10. Choose [Languages](/Languages.md). All characters start with a number of languages equal to 1 + their Intelligence modifier. If the character's Intelligence modifier is -1, then they are illiterate. If the character's Intelligence modifier is -2, then they start talking dumb. If the character's Intelligence modifier is -3, then they randomly shout words that make no sense. If the character's Intelligence modifier is -4 then they cannot even understand exaggerated facial expressions or body language.
-11. If the character starts with magic skills which require a spellbook, then they start with as many spells in their spellbook as they are able to memorize.
-12. Start with a 200 gold loan provided by Adventure Capital. This loan needs to be repaid with additional interest of 50 gold within 60 days of the game's start time.
+9. Choose 6 additional starting [skills](/Skills).
+10. All starting skills start at 100 XP (Skill Level 1).
+11. Choose [Languages](/Languages.md). All characters start with a number of languages equal to 1 + their Intelligence modifier. If the character's Intelligence modifier is -1, then they are illiterate. If the character's Intelligence modifier is -2, then they start talking dumb. If the character's Intelligence modifier is -3, then they randomly shout words that make no sense. If the character's Intelligence modifier is -4 then they cannot even understand exaggerated facial expressions or body language.
+12. If the character starts with magic skills which require a spellbook, then they start with as many spells in their spellbook as they are able to memorize.
+13. Start with a 200 gold loan provided by Adventure Capital. This loan needs to be repaid with additional interest of 50 gold within 60 days of the game's start time.
 
 ## Attributes
 
@@ -43,7 +44,9 @@ There are many possible methods of determining attribute numbers. The GM chooses
 9. Method 9: Roll 24 dice, drop the lowest six dice, then group up the remaining 18 dice into 6 triplets. Assign each triplet to an attribute.
 10. Method 10: Allow the players to write whatever attribute numbers they want, up to a maximum of 18 per attribute. The GM then chooses whether to approve each set of numbers. This method is based on the idea that the GM can write in whatever monsters they want, and having attributes of all 18 is equivalent to having only 2 more experience levels.
 
-Attribute numbers cause bonuses or penalties to d20 rolls based on attributes.
+The most common method for attribute numbers is Method 4, but the method is ultimately decided by the GM.
+
+Attribute numbers cause bonuses or penalties to d20 rolls based on attributes. These are called the "modifiers" of the attributes. For example, with a Strength of 16, the "Strength Modifier" is +3.
 
 | Number | Modifier |
 | ---    | ---      |
@@ -105,6 +108,8 @@ The skill level of each skill is determined by the number of experience points a
 | **20** | 21000 | **40** | 82000 | **60** | 183000 |
 
 There is no limit to skill level, but it is considered highly unlikely that level 61 would be reached for any skill.
+
+Since experience level cannot be higher than the tenth-highest skill level, the numbers in the table can be multiplied by 10 to determine the minimum XP required to gain experience levels. It is expected that most characters will need more XP than that, as some of their XP will be spent on buying additional skills.
 
 ### Experience Level
 

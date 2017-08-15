@@ -5,7 +5,7 @@
 Alignment (or "Non-Aligned")
 
 Experience Level: 1
-XP spent/total: 0 / 0
+XP spent/total: 1000 / 1000
 
 HP: 0 / 0
 start at Constitution + 1d6
@@ -29,11 +29,17 @@ Languages: Common, ...
 
 ## Skills
 
-Craft (INT) (specify) - Level 1
-Knowledge (INT) (specify) - Level 1
-Perform (CHA) (specify) - Level 1
-Profession (WIS) (specify) - Level 1
-6 skills of choice at Level 1
+Craft (INT) (specify) - 100 XP - Level 1
+Knowledge (INT) (specify) - 100 XP - Level 1
+Perform (CHA) (specify) - 100 XP - Level 1
+Profession (WIS) (specify) - 100 XP - Level 1
+
+1st skill of choice - 100 XP - Level 1
+2nd skill of choice - 100 XP - Level 1
+3rd skill of choice - 100 XP - Level 1
+4th skill of choice - 100 XP - Level 1
+5th skill of choice - 100 XP - Level 1
+6th skill of choice - 100 XP - Level 1
 
 ## Abilities / Spells
 
