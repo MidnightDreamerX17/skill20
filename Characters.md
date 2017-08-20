@@ -20,6 +20,13 @@
 12. If the character starts with magic skills which require a spellbook, then they start with as many spells in their spellbook as they are able to memorize.
 13. Start with a 200 gold loan provided by Adventure Capital. This loan needs to be repaid with additional interest of 50 gold within 60 days of the game's start time.
 
+**Note on Magic Skills:** Having a **Potential** skill by itself will not grant the ability to cast those spells normally. Having a **Power** skill by itself will not grant the ability to memorize them normally. Therefore, replicating normal D&D spellcasting ability requires both a **Potential** and **Power** skill. It is still possible to do things like:
+
+- Have only Wizard Power (INT), and memorize spells from a library of Books of One Spell. Being a member of a guild that possesses such a library would make this lifestyle less expensive.
+- Have only Cleric Power (WIS), and rely on Warlock Pacts (CHA) for access to spells.
+- Have only Druid Potential (WIS) just for the shapechanging.
+- The GM could remove **Power** skills entirely, leaving the **Potential** skills as representations of various types of secret lore.
+
 ## Attributes
 
 There are six attributes.

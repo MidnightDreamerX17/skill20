@@ -1,6 +1,6 @@
 # Druid Power (WIS)
 
-The Druid Power skill is intended to be used in combination with the Druid Potential skill. There may be special situations that may allow usage of Druid Memorization Slots and Druid Spell Energies in other ways.
+The Druid Power skill is normally used in combination with the Druid Potential skill. There may be special situations that may allow usage of Druid Memorization Slots and Druid Spell Energies in other ways.
 
 Druid Spells Memorized: Always 2 higher than the number of spell energies for each circle.
 

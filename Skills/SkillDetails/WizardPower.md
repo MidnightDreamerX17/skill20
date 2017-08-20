@@ -1,5 +1,7 @@
 # Wizard Power (INT)
 
+The Wizard Power skill is normally used in combination with the Wizard Potential skill. There may be special situations that may allow usage of Wizard Memorization Slots and Wizard Spell Energies in other ways.
+
 Wizard Spells Memorized: Always 2 higher than the number of spell slots for each circle.
 
 Bonus Slots: Characters get one bonus slot for spell circles depending on their Intelligence modifier. For example, a character with an Intelligence of 16 will get a bonus slot for the 0th, 1st, 2nd, and 3rd spell circles.

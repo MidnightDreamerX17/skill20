@@ -1,5 +1,7 @@
 # Illusionist Power (INT)
 
+The Illusionist Power skill is normally used in combination with the Illusionist Potential skill. There may be special situations that may allow usage of Illusionist Memorization Slots and Illusionist Spell Energies in other ways.
+
 Illusionist Spells Memorized: Always 2 higher than the number of spell energies for each circle.
 
 Bonus Slots: Characters get one bonus spell energy for spell circles depending on their Intelligence modifier. For example, a character with an Intelligence of 16 will get a bonus spell energy for the 0th, 1st, 2nd, and 3rd spell circles.
