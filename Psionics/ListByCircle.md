@@ -60,6 +60,7 @@
 - [Elfsight](/Psionics/E/Elfsight.md)
 - [Energy Adaptation, Specified](/Psionics/E/EnergyAdaptationSpecified.md)
 - [Energy Push](/Psionics/E/EnergyPush.md)
+- [Expansion](/Psionics/E/Expansion.md)
 
 ## 3rd Circle
 
@@ -83,6 +84,7 @@
 - [Energy Missile](/Psionics/E/EnergyMissile.md)
 - [Energy Retort](/Psionics/E/EnergyRetort.md)
 - [Energy Wall](/Psionics/E/EnergyWall.md)
+- [Eradicate Invisibility](/Psionics/E/EradicateInvisibility.md)
 
 ## 4th Circle
 
@@ -104,6 +106,9 @@
 - [Empathic Transfer, Hostile](/Psionics/E/EmpathicTransferHostile.md)
 - [Energy Adaptation](/Psionics/E/EnergyAdaptation.md)
 - [Energy Cone](/Psionics/E/EnergyCone.md)
+- [Escape Detection](/Psionics/E/EscapeDetection.md)
+- [Evade Burst](/Psionics/E/EvadeBurst.md)
+- [Exhalation of the Black Dragon](/Psionics/ExhalationOfTheBlackDragon.md)
 
 ## 5th Circle
 
@@ -146,6 +151,7 @@
 - [Crisis of Life](/Psionics/C/CrisisOfLife.md)
 - [Dream Travel](/Psionics/D/DreamTravel.md)
 - [Ectoplasmic Cocoon, Mass](/Psionics/E/EctoplasmicCocoonMass.md)
+- [Ethereal Jaunt, Psionic](/Psionics/E/EtherealJaunt.md)
 
 ## 9th Circle
 
@@ -153,3 +159,4 @@
 - [Apopsi](/Psionics/A/Apopsi.md)
 - [Assimilate](/Psionics/A/Assimilate.md)
 - [Astral Seed](/Psionics/A/AstralSeed.md)
+- [Etherealness, Psionic](/Psionics/E/EtherealnessPsionic.md)

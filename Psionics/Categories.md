@@ -42,6 +42,7 @@ The psionic categories are as follows:
 - [Disappearing Trick](/Psionics/D/DisappearingTrick.md)
 - [Dismissal, Psionic](/Psionics/D/DismissalPsionic.md)
 - [Dream Travel](/Psionics/D/DreamTravel.md)
+- [Ethereal Jaunt, Psionic](/Psionics/E/EtherealJaunt.md)
 
 ## Power (cannot be specialized or opposed)
 
@@ -106,6 +107,8 @@ The psionic categories are as follows:
 - [Energy Wall](/Psionics/E/EnergyWall.md)
 - [Energy Wave](/Psionics/E/EnergyWave.md)
 - [Entangling Ectoplasm](/Psionics/E/EntanglingEctoplasm.md)
+- [Eradicate Invisibility](/Psionics/E/EradicateInvisibility.md)
+- [Etherealness, Psionic](/Psionics/E/EtherealnessPsionic.md)
 
 ## Warrior
 
@@ -129,6 +132,9 @@ The psionic categories are as follows:
 - [Dissolving Touch](/Psionics/D/DissolvingTouch.md)
 - [Dissolving Weapon](/Psionics/D/DissolvingWeapon.md)
 - [Duodimensional Claw](/Psionics/D/DuodimensionalClaw.md)
+- [Evade Burst](/Psionics/E/EvadeBurst.md)
+- [Exhalation of the Black Dragon](/Psionics/ExhalationOfTheBlackDragon.md)
+- [Expansion](/Psionics/E/Expansion.md)
 
 ## Seer
 
@@ -136,6 +142,7 @@ The psionic categories are as follows:
 - [Clairtangent Hand](/Psionics/C/ClairtangentHand.md)
 - [Clairvoyant Sense](/Psionics/C/ClairvoyantSense)
 - [Destiny Dissonance](/Psionics/D/DestinyDissonance.md)
+- [Escape Detection](/Psionics/E/EscapeDetection.md)
 - [Hand Eye](/Psionics/H/HandEye.md)
 
 ## Shaper

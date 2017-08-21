@@ -134,6 +134,13 @@
 - [Energy Wall](/Psionics/E/EnergyWall.md)
 - [Energy Wave](/Psionics/E/EnergyWave.md)
 - [Entangling Ectoplasm](/Psionics/E/EntanglingEctoplasm.md)
+- [Eradicate Invisibility](/Psionics/E/EradicateInvisibility.md)
+- [Escape Detection](/Psionics/E/EscapeDetection.md)
+- [Ethereal Jaunt, Psionic](/Psionics/E/EtherealJaunt.md)
+- [Etherealness, Psionic](/Psionics/E/EtherealnessPsionic.md)
+- [Evade Burst](/Psionics/E/EvadeBurst.md)
+- [Exhalation of the Black Dragon](/Psionics/ExhalationOfTheBlackDragon.md)
+- [Expansion](/Psionics/E/Expansion.md)
 
 ## H
 

@@ -24,6 +24,7 @@ The psionic disciplines are as follows:
 - [Detect Remote Viewing](/Psionics/D/DetectRemoteViewing.md)
 - [Detect Teleportation](/Psionics/D/DetectTeleportation.md)
 - [Divination, Psionic](/Psionics/D/DivinationPsionic.md)
+- [Escape Detection](/Psionics/E/EscapeDetection.md)
 - [Hand Eye](/Psionics/H/HandEye.md)
 
 ## Metacreativity
@@ -67,6 +68,7 @@ The psionic disciplines are as follows:
 - [Energy Ray](/Psionics/E/EnergyRay.md)
 - [Energy Retort](/Psionics/E/EnergyRetort.md)
 - [Energy Wave](/Psionics/E/EnergyWave.md)
+- [Eradicate Invisibility](/Psionics/E/EradicateInvisibility.md)
 - [Microlevitation](/Psionics/M/Microlevitation.md)
 
 ## Psychometabolism
@@ -94,6 +96,9 @@ The psionic disciplines are as follows:
 - [Energy Adaptation](/Psionics/E/EnergyAdaptation.md)
 - [Energy Adaptation, Specified](/Psionics/E/EnergyAdaptationSpecified.md)
 - [Energy Conversion](/Psionics/E/EnergyConversion.md)
+- [Evade Burst](/Psionics/E/EvadeBurst.md)
+- [Exhalation of the Black Dragon](/Psionics/ExhalationOfTheBlackDragon.md)
+- [Expansion](/Psionics/E/Expansion.md)
 - [Self Immolation](/Psionics/S/SelfImmolation.md)
 
 ## Psychoportation
@@ -117,6 +122,8 @@ The psionic disciplines are as follows:
 - [Dissipating Touch.md](/Psionics/D/DissipatingTouch.md)
 - [Divert Teleport](/Psionics/D/DivertTeleport.md)
 - [Dream Travel](/Psionics/D/DreamTravel.md)
+- [Ethereal Jaunt, Psionic](/Psionics/E/EtherealJaunt.md)
+- [Etherealness, Psionic](/Psionics/E/EtherealnessPsionic.md)
 
 ## Telepathy
 
