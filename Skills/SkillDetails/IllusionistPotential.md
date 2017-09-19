@@ -2,6 +2,8 @@
 
 Illusionist Magic derives from the inherent magical power that exists in all sentient beings, as well as the primordial magical planes where beliefs, dreams, and imaginations reside. It requires a great amount of practice and refinement.
 
+The Illusionist Potential skill is intended be used in combination with the Illusionist Power (INT) skill. It has some use by itself for reading illusionist scrolls, and in a low-magic world, that may be all that this skill does.
+
 Possible Spells: In combination with the Illusionist Power (INT) skill, the character can use their Illusionist Memorization Slots and Illusionist Spell Energies as follows:
 
 - Level 1: 1st-circle spells

@@ -23,11 +23,11 @@ Quick Overview of the Example Guilds:
 - **[Avenger](/ExampleGuilds/Avenger.md)** - Using one's force of personality and inherent potential to express base desires. Rejecting any social norms that are considered "old-fashioned."
 - **[Barbarian](/ExampleGuilds/Barbarian.md)** - Not against technology or shamanic magic, but very much against any form of societal organization other than tribalism. The Barbarian Guild is held together by the strength and tribal ties of the guildmasters.
 - **[Bard](/ExampleGuilds/Bard.md)** - Taking a little bit of everything and infusing it into magical music.
-- **Bishop** - Knowing everything possible, including all forms of magic, psionics, alchemy, item lore, and other non-physical disciplines. Strongly linked to the Knowledge Union, but enemy of many of the other magical guilds.
-- **Brawler** - Bare-fisted combat is the purest possible form of fighting. Linked to the Gladiator Guild.
-- **Cavalier** - Bravely going forth and doing great deeds. Linked to the Knight Guild.
-- **Chaos Association** - Opposed to the Law Association. One of the least helpful associations ever, unless you know how to meet the right people and learn from them.
-- **Cleric** - Linked to all of the Associations. They follow gods and religions, and preach them to others.
+- **[Bishop](/ExampleGuilds/Bishop.md)** - Knowing everything possible, including all forms of magic, psionics, alchemy, item lore, and other non-physical disciplines. Strongly linked to the Knowledge Union, but enemy of many of the other magical guilds.
+- **[Brawler](/ExampleGuilds/Brawler.md)** - Bare-fisted combat is the purest possible form of fighting. Linked to the Gladiator Guild.
+- **[Cavalier](/ExampleGuilds/Cavalier.md)** - Bravely going forth and doing great deeds. Linked to the Knight Guild.
+- **[Chaos Association](/ExampleGuilds/ChaosAssociation.md)** - Opposed to the Law Association. One of the least helpful associations ever, unless you know how to meet the right people and learn from them.
+- **[Cleric](/ExampleGuilds/Cleric.md)** - Linked to all of the Associations. They follow gods and religions, and preach them to others.
 - **Crafting Union** - The economic engine of the big cities.
 - **Druid** - Strongly linked to the Neutral Association and the Ranger Guild.
 - **Duellist** - Honor, finesse, skill, and artistry.

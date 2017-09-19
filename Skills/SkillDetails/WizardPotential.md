@@ -2,6 +2,8 @@
 
 Wizard Magic is based on study, grasping complex concepts, and trying to focus on magic by itself without any other distractions. Such a style of magic typically requires a large amount of formal education. That failing, much practice is required in order to master it.
 
+The Wizard Potential skill is intended be used in combination with the Wizard Power (INT) skill. It has some use by itself for reading wizard scrolls, and in a low-magic world, that may be all that this skill does.
+
 Possible Spells: In combination with the Wizard Power (INT) skill, the character can use their Wizard Memorization Slots and Wizard Spell Energies as follows:
 
 - Level 1: 1st-circle spells

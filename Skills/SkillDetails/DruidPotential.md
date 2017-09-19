@@ -2,6 +2,8 @@
 
 Druid Magic comes from nature, the soil, the trees, all nearby animals and insects, the air, the sun, the moon, the stars, and everything else in the environment. Typically, only those who actually like nature will have the patience to utilize Druid Magic.
 
+The Druid Potential skill is intended be used in combination with the Druid Power (WIS) skill. It has some use by itself for reading druid scrolls and wildshaping, and in a low-magic world, that may be all that this skill does.
+
 Possible Spells: In combination with the Druid Power (WIS) skill, the character can use their Druid Memorization Slots and Druid Spell Energies as follows:
 
 - Level 1: 1st-circle spells

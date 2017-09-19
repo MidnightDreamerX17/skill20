@@ -2,6 +2,8 @@
 
 Cleric Magic draws from the power of the gods, focusing it into a form that fits the typical actions and blessings of the gods. Even those who do not worship the gods must still acknowledge their existence, power, and immortality in order to use cleric magic.
 
+The Cleric Potential skill is intended be used in combination with the Cleric Power (WIS) skill. It has some use by itself for reading cleric scrolls and dealing with undead, and in a low-magic world, that may be all that this skill does.
+
 Possible Spells: In combination with the Cleric Power (WIS) skill, the character can use their Cleric Memorization Slots and Cleric Spell Energies as follows:
 
 - Level 1: 1st-circle spells
