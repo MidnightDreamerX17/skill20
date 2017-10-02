@@ -28,20 +28,20 @@ Quick Overview of the Example Guilds:
 - **[Cavalier](/ExampleGuilds/Cavalier.md)** - Bravely going forth and doing great deeds. Linked to the Knight Guild.
 - **[Chaos Association](/ExampleGuilds/ChaosAssociation.md)** - Opposed to the Law Association. One of the least helpful associations ever, unless you know how to meet the right people and learn from them.
 - **[Cleric](/ExampleGuilds/Cleric.md)** - Linked to all of the Associations. They follow gods and religions, and preach them to others.
-- **Crafting Union** - The economic engine of the big cities.
-- **Druid** - Strongly linked to the Neutral Association and the Ranger Guild.
-- **Duellist** - Honor, finesse, skill, and artistry.
-- **Engineer** - Technological masters. But, their methods are considered to be inefficient and of excessive cost, when compared to the supernatural. Nowadays, engineers must adapt by incorporating magical artifacts into their technology.
-- **Evil Association** - Opposed to the Good Association. Incredibly high attrition and backstabbing rate. It is rumored that they rely on cloning, summoning, fertility drugs, engineering people from birth, and other such methods in order to maintain their numbers. Other than personnel, though, they do have great resources that are competitive with the other associations and guilds.
-- **Fighter** - Encompassing fighting in all its forms.
-- **Gladiator** - Single combat for public entertainment. Linked to the Brawler Guild.
-- **Good Association** - Opposed to the Evil Association. They seek to help out everyone in need, although they have internal debates about how that should be done.
-- **Hierophant** - Combining both Cleric and Druid magic in order to grasp all that is divine.
-- **Illusionist** - Dreamers and visionaries who tap into the power of the many Dream Planes.
-- **Inquisitor** - There is no such thing as innocence, only degrees of guilt. Strongly linked to the Law Association. The enemy of many guilds.
-- **Kensei** - The art of the sword, taken to its maximum possible extreme.
-- **Knight** - Feudal warriors who also manage farmland.
-- **Knowledge Union** - They believe that their trades are what separate sentient beings from non-sentients. Strongly linked to the Bishop Guild and the Sage Guild.
+- **[Crafting Union](/ExampleGuilds/CraftingUnion.md)** - The economic engine of the big cities.
+- **[Druid](/ExampleGuilds/Druid.md)** - Strongly linked to the Neutral Association and the Ranger Guild.
+- **[Duellist](/ExampleGuilds/Duellist.md)** - Honor, finesse, skill, and artistry.
+- **[Engineer](/ExampleGuilds/Engineer.md)** - Technological masters. But, their methods are considered to be inefficient and of excessive cost, when compared to the supernatural. Nowadays, engineers must adapt by incorporating magical artifacts into their technology.
+- **[Evil Association](/ExampleGuilds/EvilAssociation.md)** - Opposed to the Good Association. Incredibly high attrition and backstabbing rate. It is rumored that they rely on cloning, summoning, fertility drugs, engineering people from birth, and other such methods in order to maintain their numbers. Other than personnel, though, they do have great resources that are competitive with the other associations and guilds.
+- **[Fighter](/ExampleGuilds/Fighter.md)** - Encompassing fighting in all its forms.
+- **[Gladiator](/ExampleGuilds/Gladiator.md)** - Single combat for public entertainment. Linked to the Brawler Guild.
+- **[Good Association](/ExampleGuilds/GoodAssociation.md)** - Opposed to the Evil Association. They seek to help out everyone in need, although they have internal debates about how that should be done.
+- **[Hierophant](/ExampleGuilds/Hierophant.md)** - Combining both Cleric and Druid magic in order to grasp all that is divine.
+- **[Illusionist](/ExampleGuilds/Illusionist.md)** - Dreamers and visionaries who tap into the power of the many Dream Planes.
+- **[Inquisitor](/ExampleGuilds/Inquisitor.md)** - There is no such thing as innocence, only degrees of guilt. Strongly linked to the Law Association. The enemy of many guilds.
+- **[Kensei](/ExampleGuilds/Kensei.md)** - The art of the sword, taken to its maximum possible extreme.
+- **[Knight](/ExampleGuilds/Knight.md)** - Feudal warriors who also manage farmland.
+- **[Knowledge Union](/ExampleGuilds/KnowledgeUnion.md)** - They believe that their trades are what separate sentient beings from non-sentients. Strongly linked to the Bishop Guild and the Sage Guild.
 - **Law Association** - Opposed to the Chaos Association.
 - **Monk** - The power of one's soul, expressed through the fist. Strongly linked to the Mystic Guild.
 - **Mystic** - Enlightenment through bodily control. Strongly linked to the Monk Guild and the Psyvariant Guild.

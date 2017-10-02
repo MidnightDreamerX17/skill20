@@ -30,14 +30,14 @@ Teach intermediate classes. Start participating in regional professional fights.
 
 | Skill | Rank to Learn | Rank to Teach |
 | ---   | ---           | ---           |
-| Armor Training (CON) | non-member | Grandmaster
-| Athletics (DEX) | non-member | Grandmaster
+| Armor Training (CON) | non-member (paid seminar) | Grandmaster
+| Athletics (DEX) | non-member (paid seminar) | Grandmaster
 | Charisma Training (CHA) | 20 | Grandmaster
 | Chi Body (CON) | 20 | Grandmaster
 | Chi Fist (CON) | 20 | Grandmaster
 | Constitution Training (CON) | 20 | Grandmaster
 | Dexterity Training (DEX) | 20 | Grandmaster
-| Melee Fighting (STR) | non-member | 10
+| Melee Fighting (STR) | non-member (paid seminar) | 10
 | Profession (Gladiator) (WIS) | 10 | 20
-| Ranged Fighting (DEX) | non-member | Grandmaster
+| Ranged Fighting (DEX) | non-member (paid seminar) | Grandmaster
 | Strength Training (STR) | 20 | Grandmaster
