@@ -39,6 +39,8 @@
 - [Psionic Power (INT)](/Skills/SkillDetails/PsionicPower.md)
 - [Psy Blade (INT)](/Skills/SkillDetails/PsyBlade.md)
 - [Traps (INT)](/Skills/SkillDetails/Traps.md)
+- [Wizard Potential (INT)](/Skills/SkillDetails/WizardPotential.md)
+- [Wizard Power (INT)](/Skills/SkillDetails/WizardPower.md)
 
 ### Wisdom
 
@@ -50,8 +52,6 @@
 - [Profession (WIS) (Specific)](/Skills/SkillDetails/Profession.md)
 - [Survival (WIS)](/Skills/SkillDetails/Survival.md)
 - [Wisdom Training (WIS) (Advanced)](/Skills/SkillDetails/WisdomTraining.md)
-- [Wizard Potential (INT)](/Skills/SkillDetails/WizardPotential.md)
-- [Wizard Power (INT)](/Skills/SkillDetails/WizardPower.md)
 
 ### Charisma
 

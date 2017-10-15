@@ -26,24 +26,24 @@ Any amount of damage during the manifestation will force a skill check to mainta
 
 ## Cognizance Crystals
 
-Cognizance Crystals store Psionic Power Points. While holding one crystal, its power can be used to help manifest powers. There is no way to take energy from the crystal other than to manifest. Only one crystal can be used at a time.
+Cognizance Crystals store Psionic Power Points. While holding one crystal, its power can be used to help manifest powers. There is no way to take energy from the crystal other than to manifest. Only one cognizance crystal can be used per round (10 seconds).
 
 2 of your own Psionic Power Points can be spent to add 1 point to a crystal.
 
 The market value of a cognizance crystal depends on its maximum power points as follows:
 
-| Maximum Points | Market Price |
-| ---            | ---          |
-| 1 | 1,000
-| 3 | 4,000
-| 5 | 9,000
-| 7 | 16,000
-| 9 | 25,000
-| 11 | 36,000
-| 13 | 49,000
-| 15 | 64,000
-| 17 | 81,000
-| 19 | 100,000
+| Maximum Points | Market Price | Crafting Cost | Crafting threshold |
+| ---            | ---          | ---           | ---                |
+| 1              | 1,000        | 500           | 10
+| 3              | 4,000        | 2,000         | 30
+| 5              | 9,000        | 4,500         | 50
+| 7              | 16,000       | 8,000         | 70
+| 9              | 25,000       | 12,500        | 90
+| 11             | 36,000       | 18,000        | 110
+| 13             | 49,000       | 24,500        | 130
+| 15             | 64,000       | 32,000        | 150
+| 17             | 81,000       | 40,500        | 170
+| 19             | 100,000      | 50,000        | 190
 
 ## Manifestation Items
 
