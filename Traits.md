@@ -118,11 +118,13 @@
 
 ## Quirks
 
+**Antimagic** - The character has a Spell Resistance number equal to 10 + Experience Level. On the other hand, they are unable to pickup or use any magic item. This includes all items that are +1, +2, +3, etc. Possible potions are limited to those that restore hit points, with no other benefits from potions. The character must roll to defeat their own Spell Resistance in order to cast spells.
+
 **Beastial Spirit (Specific)** - Spells and powers relating to this spirit are considered to be one circle lower. For example, having a Beastial Spirit of Bear will allow the character to use *Summon Nature's Ally I* as if it were *Summon Nature's Ally II* in order to summon a bear. On the other hand, the character's personality is strongly modified depending on the spirit, having a penalty of -10 to all actions that are contrary to the spirit's nature.
 
 **Darksign** - The character is undead, harmed by most effects that heal mortals. The character does not regain hit points by resting, instead needing to sit near magically-blessed fires. If killed, the character will come back to life the next day with 1 less maximum hit point and looking more dead. Once the character's maximum hit points go to zero, they will be raised as a mindless hollow. The cure to the darksign is only known by a select few, and by specific gods.
 
-**Dependent** - The character has a non-adventurer dependent. If this person is killed, then the character must cease adventuring immediately for the rest of their lives and all future incarnations.
+**Dependent** - The character has a non-adventurer dependent. If this person is killed, then the character must cease adventuring immediately for the rest of their lives and all future incarnations. The dependent's experience level is capped at 1/5th of the character's own.
 
 **Documented Identity** - The character has a large number of records about them in multiple places, identifying their appearance, place of residence, family, and other such things. This could be used for the character's benefit, proving that they are an upstanding citizen, proving that they possess a noble title, etc. But, this information is also readily available to those who wish to do harm to the character.
 
@@ -143,3 +145,74 @@
 **Aligned: Neutral Evil (Alignment)** - The character starts at Rank 2 in both the Neutral and Evil Associations. On the other hand, the character has a penalty of -10 to reactions with good people, and -2 to both lawful and chaotic people.
 
 **Aligned: Chaotic Evil (Alignment)** - The character starts at Rank 2 in both the Chaos and Evil Associations. On the other hand, the character has a penalty of -10 to reactions with lawful and good people.
+
+**Possessed** - The character is possessed by a different creature. Such a creature is likely to be astral, ethereal, undead, or aligned.
+
+**Wild Magic** - Whenever the character casts a spell or uses an item whose effect is a spell, they must roll a d20. A Wild Surge result will then require a d100 roll.
+
+| Roll | Result |
+| ---  | ---    |
+| 1    | Wild Surge |
+| 2 - 3 | -4 caster levels on the effect
+| 4 - 5 | -3 caster levels on the effect
+| 6 - 7 | -2 caster levels on the effect
+| 8 - 9 | -1 caster level on the effect
+| 10 - 11 | no change
+| 12 - 13 | +1 caster level on the effect
+| 14 - 15 | +2 caster level on the effect
+| 16 - 17 | +3 caster level on the effect
+| 18 - 19 | +4 caster level on the effect
+| 20 | Wild Surge, and after the roll, choose to adjust the roll by up to 2 places
+
+| Roll | Wild Surge Result | Roll | Wild Surge Result |
+| ---  | ---               | ---  | ---               |
+| 1    | *Wall of Force* appears in front of caster | 51 | Sudden extreme change in weather lasting 1d6 minutes
+| 2 | Caster smells like a skunk for spell duration | 52 | *Sound Burst* occurs centered on the caster
+| 3 | *Sticks to Snakes* occurs on all non-magical wooden objects in a 5-foot radius centered on the caster | 53 | Caster and target exchange voices. This effect is a curse.
+| 4 | Caster's clothes become extremely itchy for 10 minutes (+20 to initiative) | 54 | *Gate* occurs on a randomly-chosen alignment plane.
+| 5 | *Light* spell occurs on the caster. | 55 | Spell functions but also has a shriek like a shriker.
+| 6 | Spell effect has a sixty-foot radius centered on the caster. | 56 | Spell range, duration, area of effect, damage, etc. are cut in half.
+| 7 | Next phrase spoken by caster becomes true, lasting for 1 minute. | 57 | Spell is reversed, if it has a reverse form. Otherwise it occurs normally.
+| 8 | Caster's hair grows 2 feet in length. | 58 | Spell takes the physical form of a magical creature and cannot be controlled by caster. The creature's touch causes the spell effec and then makes it disappear.
+| 9 | Caster is turned around 180 degrees. | 59 | *Light* occurs on all weapons within a 60-foot radius of the caster.
+| 10 | Caster's face is blacked by a small explosion. | 60 | Spell functions normally, except that it automatically defeats Spell Resistance and cannot be saved against.
+| 11 | Character develops severe allergies to magic items. Uncontrollable sneezing until all magic items are removed. Allergy lasts for 1d6 minutes. | 61 | Spell appears to fail when cast, but occurs 1d4 rounds later.
+| 12 | Caster's head doubles in radius for 1d4 minutes. Neck is strengthened to compensate for the duration. | 62 | *Continual Light* occurs on all magical items within a 60-foot radius of the caster.
+| 13 | Caster comes under the effect of *Reduce* (reverse of *Enlarge*) for 1d4 minutes. | 63 | Caster and target switch personalities and memories for 2d10 rounds.
+| 14 | Caster falls madly in love with the target. This effect is a curse. | 64 | *Slow* spell centered on the target.
+| 15 | Spell cannot be cancelled by the caster. | 65 | *Delusion* spell aimed at the target.
+| 16 | *Polymorph* on the caster. | 66 | *Lightning Bolt* aimed at the target.
+| 17 | Caster's words are replaced by colorful bubbles coming out of the mouth. When the bubbles pop, the words occur audibly. Actions with verbal components cannot be used for 1 minute. | 67 | *Enlarge* spell aimed at the target.
+| 18 | Reversed *Tongues* effect on all within a 60-foot radius of the caster. | 68 | *Darkness* spell centered on the target.
+| 19 | *Wall of Fire* encircles the caster. | 69 | *Plant Growth* spell centered on the target.
+| 20 | Caster's feet double in size, cutting movement in half for 1d4 minutes. | 70 | 1,000 pounds of non-living mass within 10 feet of the target are affected by *Vanish*.
+| 21 | Caster suffers same spell effect as the target. | 71 | *Fireball* spell appears 1 inch above the target and aims downwards at the target.
+| 22 | *Levitate* spell occurs on the caster. | 72 | *Flesh to Stone* occurs on the target.
+| 23 | *Cause Fear* spell centered on the caster. | 73 | Spell is cast, and does not use any spell energy or material components.
+| 24 | Caster speaks in a squeaky high-pitched voice for 1d6 days. | 74 | *Healing Circle* spell centered on the caster.
+| 25 | Caster gains X-ray vision for 1d6 rounds. | 75 | Target becomes dizzy (-4 to all d20 checks and AC, cannot use magic or psionics) for 2d4 rounds.
+| 26 | Caster ages 10 years. | 76 | *Wall of Fire* encircles target.
+| 27 | *Silence, 15-foot radius* centered on caster. | 77 | *Levitate* spell on the target.
+| 28 | 10-foot-square pit appears in front of the caster, 5-feet-deep per caster level. | 78 | *Blindness* spell on the target.
+| 29 | *Reverse Gravity* spell on the caster. | 79 | *Charm Monster* spell on the target.
+| 30 | Colored streamers, confetti, and ribbons shoot out of the caster's fingertips for 1 round. | 80 | *Forgetfulness* spell on the target.
+| 31 | Spell is aimed at the caster. | 81 | Target's feet become twice as large, cutting movement in half for 1d4 minutes.
+| 32 | *Invisibility* spell on the caster. | 82 | Rust monster appears 1 inch above the target.
+| 33 | *Color Spray* spell shoots out of the caster's fingertips. | 83 | *Polymorph* spell on the target.
+| 34 | A stream of butterflies comes out of the caster's mouth. | 84 | Target falls madly in love with the caster. This effect is a curse.
+| 35 | Caster leaves monster-shaped footprints. This effect is a curse. | 85 | Target's sex is changed. This effect is an unlimited-duration *Polymorph*.
+| 36 | 1d10 * 1d4 gems fall out of the caster's fingertips. Gems are worth 1d6 * 10 gold each. | 86 | Small black raincloud forms over the target, follows the target, and rains on it. This lasts for 1d10 minutes.
+| 37 | Music from the current plane fills the air. | 87 | *Stinking Cloud* spell centered on the target.
+| 38 | *Create Food and Water* spell centered one inch above the caster. | 88 | Heavy object such as an anvil, big iron weight, or piano appears above the target and falls on it for 2d20 impact damage.
+| 39 | All normal fires within a 60-foot radius of the caster are extinguished. | 89 | Target sneezes uncontrollably for 1d6 rounds. Target cannot use magic or psionics for the duration.
+| 40 | One magical item within a 30-foot radius of the caster is turned into a normal item. It is chosen at random. | 90 | Spell effect has a radius of 60 feet, centered on the target.
+| 41 | One normal item within a 30-foot radius of the caster is affected by an Orb of Chance of the Exile. | 91 | Target's clothes, hair, and fur become extremely itchy for 1d10 rounds, giving +20 to initiative.
+| 42 | All magical weapons within a 30-foot radius of the caster gain +2 magical reinforcement for 1 minute. | 92 | Target's race changes randomly, every single round. This is a curse with a *Polymorph* type effect.
+| 43 | Smoke billows from the ears of all creatures within a 60-foot radius of the caster for 1 minute. | 93 | *Etherealize* spell on the target, with a duration of 2d4 rounds.
+| 44 | *Dancing Lights* spell on the caster. | 94 | *Haste* spell on the target.
+| 45 | All creatures within a 30-foot radius of the caster hiccup uncontrollably. This causes a -1 penalty to all d20 checks. This effect is a curse. | 95 | All cloth on the target crumbles to dust.
+| 46 | *Knock* and *Open* spells at +100 caster levels occur on all doors, secret doors, portcullises, windows, locks, etc. within a 30-foot-radius of the caster. | 96 | Target sprouts leaves out of their skin. This causes no damage, and the leaves can be removed without harm.
+| 47 | Caster and target exchange places. This is a *Teleport* effect. | 97 | Target sprouts a new useless appendage, such as an ear, arm, single wing, tail, etc. This effect is a *Polymorph*.
+| 48 | The spell's target changes to a different one within a 60-foot-radius of the caster. | 98 | Target changes color. The color could include an unusual pattern, such as pink with purple polka dots. This effect is a *Polymorph*.
+| 49 | Spell fails, but no spell energies are used. | 99 | Spell has a minimum duration of 1 minute. Projectile spells such as *Fireball* and ray spells such as *Lightning Bolt* chain between the nearest creatures.
+| 50 | *Summon Monster II* spell occurs 5 feet in front of the caster. The monster is loyal to the concept of wild magic being absolutely hilarious. | 100 | The spell's range, duration, area of effect, damage, etc. are doubled.

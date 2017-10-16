@@ -47,6 +47,7 @@
 | Mace, light            | 5.00   | 1d6 impact     |         |
 | Maul                   | 0      | 1d10 impact    | 2-handed
 | Medium Wrench          | 15.00  | 1d8 impact     |         |
+| Mini-Staff             | 0      | 1d6 impact     |         |
 | Morningstar            | 8.00   | 1d8 impact     |         |
 | Tetsubo                | 25.00  | 1d12 impact    | 2-handed
 | Warhammer              | 12.00  | 1d8 impact     |         |
