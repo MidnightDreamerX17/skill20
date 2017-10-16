@@ -31,4 +31,5 @@ Manage larger teams. Plan out complex crafting projects. Take responsibility for
 | Skill | Rank to Learn | Rank to Teach |
 | ---   | ---           | ---           |
 | Any Crafting Skill (INT) | 1 | 10
+| Any Crafting Skill (INT) | non-member (training fee) | 20
 | Intelligence Training (INT) | 20 | Grandmaster

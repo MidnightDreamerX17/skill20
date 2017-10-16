@@ -9,8 +9,8 @@ Most guilds have a rank structure like this:
 - Rank 5 (Apprentice) - Considered to be dedicated enough to trust with basic duties and training.
 - Rank 10 (Journeyman) - Responsible for teaching others and managing new members. Most guilds allow Rank 10 members to teach the most important skills of the guild to other members.
 - Rank 15 (Expert) - Responsible for taking part in large-scale guild activities, furthering the interests of the guild, and fighting against opposing guilds.
-- Rank 20 (Master) - Trusted to set up new branches of the guild, although with supervision from aldermen and grandmasters.
-- Rank 30 (Alderman) - Take part in decisions that affect the whole guild.
+- Rank 20 (Alderman) - Trusted to set up new branches of the guild, although with supervision from masters and grandmasters.
+- Rank 30 (Master) - Take part in decisions that affect the whole guild.
 - Rank 40 (Grandmaster) - Allowed to teach advanced skills to other members.
 
 Most guilds require that members attain the rank of Master before they can receive advanced training from Grandmasters. Therefore, members are encouraged fulfill their obligations and rise up in the ranks of their guilds, so that they can eventually learn Advanced skills.
@@ -42,25 +42,25 @@ Quick Overview of the Example Guilds:
 - **[Kensei](/ExampleGuilds/Kensei.md)** - The art of the sword, taken to its maximum possible extreme.
 - **[Knight](/ExampleGuilds/Knight.md)** - Feudal warriors who also manage farmland.
 - **[Knowledge Union](/ExampleGuilds/KnowledgeUnion.md)** - They believe that their trades are what separate sentient beings from non-sentients. Strongly linked to the Bishop Guild and the Sage Guild.
-- **Law Association** - Opposed to the Chaos Association.
-- **Monk** - The power of one's soul, expressed through the fist. Strongly linked to the Mystic Guild.
-- **Mystic** - Enlightenment through bodily control. Strongly linked to the Monk Guild and the Psyvariant Guild.
-- **Neutral Association** - Balance, nature, and stoicism.
-- **Nightblade** - Combining stealth and magic to become a deadly dervish.
-- **Ninja** - Patiently waiting, observing, spying, and planning, before they suddenly strike. Strongly linked to the Assassin Guild.
-- **Paladin** - Practical goodness in whatever way they are able. Strongly linked to the Good Association.
-- **Performers Union** - The cultural center of every city. Strongly linked to the Acrobat Guild.
-- **Pirate** - Sailing the open seas, attacking other ships and taking their stuff. They purposely propagate misconceptions about them in order to make themselves look more romantic and heroic than they really are.
-- **Professional Union** - The main union that commoners look up to, especially farmers. Any realm with a branch of the Professional Union is considered to be a realm that is surely prosperous, or shall surely become prosperous very soon.
+- **[Law Association](/ExampleGuilds/LawAssociation.md)** - Opposed to the Chaos Association.
+- **[Monk](/ExampleGuilds/Monk.md)** - The power of one's soul, expressed through the fist. Strongly linked to the Mystic Guild.
+- **[Mystic](/ExampleGuilds/Mystic.md)** - Enlightenment through bodily control. Strongly linked to the Monk Guild and the Psyvariant Guild.
+- **[Neutral Association](/ExampleGuilds/NeutralAssociation.md)** - Balance, nature, and stoicism.
+- **[Nightblade](/ExampleGuilds/Nightblade.md)** - Combining stealth and magic to become a deadly dervish.
+- **[Ninja](/ExampleGuilds/Ninja.md)** - Patiently waiting, observing, spying, and planning, before they suddenly strike. Strongly linked to the Assassin Guild.
+- **[Paladin](/ExampleGuilds/Paladin.md)** - Practical goodness in whatever way they are able. Strongly linked to the Good Association.
+- **[Performers Union](/ExampleGuilds/PerformersUnion.md)** - The cultural center of every city. Strongly linked to the Acrobat Guild.
+- **[Pirate](/ExampleGuilds/Pirate.md)** - Sailing the open seas, attacking other ships and taking their stuff. They purposely propagate misconceptions about them in order to make themselves look more romantic and heroic than they really are.
+- **[Professional Union](/ExampleGuilds/ProfessionalUnion.md)** - The main union that commoners look up to, especially farmers. Any realm with a branch of the Professional Union is considered to be a realm that is surely prosperous, or shall surely become prosperous very soon.
 - **[Psion](/ExampleGuilds/Psion.md)** - Rather than dealing with magic and alchemy on their own terms, the psions instead try to accomplish everything by the power of their minds. They only use supernatural powers that draw from their own internal energy. Strongly linked to the Psyvariant Guild.
-- **Psyvariant** - Union of mind, body, and soul. Strongly linked to the Psion Guild and Mystic Guild.
-- **Ranger** - Strongly linked to the Neutral Association and the Druid Guild.
-- **Rogue** - Stealing, sneaking, and infiltration.
-- **Sage** - Combining arcane and divine magic for the sake of preserving knowledge and passing it to others. Unlike Bishops, the Sages do not emphasize usefulness of their knowledge, nor do they desire domination over other guilds. Instead, they study for the sake of it. Strongly linked to the Knowledge Union.
-- **Samurai** - Harmony of pen and sword. Perfection, honor, and tradition in all things.
-- **Shadowdancer** - Hiding in plain sight, taking advantage of the fact that all light must eventually cast shadow.
-- **Soldier** - Practitioners of the art of war.
-- **Sorcerer** - Spontaneous and unplanned magic. Opposed to the Wizard Guild.
-- **Warlock** - Making pacts with otherworldly beings to gain more magical knowledge. A very slippery slope that can defeat the willpower of even the best-intentioned.
-- **Witch** - Strong belief in traditions and verbal wisdom as the source of magic and alchemy.
-- **Wizard** - The main magical experts, who seek to uncover every arcane mystery. Opposed to the Sorcerer Guild.
+- **[Psyvariant](/ExampleGuilds/Psyvariant.md)** - Union of mind, body, and soul. Strongly linked to the Psion Guild and Mystic Guild.
+- **[Ranger](/ExampleGuilds/Ranger.md)** - Strongly linked to the Neutral Association and the Druid Guild.
+- **[Rogue](/ExampleGuilds/Rogue.md)** - Stealing, sneaking, and infiltration.
+- **[Sage](/ExampleGuilds/Sage.md)** - Combining arcane and divine magic for the sake of preserving knowledge and passing it to others. Unlike Bishops, the Sages do not emphasize usefulness of their knowledge, nor do they desire domination over other guilds. Instead, they study for the sake of it. Strongly linked to the Knowledge Union.
+- **[Samurai](/ExampleGuilds/Samurai.md)** - Harmony of pen and sword. Perfection, honor, and tradition in all things.
+- **[Shadowdancer](/ExampleGuilds/Shadowdancer.md)** - Hiding in plain sight, taking advantage of the fact that all light must eventually cast shadow.
+- **[Soldier](/ExampleGuilds/Soldier.md)** - Practitioners of the art of war.
+- **[Sorcerer](/ExampleGuilds/Sorcerer.md)** - Spontaneous and unplanned magic. Opposed to the Wizard Guild.
+- **[Warlock](/ExampleGuilds/Warlock.md)** - Making pacts with otherworldly beings to gain more magical knowledge. A very slippery slope that can defeat the willpower of even the best-intentioned.
+- **[Witch](/ExampleGuilds/Witch.md)** - Strong belief in traditions and verbal wisdom as the source of magic and alchemy.
+- **[Wizard](/ExampleGuilds/Wizard.md)** - The main magical experts, who seek to uncover every arcane mystery. Opposed to the Sorcerer Guild.
