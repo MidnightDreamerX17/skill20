@@ -17,6 +17,7 @@ Race Index:
 - [Gnosis Aseitan Theegyo (Gnosa)](/Races/GnosisAseitanTheegyo.md)
 - [Halfing](/Races/Halfling.md)
 - [Human](/Races/Human.md)
+- [Insectoid](/Races/Insectoid.md)
 - [Law-Mech](/Races/LawMech.md)
 - [Lizardfolk](/Races/Lizardfolk.md)
 - [Minotaur](/Races/Minotaur.md)

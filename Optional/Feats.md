@@ -81,7 +81,7 @@ Characters start with 10 feats and gain an additional feat at every single exper
 - **Reckless Attack** - The character can sacrifice 4 of their Armor Class in order to gain a bonus of +2 to accuracy and damage. If this feat is used, then it starts at the very beginning of the character's turn and lasts until the character's next turn.
 - **Self-Sufficient** - The character gains a bonus of +2 to use healing kits, as well as to survival.
 - **Spell Focus** (specific) - One spell is considered to be one circle lower for the character.
-- **Spell Focus, Greater** (specific) (requires Spell Focus) - One spell is considered to be one circle lower for the character.
+- **Spell Focus, Greater** (specific) (requires Spell Focus) - The spell chosen for *Spell Focus* is considered to be one circle lower for the character.
 - **Spell Penetration** - The character gains a bonus of +2 to penetrate spell resistance.
 - **Spell Penetration, Greater** (requires Spell Penetration) - The character gains a bonus of +2 to penetrate spell resistance.
 - **Spell Recovery** - The character gains a bonus of +4 to know which spells will not work on their current plane, as well as which spells are enhanced on the current plane.

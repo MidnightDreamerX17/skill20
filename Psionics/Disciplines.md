@@ -25,6 +25,8 @@ The psionic disciplines are as follows:
 - [Detect Teleportation](/Psionics/D/DetectTeleportation.md)
 - [Divination, Psionic](/Psionics/D/DivinationPsionic.md)
 - [Escape Detection](/Psionics/E/EscapeDetection.md)
+- [Fate Link](/Psionics/F/FateLink.md)
+- [Fate of One](/Psionics/F/FateOfOne.md)
 - [Hand Eye](/Psionics/H/HandEye.md)
 
 ## Metacreativity
@@ -45,6 +47,8 @@ The psionic disciplines are as follows:
 - [Ectoplasmic Shambler](/Psionics/E/EctoplasmicShambler.md)
 - [Energy Wall](/Psionics/E/EnergyWall.md)
 - [Entangling Ectoplasm](/Psionics/E/EntanglingEctoplasm.md)
+- [Fabricate, Psionic](/Psionics/F/FabricatePsionic.md)
+- [Fabricate, Greater Psionic](/Psionics/F/FabricateGreaterPsionic.md)
 
 ## Psychokinesis
 
@@ -69,6 +73,7 @@ The psionic disciplines are as follows:
 - [Energy Retort](/Psionics/E/EnergyRetort.md)
 - [Energy Wave](/Psionics/E/EnergyWave.md)
 - [Eradicate Invisibility](/Psionics/E/EradicateInvisibility.md)
+- [Far Hand](/Psionics/F/FarHand.md)
 - [Microlevitation](/Psionics/M/Microlevitation.md)
 
 ## Psychometabolism
@@ -156,4 +161,5 @@ The psionic disciplines are as follows:
 - [Empathic Transfer, Hostile](/Psionics/E/EmpathicTransferHostile.md)
 - [Empathy](/Psionics/E/Empathy.md)
 - [Empty Mind](/Psionics/E/EmptyMind.md)
+- [False Sensory Input](/Psionics/F/FalseSensoryInput.md)
 - [Touch Speech](/Psionics/T/TouchSpeech.md)

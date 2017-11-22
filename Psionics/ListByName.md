@@ -142,6 +142,15 @@
 - [Exhalation of the Black Dragon](/Psionics/ExhalationOfTheBlackDragon.md)
 - [Expansion](/Psionics/E/Expansion.md)
 
+## F
+
+- [Fabricate, Psionic](/Psionics/F/FabricatePsionic.md)
+- [Fabricate, Greater Psionic](/Psionics/F/FabricateGreaterPsionic.md)
+- [False Sensory Input](/Psionics/F/FalseSensoryInput.md)
+- [Far Hand](/Psionics/F/FarHand.md)
+- [Fate Link](/Psionics/F/FateLink.md)
+- [Fate of One](/Psionics/F/FateOfOne.md)
+
 ## H
 
 - [Hand Eye](/Psionics/H/HandEye.md)

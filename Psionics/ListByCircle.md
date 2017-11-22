@@ -33,6 +33,7 @@
 - [Empty Mind](/Psionics/E/EmptyMind.md)
 - [Energy Ray](/Psionics/E/EnergyRay.md)
 - [Entangling Ectoplasm](/Psionics/E/EntanglingEctoplasm.md)
+- [Far Hand](/Psionics/F/FarHand.md)
 
 ## 2nd Circle
 
@@ -108,7 +109,9 @@
 - [Energy Cone](/Psionics/E/EnergyCone.md)
 - [Escape Detection](/Psionics/E/EscapeDetection.md)
 - [Evade Burst](/Psionics/E/EvadeBurst.md)
-- [Exhalation of the Black Dragon](/Psionics/ExhalationOfTheBlackDragon.md)
+- [Exhalation of the Black Dragon](/Psionics/E/ExhalationOfTheBlackDragon.md)
+- [False Sensory Input](/Psionics/F/FalseSensoryInput.md)
+- [Fate Link](/Psionics/F/FateLink.md)
 
 ## 5th Circle
 
@@ -121,6 +124,7 @@
 - [Dominate, Psionic](/Psionics/D/DominatePsionic.md)
 - [Ectoplasmic Shambler](/Psionics/E/EctoplasmicShambler.md)
 - [Energy Ball](/Psionics/E/EnergyBall.md)
+- [Fabricate, Psionic](/Psionics/F/FabricatePsionic.md)
 
 ## 6th Circle
 
@@ -144,6 +148,7 @@
 - [Divert Teleport](/Psionics/D/DivertTeleport.md)
 - [Energy Conversion](/Psionics/E/EnergyConversion.md)
 - [Energy Wave](/Psionics/E/EnergyWave.md)
+- [Fabricate, Greater Psionic](/Psionics/F/FabricateGreaterPsionic.md)
 
 ## 8th Circle
 
@@ -152,6 +157,7 @@
 - [Dream Travel](/Psionics/D/DreamTravel.md)
 - [Ectoplasmic Cocoon, Mass](/Psionics/E/EctoplasmicCocoonMass.md)
 - [Ethereal Jaunt, Psionic](/Psionics/E/EtherealJaunt.md)
+- [Fate of One](/Psionics/F/FateOfOne.md)
 
 ## 9th Circle
 

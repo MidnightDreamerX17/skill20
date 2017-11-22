@@ -109,6 +109,7 @@ The psionic categories are as follows:
 - [Entangling Ectoplasm](/Psionics/E/EntanglingEctoplasm.md)
 - [Eradicate Invisibility](/Psionics/E/EradicateInvisibility.md)
 - [Etherealness, Psionic](/Psionics/E/EtherealnessPsionic.md)
+- [Far Hand](/Psionics/F/FarHand.md)
 
 ## Warrior
 
@@ -143,6 +144,8 @@ The psionic categories are as follows:
 - [Clairvoyant Sense](/Psionics/C/ClairvoyantSense)
 - [Destiny Dissonance](/Psionics/D/DestinyDissonance.md)
 - [Escape Detection](/Psionics/E/EscapeDetection.md)
+- [Fate Link](/Psionics/F/FateLink.md)
+- [Fate of One](/Psionics/F/FateOfOne.md)
 - [Hand Eye](/Psionics/H/HandEye.md)
 
 ## Shaper
@@ -154,6 +157,8 @@ The psionic categories are as follows:
 - [Crystallize](/Psionics/C/Crystallize.md)
 - [Ectoplasmic Cocoon](/Psionics/E/EctoplasmicCocoon.md)
 - [Ectoplasmic Cocoon, Mass](/Psionics/E/EctoplasmicCocoonMass.md)
+- [Fabricate, Psionic](/Psionics/F/FabricatePsionic.md)
+- [Fabricate, Greater Psionic](/Psionics/F/FabricateGreaterPsionic.md)
 
 ## Telepath
 
@@ -164,4 +169,5 @@ The psionic categories are as follows:
 - [Crisis of Life](/Psionics/C/CrisisOfLife.md)
 - [Dominate, Psionic](/Psionics/D/DominatePsionic.md)
 - [Empathic Transfer, Hostile](/Psionics/E/EmpathicTransferHostile.md)
+- [False Sensory Input](/Psionics/F/FalseSensoryInput.md)
 - [Touch Speech](/Psionics/T/TouchSpeech.md)

@@ -210,6 +210,10 @@ Since you don’t need to hit a specific target, you can simply aim at a particu
 | Three-Decker o'th'Line | 200,000.00
 | Three-Decker o'th'Line, Copper Plated | 500,000.00
 | War Galley, with Ramming Prow | 25,000.00
-| Wau'a Kaulua | 15,000.00
+| Wa'a Kaulua | 15,000.00
 
 Oftentimes, ships must be commissioned with a shipyard of good repute, and the buyer must wait for them to finish building. It is virtually impossible that a brand-new ship would be sitting in a harbor awaiting sale.
+
+**Galley** - Large ship propelled mainly by rowing. Oftentimes, the rowers are slaves, although there are societies who can afford galleys crewed by freemen.
+
+**Galleass** - Hybrids of galleys and fully-rigged sailing ships, in order to move as fast as possible. They are also the most crew-demanding ship type, especially if they have cannons. Consequently, they are used as either fast cargo ships or coastal war ships, but not both.
