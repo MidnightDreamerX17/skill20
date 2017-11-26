@@ -18,6 +18,10 @@ Bloody Handprints +2 (Tower Metal Shield) (8,000 gold) - AC 6 (4 from shield typ
 
 Wall of Verses (Heavy Metal Shield) (2,000 gold) - No armor class. It still counts as a shield with an armor weight of 2. It constantly has *Shield of Faith*, with the caster level based on the lowest of the user's Cleric Potential (WIS) and Cleric Power (WIS) skills.
 
+### Helmets
+
+The Short Circuit (Helmet) (8,000 gold) - You cannot be surprised by enemies. If you have the Slow Starter disadvantage then it is negated. You can no longer search for traps or hidden doors.
+
 ## Clothing
 
 ### Tabards
@@ -56,6 +60,8 @@ Kusanagi's Gloves (Gloves) (2,000 gold) - Your unarmed and natural damage is con
 
 Penance for Gambling (Gloves) (2,000 gold) - You are unable to hold any money, ingots, bank notes, and the like, nor can you carry any on your person. If you pull a cart with money then it will all fall out. If you ride on an animal with money in its saddle bags, then the saddle bags will fall off. +1 accuracy and damage with weapons and unarmed. +1 armor class.
 
+Raideen's Reach (Gloves) (2,000 gold) - When your Psy Blade is used as a ranged weapon, it takes the shape of a composite longbow, and has the range of a composite longbow.
+
 ### Boots
 
 Don Juan's Hooves (Boots) (2,000 gold) - Your kicks do double damage while kicking a door into someone.
@@ -67,6 +73,8 @@ Diamond Ring of the Exile (Ring) (8,000 gold) - Expands the guaranteed hit range
 Iron Ring of the Exile +1 (Ring) (2,000 gold) - +1 accuracy and damage with weapons and unarmed.
 
 ### Backpacks
+
+Backpack of Disentanglement (8,000 gold) - Ropes, cables, strings, yarn, wires, cords, and other such objects cannot get entangled inside this backpack. If a tangled mess of cords is placed in the Backpack of Disentanglement, then they will reorder into neatly-wrapped bundles.
 
 Sparkster (Backpack) (50,000 gold) - Constant *Levitate*, except with the ability to do a 100-foot rocket dash in a straight line once per minute.
 
@@ -95,6 +103,8 @@ Alexander's Reach +1 (Pike) (2,000 gold) - Two-handed. Reach. Spear wall. 1d6+1 
 ### Short Weapons
 
 Mary's Chisel +1 (Dagger) (2,000 gold) - Finesse weapon. Concealable. 1d4+1 chaos damage. If the target is currently capable of shapeshifting, or is under any sort of *Polymorph* effect, then it takes double damage from Mary's Chisel.
+
+Tanto of Rashomon +2 (Tanto) (8,000 gold) - Finesse weapon. Concealable. Chaotic Neutral. 1d6+2 chaos damage. It carves stories that can change depending on one's perspective.
 
 ### Spears, Rods, and Staves
 
@@ -168,11 +178,23 @@ Mechanus Toolset +2 (8,000 gold) - Gives a bonus of +2 to engineering and mechan
 
 Dead Man's Hand +1 (Playing Cards) (2,000 gold) - If a player fails to make a valid Poker hand, then they become undead for 12 hours.
 
+The Deep Mind +1 (Go set) (2,000 gold) - This set gives a bonus of +4 when used by constructs, golems, and other mechanically-enhanced creatures.
+
+Diplomat's Tokens +4 (Shogi set) (32,000 gold) - Every time you place a captured piece back onto the board, a Level 0 aspirant arrives at your stronghold seeking employment.
+
 Garry's Revenge +1 (Chess set) (2,000 gold) - This set gives a bonus of +4 to play against contructs, golems, and other mechanically-enhanced creatures.
+
+Laughing Jokers +1 (Playing Cards) (2,000 gold) - If you win while using at least one Joker card, then you gain a bonus of +4 to your next comedy routine.
+
+March of the Masses +2 (Collectible Cards) (8,000 gold) - Every time you play two common lands or two common monsters, or cast two common spells, you draw two cards from your deck and can play them immediately if you have the resources to do so.
 
 Queen's Domain +1 (Chess set) (2,000 gold) - Every time someone uses a queen to capture a piece, one of their memorized spells gains a free metamagic of their choice. The chosen metamagic is limited to +1 spell circles. This lasts for 1 hour. Both players must be playing to win, or else the effect will not occur.
 
+Rare Seasons +4 (Hanafuda Cards) (32,000 gold) - Every time you win a game, you gain one rare leaf, flower, fruit, or mushroom according to the play you used to win.
+
 Sky's Raindrops +4 (Go set) (32,000 gold) - The winner gains a bonus of +8 to accuracy and AC against the loser for 10 minutes.
+
+Vanity of Distinction +2 (Collectible Cards) (8,000) - This deck gives an additional +2 to oppose uncommon and rare cards, for a total of +4.
 
 ### Potions
 
@@ -188,6 +210,8 @@ Granite Flask of the Exile (2,000 gold) - Refills itself after a long rest. For 
 
 Jade Flask of the Exile (2,000 gold) - Refills itself after a long rest. For 2 rounds, it gives a bonus of +6 to armor class against ranged attacks.
 
+Mechanus Lubricant (32,000 gold) - Refills itself after a long rest. Restores 2d8 hit points and ends paralysis, slow, and other speed-altering effects.
+
 Quicksilver Flask of the Exile (2,000 gold) - Refills itself after a long rest. For 2 rounds, your movement speed is increased by 30 feet. This comes before all other movement-increasing effects such as the *Expeditious Retreat* spell.
 
 Staunching Flask of the Exile (1,000 gold) - Refills itself after a long rest. Stops bleeding. It is not based on positive energy, so it works normally for undead.
@@ -200,27 +224,29 @@ Uncle's Skillet Drippings (2,000 gold) - Refills itself after a long rest. Extre
 
 **Orbs** are always single-use items. Their prices are therefore based on what their possible results are.
 
-Orb of Alchemy of the Exile (8,000 gold) - Orbs are single-use items. This orb must be targeted at a non-magical and non-psionic item. It makes the item into a reinforced +2 type.
+Orb of Alchemy of the Exile (8,000 gold) - Orbs are single-use items. This orb must be targeted at a non-magical and non-psionic item. It makes the item into a magically-reinforced +2 type.
 
 Orb of Chance of the Exile (10,000 gold) - Orbs are single-use items. This orb must be targeted at a non-magical and non-psionic item that you are holding or wearing. Roll a 1d100 to determine the effect.
 
 | Roll | Orb of Chance of the Exile Result |
 | ---  | ---                               |
 | 1 - 5 | Named cursed item of the same type.
-| 6 - 10 | Cursed -5
-| 11 - 20 | Cursed -4
-| 21 - 30 | Cursed -3
-| 31 - 40 | Cursed -2
-| 41 - 50 | Cursed -1
-| 51 - 60 | Reinforced +1
-| 61 - 70 | Reinforced +2
-| 71 - 80 | Reinforced +3
-| 81 - 90 | Reinforced +4
-| 90 - 94 | Reinforced +5
+| 6 - 10 | Magically Cursed -5
+| 11 - 20 | Magically Cursed -4
+| 21 - 30 | Magically Cursed -3
+| 31 - 40 | Magically Cursed -2
+| 41 - 50 | Magically Cursed -1
+| 51 - 60 | Magically Reinforced +1
+| 61 - 70 | Magically Reinforced +2
+| 71 - 80 | Magically Reinforced +3
+| 81 - 90 | Magically Reinforced +4
+| 90 - 94 | Magically Reinforced +5
 | 95 - 100 | Named non-cursed item of the same type. For example, a lance could be turned into Abel's Lance +5.
+
+Orb of Ember Forge (2,000 gold) - Orbs are single-use items. Adds a random infusion to a weapon. If the weapon already has an infusion, then it randomizes the infusion.
 
 Orb of Regret of the Exile (25,000 gold) - Orbs are single-use items. This orb must be targeted at yourself. You un-allocate 10,000 experience points. This could allow you to lose experience levels, forget skills completely, etc. How quickly you can re-apply the experience points to other purposes depends on your GM.
 
 Orb of Scouring of the Exile (10,000 gold) - Orbs are single-use items. Removes all magical and psionic properties from an item, including curses. This cannot be used on named items.
 
-Orb of Transmutation of the Exile (2,000 gold) - Orbs are single-use items. This orb must be targeted at a non-magical and non-psionic item. It makes the item into a reinforced +1 type.
+Orb of Transmutation of the Exile (2,000 gold) - Orbs are single-use items. This orb must be targeted at a non-magical and non-psionic item. It makes the item into a magically-reinforced +1 type.
