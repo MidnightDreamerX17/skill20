@@ -200,9 +200,9 @@ Uncle's Skillet Drippings (2,000 gold) - Refills itself after a long rest. Extre
 
 **Orbs** are always single-use items. Their prices are therefore based on what their possible results are.
 
-Orb of Alchemy of the Exile (8,000 gold) - This orb must be targeted at a non-magical and non-psionic item. It makes the item into a reinforced +2 type.
+Orb of Alchemy of the Exile (8,000 gold) - Orbs are single-use items. This orb must be targeted at a non-magical and non-psionic item. It makes the item into a reinforced +2 type.
 
-Orb of Chance of the Exile (10,000 gold) - This orb must be targeted at a non-magical and non-psionic item that you are holding or wearing. Roll a 1d100 to determine the effect.
+Orb of Chance of the Exile (10,000 gold) - Orbs are single-use items. This orb must be targeted at a non-magical and non-psionic item that you are holding or wearing. Roll a 1d100 to determine the effect.
 
 | Roll | Orb of Chance of the Exile Result |
 | ---  | ---                               |
@@ -219,8 +219,8 @@ Orb of Chance of the Exile (10,000 gold) - This orb must be targeted at a non-ma
 | 90 - 94 | Reinforced +5
 | 95 - 100 | Named non-cursed item of the same type. For example, a lance could be turned into Abel's Lance +5.
 
-Orb of Regret of the Exile (25,000 gold) - This orb must be targeted at yourself. You un-allocate 10,000 experience points. This could allow you to lose experience levels, forget skills completely, etc.
+Orb of Regret of the Exile (25,000 gold) - Orbs are single-use items. This orb must be targeted at yourself. You un-allocate 10,000 experience points. This could allow you to lose experience levels, forget skills completely, etc. How quickly you can re-apply the experience points to other purposes depends on your GM.
 
-Orb of Scouring of the Exile (10,000 gold) - Removes all magical and psionic properties from an item, including curses. This cannot be used on named items.
+Orb of Scouring of the Exile (10,000 gold) - Orbs are single-use items. Removes all magical and psionic properties from an item, including curses. This cannot be used on named items.
 
-Orb of Transmutation of the Exile (2,000 gold) - This orb must be targeted at a non-magical and non-psionic item. It makes the item into a reinforced +1 type.
+Orb of Transmutation of the Exile (2,000 gold) - Orbs are single-use items. This orb must be targeted at a non-magical and non-psionic item. It makes the item into a reinforced +1 type.
