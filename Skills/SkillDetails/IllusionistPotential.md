@@ -29,7 +29,7 @@ Possible Spells: In combination with the Illusionist Power (INT) skill, the char
 
 Read Illusionist Scroll: Illusionist Potential is added as a bonus to rolls to use the power of illusionist scrolls, as well as to meld these scrolls into a spellbook.
 
-Illusionist Spellbook: Each level of Illusionist Potential allows the character to get one free spell in their spellbook. The spell must be of a Spell Circle that is allowed by their new Illusionist Potential Level.
+Illusionist Spellbook: Each level of Illusionist Potential allows the character to get one free spell in their spellbook. The improvement in the skill causes sudden inspiration to write it down real quick in the book. The spell must be of a Spell Circle that is allowed by their new Illusionist Potential Level.
 
 How Illusionist Magic Works: The Illusionist taps into the power of their own dreams and beliefs, and also draws power from primordial magical planes that are uninhabitable. They are further helped by the ambient magical energy that is present in all things that are capable of imagination and dreaming. Illusionist magic has real power and does real damage, but at the same time, is more vulnerable to being cancelled by enemies with strong wills. Illusionist spells only do damage if their spell descriptions specify damage, although their superficial traits can be modified freely by the Illusionist. Illusionist summons only have the capabilities specified in their spell descriptions, although their superficial traits can be modified freely by the Illusionist.
 
