@@ -44,7 +44,9 @@ Chi Mysticism Level 21: **SHINKYUU-KEN**: The character can channel incredible p
 
 Chi Mysticism Level 22: **TAIGAIRIDATSU**: The character may enter astral projection as per the spell *Astral Projection* once per day.
 
-Chi Mysticism Level 23: **CHAKRA**: The character may use a Chi Power Point in order to remove most physical afflictions from the whole party. Afflictions that would require *Regeneration* type magic to be healed, such as missing limbs, cannot be healed by *Chakra*.
+Chi Mysticism Level 23: **CHAKRA**: The character may use two Chi Power Points in order to remove all poisons, diseases, blindness, deafness, and paralysis from the whole party. Afflictions that would require *Regeneration* type magic to be healed, such as missing limbs, cannot be healed by *Chakra*.
+
+Chi Mysticism Level 25: **RAGE:** Upon being raised from the dead, resurrected, and similar effects, the character regains all Chi Power Points and gains 10 additional temporary Chi Power Points that only last for 1 minute.
 
 Chi Mysticism Level 30: **STAND**: The character gains the ability to project a mystical embodiment of their own soul, called a "stand". The character can switch between normal mode and stand projection mode at will. The stand can be projected to anywhere within visual range, including behind an enemy group. The stand shares hit points with the character, so any damage done to the stand is basically done to the character instead.
 

@@ -1,5 +1,7 @@
 # Equipment Materials and other Modifiers
 
+Quality and Material cost modifiers are additive. For example, an item that is expert-crafted green steel will have a cost modifier of x9.
+
 ## Quality Modifiers
 
 Quality modifiers add an amount of cost that is relative to the base cost of the equipment. They only provide benefits if the user possesses certain skill requirements.
@@ -23,13 +25,14 @@ Material modifiers add an amount of cost that is relative to the base cost of th
 | Material              | Cost Mod  | Weight Mod | Armor AC       | Weapon Mod                       | Special |
 | ---                   | ---       | ---        | ---            | ---                              | ---     |
 | Bronze                | halved    | none       | -1 AC          | -1 accuracy and damage           |         |
+| Common Steel          | no mod    | no mod     | no mod         | no change                        | the default material |
 | Exotic Steel          | + x2      | +1         | +1 AC          | +1 accuracy and damage           |         |
 | Ironwood              | + x4      | none       | none           | none                             | not metal
 | Meteoric Cold-Forged  | + x4      | none       | none           | none                             | not metal
-| Green Steel           | + x4      | +1         | +1 AC (magic)  | +1 accuracy and damage (magic)   |         |
-| Silvered Steel        | + x10     | +1         | +1 AC (silver) | +1 accuracy and damage (silver)  |         |
+| Green Steel           | + x4      | +1         | +1 AC (magic)  | +1 accuracy and damage (magic)   | functions equally in all planes that have magic |
+| Silvered Steel        | + x5      | +1         | +1 AC (silver) | +1 accuracy and damage (silver)  |         |
 | Dwarven Graysteel     | + x25     | +2         | +2 AC          | +2 accuracy and damage           |         |
-| Elven Bluesteel       | + x50     | +1         | +2 AC          | +2 accuracy and damage           |         |
+| Elven Bluesteel       | + x50     | +1         | +2 AC          | +2 accuracy and damage           | +1 against evil-crafted humanoids |
 | Orichalcum            | + x100    | +3         | +3 AC          | +3 accuracy and damage           |         |
 | Graphite Composite    | + x120    | +1         | +2 AC          | +2 accuracy and damage           | not metal
 | Carbon Fiber          | + x200    | none       | +2 AC          | +2 accuracy and damage           | not metal
