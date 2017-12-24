@@ -1,6 +1,6 @@
 # Psy Blade (INT)
 
-Projected Blade: The Projected Blade requires the character to be conscious and not under any mind-altering effects. If the character falls unconscious or comes under a mind-altering effect, then the Projected Blade disappears. It takes both hands to use. It can be used as either a melee weapon, or as a throwing weapon, but not both in the same round. It deals an amount of damage according to the following table:
+Projected Blade: The Projected Blade requires the character to be conscious and not under any mind-altering effects. If the character falls unconscious or comes under a mind-altering effect, then the Projected Blade disappears. It takes both hands to use. It can be used as either a melee weapon, or as a throwing weapon with a range increment of 60 feet, but not both in the same round. It deals an amount of damage according to the following table:
 
 - Psy Blade Level 1: 1 + (2 x INT modifier)
 - Psy Blade Level 2: 1d2 + (2 x INT modifier)

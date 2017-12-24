@@ -97,3 +97,15 @@ The skill used for crafting is as follows:
 - **Potion** - Alchemy (Int)
 - **Scroll** - Craft (Int) (Magic Writing)
 - **Spell Focus** - Craft (Int) (Magic Focuses)
+
+## Writing Spells Into Spellbooks
+
+Generally, having the *Read Magic* spell active makes this endeavor possible. Otherwise, you will need to make a Wizard Potential or Illusionist Potential skill check, with the difficulty equal to 12 + (Spell Circle * 2) in order to be able to read the book or scroll.
+
+It takes 1 day per writing attempt.
+
+The difficulty to finish writing the spell is 12 + (Spell Circle * 2). On a failure, the day's work is wasted, but no items are destroyed.
+
+If using a scroll, then on a success, the scroll is used up and disintegrates.
+
+Spellbooks generally have 100 pages each, with each spell taking a number of pages equal to its Spell Circle. 0th-circle spells take a half-page each.
