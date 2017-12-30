@@ -1,12 +1,12 @@
 # Weapons
 
 - 2-handed: The weapon requires two hands to wield in the intended manner
-- Concealable: The weapon can be hidden in a jacket sleeve.
-- Entangling: A successful hit forces a Dexterity check on the target. The difficulty of the check is equal to 5 + the attacker's relevant skill level.
-- Finesse: The weapon uses Dexterity bonus rather than Strength bonus.
+- Concealable: The weapon can be visually-hidden in a jacket sleeve.
+- Entangling: A successful hit forces a Dexterity check on the target to avoid getting tripped. The difficulty of the check is equal to 5 + the attacker's relevant skill level.
+- Finesse: The weapon uses Dexterity bonus rather than Strength bonus, for both accuracy and damage.
 - Ignores Shield: The weapon is designed to go around shields and strike the opponent at odd angles. The opponent's shield does not provide any AC against this weapon.
-- Ranged: The weapon has full effectiveness at all ranges.
-- Reach: The weapon has full effectiveness across one row.
+- Ranged: The weapon has full effectiveness at all ranges. It also uses Dexterity bonus rather than Strength bonus, for both accuracy and damage.
+- Reach: The weapon has full effectiveness across 7.5 feet / one row.
 - Spear Wall: If everyone in your row also has a Spear Wall weapon, and your team matches or exceeds the numbers of the enemy, then everyone in the row gains +4 AC against melee attacks.
 - Quickdraw: The weapon can be drawn and used to attack in one action.
 
