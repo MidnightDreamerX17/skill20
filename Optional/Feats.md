@@ -11,6 +11,10 @@ Characters start with 10 feats and gain an additional feat at every single exper
 - **Alertness** - The character gains a bonus of +2 to sensory perception.
 - **Animal Affinity** - The character gains a bonus of +2 to deal with animals.
 - **Arms Master** - The character gains a bonus of +1 to all attack accuracy checks.
+- **Astral Constriction** - The character can attempt to "grapple" opponents within line of "sight" in the astral plane.
+- **Astral Navigation** - While in the astral plane, the character can perceive astral landmarks from twice as "far" away, and can travel to them in half the "time". "Far" and "time" in quotation marks due to the nature of the astral plane.
+- **Astral Running** - While in the astral plane, the character can spend a full action to "fly" at triple their normal astral speed. This uses up stamina as if the character had sprinted.
+- **Astral Tracking** - The character can attempt to track targets through the astral plane just as well as through any other plane.
 - **Astrologer** - The character gains two 0th-circle Druid spell energies.
 - **Athletic** - The character gains a bonus of +2 to climbing, swimming, running, and other activities for extended periods of time.
 - **Augment Summoning** - The character's summons gain a bonus of +1 to experience level.
@@ -21,7 +25,7 @@ Characters start with 10 feats and gain an additional feat at every single exper
 - **Body Builder** - The character's minimum dice rolls for maximum Hit Points are increased by 1. This means that they can roll a 2 through 6 on each die. If combined with *Toughness*, the total result is that a 3 through 6 could be rolled per die.
 - **Brace** - When the character's HPs are reduced to 0 or less, the character makes a d20 roll. On a natural roll of 19 or 20, they have 1 HP left.
 - **Cartographer** - The character gains a bonus of +4 to checks relating to maps.
-- **Chaos Shaping** - The character gains a bonus of +2 to stabilize, maintain, modify, and shape chaos matter. This is most effective in planes that work this way, e.g. the Gnosa and Bia strongholds.
+- **Chaos Shaping** - The character gains a bonus of +2 to stabilize, maintain, modify, and shape chaos matter. This is most effective in planes that work this way.
 - **Combat Casting** - The character gains a bonus of +4 to concentration checks.
 - **Combat Casting, Greater** (requires Combat Casting) - The character gains a bonus of +4 to concentration checks.
 - **Counter Attack** - The character may choose to hold all actions and increase their Armor Class by 2. Any melee attack against the character that misses allows usage of one of their attacks.
@@ -36,11 +40,17 @@ Characters start with 10 feats and gain an additional feat at every single exper
 - **Drunken Master** - When the character is under the effect of a poison or disease, they gain a bonus of +4 to attack accuracy and damage.
 - **Endurance** - The character gains a bonus of +2 to Strength and Constitution saving throws.
 - **Enemy Category Specialization** (specific) - The character gains a bonus of +1 to all actions against the enemy category.
+- **Ethereal Curtain Cognizance** - The character can spend a full minute to try to find shortcuts in the curtain between the border and deep ethereal.
+- **Ethereal Nutriment** - The character can gain basic nutrition by breathing in the ethereal plane.
+- **Ethereal Sight** - The character can see through the deep ethereal for up to 100 seconds at a time. A minute is required to recover.
+- **Ethereal Tracking** - The character can track targets through the ethereal plane normally.
+- **Ethereal Vapor Weave** - The character can form basic images, objects, and sounds in the ethereal plane for up to an hour. It takes another hour to recover from this effort.
 - **Forester** - The character gains a bonus of +4 to checks relating to forests, survival in them, and traversing through them.
 - **Fortunate** - The character gains a bonus of +2 to avoid surprise.
 - **Hand of Kindness** - The character's healing magic is improved by 1 hit point per die.
 - **Healing Moment** - The character rests just as well in rough conditions as they do in a civilized bed.
 - **Holy Weapon Charge** (requires Cleric Power skill) - The character can expend a 1st-circle Cleric spell energy to make the whole party's weapons able to damage incorporeal, undead, and other such creatures. This effect lasts for a number of rounds equal to the character's Experience Level. This is not considered to be a spell casting.
+- **Illusion Pierce** - The character gains a bonus of +4 to save against illusions and enchantments.
 - **Improved Familiar** - The character casts the *Find Familiar* spell with a bonus of +4 caster levels.
 - **Improved Familiar, Greater** (requires Improved Familiar) - The character casts the *Find Familiar* spell with a bonus of +4 caster levels.
 - **Improved Initiative** - The character gains a bonus of +10 to initiative rolls.
@@ -78,8 +88,10 @@ Characters start with 10 feats and gain an additional feat at every single exper
 - **Prayer Master** - The character gains two additional 0th-circle Cleric spell energies.
 - **Prestidigitator** - The character gains two additional 0th-circle Illusionist spell energies.
 - **Quick Roll** - The character can choose to lose all attack actions in order to gain a +5 bonus to move through enemies.
+- **Read Spellshadow** - The character gains a bonus of +4 to identify magic in the astral plane.
 - **Reckless Attack** - The character can sacrifice 4 of their Armor Class in order to gain a bonus of +2 to accuracy and damage. If this feat is used, then it starts at the very beginning of the character's turn and lasts until the character's next turn.
 - **Self-Sufficient** - The character gains a bonus of +2 to use healing kits, as well as to survival.
+- **Sense Emotion** - The character can track emotions and thoughts in the astral plane as if they were footprints or other such tracks on other planes.
 - **Spell Focus** (specific) - One spell is considered to be one circle lower for the character.
 - **Spell Focus, Greater** (specific) (requires Spell Focus) - The spell chosen for *Spell Focus* is considered to be one circle lower for the character.
 - **Spell Penetration** - The character gains a bonus of +2 to penetrate spell resistance.

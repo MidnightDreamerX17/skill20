@@ -58,7 +58,7 @@ Kula's Gloves (Gloves) (2,000 gold) - Your unarmed and natural damage is conside
 
 Kusanagi's Gloves (Gloves) (2,000 gold) - Your unarmed and natural damage is considered to be fire element. This also allows you to set objects on fire by punching or kicking them with full force.
 
-Penance for Gambling (Gloves) (2,000 gold) - You are unable to hold any money, ingots, bank notes, and the like, nor can you carry any on your person. If you pull a cart with money then it will all fall out. If you ride on an animal with money in its saddle bags, then the saddle bags will fall off. +1 accuracy and damage with weapons and unarmed. +1 armor class.
+Penance for Gambling (Gloves) (2,000 gold) - You are unable to hold any money, ingots, bank notes, casino chips, and the like, nor can you carry any on your person. If you pull a cart with such money then it will all fall out of the cart. If you ride on an animal with money in its saddle bags, then the saddle bags will fall off. +1 accuracy and damage with weapons and unarmed. +1 armor class.
 
 Raideen's Reach (Gloves) (2,000 gold) - When your Psy Blade is used as a ranged weapon, it takes the shape of a composite longbow, and has the range of a composite longbow.
 
@@ -74,7 +74,7 @@ Iron Ring of the Exile +1 (Ring) (2,000 gold) - +1 accuracy and damage with weap
 
 ### Backpacks
 
-Backpack of Disentanglement (8,000 gold) - Ropes, cables, strings, yarn, wires, cords, and other such objects cannot get entangled inside this backpack. If a tangled mess of cords is placed in the Backpack of Disentanglement, then they will reorder into neatly-wrapped bundles.
+Backpack of Disentanglement (8,000 gold) - Ropes, cables, strings, yarn, wires, cords, and other such objects cannot get entangled inside this backpack. If a tangled mess of cords is placed in the Backpack of Disentanglement, then they will reorder into neatly-wrapped bundles whenever you are not looking.
 
 Sparkster (Backpack) (50,000 gold) - Constant *Levitate*, except with the ability to do a 100-foot rocket dash in a straight line once per minute.
 
@@ -86,6 +86,8 @@ Executioner's Greataxe +1 (Greataxe) (2,000 gold) - Two-handed. 1d12+1 slash dam
 
 ### Chains, Whips, and Flails
 
+Riddia's Taming (Whip) (8,000 gold) - Reach. 1d4 impact damage. Summon spells that you cast gain an increased duration as if you had 2 more caster experience levels.
+
 Roxy's Punishment +1 (Whip) (2,000 gold) - Reach. 1d4+1 impact damage. If a hit from this weapon sends the target to 0 or fewer hit points, then it casts *Charm Monster* on the target. The caster level is equal to the wielder's Melee Fighting (STR) skill level.
 
 ### Hammers, Maces, and Clubs
@@ -96,7 +98,7 @@ Mechanus Mallet +1 (Great Wrench) (2,000 gold) - Two-handed. 1d12+1 impact damag
 
 ### Polearms, Pikes, and Lances
 
-Abel's Lance +5 (Lance) (2,000 gold) - Two-handed. Reach. Spear wall. 1d8+5 puncture damage. Considered to be a holy weapon of Lawful Good.
+Abel's Lance +5 (Lance) (50,000 gold) - Two-handed. Reach. Spear wall. 1d8+5 puncture damage. Considered to be a holy weapon of Lawful Good.
 
 Alexander's Reach +1 (Pike) (2,000 gold) - Two-handed. Reach. Spear wall. 1d6+1 puncture damage. On hit, it also prevents the target from moving more than 5 feet for one round.
 
@@ -148,7 +150,7 @@ Morton's Barrage +2 (Longbow) (8,000 gold) - Ranged. 1 puncture damage. Double t
 
 ### Point-and-Shoot Weapons
 
-Blender Blaster +1 (Musket) (2,000 gold) - Ranged. Reload with 4 attack actions. Does not require gunpowder, and is instead loaded with forks and knives. 1d6+1 puncture damage.
+Blender Blaster +1 (Musket) (2,000 gold) - Ranged. Reload with 4 attack actions. Does not require gunpowder, and is loaded with forks and knives instead of musket shot. 1d6+1 puncture damage.
 
 ### Throwing Weapons
 
@@ -176,7 +178,7 @@ Mechanus Toolset +2 (8,000 gold) - Gives a bonus of +2 to engineering and mechan
 
 ### Gaming Sets
 
-Dead Man's Hand +1 (Playing Cards) (2,000 gold) - If a player fails to make a valid Poker hand, then they become undead for 12 hours.
+Dead Man's Hand +1 (Playing Cards) (2,000 gold) - If a player fails to make a valid Poker hand, then they become undead for 12 hours. Additional failures will refresh the duration, but not extend it past 12 hours.
 
 The Deep Mind +1 (Go set) (2,000 gold) - This set gives a bonus of +4 when used by constructs, golems, and other mechanically-enhanced creatures.
 
