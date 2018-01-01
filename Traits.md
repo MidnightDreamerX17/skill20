@@ -8,6 +8,8 @@
 
 **Favored Enemy Category** - The character gains a bonus of +2 for everything relating to that enemy category, including Armor Class.
 
+**Life Sight** - The character sees living things as having different colors from everything else.
+
 **Magic Domain** - The character is strongly aligned with a specific domain of magic, causing the domain spells to be considered a lower magic circle. For example, being specialized in the Healing Domain will cause *Cure Light Wounds* to be considered a spell of the 0th circle. If a spell was already 0th-circle, then its casting time becomes a move action.
 
 **Magic School** - The character is strongly aligned with one specific school of magic, causing that school's spells to be considered a lower magic circle. For example, being specialized in the Evocation Magic School will cause *Magic Missile* to be considered a spell of the 0th circle. If a spell was already 0th-circle, then its casting time becomes a move action. "Universal" is not a valid school for this trait.
@@ -28,11 +30,13 @@
 
 **Reincarnate** - The character is a reincarnation. As the character gains experience levels, they regain memories of people, places, and events from their past lives. Spending experience points on skills could be role-played as the character remembering old instincts. If the GM requires training time for skill improvement, then the character can use that time to revisit places that their past lives have used those skills at.
 
+**Self Magic Energy** - The character gains additional 0th-circle spell energies per day, equal to their Constitution modifier. These spell energies can be spent for any magic type.
+
 **Skilled** - The character starts with 1 additional skill. It cannot be an Advanced skill. For starting with additional Craft, Knowledge, Perform, or Profession skills, the advantage of Work Experience is more efficient.
 
 **Streetwise** - The character's mandatory Craft skill is changed to Locks (DEX), mandatory Knowledge skill is changed to Traps (INT), mandatory Perform skill is changed to Persuasion (CHA), and mandatory Profession skill is changed to Stealth (DEX).
 
-**Time Sight** - The character's eyes are golden, with the pupils replaced by hourglasses. The character can now perceive four-dimensionally.
+**Time Sight** - The character's eyes are golden, with the pupils replaced by hourglasses. The character can now perceive four-dimensionally. If the character focuses on a person or object for ten seconds, the character will then be able to see how the subject appears in the past and future, simultaneously.
 
 **Wealthy Family** - The character's starting wealth is changed to 300 gold from their own family, with no debt to Adventure Capital.
 
@@ -122,9 +126,9 @@
 
 **Antimagic** - The character has a Spell Resistance number equal to 10 + Experience Level. On the other hand, they are unable to pickup or use any magic item. This includes all items that are +1, +2, +3, etc. Possible potions are limited to those that restore hit points, with no other benefits from potions. The character must roll to defeat their own Spell Resistance in order to cast spells.
 
-**Beastial Spirit (Specific)** - Spells and powers relating to this spirit are considered to be one circle lower. For example, having a Beastial Spirit of Bear will allow the character to use *Summon Nature's Ally I* as if it were *Summon Nature's Ally II* in order to summon a bear. On the other hand, the character's personality is strongly modified depending on the spirit, having a penalty of -10 to all actions that are contrary to the spirit's nature.
+**Beastial Spirit (Specific)** - Spells and powers relating to this spirit are considered to be one circle lower. For example, having a Beastial Spirit of Bear will allow the character to use *Summon Nature's Ally I* as if it were *Summon Nature's Ally II* in order to summon a bear. On the other hand, the character's personality is strongly modified depending on the spirit, having a penalty of -10 to all actions that are contrary to the spirit's nature. For example, having a Beastial Spirit of Bear will make the character want to eat a lot and sleep in for the whole winter.
 
-**Darksign** - The character is undead, harmed by most effects that heal mortals. The character does not regain hit points by resting, instead needing to sit near magically-blessed fires. If killed, the character will come back to life the next day with 1 less maximum hit point and looking more dead. Once the character's maximum hit points go to zero, they will be raised as a mindless hollow. The cure to the darksign is only known by a select few, and by specific gods.
+**Darksign** - The character is undead, harmed by most effects that heal mortals. The character does not regain hit points by resting, instead needing to sit near magically-blessed fires. If killed, the character will come back to life the next day with 1 less maximum hit point and looking more dead. Once the character's maximum hit points go to zero, they will be raised as a mindless hollow. The cure to the darksign is only known by a select few, and by specific gods. The reduction in maximum hit points can be temporarily alleviated by consuming distilled essences of humanity.
 
 **Dependent** - The character has a non-adventurer dependent. If this person is killed, then the character must cease adventuring immediately for the rest of their lives and all future incarnations. The dependent's experience level is capped at 1/5th of the character's own.
 
