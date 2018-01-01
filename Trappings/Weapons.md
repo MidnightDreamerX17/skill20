@@ -86,6 +86,8 @@
 | Lance              | 10.00   | 1d8 puncture    |         |
 | Quarterstaff       | 0       | 1d6 impact      | 2-handed
 | Spear              | 2.00    | 1d8 puncture    | spear wall
+| Staff-Sling        | 5.00    | 1d6 impact      | 2-handed, also has a ranged weapon component
+| Spear-Sling        | 5.00    | 1d6 puncture    | 2-handed, also has a ranged weapon component
 | Sword, Two-Bladed  | 100.00  | 1d8 slash       | 2-handed
 | Trident            | 15.00   | 1d8 puncture    | spear wall
 
@@ -159,3 +161,5 @@
 | Net                        | 2.00      | 1d2 impact   | ranged, entangling
 | Shuriken                   | 0.20      | 1d2 slash    | ranged
 | Sling                      | 0         | 1d4 impact   | ranged
+| Staff-Sling                | 5.00      | 1d6 impact   | ranged, also has a melee weapon component
+| Spear-Sling                | 5.00      | 1d6 impact   | ranged, also has a melee weapon component

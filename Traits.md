@@ -32,6 +32,8 @@
 
 **Streetwise** - The character's mandatory Craft skill is changed to Locks (DEX), mandatory Knowledge skill is changed to Traps (INT), mandatory Perform skill is changed to Persuasion (CHA), and mandatory Profession skill is changed to Stealth (DEX).
 
+**Time Sight** - The character's eyes are golden, with the pupils replaced by hourglasses. The character can now perceive four-dimensionally.
+
 **Wealthy Family** - The character's starting wealth is changed to 300 gold from their own family, with no debt to Adventure Capital.
 
 **Weapon Category Specialization** - The character has been training their whole life with one category of weapons. They get a bonus of +1 for everything relating to that category of weapons, including Armor Class when attacked by that type of weapon. Guaranteed hits occur on both 19 and 20. The categories of weapon specialization are as follows:
