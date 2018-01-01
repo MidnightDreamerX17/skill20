@@ -2,6 +2,8 @@
 
 Quality and Material cost modifiers are additive. For example, an item that is expert-crafted green steel will have a cost modifier of x9.
 
+If the base item type has a cost of 0, then it is considered to have a base cost of 1 gold for material and modification purposes.
+
 ## Quality Modifiers
 
 Quality modifiers add an amount of cost that is relative to the base cost of the equipment. They only provide benefits if the user possesses certain skill requirements.
@@ -52,9 +54,15 @@ Material modifiers add an amount of cost that is relative to the base cost of th
 
 Reinforcement adds a flat cost to the item, after all other modifiers are applied. In many cases, it may be cheaper to reinforce an old piece of equipment rather than get a new one crafted from superior materials. Reinforcement can be either magical or psionic - a distinction that initially matters little, but becomes more important as you face increasingly deadly foes of various sorts.
 
-Weapons gain a bonus of +1 to accuracy and damage for each point of reinforcement. Ammunition is reinforced in batches of 50.
+Weapons gain a bonus of +1 to accuracy and damage for each point of reinforcement.
 
-Armor gains 1 AC for each point of reinforcement. Shields gain 1 AC for every 2 points of reinforcement. Rings, amulets, bracers, and other such items can be reinforced as if they were armor, causing them to become items "Of Protection" or "Of Armor".
+Throwing weapons are reinforced in batches of 10, and gain a bonus equal to four times their reinforcement value to be reusable. For example, reinforcing a Throwing Axe to +2 gives it a bonus of +8 to be reusable.
+
+Ammunition is reinforced in batches of 20, and gains a bonus equal to double its reinforcement value to be reusable. For example, reinforcing an arrow to +2 gives it a bonus of +4 to be reusable. The bonus is also applied to visually searching for ammunition with the help of *Detect Magic*, *Detect Psionics*, or similar power, depending on whether the ammunition was magically or psionically reinforced.
+
+Armor gains 1 AC for each point of reinforcement.
+
+Other wearable gear, such as shields, rings, amulets, bracers, and robes can be reinforced as armor for double the gold value. For example, the gold value of Robes of Armor +1 is 4,000 gold.
 
 - +1: +1,000 gold value
 - +2: +4,000 gold value
