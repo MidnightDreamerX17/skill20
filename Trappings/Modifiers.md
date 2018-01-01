@@ -62,7 +62,7 @@ Ammunition is reinforced in batches of 20, and gains a bonus equal to double its
 
 Armor gains 1 AC for each point of reinforcement.
 
-Other wearable gear, such as shields, rings, amulets, bracers, and robes can be reinforced as armor for double the gold value. For example, the gold value of Robes of Armor +1 is 4,000 gold.
+Other wearable gear, such as shields, rings, amulets, bracers, and robes can be reinforced as armor for double the gold value. For example, the gold value of Robes of Armor +1 is 2,000 gold.
 
 - +1: +1,000 gold value
 - +2: +4,000 gold value
