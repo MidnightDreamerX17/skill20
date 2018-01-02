@@ -1,6 +1,6 @@
 # Insectoid
 
-Insectoids range from human-looking people with multiple arms and a pair of antennae sticking out of their hair, to human-sized insects who stand on two or four of their legs.
+**Physical Appearance:** One extreme of Insectoid appearance is a human with four arms, and a pair antennae sticking out of their hair. The other extreme is an insect that stands on two or four legs, is as tall as a human, and has rotatable pincers on its hands.
 
 - Vision: Darkvision
 - Theoretical Lifespan: 40 years

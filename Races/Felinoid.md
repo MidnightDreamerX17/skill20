@@ -1,6 +1,6 @@
 # Felinoid
 
-Felinoids range from human-looking people with cat ears and tails, to more beastial appearances.
+**Physical Appearance:** One extreme of Felinoid appearance is a human with cat ears and a cat tail. The other extreme is a feline that stands on two legs and has humanoid hands.
 
 - Vision: Twilight Vision
 - Theoretical Lifespan: 120 years

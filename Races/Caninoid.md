@@ -1,6 +1,6 @@
 # Caninoid
 
-Caninoids range from human-looking people with dog ears and tails, to werewolf-looking people.
+**Physical Appearance:** One extreme of Caninoid appearance is a human with dog ears and dog tail. The other extreme of Caninoid appearance is a wolf who stands on its hind legs, with humanoid hands.
 
 - Vision: Twilight Vision
 - Theoretical Lifespan: 80 years

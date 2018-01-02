@@ -1,6 +1,6 @@
 # Centaur
 
-Centaurs range from being human-looking above the waist, to being totally beastial above the waist. Males always have horns.
+**Physical Appearance:** One extreme of Centaur appearance is to be human above the waist. The other extreme of Centaur appearance is to be a horse with horns, with humanoid arms sticking out of the neck.
 
 - Vision: Infravision
 - Theoretical Lifespan: 200 years

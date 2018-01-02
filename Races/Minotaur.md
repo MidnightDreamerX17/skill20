@@ -1,6 +1,6 @@
 # Minotaur
 
-Minotaurs range from human-looking people with bull legs and cow ears, to fully beastial appearances.
+**Physical Appearance:** One extreme of Minotaur appearance is a full-bodied human with cow ears and a cow tail. The other extreme is a bull or heifer that stands on two legs and has humanoid hands.
 
 - Vision: Daylight Vision
 - Theoretical Lifespan: 250 years

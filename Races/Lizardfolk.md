@@ -1,6 +1,6 @@
 # Lizardfolk
 
-Lizardfolk range from human-looking people with lizard tails, to more beastial and reptilian people.
+**Physical Appearance:** One extreme of Lizardfolk appearance is a human with snake eyes and a big lizard tail. The other extreme is a reptile that stands on two legs, is as tall as a human, and has at least four fingers on each hand.
 
 - Vision: Twilight Vision
 - Theoretical Lifespan: 60 years
