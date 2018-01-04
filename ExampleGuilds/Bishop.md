@@ -42,6 +42,7 @@ Find potential candidates for the guild. Participate in ceremonies to ordain new
 | Knowledge (Planes) (INT) | 1 | 10
 | Knowledge (Religion) (INT) | 1 | 10
 | Metamagic (INT) | 10 | Grandmaster
+| Metapsionics (INT) | 10 | Grandmaster
 | Profession (Priest) (WIS) | 1 | 10
 | Psionic Potential (INT) | 10 | Grandmaster
 | Psionic Power (INT) | 10 | Grandmaster

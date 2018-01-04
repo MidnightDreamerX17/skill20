@@ -43,6 +43,7 @@ Start new guild branches and protect them from harm. Participate in examinations
 | Knowledge (Law) (INT) | 5 | 20
 | Knowledge (Physics) (INT) | 5 | 20
 | Knowledge (Planes) (INT) | 5 | 20
+| Metapsionics (INT) | 5 | 20
 | Profession (Fortuneteller) | 1 | 10
 | Profession (Gambler) | 1 | 10
 | Profession (Teacher) | 1 | 10

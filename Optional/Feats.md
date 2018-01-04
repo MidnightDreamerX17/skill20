@@ -9,7 +9,9 @@ Characters start with 10 feats and gain an additional feat at every single exper
 - **Additional Advantage** (uses 2 feats) - The character gains an additional Advantage.
 - **Agile** - The character gains a bonus of +2 to balancing, escaping from restraints, walking on tightropes, and other such checks.
 - **Alertness** - The character gains a bonus of +2 to sensory perception.
+- **Aligned Attack** (requires Psionic Power skill) - You can spend 2 Psionic Power Points to add 1d6 aligned psionic damage to one attack. The alignment of the damage matches your own.
 - **Animal Affinity** - The character gains a bonus of +2 to deal with animals.
+- **Antipsionic Magic** - The character gains a bonus of +4 to penetrate spell resistance caused by psionics, psionic equipment, and the like.
 - **Arms Master** - The character gains a bonus of +1 to all attack accuracy checks.
 - **Astral Constriction** - The character can attempt to "grapple" opponents within line of "sight" in the astral plane.
 - **Astral Navigation** - While in the astral plane, the character can perceive astral landmarks from twice as "far" away, and can travel to them in half the "time". "Far" and "time" in quotation marks due to the nature of the astral plane.
@@ -18,19 +20,31 @@ Characters start with 10 feats and gain an additional feat at every single exper
 - **Astrologer** - The character gains two 0th-circle Druid spell energies.
 - **Athletic** - The character gains a bonus of +2 to climbing, swimming, running, and other activities for extended periods of time.
 - **Augment Summoning** - The character's summons gain a bonus of +1 to experience level.
-- **Blessed Attribute** (specific) (requires Experience Level 10) - One of the character's attributes is increased by 1. This feat can be taken once per attribute.
-- **Blessed Attribute, Greater** (specific) (requires Experience Level 20) - One of the character's attributes is increased by 1. This feat can be taken once per attribute.
+- **Autonomous** - The character gains a bonus of +2 to Knowledge (Psionics) checks, and concentration checks for both magic and psionics.
+- **Blessed Attribute** (specific) (requires Experience Level 5) - One of the character's attributes is increased by 1. This feat can be taken once per attribute.
+- **Blessed Attribute, Improved** (specific) (requires Experience Level 10) - One of the character's attributes is increased by 1. This feat can be taken once per attribute.
+- **Blessed Attribute, Greater** (specific) (requires Experience Level 15) - One of the character's attributes is increased by 1. This feat can be taken once per attribute.
+- **Blessed Attribute, Superior** (specific) (requires Experience Level 20) - One of the character's attributes is increased by 1. This feat can be taken once per attribute.
 - **Blind Fight** - The character does melee fighting normally while blind.
 - **Blind Fight, Greater** (requires Blind Fight) - The character does ranged fighting normally while blind.
 - **Body Builder** - The character's minimum dice rolls for maximum Hit Points are increased by 1. This means that they can roll a 2 through 6 on each die. If combined with *Toughness*, the total result is that a 3 through 6 could be rolled per die.
+- **Body Fuel** - You can burn a point of Strength, Dexterity, and Constitution (for a total of 3 attribute points burned) in order to regain 2 Psionic Power Points. This is considered 1-day ability drain.
+- **Boost Construct** - You can craft constructs in the astral plane at one experience level higher.
 - **Brace** - When the character's HPs are reduced to 0 or less, the character makes a d20 roll. On a natural roll of 19 or 20, they have 1 HP left.
 - **Cartographer** - The character gains a bonus of +4 to checks relating to maps.
 - **Chaos Shaping** - The character gains a bonus of +2 to stabilize, maintain, modify, and shape chaos matter. This is most effective in planes that work this way.
-- **Combat Casting** - The character gains a bonus of +4 to concentration checks.
-- **Combat Casting, Greater** (requires Combat Casting) - The character gains a bonus of +4 to concentration checks.
+- **Chaotic Mind** (requires a Chaotic alignment) - Your mind is so unpredictable that bonuses based on prediction, precognition, anticipation, etc. cannot be applied against you.
+- **Cloak Dance** - You gain a bonus of +2 to visual hiding when you are able to quickly put up visual cover between you and those you are hiding from. For example, quickly throwing a cloak into the air.
+- **Closed Mind** - You gain a bonus of +2 to save against psionics.
+- **Combat Casting** - The character gains a bonus of +4 to concentration checks for magic.
+- **Combat Casting, Greater** (requires Combat Casting) - The character gains a bonus of +4 to concentration checks for magic.
+- **Combat Manifestation** - The character gains a bonus of +4 to concentration checks for psionics.
+- **Combat Manifestation, Greater** (requires Combat Manifestation) - The character gains a bonus of +4 to concentration checks for psionics.
 - **Counter Attack** - The character may choose to hold all actions and increase their Armor Class by 2. Any melee attack against the character that misses allows usage of one of their attacks.
 - **Danger Sense** - The character gains a bonus of +4 to avoid surprise.
 - **Danger Sense, Greater** (requires Danger Sense) - The character gains a bonus of +4 to avoid surprise.
+- **Deadly Precision** - Your weapon damage dice has a minimum result of 2. For example, if your weapon does 1d8 damage, then with this feat its possible damage rolls are 2 through 8.
+- **Deep Impact** (requires Psionic Power skill) - You can spend 2 psionic power points to make an attack ignore armor and shield.
 - **Direction Sense** - The character gains a bonus of +4 to checks relating to direction, estimating distance, and the like.
 - **Deceitful** - The character gains a bonus of +2 to disguise, forgery, lying, and other such checks.
 - **Deft Hands** - The character gains a bonus of +2 to steal, use rope, manipulate coin tosses, and other such checks.
@@ -38,6 +52,7 @@ Characters start with 10 feats and gain an additional feat at every single exper
 - **Diligent** - The character gains a bonus of +2 to appraise the gold value of items, as well as to decipher ancient scripts.
 - **Divination** - The character gains a bonus of +2 to identify anything, including magical and psionic items.
 - **Drunken Master** - When the character is under the effect of a poison or disease, they gain a bonus of +4 to attack accuracy and damage.
+- **Empowered Healing** - The character's healing magic restores 1 additional hit point per die.
 - **Endurance** - The character gains a bonus of +2 to Strength and Constitution saving throws.
 - **Enemy Category Specialization** (specific) - The character gains a bonus of +1 to all actions against the enemy category.
 - **Ethereal Curtain Cognizance** - The character can spend a full minute to try to find shortcuts in the curtain between the border and deep ethereal.
@@ -45,9 +60,13 @@ Characters start with 10 feats and gain an additional feat at every single exper
 - **Ethereal Sight** - The character can see through the deep ethereal for up to 100 seconds at a time. A minute is required to recover.
 - **Ethereal Tracking** - The character can track targets through the ethereal plane normally.
 - **Ethereal Vapor Weave** - The character can form basic images, objects, and sounds in the ethereal plane for up to an hour. It takes another hour to recover from this effort.
+- **Expanded Knowledge** (specific) - You learn one additional psionic power, fitting within the constraints of powers that you could possibly have learned during your most recent Psionic skill improvement. This feat can be taken once per psionic power.
+- **Focused Sunder** (requires Psionic Power skill) - You can spend 2 Psionic Power Points in order to gain a bonus of +5 to break weapons.
+- **Force of Will** - You can use Wisdom or Intelligence to save against psionics that require Strength, Constitution, or Dexterity saves.
 - **Forester** - The character gains a bonus of +4 to checks relating to forests, survival in them, and traversing through them.
 - **Fortunate** - The character gains a bonus of +2 to avoid surprise.
-- **Hand of Kindness** - The character's healing magic is improved by 1 hit point per die.
+- **Ghost Attack** (requires Psionic Power skill) - You can spend 1 Psionic Power Point to make one of your attacks able to hit incorporeal creatures normally.
+- **Hand of Kindness** - The character's healing magic restores 1 additional hit point per die.
 - **Healing Moment** - The character rests just as well in rough conditions as they do in a civilized bed.
 - **Holy Weapon Charge** (requires Cleric Power skill) - The character can expend a 1st-circle Cleric spell energy to make the whole party's weapons able to damage incorporeal, undead, and other such creatures. This effect lasts for a number of rounds equal to the character's Experience Level. This is not considered to be a spell casting.
 - **Illusion Pierce** - The character gains a bonus of +4 to save against illusions and enchantments.
@@ -85,22 +104,37 @@ Characters start with 10 feats and gain an additional feat at every single exper
 - **Planology** - The character gains a bonus of +4 to sense good or bad luck in the planes.
 - **Polyglot** - The character gains 4 additional languages, and a bonus of +2 to Knowledge (Linguistics) (INT) skill checks.
 - **Portal Feel** - The character gains a bonus of +4 to identify portals, and to identify what is at the other end.
+- **Power Penetration** - The character gains a bonus of +2 to penetrate power resistance.
+- **Power Penetration, Greater** (requires Power Penetration) - The character gains a bonus of +2 to penetrate power resistance.
 - **Prayer Master** - The character gains two additional 0th-circle Cleric spell energies.
 - **Prestidigitator** - The character gains two additional 0th-circle Illusionist spell energies.
+- **Psionic Fist** (requires Psionic Power skill) - You can spend 2 Psionic Power Points to add 2d6 psionic damage to one unarmed or natural attack.
+- **Psionic Fist, Greater** (requires Psionic Fist) - You can spend 2 Psionic Power Points to add 2d6 psionic damage to one unarmed or natural attack. This can be combined with Psionic Fist for a total of 4 Psionic Power Points in order to add 4d6 psionic damage.
+- **Psionic Hole** - Anyone who has the Psionic Power skill must spend 1 additional Psionic Power Point to target you, whether with attacks or with powers. If someone is at zero Psionic Power Points, however, then they do not need to spend any more to target you.
+- **Psionic Shot** (requires Psionic Power skill) - You can spend 2 Psionic Power Points to add 2d6 psionic damage to one ranged attack.
+- **Psionic Talent** (specific) - Your maximum Psionic Power Points are increased by 2. This feat is linked to an Intelligence bonus, so for example, if your Intelligence is 14, then you can buy this feat for INT Bonus +1 and INT Bonus +2.
+- **Psionic Weapon** (requires Psionic Power skill) - You can spend 2 Psionic Power Points to add 2d6 psionic damage to one weapon attack.
 - **Quick Roll** - The character can choose to lose all attack actions in order to gain a +5 bonus to move through enemies.
+- **Rapid Metabolism** - Your Constitution bonus, if +1 or higher, is doubled while resting.
 - **Read Spellshadow** - The character gains a bonus of +4 to identify magic in the astral plane.
 - **Reckless Attack** - The character can sacrifice 4 of their Armor Class in order to gain a bonus of +2 to accuracy and damage. If this feat is used, then it starts at the very beginning of the character's turn and lasts until the character's next turn.
+- **Return Shot** (requires Psionic Power skill) - You can spend 2 Psionic Power Points to gain +2 AC against one ranged attack. If the ranged attack misses, then you do it right back at the attacker. Usage of this feat is a reaction, rather than an action.
 - **Self-Sufficient** - The character gains a bonus of +2 to use healing kits, as well as to survival.
 - **Sense Emotion** - The character can track emotions and thoughts in the astral plane as if they were footprints or other such tracks on other planes.
+- **Sidestep Charge** - Charge attacks have no accuracy or damage bonus against you.
+- **Speed of Thought** (requires Psionic Power skill) - You can spend 1 Psionic Power Point to increase your movement speed by 10 feet, for one movement action.
 - **Spell Focus** (specific) - One spell is considered to be one circle lower for the character.
 - **Spell Focus, Greater** (specific) (requires Spell Focus) - The spell chosen for *Spell Focus* is considered to be one circle lower for the character.
 - **Spell Penetration** - The character gains a bonus of +2 to penetrate spell resistance.
 - **Spell Penetration, Greater** (requires Spell Penetration) - The character gains a bonus of +2 to penetrate spell resistance.
 - **Spell Recovery** - The character gains a bonus of +4 to know which spells will not work on their current plane, as well as which spells are enhanced on the current plane.
+- **Stand Still** - You can spend your movement action to instead put extra effort into intercepting enemies who try to move past you. You gain a bonus of +4 to body-blocking for this effect.
 - **Stealthy** - The character gains a bonus of +2 to hide from sight and to move silently.
 - **Swimming Expert** - The character gains a bonus of +4 to swimming.
 - **Terrain Category Specialization** (specific) - The character gains a bonus of +1 to all actions of tracking, foraging, survival, hunting, hiding, etc. in the terrain category.
 - **Toughness** - The character's minimum dice rolls for maximum Hit Points are increased by 1. This means that they can roll a 2 through 6 on each die. If combined with *Body Builder*, the total result is that a 3 through 6 could be rolled per die.
+- **Unavoidable Strike** (requires Psionic Power skill) - You can spend 2 psionic power points in order to cause one unarmed or natural weapon attack to ignore armor and shield.
+- **Up the Walls** (requires Psionic Power skill) - You can spend 1 Psionic Power Point to include vertical surfaces as part of your move action. You must still end your move action on something you could stand on or hover over normally.
 - **Vanguard Stance** - The character can take damage from a ranged attack in place of an adjacent ally. Usage of this feat can be declared starting from when the enemy chooses to do a ranged attack, up to immediately after damage is rolled.
 - **Weapon Focus** (specific) - The character gains a bonus of +1 to accuracy and damage with one specific weapon type.
 - **Weapon Focus, Greater** (specific) (requires Weapon Focus) - The character gains a bonus of +1 to accuracy and damage with one specific weapon type.
@@ -109,3 +143,4 @@ Characters start with 10 feats and gain an additional feat at every single exper
 - **Weapon Trick** - The character can throw any weapon as a ranged weapon. The damage of the weapon is unchanged.
 - **Wide Slash** - The character can use two of their attacks to do one attack against an enemy in the back row. In map combat, the character can use two of their attacks to do one attack 10 feet away.
 - **Wild Eye** - The character gains a bonus of +2 to find secret doors.
+- **Wounding Attack** (requires Psionic Power skill) - You can spend 2 Psionic Power Points to add 1 point of Constitution damage to one attack. This is considered long-term ability damage, thus cannot be healed by normal rest. It must be healed by spells or psionics that explicitly state that they heal ability damage.

@@ -42,6 +42,7 @@ Start new psyvariant schools, and ensure that they are designed in a way that he
 | Intelligence Training (INT) | 20 | Grandmaster
 | Knowledge (Planes) (INT) | 1 | 10
 | Melee Fighting (STR) | 1 | 10
+| Metapsionics (INT) | 10 | Master
 | Perform (Martial Arts Kata) (CHA) | 1 | 10
 | Profession (Acrobat) (WIS) | 1 | 10
 | Profession (Medium) (WIS) | 1 | 10
