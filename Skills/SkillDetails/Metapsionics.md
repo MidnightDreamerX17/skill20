@@ -2,9 +2,9 @@
 
 Usage of metapsionics must still fit into the rule that a manifestation cannot spend more Psionic Power Points than the manifester's experience level.
 
-If a manifester has specialized in a category or discipline, then specialized 0th-circle powers can be manifested with a +1 cost metapsionic for free.
+If a manifester has specialized in a category or discipline, then specialized 0th-circle powers can be manifested with a free +1 cost metapsionic. The total manifestation cost remains at 1 psionic power point.
 
-If a manifester has specialized in both a category and a discipline, then double-specialized 1st-circle powers can be manifested with a +1 cost metapsionic for free. Double-specialized 0th-circle powers can be manifested with a +2 cost metapsionic for free.
+If a manifester has specialized in both a category and a discipline, then double-specialized 1st-circle powers can be manifested with a free +1 cost metapsionic. Double-specialized 0th-circle powers can be manifested with a free +2 cost metapsionic. The total manifestation cost remains at 1 psionic power point.
 
 #### Metapsionics Level 1
 
