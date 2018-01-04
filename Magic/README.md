@@ -33,6 +33,10 @@ The spellcaster chooses one of their memorized spells. Spellcasting is mutually 
 
 Any amount of damage during the spellcasting will force a skill check to maintain concentration. The difficulty is 10 + the Experience Level of the one who did the damage to the spellcaster. On a success, the spell is not interrupted. On a failure, the spell is interrupted, but the spell energy is not expended.
 
+## What is the caster level?
+
+It is the experience level of the caster. The full term "caster experience level" is used as often as possible to make this clear. Any stray mentions of "caster level" should be interpreted as "caster experience level".
+
 ## Converting Spells to Map-less Combat
 
 Area of effect conversion for map-less combat:

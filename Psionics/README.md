@@ -24,6 +24,10 @@ The maximum amount of Psionic Power Points that can be spent on one power - comb
 
 Any amount of damage during the manifestation will force a skill check to maintain concentration. The difficulty is 10 + the Experience Level of the one who did the damage to the manifester. On a success, the power is not interrupted. On a failure, the power is interrupted, but the psionic power points are not expended.
 
+## What is the manifester level?
+
+It is the experience level of the manifester. The full term "manifester experience level" is used as often as possible to make this clear. Any stray mentions of "manifester level" should be interpreted as "manifester experience level".
+
 ## Cognizance Crystals
 
 Cognizance Crystals store Psionic Power Points. While holding one crystal, its power can be used to help manifest powers. There is no way to take energy from the crystal other than to manifest. Only one cognizance crystal can be used per round (10 seconds).

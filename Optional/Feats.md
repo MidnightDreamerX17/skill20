@@ -70,8 +70,8 @@ Characters start with 10 feats and gain an additional feat at every single exper
 - **Healing Moment** - The character rests just as well in rough conditions as they do in a civilized bed.
 - **Holy Weapon Charge** (requires Cleric Power skill) - The character can expend a 1st-circle Cleric spell energy to make the whole party's weapons able to damage incorporeal, undead, and other such creatures. This effect lasts for a number of rounds equal to the character's Experience Level. This is not considered to be a spell casting.
 - **Illusion Pierce** - The character gains a bonus of +4 to save against illusions and enchantments.
-- **Improved Familiar** - The character casts the *Find Familiar* spell with a bonus of +4 caster levels.
-- **Improved Familiar, Greater** (requires Improved Familiar) - The character casts the *Find Familiar* spell with a bonus of +4 caster levels.
+- **Improved Familiar** - The character casts the *Find Familiar* spell with a bonus of +4 caster experience levels.
+- **Improved Familiar, Greater** (requires Improved Familiar) - The character casts the *Find Familiar* spell with a bonus of +4 caster experience levels.
 - **Improved Initiative** - The character gains a bonus of +10 to initiative rolls.
 - **Improved Initiative, Greater** (requires Improved Initiative) - The character gains a bonus of +10 to initiative rolls.
 - **Intuition** - The character gains a bonus of +2 to find and disarm traps.
