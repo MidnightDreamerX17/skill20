@@ -128,17 +128,17 @@ Machine-Pressed Steel Armor
 Air Gun:
 
 - Crafting: 1 kilogram of iron plate + 1 Iron Pipe, threshold difficulty 10
-- Ranged Weapon: 1d8 impact damage, reload time of 2 attack actions
+- Two-Handed Ranged Weapon: 1d8 impact damage, reload time of 2 attack actions
 
 Pneumatic Punch:
 
-- Crafting: 2 Iron Gear Wheels, , threshold difficulty 15
-- Melee Weapon: 1d12 impact damage, reload time of 1 attack action
+- Crafting: 2 Iron Gear Wheels + 2 Iron Shafts, threshold difficulty 15
+- One-Handed Melee Weapon: 1d12 impact damage, reload time of 1 attack action
 
 Pile Bunker:
 
-- Crafting: 500 gold, threshold difficulty 50
-- Melee Weapon: 3d12 puncture damage, reload time of 2 attack actions
+- Crafting: 2 Steel Gear Wheels + 2 Steel Shafts + 2 kilograms of steel plates, threshold difficulty 50
+- Two-Handed Melee Weapon: 2d10 puncture damage, rewind time of 2 attack actions
 
 ## Formulas
 
