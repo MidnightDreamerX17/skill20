@@ -29,17 +29,20 @@
 
 | Trade Good | Cost per pound | Special |
 | ---  | ---            | ---     |
-| Air Plane Fluffcandy | 10,000.00 |
+| Air Plane Fluffcandy | 10,000.00 |     | 
 | Astral Plane Brainburner Powder | 2,000.00 | 1/10th pound - Doubles initiative for 1 round, then causes nosebleeding and possible brain aneurysms
-| Celestial Fruit | 25,000.00 |    |
-| Cinnamon | 1.00 |   |
-| Cloves | 15.00 |    |
-| Earth Plane Puresoil | 1,000.00 |   |
+| Celestial Fruit | 25,000.00 |    | 
+| Chaos Plane Color-changing Ink | 1,000.00 | Constantly changing and shifting colors
+| Cinnamon | 1.00 |   | 
+| Cloves | 15.00 |    | 
+| Earth Plane Puresoil | 1,000.00 |   | 
+| Earth Plane Rock Candy | 1,000.00 | Takes roughly ten million licks to get to the center of a one-pound sphere
 | Fire Plane Hotstone | 20,000.00 | Retains cooking temperature for a whole month
-| Fire Plane Burnpeppers | 500.00 | 1/10th pound - Constitution save, difficulty 50, to be able to finish eating without spitting it out
+| Fire Plane Burnpeppers | 500.00 | 1/100th pound (5-gold-value pinch) - Constitution save, difficulty 50, to be able to finish eating without spitting it out
 | Garlic | 0.50 |    |
 | Ginger | 2.00 |    |
 | Ice Plane Coldstone | 10,000.00 | Retains freezing temperature for a whole month
+| Law Plane Standardized Weights | 10,000.00 | These weights save against changes to size, weight, shape, etc. at +40 to the saving throws
 | Lightning Plane Shock Gel | 10,000.00 |    |
 | Nature Plane Grass Seed | 1,000.00 |    |
 | Pepper | 2.00 |     |
@@ -48,6 +51,7 @@
 | Sesame Seeds | 3.00 |     |
 | Sugar | 1.00 |     |
 | Tobacco | 0.50 |     |
+| Water Plane Seaweed | 100.00 | Most people like to dry it, then salt and roast it, then eat it as a thinly-sliced snack
 
 ## Animals
 
@@ -173,20 +177,27 @@
 | Service | Cost |
 | ---     | ---  |
 | Barbershop, Full Treatment | 0.10
-| Bath | 0.03
+| Bath, Public | 0.03
+| Bath, Private with Scented Oils | 0.20
 | Clerk | 0.20 per letter
 | Determine Genealogy | 20.00
 | Doctor, leech, or bleeding | 3.00
 | Guide, in City | 0.20 per day
-| Hireling, trained | 0.30 per day
-| Hireling, untrained | 0.10
+| Guide, in Non-Standard Plane | 10.00 per day and a share of earned value
+| Hireling, Level 0 | 0.10
+| Hireling, Level 1 | 0.30 per day
+| Hireling, Level 2 | 2.00 per day and a share of earned value
+| Hireling, Level 3 | 10.00 per day and a share of earned value
 | Hospital, Poor | 0.10 per week
 | Hospital, Good | 5.00 per week
 | Lantern or Torchbearer | 0.10 per day
 | Laundry | 0.05 per load
+| Laundry, with Magical Purification | 10.00 per load
 | Lawyer | 1.00 per day
 | Messenger, in City | 0.10 per message
+| Messenger, with shifting addresses | 0.50 per message
 | Minstrel | 3.00 per performance
 | Mourner | 0.20 per funeral
 | Reading a letter | 0.05 per letter
+| Spellcasting | Equal to the cost of buying one use of a spellcasting item
 | Teamster with Wagon | 0.10 per mile
