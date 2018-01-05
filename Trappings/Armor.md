@@ -14,9 +14,11 @@ Noise Penalty is applied to usage of the Stealth (DEX) skill in relevant situati
 | Chain Shirt            | 100.00    | 4   | 4      | 4 |        |
 | Chainmail              | 150.00    | 5   | 5      | 6 |        |
 | Breastplate            | 200.00    | 5   | 5      | 4 |        |
+| Machine-Pressed Plate  | 50.00     | 6   | 12     | 8 |        |
 | Splint Mail on Leather | 200.00    | 6   | 6      | 6 |        |
 | Banded Mail on Leather | 250.00    | 6   | 6      | 6 |        |
 | Half Plate             | 600.00    | 7   | 7      | 6 |        |
+| Machine-Pressed Steel  | 200.00    | 8   | 16     | 12 |       |
 | Full Plate             | 1,500.00  | 8   | 8      | 8 |        |
 | Jousting Plate         | 4,000.00  | 9   | 9      | 10 |        |
 | Bullet-Proofed Plate   | 10,000.00 | 10  | 10     | 10 | Has a bullet impact mark on it

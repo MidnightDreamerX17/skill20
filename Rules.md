@@ -27,7 +27,7 @@ Extended Checks can only be failed if the GM defines failure as an inability to 
 - Laying around and doing no strenuous activity for 8 hours
 - Playing games and other non-physical amusements for 8 hours
 
-Characters regain 1 hit point per period of rest.
+Characters regain 1 hit point per period of rest, plus their Constitution bonus. For example, having a Constitution of 14 will cause 2 additional hit points to be restored during a full rest period.
 
 Healing Kits can be used to restore a number of hit points equal to the target's Constitution score. However, this requires an extended check with a difficulty of 100, and a time scale of 1 hour per roll.
 
@@ -114,3 +114,57 @@ Submission: Strength + Melee Fighting. Temporarily decreases the target's Streng
 Slam: Strength + Melee Fighting. 1d12 + (Strength bonus) damage, and causes the target to be stunned for one round.
 
 Short Strikes: Dexterity + Melee Fighting. Do damage as if from an unarmed strike.
+
+## Status Definitions
+
+**Blinded** - The character cannot see. The character takes a -2 penalty to Armor Class, loses the Dexterity bonus to AC (if any), moves at half speed, and takes a -4 penalty on most Strength-based and Dexterity-based skill checks. All checks and activities that rely on vision (such as reading and visual searching checks) automatically fail. The character has a penalty of -10 to attack accuracy as well.
+
+**Blown Away** - A creature that is blow across the floor takes 1d4 points of damage per 10 feet. A creature that is blown into a wall takes 2d6 points of damage.
+
+**Confused** - A confused character’s actions are determined by rolling d100 at the beginning of its turn:
+
+| Confusion Roll | Result |
+| ---            | ---    |
+| 01 - 10 | Attack the one who caused the *Confusion*
+| 11 - 20 | Act normally
+| 21 - 50 | Do nothing but babble incoherently
+| 51 - 70 | Run away from the one who caused the *Confusion* at maximum possible speed
+| 71 - 100 | Attack the nearest creature
+
+**Cowering** - The character is frozen in fear and can take no actions. A cowering character takes a -2 penalty to Armor Class and loses Dexterity bonus (if any).
+
+**Dazed** - The creature is unable to act normally. A dazed creature can take no actions, but has no penalty to AC.
+
+**Dazzled** - The creature is unable to see well because of overstimulation of the eyes. A dazzled creature takes a -1 penalty on all physical actions and physical saving throws.
+
+**Deafened** - A deafened character cannot hear. The character takes a -40 penalty on initiative checks, automatically fails auditory perception checks, and has a 20% chance of spell failure when casting spells with verbal components.
+
+**Entangled** - The character is ensnared. Being entangled impedes movement, but does not entirely prevent it unless the bonds are anchored to an immobile object or tethered by an opposing force. An entangled creature moves at half speed, cannot run or charge, and takes a -2 penalty on all accuracy rolls and a -4 penalty to Dexterity. An entangled character who attempts to cast a spell with somatic components has a 20% chance of spell failure.
+
+**Exhausted** - An exhausted character moves at half speed and takes a -6 penalty to Strength and Dexterity. After 1 hour of complete rest, an exhausted character becomes *fatigued*. A fatigued character becomes exhausted by doing something else that would normally cause fatigue.
+
+**Fascinated** - A fascinated creature is entranced by a supernatural or spell effect. The creature stands or sits quietly, taking no actions other than to pay attention to the fascinating effect, for as long as the effect lasts. It takes a -4 penalty on all d20 rolls. Any potential threat, such as a hostile creature approaching, allows the fascinated creature a new saving throw against the fascinating effect. Any obvious threat, such as someone drawing a weapon, casting a spell, or aiming a ranged weapon at the fascinated creature, automatically breaks the effect. A fascinated creature’s ally may shake it free as an attack or move action.
+
+**Fatigued** - A fatigued character can neither run nor charge and takes a -2 penalty to Strength and Dexterity. Doing anything that would normally cause fatigue causes the fatigued character to become *exhausted*. After 8 hours of complete rest, fatigued characters are no longer fatigued.
+
+**Frightened** - A frightened creature flees from the source of its fear as best it can. If unable to flee, it may fight. A frightened creature takes a -2 penalty on all d20 rolls. A frightened creature can use special abilities, including spells, to flee; indeed, the creature must use such means if they are the only way to escape.
+
+**Helpless** - A helpless character is paralyzed, held, bound, sleeping, unconscious, or otherwise completely at an opponent’s mercy. Attacks against helpless creatures gain a bonus of +10 to accuracy. It is possible to do careful attacks against vital points for double damage, if the helpless creature has any such vital points.
+
+**Invisible** - Visually undetectable. An invisible creature gains a bonus of +2 to accuracy against opponents.
+
+**Nauseated** - Experiencing stomach distress. Nauseated creatures are unable to attack, cast spells, concentrate on spells, or do anything else requiring attention. The only action such a character can take is a single move action per turn.
+
+**Panicked** - A panicked creature must drop anything it holds and flee at top speed from the source of its fear, as well as any other dangers it encounters, along a random path. It can’t take any other actions. In addition, the creature takes a -2 penalty on all d20 rolls. If cornered, a panicked creature cowers as if *helpless*. A panicked creature can use special abilities, including spells, to flee; indeed, the creature must use such means if they are the only way to escape.
+
+**Petrified** - A petrified character has been turned to stone. If a petrified character cracks or breaks, but the broken pieces are joined with the body as the character returns to flesh, then the character is unharmed. If the character’s petrified body is incomplete when it returns to flesh, the body is likewise incomplete and there is some amount of permanent hit point loss and/or debilitation, which would require *Regeneration* to heal.
+
+**Prone** - The character is on the ground. A character who is prone gains a +4 bonus to Armor Class against ranged attacks, but takes a -4 penalty to AC against melee attacks.
+
+**Shaken** - A shaken character takes a -2 penalty on all d20 rolls.
+
+**Sickened** - A sickened character takes a -2 penalty on all d20 rolls.
+
+**Staggered** - A staggered character may take a single move action or standard action each round (but not both, nor can the character take full-round actions).
+
+**Stunned** - A stunned creature drops everything held, can’t take actions, and takes a -2 penalty to AC and d20 rolls.

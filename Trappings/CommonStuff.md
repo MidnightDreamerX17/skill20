@@ -113,19 +113,29 @@
 
 ## Metals
 
-| Metal | Cost per pound-ingot |
+| Metal | Cost per pound |
 | ---   | ---   |
-| Adamantine | 10,000.00
-| Copper | 0.50
-| Gold | 50.00
-| Iron | 1.00
-| Ironwood | 5.00
-| Meteoric Iron | 5.00
-| Mithril | 1,000.00
-| Platinum | 500.00
-| Silver | 5.00
-| Silvered Steel | 20.00
-| Steel | 10.00
+| Adamantine ingot / plate | 10,000.00
+| Adamantine ore | 5,000.00
+| Bronze ingot / plate | 0.75
+| Copper ingot / plate | 0.50
+| Copper ore | 0.25
+| Gold ingot / plate | 50.00
+| Gold ore | 40.00
+| Iron ingot / plate | 1.00
+| Iron ore | 0.50
+| Ironwood ingot / plate | 5.00
+| Meteoric Iron ingot / plate | 5.00
+| Mithril ingot / plate | 1,000.00
+| Mithril ore | 500.00
+| Platinum ingot / plate | 500.00
+| Platinum ore | 400.00
+| Silver ingot / plate | 5.00
+| Silver ore | 4.00
+| Silvered Steel ingot / plate | 20.00
+| Steel ingot / plate | 10.00
+| Tin ingot / plate | 0.10
+| Tin ore | 0.05
 
 ## Lodging and Tavern menu
 

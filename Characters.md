@@ -75,7 +75,7 @@ Attribute numbers cause bonuses or penalties to d20 rolls based on attributes. T
 
 ### Hit Points
 
-Hit Points are heroic energy that holds the character's body together and alive, despite being chopped up, burnt to a crisp, and losing a lot of blood. If two characters lose 100 hit points, one dies, and one lives, then the one that survived simply has that much more blood and other heroic energy in their body holding them together by supernatural means.
+Hit Points are heroic energy that holds the character's body together and alive, despite being chopped up, burnt to a crisp, and losing a lot of blood. If two characters lose 100 hit points, one dies, and one lives, then the one that survived simply has that much more blood and other heroic energy in their body holding them together by supernatural means. Some characters' Hit Points are primarily in supernatural efficiency of flesh, bones, and amount of blood - this is more common among thick, stout, and/or tall individuals. Other characters' Hit Points are primarily in a life energy field that surrounds all their important organs and generates blood in order to fill in damaged areas - this is more common amongst skinny, lean, and/or short individuals.
 
 Hit Points start as the character's Constitution score + 1d6. For example, a character with a Constitution of 14 will start with 14+1d6 maximum Hit Points.
 
@@ -83,7 +83,7 @@ When Hit Points are at 0 or below, then the character starts losing 1 Hit Point 
 
 ### Experience Points
 
-Experience Points are a representation of the favor of the gods, the machinations of the fates, the growing of the destiny, the length of heroic legends ascribed to the character, the character's own heroic confidence, and other such things that cause characters to stand out and become greater than the average person. They are granted for accomplishing great tasks, slaying fearsome monsters, rediscovering long-lost treasures, achieving deep understanding of the world, approaching enlightenment, and other significant endeavors.
+Experience Points are a representation of the favor of the gods, the machinations of the fates, the growing of the destiny, the length of heroic legends ascribed to the character, the character's own heroic confidence, and other such things that cause characters to stand out and become greater than the average person. They are granted for accomplishing great tasks, slaying fearsome monsters, rediscovering long-lost treasures, achieving deep understanding of the world, approaching enlightenment, making the world a better or worse place, and other significant endeavors.
 
 Experience Points must then be allocated to the character's skills, growing the character in concrete ways.
 

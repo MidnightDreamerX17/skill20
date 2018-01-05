@@ -4,35 +4,35 @@
 
 **Ascetic Training** - The character gives up all ten starting skills in order to have one advanced skill of choice. This advantage is incompatible with all other advantages and disadvantages that change a character's starting skills.
 
-**Enhanced Attribute** - One of the character's attributes is increased by 2.
+**Enhanced Attribute (Specific)** - One of the character's attributes is increased by 2.
 
 **Favored Enemy Category** - The character gains a bonus of +2 for everything relating to that enemy category, including Armor Class.
 
 **Life Sight** - The character sees living things as having different colors from everything else.
 
-**Magic Domain** - The character is strongly aligned with a specific domain of magic, causing the domain spells to be considered a lower magic circle. For example, being specialized in the Healing Domain will cause *Cure Light Wounds* to be considered a spell of the 0th circle. If a spell was already 0th-circle, then its casting time becomes a move action.
+**Magic Domain Specialization (Specific)** - The character is strongly aligned with a specific domain of magic, causing the domain spells to be considered a lower magic circle. For example, being specialized in the Healing Domain will cause *Cure Light Wounds* to be considered a spell of the 0th circle. If a spell was already 0th-circle, then its casting time becomes a move action. The GM may rule that a character can only specialize in magic domains that are associated with their primary god.
 
-**Magic School** - The character is strongly aligned with one specific school of magic, causing that school's spells to be considered a lower magic circle. For example, being specialized in the Evocation Magic School will cause *Magic Missile* to be considered a spell of the 0th circle. If a spell was already 0th-circle, then its casting time becomes a move action. "Universal" is not a valid school for this trait.
+**Magic School Specialization (Specific)** - The character is strongly aligned with one specific school of magic, causing that school's spells to be considered a lower magic circle. For example, being specialized in the Evocation Magic School will cause *Magic Missile* to be considered a spell of the 0th circle. If a spell was already 0th-circle, then its casting time becomes a move action. "Universal" is not a valid school for this trait.
 
 **Natural Armor 2** - The character's Armor Class is improved by 2. This trait cannot be taken if the character's race already provides Natural Armor.
 
 **Natural Insulation 5** - The character gains a bonus of +5 to endure harsh weather conditions. This trait cannot be taken if the character's race already provides Natural Insulation.
 
-**Patron God** - The character is strongly aligned with one specific deity, or one pantheon of deities. This grants a combination of constant benefits and exclusive access to certain spells, but also tends to involve a strict code of conduct. The character can always expect a heightened amount of hospitality at temples of the patron deity.
+**Patron God (Specific)** - The character is strongly aligned with one specific deity, or one pantheon of deities. This grants a combination of constant benefits and exclusive access to certain spells, but also tends to involve a strict code of conduct. The character can always expect a heightened amount of hospitality at temples of the patron deity.
 
-**Patron Guild** - The character gains two ranks in one guild. This trait can be taken multiple times for the same guild, for different guilds, and for guilds that the character has gained ranks for from other traits.
+**Patron Guild (Specific)** - The character gains two ranks in one guild. This trait can be taken multiple times for the same guild, for different guilds, and for guilds that the character has gained ranks for from other traits.
 
 **Powerful Family** - The character has a powerful family with many servants and a fortified home. The family home is big and secure enough to accommodate the whole party. The character can attempt to beg for money from their family as well, although that is better covered by the Wealthy Family trait.
 
-**Psionic Category** - The character is strongly aligned with a specific category of psionics, causing that category's powers to be considered a lower power circle, and its power point cost to be reduced by 1.  For example, being specialized in the Warrior category will cause *Body Adjustment* to become a 3rd-circle power. If a power was already 0th-circle, then its manifestation time becomes a move action. Power point costs cannot go below 1. The "Power" category cannot be taken with this trait.
+**Psionic Category Specialization (Specific)** - The character is strongly aligned with a specific category of psionics, causing that category's powers to be considered a lower power circle, and its power point cost to be reduced by 1.  For example, being specialized in the Warrior category will cause *Body Adjustment* to become a 3rd-circle power. If a power was already 0th-circle, then its manifestation time becomes a move action. Power point costs cannot go below 1. The "Power" category cannot be taken with this trait.
 
-**Psionic Discipline** - The character is strongly aligned with a specific discipline of psionics, causing that discipline's powers to be considered a lower power circle, and its power point cost to be reduced by 1. For example, being specialized in the Clairsentience discipline will cause *Aura Sight* to become a 3rd-circle power. If a power was already 0th-circle, then its manifestation time becomes a move action. Power point costs cannot go below 1.
+**Psionic Discipline Specialization (Specific)** - The character is strongly aligned with a specific discipline of psionics, causing that discipline's powers to be considered a lower power circle, and its power point cost to be reduced by 1. For example, being specialized in the Clairsentience discipline will cause *Aura Sight* to become a 3rd-circle power. If a power was already 0th-circle, then its manifestation time becomes a move action. Power point costs cannot go below 1.
 
 **Reincarnate** - The character is a reincarnation. As the character gains experience levels, they regain memories of people, places, and events from their past lives. Spending experience points on skills could be role-played as the character remembering old instincts. If the GM requires training time for skill improvement, then the character can use that time to revisit places that their past lives have used those skills at.
 
 **Self Magic Energy** - The character gains additional 0th-circle spell energies per day, equal to their Constitution modifier. These spell energies can be spent for any magic type.
 
-**Skilled** - The character starts with 1 additional skill. It cannot be an Advanced skill. For starting with additional Craft, Knowledge, Perform, or Profession skills, the advantage of Work Experience is more efficient.
+**Skilled (Specific)** - The character starts with 1 additional skill. It cannot be an Advanced skill. For starting with additional Craft, Knowledge, Perform, or Profession skills, the advantage of Work Experience is more efficient.
 
 **Streetwise** - The character's mandatory Craft skill is changed to Locks (DEX), mandatory Knowledge skill is changed to Traps (INT), mandatory Perform skill is changed to Persuasion (CHA), and mandatory Profession skill is changed to Stealth (DEX).
 
@@ -40,7 +40,7 @@
 
 **Wealthy Family** - The character's starting wealth is changed to 300 gold from their own family, with no debt to Adventure Capital.
 
-**Weapon Category Specialization** - The character has been training their whole life with one category of weapons. They get a bonus of +1 for everything relating to that category of weapons, including Armor Class when attacked by that type of weapon. Guaranteed hits occur on both 19 and 20. The categories of weapon specialization are as follows:
+**Weapon Category Specialization (Specific)** - The character has been training their whole life with one category of weapons. They get a bonus of +1 for everything relating to that category of weapons, including Armor Class when attacked by that type of weapon. Guaranteed hits occur on both 19 and 20. The categories of weapon specialization are as follows:
 
 - Axes, Picks, & Scythes
 - Chains, Whips, & Flails
@@ -76,11 +76,11 @@
 
 **Defiler** - When the character uses magic, the energy is taken from the surrounding nature and wildlife. This is extremely obvious to anyone who has magic sight, and may even attract the wrath of other planes. The character must start with the ability to memorize and cast 1st-circle spells in order to be a Defiler.
 
-**Enemy God** - The enemy god will give a bonus of +2 to its servants, for all d20 rolls against the character.
+**Enemy God (Specific)** - The enemy god will give a bonus of +2 to its servants, for all d20 rolls against the character.
 
 **Hoarder** - The character cannot sell anything, and cannot trade or give to anyone who will just sell it later. The character must make an Intelligence or Wisdom check at difficulty 30 in order to throw away or sell something.
 
-**Low Attribute** - One of the character's attributes is decreased by 2.
+**Low Attribute (Specific)** - One of the character's attributes is decreased by 2.
 
 **Moon Madness** - During the three nights of the full moon, the character is unable to sleep while the full moon is out in the night sky. The character has a penalty of -2 to all d20 checks until they are able to rest for eight hours. The character also rolls a d20 in each full moon night to determine if they run around under the stars. On a roll of 1, they run around uncontrollable beneath the night sky while the full moon is showing.
 
@@ -94,19 +94,21 @@
 
 **Necrophobia** - The character is afraid of the undead and has a penalty of -2 to all checks relating to them.
 
-**Opposed Guild** - The character is banned for life from a guild, and has a penalty of -10 to all reactions with members of that guild. The character must start with at least six of that guild's primary skills in order to be opposed to it. Or, if opposed to an Association, then the character must have a Quirk that makes them of the same alignment as that Association.
+**No Arms** - The character inherently has no arms. It is not possible to gain arms through *Regeneration* because the character never had any. The character has the equivalent of one hand by holding objects in the teeth, and can never do anything that requires two hands.
 
-**Opposed Magic Domain** - Spells from this domain are considered to be of a higher spell circle. For example, being opposed to the Healing domain will result in *Cure Light Wounds* being a spell of the 2nd circle. A character must start with the ability to memorize and cast 1st-circle spells in order to have an Opposed Magic Domain.
+**Opposed Guild (Specific)** - The character is banned for life from a guild, and has a penalty of -10 to all reactions with members of that guild. The character must start with at least six of that guild's primary skills in order to be opposed to it. Or, if opposed to an Association, then the character must have a Quirk that makes them of the same alignment as that Association.
 
-**Opposed Magic School** - Spells from this school are considered to be of a higher spell circle. For example, being opposed to the Evocation school will result in *Magic Missile* being a spell of the 2nd circle. A character must start with the ability to memorize and cast 1st-circle spells in order to have an Opposed Magic School.
+**Opposed Magic Domain (Specific)** - Spells from this domain are considered to be of a higher spell circle. For example, being opposed to the Healing domain will result in *Cure Light Wounds* being a spell of the 2nd circle. A character must start with the ability to memorize and cast 1st-circle spells in order to have an Opposed Magic Domain.
 
-**Opposed Psionic Category** - Powers from this category are considered to be of a higher power circle. For example, being opposed to the Warrior category will cause *Body Adjustment* to become a 5th-circle power. A character must start with the ability to use 1st-circle powers and have psionic power points in order to have an Opposed Psionic Category. The "Power" category cannot be opposed.
+**Opposed Magic School (Specific)** - Spells from this school are considered to be of a higher spell circle. For example, being opposed to the Evocation school will result in *Magic Missile* being a spell of the 2nd circle. A character must start with the ability to memorize and cast 1st-circle spells in order to have an Opposed Magic School.
 
-**Opposed Psionic Discipline** - Powers from this discipline are considered to be of a higher power circle. For example, being opposed to the Clairsentience discipline will cause *Aura Sight* to become a 5th-circle power. A character must start with the ability to use 1st-circle powers and have psionic power points in order to have an Opposed Psionic Discipline.
+**Opposed Psionic Category (Specific)** - Powers from this category are considered to be of a higher power circle. For example, being opposed to the Warrior category will cause *Body Adjustment* to become a 5th-circle power. A character must start with the ability to use 1st-circle powers and have psionic power points in order to have an Opposed Psionic Category. The "Power" category cannot be opposed.
 
-**Racist** - The character has a penalty of -10 to all interactions with the specified race. It must be a civilized and common race. The character's Intelligence and Wisdom must be 9 or lower.
+**Opposed Psionic Discipline (Specific)** - Powers from this discipline are considered to be of a higher power circle. For example, being opposed to the Clairsentience discipline will cause *Aura Sight* to become a 5th-circle power. A character must start with the ability to use 1st-circle powers and have psionic power points in order to have an Opposed Psionic Discipline.
 
-**Sexist** - The character has a penalty of -10 to all interactions with the specified sex. If the sex is "neutral", "plural", or "other" then the character must be of a race for which this is common, e.g. a Law-Mech being sexist against neuters. The character's Intelligence and Wisdom must be 9 or lower.
+**Racist (Specific)** - The character has a penalty of -10 to all interactions with the specified race. It must be a civilized and common race. The character's Intelligence and Wisdom must be 9 or lower.
+
+**Sexist (Specific)** - The character has a penalty of -10 to all interactions with the specified sex. If the sex is "neutral", "plural", or "other" then the character must be of a race for which this is common, e.g. a Law-Mech being sexist against neuters. The character's Intelligence and Wisdom must be 9 or lower.
 
 **Slow Starter** - The character only rolls 1d10 for initiative, rather than 1d100 + Dexterity score.
 
@@ -152,7 +154,7 @@
 
 **Aligned: Chaotic Evil (Alignment)** - The character starts at Rank 2 in both the Chaos and Evil Associations. On the other hand, the character has a penalty of -10 to reactions with lawful and good people.
 
-**Possessed** - The character is possessed by a different creature. Such a creature is likely to be astral, ethereal, undead, or aligned.
+**Possessed (Specific)** - The character is possessed by a different creature. Such a creature is likely to be astral, ethereal, undead, or aligned.
 
 **Wild Magic** - Whenever the character casts a spell or uses an item whose effect is a spell, they must roll a d20. A Wild Surge result will then require a d100 roll.
 

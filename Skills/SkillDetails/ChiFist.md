@@ -1,6 +1,20 @@
 # Chi Fist (CON)
 
-**Iron Fist:** This ability requires that the character is not using any weapons, or any other gear that grants attack damage through mundane means. It also cannot be used with magic and psionics that create temporary weapons that are not stated to be natural weapons. Therefore, it cannot be used during the same combat round as *Weapon Channelling*. The character's unarmed or natural attack damage is improved by an amount equal to their Chi Fist Level.
+**Iron Fist:** This ability requires that the character is not using any weapons, or any other gear that grants attack damage through mundane means. It also cannot be used with magic and psionics that create temporary weapons that are not stated to be natural weapons. Therefore, it cannot be used during the same combat round as *Weapon Channelling*. The character's unarmed or natural attack damage is improved by an amount equal to their Chi Fist Level. It also grants an accuracy bonus and magic weapon equivalency as follows:
+
+| Iron Fist Level | Unarmed Accuracy Bonus | Unarmed Magic Weapon Equivalency |
+| ---             | ---                    | ---                              |
+| 1  | none | Magic
+| 4  | +1 | Magic +1
+| 8  | +2 | Magic +2
+| 12 | +3 | Magic +3
+| 16 | +4 | Magic +4
+| 20 | +5 | Magic +5
+| 24 | +6 | Magic +6
+| 28 | +7 | Magic +7
+| 32 | +8 | Magic +8
+| 36 | +9 | Magic +9
+| 40 | +10 | Magic +10
 
 **Weapon Channelling:** This cannot be used during the same combat round as *Iron Fist*. This ability applies to all non-natural weapons, both melee and ranged. This also encompasses any temporary weapons created by magic or psionics that are not considered natural weapons. Weapon Channelling improves damage according to the following table:
 

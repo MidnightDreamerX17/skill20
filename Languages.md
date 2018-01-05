@@ -54,4 +54,4 @@ Examples of languages include and are not limited to:
 - **Terran** (Elemental - Earth)
 - **Treant** (Racial)
 - **Undercommon** (Terrain - Underdark)
-- <Specific Language>
+- \<Specific Language\>

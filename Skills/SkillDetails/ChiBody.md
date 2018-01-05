@@ -19,7 +19,21 @@
 | 25             | positive CON modifier | positive WIS modifier | positive INT modifier | 20 CHA gives +5 |
 | 27             | positive CON modifier | positive WIS modifier | positive INT modifier | positive CHA modifier |
 
-**Iron Body:** This ability requires that the character is not wearing any armor, helmet, shield, or any other gear that gives Armor Class through mundane means. This ability also cannot be used with temporary armor created by magic or psionics. It therefore cannot be used during the same combat round as *Armor Channelling*. The character's Armor Class is improved by an amount equal to their Chi Body Level.
+**Iron Body:** This ability requires that the character is not wearing any armor, helmet, shield, or any other gear that gives Armor Class through mundane means. This ability also cannot be used with temporary armor created by magic or psionics. It therefore cannot be used during the same combat round as *Armor Channelling*. The character's Armor Class is improved by an amount equal to their Chi Body Level. It also grants magic armor equivalency, to help save clothing against various effects, as follows:
+
+| Iron Body Level | Unarmored Magic Armor Equivalency |
+| ---             | ---                               |
+| 1 | Magic
+| 4 | Magic +1
+| 8 | Magic +2
+| 12 | Magic +3
+| 16 | Magic +4
+| 20 | Magic +5
+| 24 | Magic +6
+| 28 | Magic +7
+| 32 | Magic +8
+| 36 | Magic +9
+| 40 | Magic +10
 
 **Hagane Yoroi Ha:** If the character also has the Chi Mysticism skill, then they can spend two Chi Power Points to cut the damage of a physical attack in half.
 
