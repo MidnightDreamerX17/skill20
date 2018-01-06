@@ -28,8 +28,6 @@ Projected Blade: The Projected Blade requires the character to be conscious and 
 
 If the character has an Intelligence of 9 or less, then the blade does no damage.
 
-Against weapon immunity, the Projected Blade is considered to be a psionic weapon with a reinforcement value equal to the character's INT modifier.
-
 Solid Blade:
 
 - Psy Blade Level 20: The character can lend one copy of the Projected Blade to one ally. If the character falls unconscious or comes under a mind-altering effect, then both Projected Blades disappear.

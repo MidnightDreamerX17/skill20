@@ -121,7 +121,7 @@ Machine-Pressed Plate Armor
 Machine-Pressed Steel Armor
 
 - Crafting: 10 kilograms of copper plates, 5 kilograms of steel plates, threshold difficulty 80
-- Armor Class 8, Armor Weight 16, Nosie 12
+- Armor Class 8, Armor Weight 16, Noise 12
 
 ## Military Weapons
 
