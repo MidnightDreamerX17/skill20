@@ -93,6 +93,8 @@ Side A Back Row: Reach & ranged attacks against Side B's front row, or ranged at
 
 **Alley-Oop** - An alley-oop maneuver requires two combatants. First, they must plan the maneuver in such a way that their turns are adjacent in the initiative order. The first combatant throws an object at the second one, within the object's throwing range increment. Then, the second combatant throws the object as an attack with a bonus of +4 to accuracy.
 
+**Blitz** - A blitz maneuver requires at least three combatants on both sides. First, two of the blitzers attempt to body-block two of the enemies with a bonus of +4 to the d20 rolls. Then, the third blitzer may move into melee with the third enemy without any possibility of getting body-blocked by the first two enemies.
+
 **Point Defense** - The combatant chooses one target, and forgoes all actions. When the target moves, the combatant may then move to intercept, attempt to body-block the target, and attack the target. After this, the target may then choose to finish its action by attacking the point-defender. Note that this is **not** any kind of technique "of opportunity," but rather, a special type of delayed action. Techniques "of opportunity" **do not exist in Skill20**.
 
 **Precise Shot** - The attacker cannot move, nor do anything else other than ranged attacks. All attacks must be directed at one target. The attacker gains a bonus of +4 to accuracy.
