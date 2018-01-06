@@ -82,7 +82,13 @@ All variable, numeric effects of a spell are maximized.
 
 Quicken Spell - +4 circles
 
-The spell does not take any actions, and takes effect instantly with no chance of interruption.
+The spell does not take any actions, and takes effect instantly with no chance of interruption. It can also be done as a reaction to anything.
+
+#### Metamagic Level 40
+
+Granted Spell - +20 circles
+
+The spell is not cast normally. Instead, expending a spell energy for it will allow one person of your choice to memorize the non-metamagicked form into a Cleric or Druid memorization slot.
 
 ## Learning From Party Members
 
