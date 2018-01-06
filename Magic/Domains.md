@@ -35,7 +35,12 @@ The domains are:
 
 ## Destruction
 
+- [Cause Light Wounds](/Magic/C/CauseLightWounds.md)
+- [Cause Minor Wounds](/Magic/C/CauseMinorWounds.md)
+
 ## Earth
+
+- [Know Direction](/Magic/K/KnowDirection.md)
 
 ## Evil
 
@@ -44,6 +49,10 @@ The domains are:
 ## Good
 
 ## Healing
+
+- [Cure Light Wounds](/Magic/C/CureLightWounds.md)
+- [Cure Minor Wounds](/Magic/C/CureMinorWounds.md)
+- [Purify Food and Drink](/Magic/P/PurifyFoodAndDrink.md)
 
 ## Knowledge
 
@@ -54,17 +63,31 @@ The domains are:
 
 ## Law
 
+- [Mending](/Magic/M/Mending.md)
+
 ## Luck
 
+- [Guidance](/Magic/G/Guidance.md)
+
 ## Magic
+
+- [Detect Magic](/Magic/D/DetectMagic.md)
+- [Detect Poison](/Magic/D/DetectPoison.md)
+- [Read Magic](/Magic/R/ReadMagic.md)
 
 ## Plant
 
 ## Protection
 
+- [Resistance](/Magic/R/Resistance.md)
+- [Virtue](/Magic/V/Virtue.md)
+
 ## Strength
 
 ## Sun
+
+- [Flare](/Magic/F/Flare.md)
+- [Light](/Magic/L/Light.md)
 
 ## Travel
 
@@ -73,3 +96,5 @@ The domains are:
 ## War
 
 ## Water
+
+- [Create Water](/Magic/C/CreateWater.md)

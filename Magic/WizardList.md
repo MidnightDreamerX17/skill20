@@ -2,6 +2,14 @@
 
 ## 0th Circle
 
+- [Detect Magic](/Magic/D/DetectMagic.md)
+- [Detect Poison](/Magic/D/DetectPoison.md)
+- [Flare](/Magic/F/Flare.md)
+- [Light](/Magic/L/Light.md)
+- [Mending](/Magic/M/Mending.md)
+- [Read Magic](/Magic/R/ReadMagic.md)
+- [Resistance](/Magic/R/Resistance.md)
+
 ## 1st Circle
 
 - [Book God's Page](/Magic/B/BookGodsPage.md)
