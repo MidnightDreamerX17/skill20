@@ -34,6 +34,8 @@
 - [Energy Ray](/Psionics/E/EnergyRay.md)
 - [Entangling Ectoplasm](/Psionics/E/EntanglingEctoplasm.md)
 - [Far Hand](/Psionics/F/FarHand.md)
+- [Float](/Psionics/F/Float.md)
+- [Force Screen](/Psionics/F/ForceScreen.md)
 
 ## 2nd Circle
 
@@ -62,6 +64,7 @@
 - [Energy Adaptation, Specified](/Psionics/E/EnergyAdaptationSpecified.md)
 - [Energy Push](/Psionics/E/EnergyPush.md)
 - [Expansion](/Psionics/E/Expansion.md)
+- [Feat Leech](/Psionics/F/FeatLeech.md)
 
 ## 3rd Circle
 
@@ -112,6 +115,7 @@
 - [Exhalation of the Black Dragon](/Psionics/E/ExhalationOfTheBlackDragon.md)
 - [False Sensory Input](/Psionics/F/FalseSensoryInput.md)
 - [Fate Link](/Psionics/F/FateLink.md)
+- [Freedom of Movement, Psionic](/Psionics/F/FreedomOfMovementPsionic.md)
 
 ## 5th Circle
 
@@ -125,6 +129,7 @@
 - [Ectoplasmic Shambler](/Psionics/E/EctoplasmicShambler.md)
 - [Energy Ball](/Psionics/E/EnergyBall.md)
 - [Fabricate, Psionic](/Psionics/F/FabricatePsionic.md)
+- [Fly, Psionic](/Psionics/F/FlyPsionic.md)
 
 ## 6th Circle
 
@@ -138,6 +143,7 @@
 - [Co-Opt Concentration](/Psionics/C/CoOptConcentration.md)
 - [Disintegrate, Psionic](/Psionics/D/DisintegratePsionic.md)
 - [Energy Current](/Psionics/E/EnergyCurrent.md)
+- [Fiery Discorporation](/Psionics/F/FieryDiscorporation.md)
 
 ## 7th Circle
 
@@ -149,6 +155,8 @@
 - [Energy Conversion](/Psionics/E/EnergyConversion.md)
 - [Energy Wave](/Psionics/E/EnergyWave.md)
 - [Fabricate, Greater Psionic](/Psionics/F/FabricateGreaterPsionic.md)
+- [Form of Doom](/Psionics/F/FormOfDoom.md)
+- [Fuse Flesh](/Psionics/F/FuseFlesh.md)
 
 ## 8th Circle
 
@@ -158,6 +166,7 @@
 - [Ectoplasmic Cocoon, Mass](/Psionics/E/EctoplasmicCocoonMass.md)
 - [Ethereal Jaunt, Psionic](/Psionics/E/EtherealJaunt.md)
 - [Fate of One](/Psionics/F/FateOfOne.md)
+- [Fission](/Psionics/F/Fission.md)
 
 ## 9th Circle
 
@@ -166,3 +175,4 @@
 - [Assimilate](/Psionics/A/Assimilate.md)
 - [Astral Seed](/Psionics/A/AstralSeed.md)
 - [Etherealness, Psionic](/Psionics/E/EtherealnessPsionic.md)
+- [Fusion](/Psionics/F/Fusion.md)

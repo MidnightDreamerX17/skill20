@@ -150,6 +150,16 @@
 - [Far Hand](/Psionics/F/FarHand.md)
 - [Fate Link](/Psionics/F/FateLink.md)
 - [Fate of One](/Psionics/F/FateOfOne.md)
+- [Feat Leech](/Psionics/F/FeatLeech.md)
+- [Fiery Discorporation](/Psionics/F/FieryDiscorporation.md)
+- [Fission](/Psionics/F/Fission.md)
+- [Float](/Psionics/F/Float.md)
+- [Fly, Psionic](/Psionics/F/FlyPsionic.md)
+- [Force Screen](/Psionics/F/ForceScreen.md)
+- [Form of Doom](/Psionics/F/FormOfDoom.md)
+- [Freedom of Movement, Psionic](/Psionics/F/FreedomOfMovementPsionic.md)
+- [Fuse Flesh](/Psionics/F/FuseFlesh.md)
+- [Fusion](/Psionics/F/Fusion.md)
 
 ## H
 

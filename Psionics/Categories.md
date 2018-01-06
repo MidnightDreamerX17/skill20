@@ -16,6 +16,8 @@ The psionic categories are as follows:
 - [Chameleon](/Psionics/C/Chameleon.md)
 - [Ectoplasmic Form](/Psionics/E/EctoplasmicForm.md)
 - [Empathic Transfer](/Psionics/E/EmpathicTransfer.md)
+- [Fission](/Psionics/F/Fission.md)
+- [Fusion](/Psionics/F/Fusion.md)
 - [Self Immolation](/Psionics/S/SelfImmolation.md)
 
 ## Kineticist
@@ -28,6 +30,7 @@ The psionic categories are as follows:
 - [Energy Cone](/Psionics/E/EnergyCone.md)
 - [Energy Current](/Psionics/E/EnergyCurrent.md)
 - [Energy Missile](/Psionics/E/EnergyMissile.md)
+- [Fiery Discorporation](/Psionics/F/FieryDiscorporation.md)
 - [Microlevitation](/Psionics/M/Microlevitation.md)
 
 ## Nomad
@@ -43,6 +46,7 @@ The psionic categories are as follows:
 - [Dismissal, Psionic](/Psionics/D/DismissalPsionic.md)
 - [Dream Travel](/Psionics/D/DreamTravel.md)
 - [Ethereal Jaunt, Psionic](/Psionics/E/EtherealJaunt.md)
+- [Fly, Psionic](/Psionics/F/FlyPsionic.md)
 
 ## Power (cannot be specialized or opposed)
 
@@ -111,6 +115,42 @@ The psionic categories are as follows:
 - [Etherealness, Psionic](/Psionics/E/EtherealnessPsionic.md)
 - [Far Hand](/Psionics/F/FarHand.md)
 
+## Seer
+
+- [Anchored Navigation](/Psionics/A/AnchoredNavigation.md)
+- [Clairtangent Hand](/Psionics/C/ClairtangentHand.md)
+- [Clairvoyant Sense](/Psionics/C/ClairvoyantSense)
+- [Destiny Dissonance](/Psionics/D/DestinyDissonance.md)
+- [Escape Detection](/Psionics/E/EscapeDetection.md)
+- [Fate Link](/Psionics/F/FateLink.md)
+- [Fate of One](/Psionics/F/FateOfOne.md)
+- [Hand Eye](/Psionics/H/HandEye.md)
+
+## Shaper
+
+- [Astral Construct](/Psionics/A/AstralConstruct.md)
+- [Astral Seed](/Psionics/A/AstralSeed.md)
+- [Clay Figurine](/Psionics/C/ClayFigurine.md)
+- [Concealing Amorpha, Greater](/Psionics/C/ConcealingAmorphaGreater.md)
+- [Crystallize](/Psionics/C/Crystallize.md)
+- [Ectoplasmic Cocoon](/Psionics/E/EctoplasmicCocoon.md)
+- [Ectoplasmic Cocoon, Mass](/Psionics/E/EctoplasmicCocoonMass.md)
+- [Fabricate, Psionic](/Psionics/F/FabricatePsionic.md)
+- [Fabricate, Greater Psionic](/Psionics/F/FabricateGreaterPsionic.md)
+- [Fuse Flesh](/Psionics/F/FuseFlesh.md)
+
+## Telepath
+
+- [Aversion](/Psionics/A/Aversion.md)
+- [Brain Lock](/Psionics/B/BrainLock.md)
+- [Charm, Psionic](/Psionics/C/CharmPsionic.md)
+- [Crisis Of Breath](/Psionics/C/CrisisOfBreath.md)
+- [Crisis of Life](/Psionics/C/CrisisOfLife.md)
+- [Dominate, Psionic](/Psionics/D/DominatePsionic.md)
+- [Empathic Transfer, Hostile](/Psionics/E/EmpathicTransferHostile.md)
+- [False Sensory Input](/Psionics/F/FalseSensoryInput.md)
+- [Touch Speech](/Psionics/T/TouchSpeech.md)
+
 ## Warrior
 
 - [Adapt Body](/Psionics/A/AdaptBody.md)
@@ -136,38 +176,8 @@ The psionic categories are as follows:
 - [Evade Burst](/Psionics/E/EvadeBurst.md)
 - [Exhalation of the Black Dragon](/Psionics/ExhalationOfTheBlackDragon.md)
 - [Expansion](/Psionics/E/Expansion.md)
-
-## Seer
-
-- [Anchored Navigation](/Psionics/A/AnchoredNavigation.md)
-- [Clairtangent Hand](/Psionics/C/ClairtangentHand.md)
-- [Clairvoyant Sense](/Psionics/C/ClairvoyantSense)
-- [Destiny Dissonance](/Psionics/D/DestinyDissonance.md)
-- [Escape Detection](/Psionics/E/EscapeDetection.md)
-- [Fate Link](/Psionics/F/FateLink.md)
-- [Fate of One](/Psionics/F/FateOfOne.md)
-- [Hand Eye](/Psionics/H/HandEye.md)
-
-## Shaper
-
-- [Astral Construct](/Psionics/A/AstralConstruct.md)
-- [Astral Seed](/Psionics/A/AstralSeed.md)
-- [Clay Figurine](/Psionics/C/ClayFigurine.md)
-- [Concealing Amorpha, Greater](/Psionics/C/ConcealingAmorphaGreater.md)
-- [Crystallize](/Psionics/C/Crystallize.md)
-- [Ectoplasmic Cocoon](/Psionics/E/EctoplasmicCocoon.md)
-- [Ectoplasmic Cocoon, Mass](/Psionics/E/EctoplasmicCocoonMass.md)
-- [Fabricate, Psionic](/Psionics/F/FabricatePsionic.md)
-- [Fabricate, Greater Psionic](/Psionics/F/FabricateGreaterPsionic.md)
-
-## Telepath
-
-- [Aversion](/Psionics/A/Aversion.md)
-- [Brain Lock](/Psionics/B/BrainLock.md)
-- [Charm, Psionic](/Psionics/C/CharmPsionic.md)
-- [Crisis Of Breath](/Psionics/C/CrisisOfBreath.md)
-- [Crisis of Life](/Psionics/C/CrisisOfLife.md)
-- [Dominate, Psionic](/Psionics/D/DominatePsionic.md)
-- [Empathic Transfer, Hostile](/Psionics/E/EmpathicTransferHostile.md)
-- [False Sensory Input](/Psionics/F/FalseSensoryInput.md)
-- [Touch Speech](/Psionics/T/TouchSpeech.md)
+- [Feat Leech](/Psionics/F/FeatLeech.md)
+- [Float](/Psionics/F/Float.md)
+- [Force Screen](/Psionics/F/ForceScreen.md)
+- [Form of Doom](/Psionics/F/FormOfDoom.md)
+- [Freedom of Movement, Psionic](/Psionics/F/FreedomOfMovementPsionic.md)

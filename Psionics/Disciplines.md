@@ -27,6 +27,7 @@ The psionic disciplines are as follows:
 - [Escape Detection](/Psionics/E/EscapeDetection.md)
 - [Fate Link](/Psionics/F/FateLink.md)
 - [Fate of One](/Psionics/F/FateOfOne.md)
+- [Feat Leech](/Psionics/F/FeatLeech.md)
 - [Hand Eye](/Psionics/H/HandEye.md)
 
 ## Metacreativity
@@ -74,6 +75,8 @@ The psionic disciplines are as follows:
 - [Energy Wave](/Psionics/E/EnergyWave.md)
 - [Eradicate Invisibility](/Psionics/E/EradicateInvisibility.md)
 - [Far Hand](/Psionics/F/FarHand.md)
+- [Fiery Discorporation](/Psionics/F/FieryDiscorporation.md)
+- [Force Screen](/Psionics/F/ForceScreen.md)
 - [Microlevitation](/Psionics/M/Microlevitation.md)
 
 ## Psychometabolism
@@ -104,6 +107,10 @@ The psionic disciplines are as follows:
 - [Evade Burst](/Psionics/E/EvadeBurst.md)
 - [Exhalation of the Black Dragon](/Psionics/ExhalationOfTheBlackDragon.md)
 - [Expansion](/Psionics/E/Expansion.md)
+- [Fission](/Psionics/F/Fission.md)
+- [Form of Doom](/Psionics/F/FormOfDoom.md)
+- [Fuse Flesh](/Psionics/F/FuseFlesh.md)
+- [Fusion](/Psionics/F/Fusion.md)
 - [Self Immolation](/Psionics/S/SelfImmolation.md)
 
 ## Psychoportation
@@ -129,6 +136,9 @@ The psionic disciplines are as follows:
 - [Dream Travel](/Psionics/D/DreamTravel.md)
 - [Ethereal Jaunt, Psionic](/Psionics/E/EtherealJaunt.md)
 - [Etherealness, Psionic](/Psionics/E/EtherealnessPsionic.md)
+- [Float](/Psionics/F/Float.md)
+- [Fly, Psionic](/Psionics/F/FlyPsionic.md)
+- [Freedom of Movement, Psionic](/Psionics/F/FreedomOfMovementPsionic.md)
 
 ## Telepathy
 
