@@ -53,6 +53,22 @@ To save time, the GM may decide that combatants only roll for initiative at the 
 
 To save even more time, the GM may decide that the player side rolls 1d100, then the enemy side rolls 1d100. Whoever wins, their whole side goes first. For each side's turn, the combatants go in order from highest to lowest Dexterity.
 
+### Attacks
+
+All combatants have a base of 1 attack per round, with additional attacks from the Melee Fighting (STR) and Ranged Fighting (DEX) skills. All attacks in one round must be either melee or ranged.
+
+For melee attack accuracy, the attacker rolls 1d20 + Melee Fighting (STR) + Strength modifier. Some weapons are designated as "finesse" weapons, meaning that they use Dexterity modifier instead of Strength modifier.
+
+For ranged attack accuracy, the attacker rolls 1d20 + Ranged Fighting (DEX) + Dexterity modifier. Ranged attacks against a target beyond one range increment have a penalty of -2. Each additional range increment of distance further causes a -2 penalty.
+
+If the d20 shows a 20 (often called a "natural 20") then the attack is a guaranteed hit, regardless of the target's Armor Class. Therefore, even the mightiest and most ironclad of warriors can inevitably be felled if they try to take on an army by themselves.
+
+If the d20 shows a 1 (often called a "natural 1") then the attack is a guaranteed miss, regardless of the attacker's accuracy.
+
+On a successful hit that meets or exceeds the target's Armor Class, the attacker then rolls for damage. Most melee weapons add Strength modifier to damage, but finesse weapons add Dexterity modifier to damage instead. Ranged weapons add Dexterity modifier to damage.
+
+The damage is subtracted from the target's current Hit Points.
+
 ### Movement, Range, and Positioning
 
 #### Map Combat
@@ -61,6 +77,10 @@ Each combatant has a movement speed. They can move at their full movement speed 
 
 When moving past an enemy, the mover and enemy make opposed Dexterity checks. If the mover wins, then they can continue movement unimpeded. If the enemy wins, then the movement is halted. The mover can expend 10 feet of movement in order to get an additional attempt. One can imagine that an extremely fast combatant would spend three or more attempts to get past a dextrous foe.
 
+Attacks to a target's backside gain a bonus of +4 to accuracy.
+
+If a combatant is in melee with at least one enemy, then the combatant is considered to be facing that enemy. If the combatant is in melee with two or more enemies, then they must choose which enemy they are facing. Some special tactics may force combatants to face in a specific direction, or force their shields to only be useful in one direction.
+
 #### Map-less Combat
 
 Each side of combatants has a front row and a back row.
@@ -68,6 +88,30 @@ Each side of combatants has a front row and a back row.
 Side A Front Row: Melee attacks against Side B's front row, or reach attacks against Side B's back row.
 
 Side A Back Row: Reach & ranged attacks against Side B's front row, or ranged attacks against Side B's back row.
+
+#### Special Maneuvers
+
+**Alley-Oop** - An alley-oop maneuver requires two combatants. First, they must plan the maneuver in such a way that their turns are adjacent in the initiative order. The first combatant throws an object at the second one, within the object's throwing range increment. Then, the second combatant throws the object as an attack with a bonus of +4 to accuracy.
+
+**Point Defense** - The combatant chooses one target, and forgoes all actions. When the target moves, the combatant may then move to intercept, attempt to body-block the target, and attack the target. After this, the target may then choose to finish its action by attacking the point-defender. Note that this is **not** any kind of technique "of opportunity," but rather, a special type of delayed action. Techniques "of opportunity" **do not exist in Skill20**.
+
+**Precise Shot** - The attacker cannot move, nor do anything else other than ranged attacks. All attacks must be directed at one target. The attacker gains a bonus of +4 to accuracy.
+
+**Zone Defense** - The combatant establishes a zone defense in a radius within its movement speed. The combatant forgoes all actions. When an enemy enters the zone, the combatant may then move to intercept, attempt to body-block the enemy, and attack the enemy. After this, the enemy may then choose to finish its action by attacking the zone-defender. Note that this is **not** any kind of technique "of opportunity," but rather, a special type of delayed action. Techniques "of opportunity" **do not exist in Skill20**.
+
+#### Formation Tactics
+
+**Creeping Barrage** - All participants must be facing in one direction. Actions must always alternate between an attempt at area-of-effect damage, and a move-and-attack. The move-and-attack must always enter the area where the previous area-of-effect damage attempt occurred. The area-of-effect damage attempt must always target a position within 5 feet of the previous attempt. The participants assigned to move-and-attack gain a bonus of +4 to armor class and +4 to accuracy.
+
+**Shield Wall** - All participants must be using a shield, and form a shoulder-to-shoulder line. Their shields now only apply to attacks from the front. The Armor Class from their shields is doubled.
+
+**Shoot and Move** - The participants must be split into at least two groups trying to flank a target position. Oftentimes, three groups are used. The target position is any contiguous area, such as a 30-foot-radius tower or a 60-foot-long trench. The participants must alternate between holding still and doing a precise shot, and sprinting. The participants gain a bonus of +4 to Armor Class and +4 to accuracy relative to the target position.
+
+**Shooting Volley** - All participants must be using a point-and-shoot weapon, and form a shoulder-to-shoulder line. The best initiative result of any of the participants is applied to everyone in the formation, and they all act in unison. They all fire their weapons straight-forward on the same round. They gain a bonus of +4 to accuracy. If they all have firearms, then they also cause a morale penalty of -8 to animals who are not trained to withstand the sounds of gunfire.
+
+**Skirmisher Volley** - All participants must be using a throwing weapon, and form a web in which each participant is within 10 feet of at least 1 other participant. The best initiative result of any of the participants is applied to everyone in the formation, and they all act in unison. They move half their movement forwards, do a throwing weapon attack, and use the remainder of their movement to return to their original positions.
+
+**Spear Wall** - All participants must be using a spear or polearm, and form a shoulder-to-shoulder line. Their shields, if any, now only apply to attacks from the front. The participants gain a bonus of +4 to Armor Class from frontal melee attacks, and automatically get one free attack against any enemy who comes within straight-frontal weapon range.
 
 ### Spellcasting and Psionics in Combat
 
