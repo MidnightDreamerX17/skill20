@@ -4,6 +4,7 @@
 
 - [Detect Magic](/Magic/D/DetectMagic.md)
 - [Detect Poison](/Magic/D/DetectPoison.md)
+- [Eldritch Blast](/Magic/E/EldritchBlast.md)
 - [Flare](/Magic/F/Flare.md)
 - [Light](/Magic/L/Light.md)
 - [Mending](/Magic/M/Mending.md)

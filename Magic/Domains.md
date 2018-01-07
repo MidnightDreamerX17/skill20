@@ -73,6 +73,7 @@ The domains are:
 
 - [Detect Magic](/Magic/D/DetectMagic.md)
 - [Detect Poison](/Magic/D/DetectPoison.md)
+- [Eldritch Blast](/Magic/E/EldritchBlast.md)
 - [Read Magic](/Magic/R/ReadMagic.md)
 
 ## Plant

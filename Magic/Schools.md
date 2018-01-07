@@ -34,6 +34,7 @@ The schools are:
 
 ## Evocation
 
+- [Eldritch Blast](/Magic/E/EldritchBlast.md)
 - [Flare](/Magic/F/Flare.md)
 - [Light](/Magic/L/Light.md)
 
