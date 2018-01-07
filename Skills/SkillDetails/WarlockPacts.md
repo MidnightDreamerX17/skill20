@@ -2,11 +2,11 @@
 
 The Warlock Pacts skill allows the character to make deals with otherworldly patrons in exchange for magical power. At each Warlock Pact Level including the first, the character learns a new pact. Each pact can do one of the following:
 
-- Allow one spell to be memorized into a memorization slot of a different magic type, e.g. memorizing *Cure Light Wounds* into a 1st-circle Wizard memorization slot. This spell also no longer requires a spellbook, prayer, or permission from any higher powers.
-- Allow one spell to be memorized into a lower-circle slot of the same magic type, e.g. memorizing Magic Missile into a 0th-circle Wizard memorization slot. This spell also no longer requires a spellbook, prayer, or permission from any higher powers.
-- Gain one ability from the *Eldritch Pacts* list.
+- **Spell Pact of Secret Knowledge:** Allow one spell to be memorized into a memorization slot of a different magic type, e.g. memorizing *Cure Light Wounds* into a 1st-circle Wizard memorization slot. This spell also no longer requires a spellbook, prayer, or permission from any higher powers.
+- **Spell Pact of Secret Power:** Allow one spell to be memorized into a lower-circle slot of the same magic type, e.g. memorizing Magic Missile into a 0th-circle Wizard memorization slot. This spell also no longer requires a spellbook, prayer, or permission from any higher powers.
+- **Eldritch Pact:** Gain one ability from the *Eldritch Pacts* list.
 
-Many patrons give other permanent gifts and mutations as well, although these always have severe downsides.
+Many patrons give other permanent gifts and mutations as well, although these always have severe tradeoffs. The higher the Warlock Pacts skill, the more noticeable they become to other people.
 
 ## Examples of otherworldly patrons
 
@@ -49,7 +49,7 @@ Likewise for *Eldritch Blast* Shape, only one such shape may be used per casting
 - **Soulpunching Blast** (*Eldritch Blast* Essence) - If the target is undead, and the caster of *Eldritch Blast* has the Cleric Potential (WIS) skill, then the caster gets one free *Turn Undead* or *Rebuke Undead* attempt on the target.
 - **Voice of the Chain Master** (requires *Pact of the Chain*): The pact-bearer can communicate telepathically with their familiar and perceive through the familiar's senses as long as they are on the same plane of existence. Additionally, while perceiving through the familiar's senses, the pact-bearer can also speak through the familiar in their own voice, even if the familiar is normally incapable of speech.
 
-### Warlock Pacts Level 6
+### Warlock Pacts Level 6 (i.e. after a combination of 5 spell pacts and/or Level 1 eldritch pacts)
 
 - **Beshadowed Blast** (*Eldritch Blast* Essence) - The target must make a Constitution save or be blinded for 1 round.
 - **Brimstone Blast** (*Eldritch Blast* Essence) - The *Eldritch Blast* damage type is fire. The target must make a Dexterity save or catch on fire.
@@ -67,7 +67,7 @@ Likewise for *Eldritch Blast* Shape, only one such shape may be used per casting
 - **Voracious Dispelling** - Whenever the pact-bearer casts *Dispel Magic*, the target also takes 1d4 points of damage per caster experience level of the spell that was dispelled.
 - **Walk Unseen** - The duration of the pact-bearer's *Invisibility* spells is increased to 24 hours.
 
-### Warlock Pacts Level 11
+### Warlock Pacts Level 11 (i.e. after a combination of 10 of the previous)
 
 - **Bewitching Blast** (*Eldritch Blast* Essence) - The target must make a Wisdom save or come under the effect of the *Confusion* spell for 1 round.
 - **Devour Magic** - Whenever the pact-bearer casts *Greater Dispel Magic*, the pact-bearer gains a number of temporary hit points equal to the dispelled spell's circle multiplied by 5. The temporary hit points last for 1 minute (6 rounds).
@@ -81,7 +81,7 @@ Likewise for *Eldritch Blast* Shape, only one such shape may be used per casting
 - **Vitriolic Blast** (*Eldritch Blast* Essence) - The *Eldritch Blast* damage type is acid, and it ignores spell resistance. It does half damage for 2d6 rounds.
 - **Whispers of the Grave** - The pact-bearer comes permanently under the effect of the *Speak with Dead* spell. Every time the pact-bearer sleeps, they must make a d20 roll. On a natural roll of 1, the dead come to the pact-bearer, shout at them, shout at each other, ask for all kinds of favors, and other things which amount to the pact-bearer effectively not getting any sleep.
 
-### Warlock Pacts Level 16
+### Warlock Pacts Level 16 (i.e. after a combination of 15 of the previous)
 
 - **Chains of Carceri** (requires *Pact of the Chain*) - When the pact-bearer, their familiar, or their summoned monsters roll a natural 20 to do a physical attack, the pact-bearer also does a free casting of *Hold Monster* on the target.
 - **Eldritch Doom** (*Eldritch Blast* Shape) - *Eldritch Blast* affects all enemies within 20 feet.
