@@ -11,9 +11,11 @@ start at Constitution + 1d6
 
 [b]=== Stats ===[/b]
 
-AC: 10
-BtH: +0
-Damage: 0
+- AC: 10 + Natural Armor + Dexterity modifier + armor and shield
+- Melee Accuracy: /roll 1d20 + Strength modifier + Melee Fighting (STR) skill
+- Melee Damage: Weapon detail
+- Ranged Accuracy: /roll 1d20 + Dexterity modifier + Ranged Fighting (DEX) skill
+- Ranged Damage: Weapon detail
 
 STR: 
 DEX: 

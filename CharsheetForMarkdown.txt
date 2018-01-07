@@ -1,27 +1,32 @@
 # Character Name
 
 **Race**
+
 **Snappy one-word name for my "class"**
+
 Alignment (or "Non-Aligned")
 
 Experience Level: 1
+
 XP spent/total: 1000 / 1000
 
 HP: 0 / 0
-start at Constitution + 1d6
+(start at Constitution + 1d6)
 
 ## Stats
 
-AC: 10
-BtH: +0
-Damage: 0
+- AC: 10 + Natural Armor + Dexterity modifier + armor and shield
+- Melee Accuracy: /roll 1d20 + Strength modifier + Melee Fighting (STR) skill
+- Melee Damage: Weapon detail
+- Ranged Accuracy: /roll 1d20 + Dexterity modifier + Ranged Fighting (DEX) skill
+- Ranged Damage: Weapon detail
 
-STR: 
-DEX: 
-CON: 
-INT: 
-WIS: 
-CHA: 
+- STR: 
+- DEX: 
+- CON: 
+- INT: 
+- WIS: 
+- CHA: 
 
 ## Background & Traits
 
@@ -29,17 +34,16 @@ Languages: Common, ...
 
 ## Skills
 
-Craft (INT) (specify) - 100 XP - Level 1
-Knowledge (INT) (specify) - 100 XP - Level 1
-Perform (CHA) (specify) - 100 XP - Level 1
-Profession (WIS) (specify) - 100 XP - Level 1
-
-1st skill of choice - 100 XP - Level 1
-2nd skill of choice - 100 XP - Level 1
-3rd skill of choice - 100 XP - Level 1
-4th skill of choice - 100 XP - Level 1
-5th skill of choice - 100 XP - Level 1
-6th skill of choice - 100 XP - Level 1
+- Craft (INT) (specify) - 100 XP - Level 1
+- Knowledge (INT) (specify) - 100 XP - Level 1
+- Perform (CHA) (specify) - 100 XP - Level 1
+- Profession (WIS) (specify) - 100 XP - Level 1
+- 1st skill of choice - 100 XP - Level 1
+- 2nd skill of choice - 100 XP - Level 1
+- 3rd skill of choice - 100 XP - Level 1
+- 4th skill of choice - 100 XP - Level 1
+- 5th skill of choice - 100 XP - Level 1
+- 6th skill of choice - 100 XP - Level 1
 
 ## Abilities / Spells
 

@@ -146,6 +146,7 @@
 | Crossbow, Repeating Heavy  | 400.00    | crossbow bolts (10 magazine)  | 1d10 puncture      | ranged, change magazine with 2 attack actions
 | Crossbow, Repeating Light  | 250.00    | crossbow bolts (20 magazine)  | 1d8 puncture       | ranged, change magazine with 1 attack action
 | Handgonne                  | 150.00    | firearm bullets + powder      | 1d6 puncture       | ranged, reload with 6 attack actions
+| Machine-Pressed Crossbow   | 40.00     | crossbow bolts                | 1d6 puncture       | ranged, reload with 1 attack action
 | Musket                     | 500.00    | firearm bullets + powder      | 1d6 puncture       | ranged, reload with 4 attack actions
 
 ## Throwing Weapons and Slings
