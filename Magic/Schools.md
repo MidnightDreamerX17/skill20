@@ -16,6 +16,8 @@ The schools are:
 
 - [Alarm](/Magic/A/Alarm.md)
 - [Endure Elements](/Magic/E/EndureElements.md)
+- [Entropic Shield](/Magic/E/EntropicShield.md)
+- [Hide from Undead](/Magic/H/HideFromUndead.md)
 - [Hold Portal](/Magic/H/HoldPortal.md)
 - [Protection From Chaos](/Magic/P/ProtectionFromChaos.md)
 - [Protection From Evil](/Magic/P/ProtectionFromEvil.md)
@@ -23,6 +25,7 @@ The schools are:
 - [Protection From Law](/Magic/P/ProtectionFromLaw.md)
 - [Remove Fear](/Magic/R/RemoveFear.md)
 - [Resistance](/Magic/R/Resistance.md)
+- [Shield of Faith](/Magic/S/ShieldOfFaith.md)
 
 ## Conjuration
 
@@ -43,7 +46,12 @@ The schools are:
 
 - [Comprehend Languages](/Magic/C/ComprehendLanguages.md)
 - [Detect Animals Or Plants](/Magic/D/DetectAnimalsOrPlants.md)
+- [Detect Chaos](/Magic/D/DetectChaos.md)
+- [Detect Evil](/Magic/D/DetectEvil.md)
+- [Detect Good](/Magic/D/DetectGood.md)
+- [Detect Law](/Magic/D/DetectLaw.md)
 - [Detect Magic](/Magic/D/DetectMagic.md)
+- [Detect Neutrality](/Magic/D/DetectNeutrality.md)
 - [Detect Poison](/Magic/D/DetectPoison.md)
 - [Detect Secret Doors](/Magic/D/DetectSecretDoors.md)
 - [Detect Undead](/Magic/D/DetectUndead.md)
@@ -56,15 +64,19 @@ The schools are:
 
 ## Enchantment
 
+- [Bane](/Magic/B/Bane.md)
+- [Bless](/Magic/B/Bless.md)
 - [Calm Animals](/Magic/C/CalmAnimals.md)
 - [Charm Animal](/Magic/C/CharmAnimal.md)
 - [Charm Person](/Magic/C/CharmPerson.md)
+- [Command](/Magic/C/Command.md)
 - [Hypnotism](/Magic/H/Hypnotism.md)
 - [Sleep](/Magic/S/Sleep.md)
 
 ## Evocation
 
 - [Burning Hands](/Magic/B/BurningHands.md)
+- [Divine Favor](/Magic/D/DivineFavor.md)
 - [Eldritch Blast](/Magic/E/EldritchBlast.md)
 - [Faerie Fire](/Magic/F/FaerieFire.md)
 - [Flare](/Magic/F/Flare.md)
@@ -74,6 +86,7 @@ The schools are:
 - [Produce Flame](/Magic/P/ProduceFlame.md)
 - [Ray of Frost](/Magic/R/RayOfFrost.md)
 - [Shocking Grasp](/Magic/S/ShockingGrasp.md)
+- [Sound Burst](/Magic/S/SoundBurst.md)
 
 ## Illusion
 
@@ -93,7 +106,10 @@ The schools are:
 - [Cause Light Wounds](/Magic/C/CauseLightWounds.md)
 - [Cause Minor Wounds](/Magic/C/CauseMinorWounds.md)
 - [Chill Touch](/Magic/C/ChillTouch.md)
+- [Curse Water](/Magic/C/CurseWater.md)
+- [Deathwatch](/Magic/D/Deathwatch.md)
 - [Disrupt Undead](/Magic/D/DisruptUndead.md)
+- [Doom](/Magic/D/Doom.md)
 - [Ray of Enfeeblement](/Magic/R/RayOfEnfeeblement.md)
 - [Touch of Fatigue](/Magic/T/TouchOfFatigue.md)
 
@@ -101,6 +117,7 @@ The schools are:
 
 - [Animate Rope](/Magic/A/AnimateRope.md)
 - [Blade Grasp](/Magic/B/BladeGrasp.md)
+- [Bless Water](/Magic/B/BlessWater.md)
 - [Book God's Book](/Magic/B/BookGodsBook.md)
 - [Book God's Book, Fast](/Magic/B/BookGodsBookFast.md)
 - [Book God's Page](/Magic/B/BookGodsPage.md)

@@ -31,6 +31,7 @@ The domains are:
 - [Floating Disk](/Magic/F/FloatingDisk.md)
 - [Obscuring Mist](/Magic/O/ObscuringMist.md)
 - [Shocking Grasp](/Magic/S/ShockingGrasp.md)
+- [Sound Burst](/Magic/S/SoundBurst.md)
 - Summon Monster (elemental)
 - [Unseen Servant](/Magic/U/UnseenServant.md)
 - [Ventriloquism](/Magic/V/Ventriloquism.md)
@@ -57,6 +58,7 @@ The domains are:
 - [Chill Touch](/Magic/C/ChillTouch.md)
 - [Detect Undead](/Magic/D/DetectUndead.md)
 - [Disrupt Undead](/Magic/D/DisruptUndead.md)
+- [Hide from Undead](/Magic/H/HideFromUndead.md)
 - [Ray of Enfeeblement](/Magic/R/RayOfEnfeeblement.md)
 - [Touch of Fatigue](/Magic/T/TouchOfFatigue.md)
 
@@ -65,6 +67,7 @@ The domains are:
 - [Acid Splash](/Magic/A/AcidSplash.md)
 - [Cause Light Wounds](/Magic/C/CauseLightWounds.md)
 - [Cause Minor Wounds](/Magic/C/CauseMinorWounds.md)
+- [Doom](/Magic/D/Doom.md)
 
 ## Earth
 
@@ -76,6 +79,8 @@ The domains are:
 
 ## Evil
 
+- [Curse Water](/Magic/C/CurseWater.md)
+- [Deathwatch](/Magic/D/Deathwatch.md)
 - [Protection From Good](/Magic/P/ProtectionFromGood.md)
 - Summon Monster (aligned)
 
@@ -87,6 +92,7 @@ The domains are:
 
 ## Good
 
+- [Bless Water](/Magic/B/BlessWater.md)
 - [Protection From Evil](/Magic/P/ProtectionFromEvil.md)
 - Summon Monster (aligned)
 
@@ -105,6 +111,11 @@ The domains are:
 - [Book God's Page](/Magic/B/BookGodsPage.md)
 - [Book God's Page, Fast](/Magic/B/BookGodsPageFast.md)
 - [Comprehend Languages](/Magic/C/ComprehendLanguages.md)
+- [Detect Chaos](/Magic/D/DetectChaos.md)
+- [Detect Evil](/Magic/D/DetectEvil.md)
+- [Detect Good](/Magic/D/DetectGood.md)
+- [Detect Law](/Magic/D/DetectLaw.md)
+- [Detect Neutrality](/Magic/D/DetectNeutrality.md)
 - [Detect Secret Doors](/Magic/D/DetectSecretDoors.md)
 - [Erase](/Magic/E/Erase.md)
 
@@ -116,6 +127,9 @@ The domains are:
 
 ## Luck
 
+- [Bane](/Magic/B/Bane.md)
+- [Bless](/Magic/B/Bless.md)
+- [Entropic Shield](/Magic/E/EntropicShield.md)
 - [Faerie Fire](/Magic/F/FaerieFire.md)
 - [Guidance](/Magic/G/Guidance.md)
 - [True Strike](/Magic/T/TrueStrike.md)
@@ -148,12 +162,15 @@ The domains are:
 - [Alarm](/Magic/A/Alarm.md)
 - [Mage Armor](/Magic/M/MageArmor.md)
 - [Resistance](/Magic/R/Resistance.md)
+- [Sanctuary](/Magic/S/Sanctuary.md)
 - [Shield](/Magic/S/Shield.md)
+- [Shield of Faith](/Magic/S/ShieldOfFaith.md)
 - [Virtue](/Magic/V/Virtue.md)
 
 ## Strength
 
 - [Enlarge Person](/Magic/E/EnlargePerson.md)
+- [Divine Favor](/Magic/D/DivineFavor.md)
 - [Magic Fang](/Magic/M/MagicFang.md)
 - [Reduce Person](/Magic/R/ReducePerson.md)
 
@@ -173,6 +190,7 @@ The domains are:
 ## Trickery
 
 - [Charm Person](/Magic/C/CharmPerson.md)
+- [Command](/Magic/C/Command.md)
 - [Disguise Self](/Magic/D/DisguiseSelf.md)
 - [Ghost Sound](/Magic/G/GhostSound.md)
 - [Hypnotism](/Magic/H/Hypnotism.md)

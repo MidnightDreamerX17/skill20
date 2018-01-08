@@ -74,6 +74,7 @@
 ## 2nd Circle
 
 - [Book God's Book](/Magic/B/BookGodsBook.md)
+- [Sound Burst](/Magic/S/SoundBurst.md)
 
 ## 3rd Circle
 

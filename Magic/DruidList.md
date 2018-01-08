@@ -25,6 +25,7 @@
 - [Charm Animal](/Magic/C/CharmAnimal.md)
 - [Cure Light Wounds](/Magic/C/CureLightWounds.md)
 - [Detect Animals Or Plants](/Magic/D/DetectAnimalsOrPlants.md)
+- [Detect Neutrality](/Magic/D/DetectNeutrality.md)
 - [Detect Snares and Pits](/Magic/D/DetectSnaresAndPits.md)
 - [Endure Elements](/Magic/E/EndureElements.md)
 - [Entangle](/Magic/E/Entangle.md)
