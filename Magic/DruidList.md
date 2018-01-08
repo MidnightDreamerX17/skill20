@@ -19,11 +19,18 @@
 
 ## 1st Circle
 
+- [Alarm](/Magic/A/Alarm.md)
 - [Cause Light Wounds](/Magic/C/CauseLightWounds.md)
 - [Cure Light Wounds](/Magic/C/CureLightWounds.md)
+- [Endure Elements](/Magic/E/EndureElements.md)
+- [Jump](/Magic/J/Jump.md)
+- [Mount](/Magic/M/Mount.md)
+- [Obscuring Mist](/Magic/O/ObscuringMist.md)
 - [Summon Nature's Ally I](/Magic/S/SummonNaturesAlly1.md)
 
 ## 2nd Circle
+
+- [Identify](/Magic/I/Identify.md)
 
 ## 3rd Circle
 
