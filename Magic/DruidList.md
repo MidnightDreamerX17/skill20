@@ -20,12 +20,26 @@
 ## 1st Circle
 
 - [Alarm](/Magic/A/Alarm.md)
+- [Calm Animals](/Magic/C/CalmAnimals.md)
 - [Cause Light Wounds](/Magic/C/CauseLightWounds.md)
+- [Charm Animal](/Magic/C/CharmAnimal.md)
 - [Cure Light Wounds](/Magic/C/CureLightWounds.md)
+- [Detect Animals Or Plants](/Magic/D/DetectAnimalsOrPlants.md)
+- [Detect Snares and Pits](/Magic/D/DetectSnaresAndPits.md)
 - [Endure Elements](/Magic/E/EndureElements.md)
+- [Entangle](/Magic/E/Entangle.md)
+- [Faerie Fire](/Magic/F/FaerieFire.md)
+- [Goodberry](/Magic/G/Goodberry.md)
 - [Jump](/Magic/J/Jump.md)
+- [Longstrider](/Magic/L/Longstrider.md)
+- [Magic Fang](/Magic/M/MagicFang.md)
+- [Magic Stone](/Magic/M/MagicStone.md)
 - [Mount](/Magic/M/Mount.md)
 - [Obscuring Mist](/Magic/O/ObscuringMist.md)
+- [Pass Without Trace](/Magic/P/PassWithoutTrace.md)
+- [Produce Flame](/Magic/P/ProduceFlame.md)
+- [Shillelagh](/Magic/S/Shillelagh.md)
+- [Speak with Animals](/Magic/S/SpeakWithAnimals.md)
 - [Summon Nature's Ally I](/Magic/S/SummonNaturesAlly1.md)
 
 ## 2nd Circle

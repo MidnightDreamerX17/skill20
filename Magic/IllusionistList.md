@@ -24,13 +24,16 @@
 ## 1st Circle
 
 - [Alarm](/Magic/A/Alarm.md)
+- [Calm Animals](/Magic/C/CalmAnimals.md)
 - [Cause Fear](/Magic/C/CauseFear.md)
+- [Charm Animal](/Magic/C/CharmAnimal.md)
 - [Charm Person](/Magic/C/CharmPerson.md)
 - [Color Spray](/Magic/C/ColorSpray.md)
 - [Comprehend Languages](/Magic/C/ComprehendLanguages.md)
 - [Detect Secret Doors](/Magic/D/DetectSecretDoors.md)
 - [Disguise Self](/Magic/D/DisguiseSelf.md)
 - [Erase](/Magic/E/Erase.md)
+- [Faerie Fire](/Magic/F/FaerieFire.md)
 - [Holographic Cure Light Wounds](/Magic/H/HolographicCureLightWounds.md)
 - [Hypnotism](/Magic/H/Hypnotism.md)
 - [Magic Aura](/Magic/M/MagicAura.md)

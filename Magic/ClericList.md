@@ -26,6 +26,7 @@
 - [Cure Light Wounds](/Magic/C/CureLightWounds.md)
 - [Detect Undead](/Magic/D/DetectUndead.md)
 - [Endure Elements](/Magic/E/EndureElements.md)
+- [Magic Stone](/Magic/M/MagicStone.md)
 - [Magic Weapon](/Magic/M/MagicWeapon.md)
 - [Obscuring Mist](/Magic/O/ObscuringMist.md)
 - [Protection From Chaos](/Magic/P/ProtectionFromChaos.md)
@@ -39,6 +40,7 @@
 
 - [Book God's Book](/Magic/B/BookGodsBook.md)
 - [Identify](/Magic/I/Identify.md)
+- [Produce Flame](/Magic/P/ProduceFlame.md)
 
 ## 3rd Circle
 

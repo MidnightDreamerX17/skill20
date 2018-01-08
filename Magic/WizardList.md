@@ -4,6 +4,7 @@
 
 - [Acid Splash](/Magic/A/AcidSplash.md)
 - [Arcane Mark](/Magic/A/ArcaneMark.md)
+- [Blade Grasp](/Magic/B/BladeGrasp.md)
 - [Dancing Lights](/Magic/D/DancingLights.md)
 - [Daze](/Magic/D/Daze.md)
 - [Detect Magic](/Magic/D/DetectMagic.md)

@@ -42,6 +42,7 @@ The schools are:
 ## Divination
 
 - [Comprehend Languages](/Magic/C/ComprehendLanguages.md)
+- [Detect Animals Or Plants](/Magic/D/DetectAnimalsOrPlants.md)
 - [Detect Magic](/Magic/D/DetectMagic.md)
 - [Detect Poison](/Magic/D/DetectPoison.md)
 - [Detect Secret Doors](/Magic/D/DetectSecretDoors.md)
@@ -50,10 +51,13 @@ The schools are:
 - [Identify](/Magic/I/Identify.md)
 - [Know Direction](/Magic/K/KnowDirection.md)
 - [Read Magic](/Magic/R/ReadMagic.md)
+- [Speak with Animals](/Magic/S/SpeakWithAnimals.md)
 - [True Strike](/Magic/T/TrueStrike.md)
 
 ## Enchantment
 
+- [Calm Animals](/Magic/C/CalmAnimals.md)
+- [Charm Animal](/Magic/C/CharmAnimal.md)
 - [Charm Person](/Magic/C/CharmPerson.md)
 - [Hypnotism](/Magic/H/Hypnotism.md)
 - [Sleep](/Magic/S/Sleep.md)
@@ -62,10 +66,12 @@ The schools are:
 
 - [Burning Hands](/Magic/B/BurningHands.md)
 - [Eldritch Blast](/Magic/E/EldritchBlast.md)
+- [Faerie Fire](/Magic/F/FaerieFire.md)
 - [Flare](/Magic/F/Flare.md)
 - [Floating Disk](/Magic/F/FloatingDisk.md)
 - [Light](/Magic/L/Light.md)
 - [Magic Missile](/Magic/M/MagicMissile.md)
+- [Produce Flame](/Magic/P/ProduceFlame.md)
 - [Ray of Frost](/Magic/R/RayOfFrost.md)
 - [Shocking Grasp](/Magic/S/ShockingGrasp.md)
 
@@ -94,20 +100,28 @@ The schools are:
 ## Transmutation
 
 - [Animate Rope](/Magic/A/AnimateRope.md)
+- [Blade Grasp](/Magic/B/BladeGrasp.md)
 - [Book God's Book](/Magic/B/BookGodsBook.md)
 - [Book God's Book, Fast](/Magic/B/BookGodsBookFast.md)
 - [Book God's Page](/Magic/B/BookGodsPage.md)
 - [Book God's Page, Fast](/Magic/B/BookGodsPageFast.md)
 - [Enlarge Person](/Magic/E/EnlargePerson.md)
+- [Entangle](/Magic/E/Entangle.md)
 - [Erase](/Magic/E/Erase.md)
 - [Expeditious Retreat](/Magic/E/ExpeditiousRetreat.md)
 - [Feather Fall](/Magic/F/FeatherFall.md)
+- [Goodberry](/Magic/G/Goodberry.md)
 - [Jump](/Magic/J/Jump.md)
+- [Longstrider](/Magic/L/Longstrider.md)
+- [Magic Fang](/Magic/M/MagicFang.md)
+- [Magic Stone](/Magic/M/MagicStone.md)
 - [Mending](/Magic/M/Mending.md)
 - [Message](/Magic/M/Message.md)
 - [Open/Close](/Magic/O/OpenClose.md)
+- [Pass Without Trace](/Magic/P/PassWithoutTrace.md)
 - [Purify Food and Drink](/Magic/P/PurifyFoodAndDrink.md)
 - [Reduce Person](/Magic/R/ReducePerson.md)
+- [Shillelagh](/Magic/S/Shillelagh.md)
 - [Virtue](/Magic/V/Virtue.md)
 
 ## Universal (cannot be specialized or opposed)

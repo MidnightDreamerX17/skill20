@@ -37,8 +37,12 @@ The domains are:
 
 ## Animal
 
+- [Calm Animals](/Magic/C/CalmAnimals.md)
+- [Charm Animal](/Magic/C/CharmAnimal.md)
+- [Detect Animals Or Plants](/Magic/D/DetectAnimalsOrPlants.md)
 - [Grease](/Magic/G/Grease.md)
 - [Mount](/Magic/M/Mount.md)
+- [Speak with Animals](/Magic/S/SpeakWithAnimals.md)
 - Summon Monster (animal)
 - [Summon Nature's Ally I](/Magic/S/SummonNaturesAlly1.md)
 
@@ -64,7 +68,10 @@ The domains are:
 
 ## Earth
 
+- [Detect Snares and Pits](/Magic/D/DetectSnaresAndPits.md)
 - [Know Direction](/Magic/K/KnowDirection.md)
+- [Magic Stone](/Magic/M/MagicStone.md)
+- [Pass Without Trace](/Magic/P/PassWithoutTrace.md)
 - Summon Monster (elemental)
 
 ## Evil
@@ -75,6 +82,7 @@ The domains are:
 ## Fire
 
 - [Burning Hands](/Magic/B/BurningHands.md)
+- [Produce Flame](/Magic/P/ProduceFlame.md)
 - Summon Monster (elemental)
 
 ## Good
@@ -108,6 +116,7 @@ The domains are:
 
 ## Luck
 
+- [Faerie Fire](/Magic/F/FaerieFire.md)
 - [Guidance](/Magic/G/Guidance.md)
 - [True Strike](/Magic/T/TrueStrike.md)
 
@@ -129,6 +138,11 @@ The domains are:
 
 ## Plant
 
+- [Detect Animals Or Plants](/Magic/D/DetectAnimalsOrPlants.md)
+- [Entangle](/Magic/E/Entangle.md)
+- [Goodberry](/Magic/G/Goodberry.md)
+- [Shillelagh](/Magic/S/Shillelagh.md)
+
 ## Protection
 
 - [Alarm](/Magic/A/Alarm.md)
@@ -140,6 +154,7 @@ The domains are:
 ## Strength
 
 - [Enlarge Person](/Magic/E/EnlargePerson.md)
+- [Magic Fang](/Magic/M/MagicFang.md)
 - [Reduce Person](/Magic/R/ReducePerson.md)
 
 ## Sun
@@ -153,6 +168,7 @@ The domains are:
 
 - [Expeditious Retreat](/Magic/E/ExpeditiousRetreat.md)
 - [Jump](/Magic/J/Jump.md)
+- [Longstrider](/Magic/L/Longstrider.md)
 
 ## Trickery
 
@@ -166,6 +182,7 @@ The domains are:
 
 ## War
 
+- [Blade Grasp](/Magic/B/BladeGrasp.md)
 - [Cause Fear](/Magic/C/CauseFear.md)
 - [Magic Weapon](/Magic/M/MagicWeapon.md)
 - [Remove Fear](/Magic/R/RemoveFear.md)
