@@ -19,7 +19,7 @@ This spell doesn’t change the target’s speed.
 
 All equipment worn or carried by a creature is similarly reduced by the spell.
 
-MOther magical properties of weapons and ammunition are not affected by this spell. Any reduced item that leaves the reduced creature’s possession (including a projectile or thrown weapon) instantly returns to its normal size.
+Other magical properties of weapons and ammunition are not affected by this spell. Any reduced item that leaves the reduced creature’s possession (including a projectile or thrown weapon) instantly returns to its normal size.
 
 Multiple magical effects that reduce size do not stack.
 
