@@ -18,9 +18,13 @@ The schools are:
 
 ## Conjuration
 
+- [Acid Splash](/Magic/A/AcidSplash.md)
 - [Create Water](/Magic/C/CreateWater.md)
 - [Cure Light Wounds](/Magic/C/CureLightWounds.md)
 - [Cure Minor Wounds](/Magic/C/CureMinorWounds.md)
+- [Dancing Lights](/Magic/D/DancingLights.md)
+- [Summon Monster I](/Magic/S/SummonMonster1.md)
+- [Summon Nature's Ally I](/Magic/S/SummonNaturesAlly1.md)
 
 ## Divination
 
@@ -37,13 +41,21 @@ The schools are:
 - [Eldritch Blast](/Magic/E/EldritchBlast.md)
 - [Flare](/Magic/F/Flare.md)
 - [Light](/Magic/L/Light.md)
+- [Ray of Frost](/Magic/R/RayOfFrost.md)
 
 ## Illusion
+
+- [Ghost Sound](/Magic/G/GhostSound.md)
+- [Holographic Cure Light Wounds](/Magic/H/HolographicCureLightWounds.md)
+- [Holographic Cure Minor Wounds](/Magic/H/HolographicCureMinorWounds.md)
+- [Summon Illusory Creature I](/Magic/S/SummonIllusoryCreature1.md)
 
 ## Necromancy
 
 - [Cause Light Wounds](/Magic/C/CauseLightWounds.md)
 - [Cause Minor Wounds](/Magic/C/CauseMinorWounds.md)
+- [Disrupt Undead](/Magic/D/DisruptUndead.md)
+- [Touch of Fatigue](/Magic/T/TouchOfFatigue.md)
 
 ## Transmutation
 
@@ -52,7 +64,12 @@ The schools are:
 - [Book God's Page](/Magic/B/BookGodsPage.md)
 - [Book God's Page, Fast](/Magic/B/BookGodsPageFast.md)
 - [Mending](/Magic/M/Mending.md)
+- [Message](/Magic/M/Message.md)
+- [Open/Close](/Magic/O/OpenClose.md)
 - [Purify Food and Drink](/Magic/P/PurifyFoodAndDrink.md)
 - [Virtue](/Magic/V/Virtue.md)
 
 ## Universal (cannot be specialized or opposed)
+
+- [Arcane Mark](/Magic/A/ArcaneMark.md)
+- [Prestidigitation](/Magic/P/Prestidigitation.md)

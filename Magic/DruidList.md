@@ -21,6 +21,7 @@
 
 - [Cause Light Wounds](/Magic/C/CauseLightWounds.md)
 - [Cure Light Wounds](/Magic/C/CureLightWounds.md)
+- [Summon Nature's Ally I](/Magic/S/SummonNaturesAlly1.md)
 
 ## 2nd Circle
 

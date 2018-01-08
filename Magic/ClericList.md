@@ -7,6 +7,7 @@
 - [Cure Minor Wounds](/Magic/C/CureMinorWounds.md)
 - [Detect Magic](/Magic/D/DetectMagic.md)
 - [Detect Poison](/Magic/D/DetectPoison.md)
+- [Disrupt Undead](/Magic/D/DisruptUndead.md)
 - [Guidance](/Magic/G/Guidance.md)
 - [Light](/Magic/L/Light.md)
 - [Mending](/Magic/M/Mending.md)
@@ -20,6 +21,7 @@
 - [Book God's Page](/Magic/B/BookGodsPage.md)
 - [Cause Light Wounds](/Magic/C/CauseLightWounds.md)
 - [Cure Light Wounds](/Magic/C/CureLightWounds.md)
+- [Summon Monster I](/Magic/S/SummonMonster1.md)
 
 ## 2nd Circle
 

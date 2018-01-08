@@ -27,31 +27,51 @@ The domains are:
 
 ## Air
 
+- Summon Monster (elemental)
+
 ## Animal
+
+- Summon Monster (animal)
+- [Summon Nature's Ally I](/Magic/S/SummonNaturesAlly1.md)
 
 ## Chaos
 
+- Summon Monster (aligned)
+
 ## Death
+
+- [Disrupt Undead](/Magic/D/DisruptUndead.md)
+- [Touch of Fatigue](/Magic/T/TouchOfFatigue.md)
 
 ## Destruction
 
+- [Acid Splash](/Magic/A/AcidSplash.md)
 - [Cause Light Wounds](/Magic/C/CauseLightWounds.md)
 - [Cause Minor Wounds](/Magic/C/CauseMinorWounds.md)
 
 ## Earth
 
 - [Know Direction](/Magic/K/KnowDirection.md)
+- Summon Monster (elemental)
 
 ## Evil
 
+- Summon Monster (aligned)
+
 ## Fire
 
+- Summon Monster (elemental)
+
 ## Good
+
+- Summon Monster (aligned)
 
 ## Healing
 
 - [Cure Light Wounds](/Magic/C/CureLightWounds.md)
 - [Cure Minor Wounds](/Magic/C/CureMinorWounds.md)
+- [Holographic Cure Light Wounds](/Magic/H/HolographicCureLightWounds.md)
+- [Holographic Cure Minor Wounds](/Magic/H/HolographicCureMinorWounds.md)
 - [Purify Food and Drink](/Magic/P/PurifyFoodAndDrink.md)
 
 ## Knowledge
@@ -64,6 +84,7 @@ The domains are:
 ## Law
 
 - [Mending](/Magic/M/Mending.md)
+- Summon Monster (aligned)
 
 ## Luck
 
@@ -71,9 +92,13 @@ The domains are:
 
 ## Magic
 
+- [Arcane Mark](/Magic/A/ArcaneMark.md)
 - [Detect Magic](/Magic/D/DetectMagic.md)
 - [Detect Poison](/Magic/D/DetectPoison.md)
 - [Eldritch Blast](/Magic/E/EldritchBlast.md)
+- [Message](/Magic/M/Message.md)
+- [Open/Close](/Magic/O/OpenClose.md)
+- [Prestidigitation](/Magic/P/Prestidigitation.md)
 - [Read Magic](/Magic/R/ReadMagic.md)
 
 ## Plant
@@ -87,6 +112,7 @@ The domains are:
 
 ## Sun
 
+- [Dancing Lights](/Magic/D/DancingLights.md)
 - [Flare](/Magic/F/Flare.md)
 - [Light](/Magic/L/Light.md)
 
@@ -94,8 +120,12 @@ The domains are:
 
 ## Trickery
 
+- [Ghost Sound](/Magic/G/GhostSound.md)
+
 ## War
 
 ## Water
 
 - [Create Water](/Magic/C/CreateWater.md)
+- Summon Monster (elemental)
+- [Ray of Frost](/Magic/R/RayOfFrost.md)
