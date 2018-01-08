@@ -1,8 +1,8 @@
 # Summon Illusory Creature I
 
-- **Circle:** Druid 1
+- **Circle:** Illusionist 1
 - **Domain:** Trickery
-- **School:** Conjuration
+- **School:** Illusion
 - **Verbal Component:** Existo Illusio Mortalis Primaris
 - **Somatic Component:** Drawing an outline of the creature with both hands
 - **Map Range:** Close (25 feet + 5 feet per 2 caster levels)

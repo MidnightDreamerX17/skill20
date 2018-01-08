@@ -121,6 +121,7 @@ The domains are:
 ## Trickery
 
 - [Ghost Sound](/Magic/G/GhostSound.md)
+- [Summon Illusory Creature I](/Magic/S/SummonIllusoryCreature1.md)
 
 ## War
 
