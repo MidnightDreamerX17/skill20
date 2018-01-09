@@ -33,9 +33,21 @@ The spellcaster chooses one of their memorized spells. Spellcasting is mutually 
 
 Any amount of damage during the spellcasting will force a skill check to maintain concentration. The difficulty is 10 + the Experience Level of the one who did the damage to the spellcaster. On a success, the spell is not interrupted. On a failure, the spell is interrupted, but the spell energy is not expended.
 
-## What is the caster level?
+### What is the caster level?
 
-It is the experience level of the caster. The full term "caster experience level" is used as often as possible to make this clear. Any stray mentions of "caster level" should be interpreted as "caster experience level".
+It is the lowest of:
+
+- The caster's experience level
+- The caster's relevant magical potential skill
+- The caster's relevant magical power skill
+
+**Example:** A person's experience level is 5, Wizard Potential (INT) skill level is 7, and Wizard Power (INT) skill level is 4. This person's caster level for wizard magic is 4, because that is the lowest of the three numbers.
+
+### What is the save difficulty?
+
+The difficulty to save against a magic spell is equal to 10 + caster level + caster's attribute modifier.
+
+**Example:** A person casts *Bane*. This person's caster level is 5, and Wisdom is 14. The spellcasting of *Bane* therefore requires a Wisdom save at difficulty 17 (base 10, +5 from caster level, +2 from Wisdom modifier).
 
 ## Converting Spells to Map-less Combat
 

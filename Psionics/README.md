@@ -24,9 +24,21 @@ The maximum amount of Psionic Power Points that can be spent on one power - comb
 
 Any amount of damage during the manifestation will force a skill check to maintain concentration. The difficulty is 10 + the Experience Level of the one who did the damage to the manifester. On a success, the power is not interrupted. On a failure, the power is interrupted, but the psionic power points are not expended.
 
-## What is the manifester level?
+### What is the manifester level?
 
-It is the experience level of the manifester. The full term "manifester experience level" is used as often as possible to make this clear. Any stray mentions of "manifester level" should be interpreted as "manifester experience level".
+It is the lowest of:
+
+- The manifester's experience level
+- The manifester's Psionic Potential (INT) skill
+- The manifester's Psionic Power (INT) skill
+
+**Example:** A person's experience level is 5, Psionic Potential (INT) skill level is 7, and Psionic Power (INT) skill level is 4. This person's manifester level is 4, because that is the lowest of the three numbers.
+
+### What is the save difficulty?
+
+The difficulty to save against a psionic power is equal to 10 + manifester level + manifester's attribute modifier.
+
+**Example:** A person manifests *Id Insinuation*. This person's manifester level is 5, and Intelligence is 14. The manifestation of *Id Insinuation* therefore requires a Wisdom save at difficulty 17 (base 10, +5 from manifester level, +2 from Intelligence modifier).
 
 ## Cognizance Crystals
 
