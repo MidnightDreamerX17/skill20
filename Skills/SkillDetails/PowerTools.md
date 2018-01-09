@@ -219,21 +219,44 @@ F-vol = Fantasy Volume = measurement of volume
 
 ### Weapons
 
-#### Air Gun
+#### Air Assaultgun
+
+- **Size:** 2-handed
+- **Recipe:** 5 Copper Plate + 10 Iron Gear Wheel + 10 Iron Plate + 10 F-cranks
+- **Crafting Threshold:** 100
+- **Burst Fire Option:** Yes
+- **Map Range Increment:** 40 feet
+
+Ranged Weapon. 1d8 impact damage, magazine size of 30, reload time of 1 attack action.
+
+### Air Canistergun
+
+- **Size:** 2-handed
+- **Recipe:** 10 Copper Plate + 5 Iron Gear Wheel + 15 Iron Plate + 10 F-cranks
+- **Crafting Threshold:** 100
+- **Map Range Increment:** 30 feet
+
+Ranged Weapon. 1d12 impact damage, breech-loaded, reload time of 1 attack action.
+
+Canister casings can be recovered, but the shot contained inside is a challenge to recover
+
+#### Air Rifle
 
 - **Size:** 2-handed
 - **Recipe:** 5 Copper Plate + 5 Iron Plate + 5 F-cranks
 - **Crafting Threshold:** 50
+- **Map Range Increment:** 60 feet
 
-Ranged Weapon. 1d8 impact damage, reload time of 2 attack actions
+Ranged Weapon. 1d8 impact damage, breech-loaded, reload time of 2 attack actions
 
 #### Machine-Pressed Crossbow
 
 - **Size:** 2-handed
 - **Recipe:** 2 Copper Cable + 2 Steel Shaft + Steel Plate + 2 F-cranks
 - **Crafting Threshold:** 20
+- **Map Range Increment:** 60 feet
 
-Ranged Weapon. 1d6 puncture damage, reload time of 1 attack action
+Ranged Weapon. 1d6 puncture damage, hand-loaded, reload time of 1 attack action
 
 #### Pile Bunker
 

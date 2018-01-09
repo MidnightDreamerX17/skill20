@@ -41,7 +41,7 @@
 | Great Wrench           | 30.00  | 1d12 impact    | 2-handed
 | Greatclub              | 5.00   | 1d10 impact    | 2-handed
 | Hammer, gnome hooked   | 20.00  | 1d8 impact or puncture | 2-handed
-| Hammer, light          | 1.00   | 1d4 impact     | finesse
+| Hammer, light          | 1.00   | 1d4 impact     | finesse, throwable (map range increment 10 feet)
 | Kanabo                 | 20.00  | 1d12 impact    | 2-handed
 | Mace, heavy            | 12.00  | 1d8 impact     |         |
 | Mace, light            | 5.00   | 1d6 impact     |         |
@@ -66,13 +66,13 @@
 
 | Weapon            | Cost    | Damage         | Special |
 | ---               | ---     | ---            | ---     |
-| Dagger            | 2.00    | 1d4 puncture   | finesse, concealable
+| Dagger            | 2.00    | 1d4 puncture   | finesse, concealable, throwable (map range increment 10 feet)
 | Dagger, Punching  | 2.00    | 1d4 puncture   | finesse, concealable
 | Kama              | 2.00    | 1d6 slash      | finesse, disguisable as farm tool
 | Kukri             | 8.00    | 1d4 slash      | finesse, concealable
 | Nunchaku          | 2.00    | 1d6 impact     | finesse
 | Rolled-up Paper   | 0       | 1d4 impact     |         |
-| Sai               | 1.00    | 1d4 puncture   | finesse
+| Sai               | 1.00    | 1d4 puncture   | finesse, throwable (map range increment 10 feet)
 | Sap               | 1.00    | 1d6 impact     | concealable
 | Siangham          | 3.00    | 1d6 puncture   | finesse, concealable
 | Sickle            | 6.00    | 1d6 puncture   | finesse, disguisable as farm tool
@@ -83,9 +83,10 @@
 | Weapon             | Cost    | Damage          | Special |
 | ---                | ---     | ---             | ---     |
 | Glaive             | 8.00    | 1d10 slash      | 2-handed
-| Lance              | 10.00   | 1d8 puncture    |         |
+| Lance              | 10.00   | 1d8 puncture    | spear wall
 | Quarterstaff       | 0       | 1d6 impact      | 2-handed
-| Spear              | 2.00    | 1d8 puncture    | spear wall
+| Shortspear         | 1.00    | 1d8 puncture    | throwable (map range increment 10 feet)
+| Spear              | 2.00    | 1d8 puncture    | spear wall, throwable (map range increment 20 feet)
 | Staff-Sling        | 5.00    | 1d6 impact      | 2-handed, also has a ranged weapon component
 | Spear-Sling        | 5.00    | 1d6 puncture    | 2-handed, also has a ranged weapon component
 | Sword, Two-Bladed  | 100.00  | 1d8 slash       | 2-handed
@@ -126,41 +127,43 @@
 | Sport Glove        | 1.00    | 1d4 impact      |         |
 | Unarmed            | 0       | 1d3 impact      | Allows holding another object in the hand
 
-## Archery
+## Archery (Ranged)
 
-| Weapon             | Cost    | Damage          | Special |
-| ---                | ---     | ---             | ---     |
-| Longbow            | 75.00   | 1d8 puncture    | ranged
-| Longbow, Composite | 100.00  | 1d10 puncture   | ranged
-| Shortbow           | 30.00   | 1d6 puncture    | ranged
-| Shortbow, Composite | 75.00  | 1d8 puncture    | ranged
+| Weapon             | Cost    | Damage          | Map Range | Special |
+| ---                | ---     | ---             | ---       | ---     |
+| Longbow            | 75.00   | 1d8 puncture    | 100 feet
+| Longbow, Composite | 100.00  | 1d10 puncture   | 110 feet
+| Shortbow           | 30.00   | 1d6 puncture    | 60 feet
+| Shortbow, Composite | 75.00  | 1d8 puncture    | 70 feet
 
-## Point-and-Shoot Weapons
+## Point-and-Shoot Weapons (Ranged)
 
-| Weapon                     | Cost      | Ammo                          | Damage             | Special |
-| ---                        | ---       | ---                           | ---                | ---     |
-| Arquebus                   | 200.00    | firearm bullets + powder      | 1d6 puncture       | ranged, reload with 5 attack actions
-| Crossbow, Hand             | 100.00    | crossbow bolts                | 1d4 puncture       | ranged, no reload time
-| Crossbow, Heavy            | 50.00     | crossbow bolts                | 1d10 puncture      | ranged, reload with 2 attack actions
-| Crossbow, Light            | 35.00     | crossbow bolts                | 1d8 puncture       | ranged, reload with 1 attack action
-| Crossbow, Repeating Heavy  | 400.00    | crossbow bolts (10 magazine)  | 1d10 puncture      | ranged, change magazine with 2 attack actions
-| Crossbow, Repeating Light  | 250.00    | crossbow bolts (20 magazine)  | 1d8 puncture       | ranged, change magazine with 1 attack action
-| Handgonne                  | 150.00    | firearm bullets + powder      | 1d6 puncture       | ranged, reload with 6 attack actions
-| Machine-Pressed Crossbow   | 40.00     | crossbow bolts                | 1d6 puncture       | ranged, reload with 1 attack action
-| Musket                     | 500.00    | firearm bullets + powder      | 1d6 puncture       | ranged, reload with 4 attack actions
+| Weapon                     | Cost      | Ammo                          | Damage             | Map Range | Special |
+| ---                        | ---       | ---                           | ---                | ---       | ---     |
+| Arquebus                   | 200.00    | firearm bullets + powder      | 1d6 puncture       | 40 feet | reload with 5 attack actions
+| Crossbow, Hand             | 100.00    | crossbow bolts                | 1d4 puncture       | 30 feet | no reload time
+| Crossbow, Heavy            | 50.00     | crossbow bolts                | 1d10 puncture      | 120 feet | reload with 2 attack actions
+| Crossbow, Light            | 35.00     | crossbow bolts                | 1d8 puncture       | 80 feet | reload with 1 attack action
+| Crossbow, Repeating Heavy  | 400.00    | crossbow bolts (10 magazine)  | 1d10 puncture      | 120 feet | change magazine with 2 attack actions
+| Crossbow, Repeating Light  | 250.00    | crossbow bolts (20 magazine)  | 1d8 puncture       | 80 feet | change magazine with 1 attack action
+| Handgonne                  | 150.00    | firearm bullets + powder      | 1d6 puncture       | 30 feet | reload with 6 attack actions
+| Machine-Pressed Crossbow   | 40.00     | crossbow bolts                | 1d6 puncture       | 60 feet | reload with 1 attack action
+| Modern Assault Weapon      | 2,000.00  | modern cartridges (30 magazine) | 2d6 puncture     | 150 feet | change magazine with 1 attack action, burst-fire option
+| Modern Handgun             | 1,200.00  | modern cartridges (15 magazine) | 2d4 puncture     | 100 feet | change magazine with 1 attack action
+| Musket                     | 500.00    | firearm bullets + powder      | 1d6 puncture       | 60 feet | reload with 4 attack actions
 
-## Throwing Weapons and Slings
+## Throwing Weapons and Slings (Ranged)
 
-| Weapon                     | Cost      | Damage       | Special |
-| ---                        | ---       | ---          | ---     |
-| Axe, Throwing              | 0.80      | 1d6 slash    | ranged
-| Bolas                      | 0.50      | 1d4 impact   | ranged, entangling
-| Dart                       | 0.05      | 1d4 puncture | ranged
-| Iron Ball, Throwing        | 0.10      | 1d6 impact   | ranged
-| Javelin                    | 0.10      | 1d6 puncture | ranged
-| Kunai                      | 0.05      | 1d4 puncture | ranged
-| Net                        | 2.00      | 1d2 impact   | ranged, entangling
-| Shuriken                   | 0.20      | 1d2 slash    | ranged
-| Sling                      | 0         | 1d4 impact   | ranged
-| Staff-Sling                | 5.00      | 1d6 impact   | ranged, also has a melee weapon component
-| Spear-Sling                | 5.00      | 1d6 impact   | ranged, also has a melee weapon component
+| Weapon                     | Cost      | Damage       | Map Range | Special |
+| ---                        | ---       | ---          | ---       | ---     |
+| Axe, Throwing              | 0.80      | 1d6 slash    | 10 feet
+| Bolas                      | 0.50      | 1d4 impact   | 10 feet | entangling
+| Dart                       | 0.05      | 1d4 puncture | 20 feet
+| Iron Ball, Throwing        | 0.10      | 1d6 impact   | 30 feet
+| Javelin                    | 0.10      | 1d6 puncture | 30 feet
+| Kunai                      | 0.05      | 1d4 puncture | 30 feet
+| Net                        | 2.00      | 1d2 impact   | 10 feet | entangling
+| Shuriken                   | 0.20      | 1d2 slash    | 10 feet
+| Sling                      | 0         | 1d4 impact   | 50 feet
+| Staff-Sling                | 5.00      | 1d6 impact   | 60 feet | also has a melee weapon component
+| Spear-Sling                | 5.00      | 1d6 impact   | 60 feet | also has a melee weapon component
