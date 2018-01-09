@@ -7,6 +7,9 @@ Characters start with 10 feats and gain an additional feat at every single exper
 - **Ace Surgeon** - The character uses Healing Kits on a time scale of one check per 10 minutes.
 - **Acrobatic** - The character gains a bonus of +2 to jumping, tumbling, and falling safely.
 - **Additional Advantage** (uses 2 feats) - The character gains an additional Advantage.
+- **Additional Illusionist Spell** (specific) (requires Illusionist Potential (INT) skill) - The character gains sudden inspiration for one additional Illusionist spell, which is then immediately written into the character's spellbook. The possible spells are determined by Illusionist Potential (INT) skill.
+- **Additional Wizard Spell** (specific) (requires Wizard Potential (INT) skill) - The character gains sudden inspiration for one additional Wizard spell, which is then immediately written into the character's spellbook. The possible spells are determined by Wizard Potential (INT) skill.
+- **Additional Psionic Power** (specific) (requires Psionic Potential (INT) skill) - The character learns one additional psionic power. The possible powers are limited by Psionic Potential (INT) skill.
 - **Agile** - The character gains a bonus of +2 to balancing, escaping from restraints, walking on tightropes, and other such checks.
 - **Alertness** - The character gains a bonus of +2 to sensory perception.
 - **Aligned Attack** (requires Psionic Power skill) - You can spend 2 Psionic Power Points to add 1d6 aligned psionic damage to one attack. The alignment of the damage matches your own.
@@ -67,6 +70,7 @@ Characters start with 10 feats and gain an additional feat at every single exper
 - **Fortunate** - The character gains a bonus of +2 to avoid surprise.
 - **Ghost Attack** (requires Psionic Power skill) - You can spend 1 Psionic Power Point to make one of your attacks able to hit incorporeal creatures normally.
 - **Hand of Kindness** - The character's healing magic restores 1 additional hit point per die.
+- **Healing Magic Power** - The character's healing magic restores 1 additional hit point per die.
 - **Healing Moment** - The character rests just as well in rough conditions as they do in a civilized bed.
 - **Holy Weapon Charge** (requires Cleric Power skill) - The character can expend a 1st-circle Cleric spell energy to make the whole party's weapons able to damage incorporeal, undead, and other such creatures. This effect lasts for a number of rounds equal to the character's Experience Level. This is not considered to be a spell casting.
 - **Illusion Pierce** - The character gains a bonus of +4 to save against illusions and enchantments.

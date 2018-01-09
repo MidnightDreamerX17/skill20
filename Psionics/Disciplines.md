@@ -29,6 +29,7 @@ The psionic disciplines are as follows:
 - [Fate of One](/Psionics/F/FateOfOne.md)
 - [Feat Leech](/Psionics/F/FeatLeech.md)
 - [Hand Eye](/Psionics/H/HandEye.md)
+- [Hypercognition](/Psionics/H/Hypercognition.md)
 
 ## Metacreativity
 
@@ -50,6 +51,9 @@ The psionic disciplines are as follows:
 - [Entangling Ectoplasm](/Psionics/E/EntanglingEctoplasm.md)
 - [Fabricate, Psionic](/Psionics/F/FabricatePsionic.md)
 - [Fabricate, Greater Psionic](/Psionics/F/FabricateGreaterPsionic.md)
+- [Genesis](/Psionics/G/Genesis.md)
+- [Grease, Psionic](/Psionics/G/GreasePsionic.md)
+- [Hail of Crystals](/Psionics/H/HailOfCrystals.md)
 
 ## Psychokinesis
 
@@ -111,6 +115,10 @@ The psionic disciplines are as follows:
 - [Form of Doom](/Psionics/F/FormOfDoom.md)
 - [Fuse Flesh](/Psionics/F/FuseFlesh.md)
 - [Fusion](/Psionics/F/Fusion.md)
+- [Graft Weapon](/Psionics/G/GraftWeapon.md)
+- [Grip of Iron](/Psionics/G/GripOfIron.md)
+- [Hammer](/Psionics/H/Hammer.md)
+- [Hustle](/Psionics/H/Hustle.md)
 - [Self Immolation](/Psionics/S/SelfImmolation.md)
 
 ## Psychoportation

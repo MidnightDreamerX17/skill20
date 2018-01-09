@@ -18,6 +18,7 @@ The psionic categories are as follows:
 - [Empathic Transfer](/Psionics/E/EmpathicTransfer.md)
 - [Fission](/Psionics/F/Fission.md)
 - [Fusion](/Psionics/F/Fusion.md)
+- [Hustle](/Psionics/H/Hustle.md)
 - [Self Immolation](/Psionics/S/SelfImmolation.md)
 
 ## Kineticist
@@ -114,6 +115,7 @@ The psionic categories are as follows:
 - [Eradicate Invisibility](/Psionics/E/EradicateInvisibility.md)
 - [Etherealness, Psionic](/Psionics/E/EtherealnessPsionic.md)
 - [Far Hand](/Psionics/F/FarHand.md)
+- [Grease, Psionic](/Psionics/G/GreasePsionic.md)
 
 ## Seer
 
@@ -125,6 +127,7 @@ The psionic categories are as follows:
 - [Fate Link](/Psionics/F/FateLink.md)
 - [Fate of One](/Psionics/F/FateOfOne.md)
 - [Hand Eye](/Psionics/H/HandEye.md)
+- [Hypercognition](/Psionics/H/Hypercognition.md)
 
 ## Shaper
 
@@ -138,6 +141,8 @@ The psionic categories are as follows:
 - [Fabricate, Psionic](/Psionics/F/FabricatePsionic.md)
 - [Fabricate, Greater Psionic](/Psionics/F/FabricateGreaterPsionic.md)
 - [Fuse Flesh](/Psionics/F/FuseFlesh.md)
+- [Genesis](/Psionics/G/Genesis.md)
+- [Hail of Crystals](/Psionics/H/HailOfCrystals.md)
 
 ## Telepath
 
@@ -181,3 +186,6 @@ The psionic categories are as follows:
 - [Force Screen](/Psionics/F/ForceScreen.md)
 - [Form of Doom](/Psionics/F/FormOfDoom.md)
 - [Freedom of Movement, Psionic](/Psionics/F/FreedomOfMovementPsionic.md)
+- [Graft Weapon](/Psionics/G/GraftWeapon.md)
+- [Grip of Iron](/Psionics/G/GripOfIron.md)
+- [Hammer](/Psionics/H/Hammer.md)

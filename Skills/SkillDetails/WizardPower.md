@@ -4,9 +4,9 @@ The Wizard Power skill is normally used in combination with the Wizard Potential
 
 Wizard Spells Memorized: Always 2 higher than the number of spell slots for each circle.
 
-Bonus Slots: Characters get one bonus slot for spell circles depending on their Intelligence modifier. For example, a character with an Intelligence of 16 will get a bonus slot for the 0th, 1st, 2nd, and 3rd spell circles.
+Bonus Energies: Characters get one bonus slot for spell circles depending on their Intelligence modifier. For example, a character with an Intelligence of 16 will get a bonus slot for the 0th, 1st, 2nd, and 3rd spell circles.
 
-## Spell Slots Table
+## Spell Energies Table
 
 | Skill LVL | 0th | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th | 10th | 11th | 12th | 13th | 14th | 15th | 16th | 17th | 18th | 19th | 20th |
 | ---      | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---  | ---  | ---  | ---  | ---  | ---  | ---  | ---  | ---  | ---  | ---  |
@@ -50,6 +50,36 @@ Bonus Slots: Characters get one bonus slot for spell circles depending on their 
 | **38**   | 9   | 9   | 8   | 8   | 8   | 8   | 7   | 7   | 7   | 7   | 6    | 6    | 6    | 5    | 5    | 4    | 4    | 3    | 3    | 2    |      |
 | **39**   | 9   | 9   | 9   | 8   | 8   | 8   | 8   | 7   | 7   | 7   | 6    | 6    | 6    | 5    | 5    | 5    | 4    | 4    | 3    | 2    | 1    |
 | **40**   | 9   | 9   | 9   | 8   | 8   | 8   | 8   | 7   | 7   | 7   | 7    | 6    | 6    | 6    | 5    | 5    | 4    | 4    | 3    | 3    | 2    |
+
+## Detailed Example
+
+A character has Wizard Power level 3, and an Intelligence of 12. First, this character gets spell energies and memorization slots from Wizard Power skill as follows:
+
+**Wizard Spell Energies:**
+
+- 0th - 3
+- 1st - 2
+- 2nd - 1
+
+**Wizard Memorization Slots:**
+
+- 0th - 5
+- 1st - 4
+- 2nd - 3
+
+Then, the character applies their bonus energies from Intelligence. The character's Intelligence modifier is +1, so this gives a bonus spell energy for the 0th and 1st spell circles. Now the character has:
+
+**Wizard Spell Energies:**
+
+- 0th - 4
+- 1st - 3
+- 2nd - 1
+
+**Wizard Memorization Slots:**
+
+- 0th - 6
+- 1st - 5
+- 2nd - 3
 
 ## Learning From Party Members
 

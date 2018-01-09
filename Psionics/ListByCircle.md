@@ -36,6 +36,8 @@
 - [Far Hand](/Psionics/F/FarHand.md)
 - [Float](/Psionics/F/Float.md)
 - [Force Screen](/Psionics/F/ForceScreen.md)
+- [Grease, Psionic](/Psionics/G/GreasePsionic.md)
+- [Hammer](/Psionics/H/Hammer.md)
 
 ## 2nd Circle
 
@@ -65,6 +67,7 @@
 - [Energy Push](/Psionics/E/EnergyPush.md)
 - [Expansion](/Psionics/E/Expansion.md)
 - [Feat Leech](/Psionics/F/FeatLeech.md)
+- [Grip of Iron](/Psionics/G/GripOfIron.md)
 
 ## 3rd Circle
 
@@ -89,6 +92,7 @@
 - [Energy Retort](/Psionics/E/EnergyRetort.md)
 - [Energy Wall](/Psionics/E/EnergyWall.md)
 - [Eradicate Invisibility](/Psionics/E/EradicateInvisibility.md)
+- [Hustle](/Psionics/H/Hustle.md)
 
 ## 4th Circle
 
@@ -116,6 +120,7 @@
 - [False Sensory Input](/Psionics/F/FalseSensoryInput.md)
 - [Fate Link](/Psionics/F/FateLink.md)
 - [Freedom of Movement, Psionic](/Psionics/F/FreedomOfMovementPsionic.md)
+- [Graft Weapon](/Psionics/G/GraftWeapon.md)
 
 ## 5th Circle
 
@@ -144,6 +149,7 @@
 - [Disintegrate, Psionic](/Psionics/D/DisintegratePsionic.md)
 - [Energy Current](/Psionics/E/EnergyCurrent.md)
 - [Fiery Discorporation](/Psionics/F/FieryDiscorporation.md)
+- [Hail of Crystals](/Psionics/H/HailOfCrystals.md)
 
 ## 7th Circle
 
@@ -176,3 +182,8 @@
 - [Astral Seed](/Psionics/A/AstralSeed.md)
 - [Etherealness, Psionic](/Psionics/E/EtherealnessPsionic.md)
 - [Fusion](/Psionics/F/Fusion.md)
+- [Hypercognition](/Psionics/H/Hypercognition.md)
+
+## 10th Circle
+
+- [Genesis](/Psionics/G/Genesis.md)

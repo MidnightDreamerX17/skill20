@@ -4,7 +4,7 @@ The Illusionist Power skill is normally used in combination with the Illusionist
 
 Illusionist Spells Memorized: Always 2 higher than the number of spell energies for each circle.
 
-Bonus Slots: Characters get one bonus spell energy for spell circles depending on their Intelligence modifier. For example, a character with an Intelligence of 16 will get a bonus spell energy for the 0th, 1st, 2nd, and 3rd spell circles.
+Bonus Energies: Characters get one bonus spell energy for spell circles depending on their Intelligence modifier. For example, a character with an Intelligence of 16 will get a bonus spell energy for the 0th, 1st, 2nd, and 3rd spell circles.
 
 ## Spell Energies Table
 
@@ -50,6 +50,36 @@ Bonus Slots: Characters get one bonus spell energy for spell circles depending o
 | **38**   | 9   | 9   | 8   | 8   | 8   | 8   | 7   | 7   | 7   | 7   | 6    | 6    | 6    | 5    | 5    | 4    | 4    | 3    | 3    | 2    |      |
 | **39**   | 9   | 9   | 9   | 8   | 8   | 8   | 8   | 7   | 7   | 7   | 6    | 6    | 6    | 5    | 5    | 5    | 4    | 4    | 3    | 2    | 1    |
 | **40**   | 9   | 9   | 9   | 8   | 8   | 8   | 8   | 7   | 7   | 7   | 7    | 6    | 6    | 6    | 5    | 5    | 4    | 4    | 3    | 3    | 2    |
+
+## Detailed Example
+
+A character has Illusionist Power level 3, and an Intelligence of 12. First, this character gets spell energies and memorization slots from Illusionist Power skill as follows:
+
+**Illusionist Spell Energies:**
+
+- 0th - 3
+- 1st - 2
+- 2nd - 1
+
+**Illusionist Memorization Slots:**
+
+- 0th - 5
+- 1st - 4
+- 2nd - 3
+
+Then, the character applies their bonus energies from Intelligence. The character's Intelligence modifier is +1, so this gives a bonus spell energy for the 0th and 1st spell circles. Now the character has:
+
+**Illusionist Spell Energies:**
+
+- 0th - 4
+- 1st - 3
+- 2nd - 1
+
+**Illusionist Memorization Slots:**
+
+- 0th - 6
+- 1st - 5
+- 2nd - 3
 
 ## Learning From Party Members
 

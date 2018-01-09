@@ -161,9 +161,20 @@
 - [Fuse Flesh](/Psionics/F/FuseFlesh.md)
 - [Fusion](/Psionics/F/Fusion.md)
 
+## G
+
+- [Genesis](/Psionics/G/Genesis.md)
+- [Graft Weapon](/Psionics/G/GraftWeapon.md)
+- [Grease, Psionic](/Psionics/G/GreasePsionic.md)
+- [Grip of Iron](/Psionics/G/GripOfIron.md)
+
 ## H
 
+- [Hail of Crystals](/Psionics/H/HailOfCrystals.md)
+- [Hammer](/Psionics/H/Hammer.md)
 - [Hand Eye](/Psionics/H/HandEye.md)
+- [Hustle](/Psionics/H/Hustle.md)
+- [Hypercognition](/Psionics/H/Hypercognition.md)
 
 ## M
 
