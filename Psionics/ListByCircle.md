@@ -11,6 +11,7 @@
 
 ## 1st Circle
 
+- [Astral Traveler](/Psionics/A/AstralTraveler.md)
 - [Attraction](/Psionics/A/Attraction.md)
 - [Bolt](/Psionics/B/Bolt.md)
 - [Call to Mind](/Psionics/C/CallToMind.md)
@@ -44,7 +45,6 @@
 ## 2nd Circle
 
 - [Astral Construct](/Psionics/A/AstralConstruct.md)
-- [Astral Traveler](/Psionics/A/AstralTraveler.md)
 - [Bestow Power](/Psionics/B/BestowPower.md)
 - [Biofeedback](/Psionics/B/Biofeedback.md)
 - [Bite of the Wolf](/Psionics/B/BiteOfTheWolf.md)
@@ -164,6 +164,7 @@
 
 ## 7th Circle
 
+- [Astral Ship](/Psionics/A/AstralShip.md)
 - [Banishment, Psionic](/Psionics/B/BanishmentPsionic.md)
 - [Crystallize](/Psionics/C/Crystallize.md)
 - [Decerebrate](/Psionics/D/Decerebrate.md)

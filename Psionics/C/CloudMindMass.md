@@ -1,7 +1,7 @@
 # Cloud Mind, Mass
 
 - **Circle:** 6
-- **Category:** Power
+- **Category:** Telepath
 - **Discipline:** Telepathy
 - **Target:** One creature per manifester level
 - **Power Points:** 11

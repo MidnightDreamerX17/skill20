@@ -11,6 +11,7 @@
 - [Astral Caravan](/Psionics/A/AstralCaravan.md)
 - [Astral Construct](/Psionics/A/AstralConstruct.md)
 - [Astral Seed](/Psionics/A/AstralSeed.md)
+- [Astral Ship](/Psionics/A/AstralShip.md)
 - [Astral Traveler](/Psionics/A/AstralTraveler.md)
 - [Attraction](/Psionics/A/Attraction.md)
 - [Aura Alteration](/Psionics/A/AuralAlteration.md)

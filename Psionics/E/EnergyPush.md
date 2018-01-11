@@ -1,7 +1,7 @@
 # Energy Push
 
 - **Circle:** 2
-- **Category:** Power
+- **Category:** Kineticist
 - **Discipline:** Psychokinesis [see text]
 - **Display:** Auditory and visual
 - **Map Range:** Medium (100 feet + 10 feet per manifester level)

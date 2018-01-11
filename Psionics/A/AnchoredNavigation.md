@@ -13,6 +13,6 @@ You know where you are in relation to a fixed starting point, which is essential
 
 You can also retrace your steps through a maze automatically while the power lasts, without resorting to a map.
 
-Anchored navigation grants you a mindlink with one designated creature who remains within a 60-foot radius of the starting point, regardless of the distance between you and the creature. The use of anchored navigation is confined to the plane of existence where you manifest it.
+*Anchored Navigation* grants you a mindlink with one designated creature who remains within a 60-foot radius of the starting point, regardless of the distance between you and the creature. The use of *Anchored Navigation* is confined to the plane of existence where you manifest it.
 
 **Augment:** If you spend 6 additional power points, the effect of this power extends across all planar boundaries.

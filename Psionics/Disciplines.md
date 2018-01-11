@@ -133,6 +133,7 @@ The psionic disciplines are as follows:
 ## Psychoportation
 
 - [Astral Caravan](/Psionics/A/AstralCaravan.md)
+- [Astral Ship](/Psionics/A/AstralShip.md)
 - [Astral Traveler](/Psionics/A/AstralTraveler.md)
 - [Baleful Teleport](/Psionics/B/BalefulTeleport.md)
 - [Banishment, Psionic](/Psionics/B/BanishmentPsionic.md)

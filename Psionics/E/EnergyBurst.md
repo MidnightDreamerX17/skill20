@@ -1,7 +1,7 @@
 # Energy Burst
 
 - **Circle:** 3
-- **Category:** Power
+- **Category:** Kineticist
 - **Discipline:** Psychokinesis [see text]
 - **Display:** Auditory
 - **Map Range:** 40 feet

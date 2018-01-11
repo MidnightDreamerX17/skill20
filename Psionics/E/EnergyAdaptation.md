@@ -1,7 +1,7 @@
 # Energy Adaptation
 
 - **Circle:** 4
-- **Category:** Power
+- **Category:** Egoist
 - **Discipline:** Psychometabolism [see text]
 - **Display:** Visual; see text
 - **Map Range:** Personal

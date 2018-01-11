@@ -1,7 +1,7 @@
 # Empathy
 
 - **Circle:** 1
-- **Category:** Power
+- **Category:** Telepath
 - **Discipline:** Telepathy
 - **Display:** Mental
 - **Map Range:** 30 ft.

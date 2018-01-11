@@ -1,7 +1,7 @@
 # Concealing Amorpha
 
 - **Circle:** 2
-- **Category:** Power
+- **Category:** Shaper
 - **Discipline:** Metacreativity
 - **Display:** Material; see text
 - **Map Range:** 0 feet

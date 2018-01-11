@@ -1,7 +1,7 @@
 # Energy Adaptation, Specified
 
 - **Circle:** 2
-- **Category:** Power
+- **Category:** Egoist
 - **Discipline:** Psychometabolism [see text]
 - **Power Points:** 3
 

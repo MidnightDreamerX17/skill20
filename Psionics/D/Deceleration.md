@@ -1,7 +1,7 @@
 # Deceleration
 
 - **Circle:** 1
-- **Category:** Power
+- **Category:** Nomad
 - **Discipline:** Psychoportation
 - **Display:** Auditory and material
 - **Map Range:** Close (25 feet + 5 feet per experience level)

@@ -1,7 +1,7 @@
 # Correspond
 
 - **Circle:** 4
-- **Category:** Power
+- **Category:** Telepath
 - **Discipline:** Telepathy
 - **Display:** Mental
 - **Manifesting Time:** 10 minutes

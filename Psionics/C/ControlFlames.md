@@ -1,7 +1,7 @@
 # Control Flames
 
 - **Circle:** 1
-- **Category:** Power
+- **Category:** Kineticist
 - **Discipline:** Psychokinesis
 - **Display:** Auditory
 - **Range:** Medium (100 feet + 10 feet per manifester level)

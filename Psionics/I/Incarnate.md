@@ -1,6 +1,7 @@
 # Incarnate
 
 - **Circle:** 5
+- **Category:** Power
 - **Discipline:** Metacreativity
 - **Display:** Material
 - **Manifesting Time:** 2 rounds

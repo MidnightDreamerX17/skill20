@@ -1,7 +1,7 @@
 # Bolt
 
 - **Circle:** 1
-- **Category:** Power
+- **Category:** Shaper
 - **Discipline:** Metacreativity
 - **Display:** Material
 - **Map Range:** 0 feet

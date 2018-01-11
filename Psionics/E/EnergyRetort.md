@@ -1,7 +1,7 @@
 # Energy Retort
 
 - **Circle:** 3
-- **Category:** Power
+- **Category:** Kineticist
 - **Discipline:** Psychokinesis [see text]
 - **Display:** Visual
 - **Map Range:** Personal and close (25 feet + 5 feet per 2 manifester levels); see text

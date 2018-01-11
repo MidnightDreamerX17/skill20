@@ -1,7 +1,7 @@
 # Energy Conversion
 
 - **Circle:** 7
-- **Category:** Power
+- **Category:** Egoist
 - **Discipline:** Psychometabolism [see text]
 - **Display:** Mental
 - **Map Range:** Personal and close (25 feet + 5 feet per 2 manifester levels); see text

@@ -1,7 +1,7 @@
 # Concussion Blast
 
 - **Circle:** 2
-- **Category:** Power
+- **Category:** Kineticist
 - **Discipline:** Psychokinesis
 - **Display:** Auditory
 - **Map Range:** Medium (100 feet + 10 feet per manifester level)

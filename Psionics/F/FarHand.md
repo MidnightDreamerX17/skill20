@@ -1,7 +1,7 @@
 # Far Hand
 
 - **Circle:** 1
-- **Category:** Power
+- **Category:** Kineticist
 - **Discipline:** Psychokinesis
 - **Display:** Visual
 - **Map Range:** Close (25 feet + 5 feet per 2 manifester levels)

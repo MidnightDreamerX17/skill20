@@ -11,3 +11,5 @@
 - **Power Points:** 7
 
 As the *Divination* spell, except as noted here. 
+
+Even though this is a psionic power rather than a clerical magic spell, it still requires communicating with a deity or equivalent power.

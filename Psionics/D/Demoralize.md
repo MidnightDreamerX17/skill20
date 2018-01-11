@@ -1,7 +1,7 @@
 # Demoralize
 
 - **Circle:** 1
-- **Category:** Power
+- **Category:** Telepath
 - **Discipline:** Telepathy
 - **Display:** Mental and olfactory
 - **Map Range:** 30 feet

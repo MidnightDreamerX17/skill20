@@ -1,7 +1,7 @@
 # Crystal Shard
 
 - **Circle:** 1
-- **Category:** Power
+- **Category:** Shaper
 - **Discipline:** Metacreativity
 - **Display:** Auditory and material
 - **Map Range:** Close (25 feet + 5 feet per 2 manifester levels)

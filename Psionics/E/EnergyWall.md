@@ -1,7 +1,7 @@
 # Energy Wall
 
 - **Circle:** 3
-- **Category:** Power
+- **Category:** Kineticist
 - **Discipline:** Metacreativity (Creation) [see text]
 - **Display:** Auditory
 - **Map Range:** Medium (100 feet + 10 feet per manifester level)

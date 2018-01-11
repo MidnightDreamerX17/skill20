@@ -1,7 +1,7 @@
 # Dimension Door, Psionic
 
 - **Circle:** 4
-- **Category:** Power
+- **Category:** Nomad
 - **Discipline:** Psychoportation
 - **Display:** Visual
 - **Range:** Long (400 feet + 40 feet per manifester level)

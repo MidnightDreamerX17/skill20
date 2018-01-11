@@ -1,7 +1,7 @@
 # Attraction
 
 - **Circle:** 1
-- **Category:** Power
+- **Category:** Telepath
 - **Discipline:** Telepathy
 - **Display:** Auditory
 - **Map Range:** Close (25 feet + 5 feet per 2 manifester levels)

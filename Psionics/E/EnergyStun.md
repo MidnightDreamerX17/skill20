@@ -1,7 +1,7 @@
 # Energy Stun
 
 - **Circle:** 2
-- **Category:** Power
+- **Category:** Kineticist
 - **Discipline:** Psychokinesis [see text]
 - **Display:** Auditory
 - **Map Range:** Close (25 feet + 5 feet per 2 manifester levels)
