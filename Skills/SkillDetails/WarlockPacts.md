@@ -8,6 +8,8 @@ The Warlock Pacts skill allows the character to make deals with otherworldly pat
 
 Many patrons give other permanent gifts and mutations as well, although these always have severe tradeoffs. The higher the Warlock Pacts skill, the more noticeable they become to other people.
 
+**Bonus Pacts:** The character has an additional number of pacts equal to their Charisma modifier. For example, with a Charisma of 16, a character would have three additional pacts.
+
 ## Examples of otherworldly patrons
 
 - **The Archfey** (any Chaotic)
