@@ -95,7 +95,7 @@
 - [Dismiss Ectoplasm](/Psionics/D/DismissEctoplasm.md)
 - [Dispel Psionics](/Psionics/D/DispelPsionics.md)
 - [Dispelling Buffer](/Psionics/D/DispellingBuffer.md)
-- [Dissipating Touch.md](/Psionics/D/DissipatingTouch.md)
+- [Dissipating Touch](/Psionics/D/DissipatingTouch.md)
 - [Dissolving Touch](/Psionics/D/DissolvingTouch.md)
 - [Dissolving Weapon](/Psionics/D/DissolvingWeapon.md)
 - [Distract](/Psionics/D/Distract.md)
@@ -175,6 +175,25 @@
 - [Hand Eye](/Psionics/H/HandEye.md)
 - [Hustle](/Psionics/H/Hustle.md)
 - [Hypercognition](/Psionics/H/Hypercognition.md)
+
+## I
+
+- [Id Insinuation](/Psionics/I/IdInsinuation.md)
+- [Identify Psionic](/Psionics/I/IdentifyPsionic.md)
+- [Immovability](/Psionics/I/Immovability.md)
+- [Incarnate](/Psionics/I/Incarnate.md)
+- [Inertial Armor](/Psionics/I/InertialArmor.md)
+- [Inertial Barrier](/Psionics/I/InertialBarrier.md)
+- [Inflict Pain](/Psionics/I/InflictPain.md)
+- [Insanity](/Psionics/I/Insanity.md)
+- [Intellect Fortress](/Psionics/I/IntellectFortress.md)
+- [Iron Body, Psionic](/Psionics/I/IronBodyPsionic.md)
+
+## K
+
+- [Keen Edge, Psionic](/Psionics/K/KeenEdgePsionic.md)
+- [Knock, Psionic](/Psionics/K/Knock.md)
+- [Know Direction And Location](/Psionics/K/KnowDirectionAndLocation.md)
 
 ## M
 

@@ -26,7 +26,7 @@
 - [Demoralize](/Psionics/D/Demoralize.md)
 - [Detect Psionics](/Psionics/D/DetectPsionics.md)
 - [Disable](/Psionics/D/Disable.md)
-- [Dissipating Touch.md](/Psionics/D/DissipatingTouch.md)
+- [Dissipating Touch](/Psionics/D/DissipatingTouch.md)
 - [Distract](/Psionics/D/Distract.md)
 - [Ecto Protection](/Psionics/E/EctoProtection.md)
 - [Empathy](/Psionics/E/Empathy.md)
@@ -38,6 +38,8 @@
 - [Force Screen](/Psionics/F/ForceScreen.md)
 - [Grease, Psionic](/Psionics/G/GreasePsionic.md)
 - [Hammer](/Psionics/H/Hammer.md)
+- [Inertial Armor](/Psionics/I/InertialArmor.md)
+- [Know Direction And Location](/Psionics/K/KnowDirectionAndLocation.md)
 
 ## 2nd Circle
 
@@ -68,6 +70,10 @@
 - [Expansion](/Psionics/E/Expansion.md)
 - [Feat Leech](/Psionics/F/FeatLeech.md)
 - [Grip of Iron](/Psionics/G/GripOfIron.md)
+- [Id Insinuation](/Psionics/I/IdInsinuation.md)
+- [Identify Psionic](/Psionics/I/IdentifyPsionic.md)
+- [Inflict Pain](/Psionics/I/InflictPain.md)
+- [Knock, Psionic](/Psionics/K/Knock.md)
 
 ## 3rd Circle
 
@@ -93,6 +99,7 @@
 - [Energy Wall](/Psionics/E/EnergyWall.md)
 - [Eradicate Invisibility](/Psionics/E/EradicateInvisibility.md)
 - [Hustle](/Psionics/H/Hustle.md)
+- [Keen Edge, Psionic](/Psionics/K/KeenEdgePsionic.md)
 
 ## 4th Circle
 
@@ -121,6 +128,7 @@
 - [Fate Link](/Psionics/F/FateLink.md)
 - [Freedom of Movement, Psionic](/Psionics/F/FreedomOfMovementPsionic.md)
 - [Graft Weapon](/Psionics/G/GraftWeapon.md)
+- [Intellect Fortress](/Psionics/I/IntellectFortress.md)
 
 ## 5th Circle
 
@@ -135,6 +143,9 @@
 - [Energy Ball](/Psionics/E/EnergyBall.md)
 - [Fabricate, Psionic](/Psionics/F/FabricatePsionic.md)
 - [Fly, Psionic](/Psionics/F/FlyPsionic.md)
+- [Immovability](/Psionics/I/Immovability.md)
+- [Incarnate](/Psionics/I/Incarnate.md)
+- [Inertial Barrier](/Psionics/I/InertialBarrier.md)
 
 ## 6th Circle
 
@@ -163,6 +174,7 @@
 - [Fabricate, Greater Psionic](/Psionics/F/FabricateGreaterPsionic.md)
 - [Form of Doom](/Psionics/F/FormOfDoom.md)
 - [Fuse Flesh](/Psionics/F/FuseFlesh.md)
+- [Insanity](/Psionics/I/Insanity.md)
 
 ## 8th Circle
 
@@ -173,6 +185,7 @@
 - [Ethereal Jaunt, Psionic](/Psionics/E/EtherealJaunt.md)
 - [Fate of One](/Psionics/F/FateOfOne.md)
 - [Fission](/Psionics/F/Fission.md)
+- [Iron Body, Psionic](/Psionics/I/IronBodyPsionic.md)
 
 ## 9th Circle
 

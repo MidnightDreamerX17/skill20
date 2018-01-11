@@ -19,6 +19,7 @@ The psionic categories are as follows:
 - [Fission](/Psionics/F/Fission.md)
 - [Fusion](/Psionics/F/Fusion.md)
 - [Hustle](/Psionics/H/Hustle.md)
+- [Iron Body, Psionic](/Psionics/I/IronBodyPsionic.md)
 - [Self Immolation](/Psionics/S/SelfImmolation.md)
 
 ## Kineticist
@@ -32,6 +33,9 @@ The psionic categories are as follows:
 - [Energy Current](/Psionics/E/EnergyCurrent.md)
 - [Energy Missile](/Psionics/E/EnergyMissile.md)
 - [Fiery Discorporation](/Psionics/F/FieryDiscorporation.md)
+- [Inertial Barrier](/Psionics/I/InertialBarrier.md)
+- [Intellect Fortress](/Psionics/I/IntellectFortress.md)
+- [Knock, Psionic](/Psionics/K/Knock.md)
 - [Microlevitation](/Psionics/M/Microlevitation.md)
 
 ## Nomad
@@ -90,7 +94,7 @@ The psionic categories are as follows:
 - [Disintegrate, Psionic](/Psionics/D/DisintegratePsionic.md)
 - [Dismiss Ectoplasm](/Psionics/D/DismissEctoplasm.md)
 - [Dispel Psionics](/Psionics/D/DispelPsionics.md)
-- [Dissipating Touch.md](/Psionics/D/DissipatingTouch.md)
+- [Dissipating Touch](/Psionics/D/DissipatingTouch.md)
 - [Distract](/Psionics/D/Distract.md)
 - [Divert Teleport](/Psionics/D/DivertTeleport.md)
 - [Divination, Psionic](/Psionics/D/DivinationPsionic.md)
@@ -116,6 +120,7 @@ The psionic categories are as follows:
 - [Etherealness, Psionic](/Psionics/E/EtherealnessPsionic.md)
 - [Far Hand](/Psionics/F/FarHand.md)
 - [Grease, Psionic](/Psionics/G/GreasePsionic.md)
+- [Incarnate](/Psionics/I/Incarnate.md)
 
 ## Seer
 
@@ -128,6 +133,8 @@ The psionic categories are as follows:
 - [Fate of One](/Psionics/F/FateOfOne.md)
 - [Hand Eye](/Psionics/H/HandEye.md)
 - [Hypercognition](/Psionics/H/Hypercognition.md)
+- [Identify Psionic](/Psionics/I/IdentifyPsionic.md)
+- [Know Direction And Location](/Psionics/K/KnowDirectionAndLocation.md)
 
 ## Shaper
 
@@ -154,6 +161,9 @@ The psionic categories are as follows:
 - [Dominate, Psionic](/Psionics/D/DominatePsionic.md)
 - [Empathic Transfer, Hostile](/Psionics/E/EmpathicTransferHostile.md)
 - [False Sensory Input](/Psionics/F/FalseSensoryInput.md)
+- [Id Insinuation](/Psionics/I/IdInsinuation.md)
+- [Inflict Pain](/Psionics/I/InflictPain.md)
+- [Insanity](/Psionics/I/Insanity.md)
 - [Touch Speech](/Psionics/T/TouchSpeech.md)
 
 ## Warrior
@@ -189,3 +199,6 @@ The psionic categories are as follows:
 - [Graft Weapon](/Psionics/G/GraftWeapon.md)
 - [Grip of Iron](/Psionics/G/GripOfIron.md)
 - [Hammer](/Psionics/H/Hammer.md)
+- [Immovability](/Psionics/I/Immovability.md)
+- [Inertial Armor](/Psionics/I/InertialArmor.md)
+- [Keen Edge, Psionic](/Psionics/K/KeenEdgePsionic.md)

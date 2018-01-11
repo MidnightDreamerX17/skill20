@@ -30,6 +30,8 @@ The psionic disciplines are as follows:
 - [Feat Leech](/Psionics/F/FeatLeech.md)
 - [Hand Eye](/Psionics/H/HandEye.md)
 - [Hypercognition](/Psionics/H/Hypercognition.md)
+- [Identify Psionic](/Psionics/I/IdentifyPsionic.md)
+- [Know Direction And Location](/Psionics/K/KnowDirectionAndLocation.md)
 
 ## Metacreativity
 
@@ -54,6 +56,9 @@ The psionic disciplines are as follows:
 - [Genesis](/Psionics/G/Genesis.md)
 - [Grease, Psionic](/Psionics/G/GreasePsionic.md)
 - [Hail of Crystals](/Psionics/H/HailOfCrystals.md)
+- [Incarnate](/Psionics/I/Incarnate.md)
+- [Iron Body, Psionic](/Psionics/I/IronBodyPsionic.md)
+- [Keen Edge, Psionic](/Psionics/K/KeenEdgePsionic.md)
 
 ## Psychokinesis
 
@@ -81,6 +86,9 @@ The psionic disciplines are as follows:
 - [Far Hand](/Psionics/F/FarHand.md)
 - [Fiery Discorporation](/Psionics/F/FieryDiscorporation.md)
 - [Force Screen](/Psionics/F/ForceScreen.md)
+- [Inertial Armor](/Psionics/I/InertialArmor.md)
+- [Inertial Barrier](/Psionics/I/InertialBarrier.md)
+- [Intellect Fortress](/Psionics/I/IntellectFortress.md)
 - [Microlevitation](/Psionics/M/Microlevitation.md)
 
 ## Psychometabolism
@@ -119,6 +127,7 @@ The psionic disciplines are as follows:
 - [Grip of Iron](/Psionics/G/GripOfIron.md)
 - [Hammer](/Psionics/H/Hammer.md)
 - [Hustle](/Psionics/H/Hustle.md)
+- [Immovability](/Psionics/I/Immovability.md)
 - [Self Immolation](/Psionics/S/SelfImmolation.md)
 
 ## Psychoportation
@@ -139,7 +148,7 @@ The psionic disciplines are as follows:
 - [Disappearing Trick](/Psionics/D/DisappearingTrick.md)
 - [Disintegrate, Psionic](/Psionics/D/DisintegratePsionic.md)
 - [Dismissal, Psionic](/Psionics/D/DismissalPsionic.md)
-- [Dissipating Touch.md](/Psionics/D/DissipatingTouch.md)
+- [Dissipating Touch](/Psionics/D/DissipatingTouch.md)
 - [Divert Teleport](/Psionics/D/DivertTeleport.md)
 - [Dream Travel](/Psionics/D/DreamTravel.md)
 - [Ethereal Jaunt, Psionic](/Psionics/E/EtherealJaunt.md)
@@ -147,6 +156,7 @@ The psionic disciplines are as follows:
 - [Float](/Psionics/F/Float.md)
 - [Fly, Psionic](/Psionics/F/FlyPsionic.md)
 - [Freedom of Movement, Psionic](/Psionics/F/FreedomOfMovementPsionic.md)
+- [Knock, Psionic](/Psionics/K/Knock.md)
 
 ## Telepathy
 
@@ -180,4 +190,7 @@ The psionic disciplines are as follows:
 - [Empathy](/Psionics/E/Empathy.md)
 - [Empty Mind](/Psionics/E/EmptyMind.md)
 - [False Sensory Input](/Psionics/F/FalseSensoryInput.md)
+- [Id Insinuation](/Psionics/I/IdInsinuation.md)
+- [Inflict Pain](/Psionics/I/InflictPain.md)
+- [Insanity](/Psionics/I/Insanity.md)
 - [Touch Speech](/Psionics/T/TouchSpeech.md)
