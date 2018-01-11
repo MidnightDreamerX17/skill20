@@ -2,60 +2,58 @@
 
 **Dhampire**
 
-**Self-Titled: Fencer**
+**Self-titled: Fencer**
 
 Non-Aligned
 
 Experience Level: 1
-XP spent/total: 1,000 / 1,000
+
+XP spent/total: 1000 / 1000
 
 HP: 13 / 13
-start at Constitution + 1d6
 
 ## Stats
 
-AC: 14
+- AC: 14 (10 + 3 DEX + 1 iron body while unarmored)
+- Melee Accuracy: /roll 1d20+1+1
+- Melee Damage: 5 psionic
+- Ranged Accuracy: /roll 1d20+3+1
+- Ranged Damage: 5 psionic
 
-Melee BtH: +2
-
-Melee Damage: 5 psionic
-
-Ranged BtH: +4
-
-Ranged Damage: 5 psionic
-
-STR: 12 (+1)
-DEX: 16 (+3)
-CON: 10
-INT: 14 (+2)
-WIS: 10
-CHA: 10
+- STR: 12 (+1)
+- DEX: 16 (+3)
+- CON: 10
+- INT: 14 (+2)
+- WIS: 10
+- CHA: 10
 
 ## Background & Traits
 
 Languages: Common, Ancient Common, Precursor
 
+- Dhampire: Acidic Blood: Take half damage from acid. Blood is highly acidic to other things.
+- Dhampire: Entrancing Gaze: Charm Person, once per day
+- Dhampire: Soul Eater: Can bite and eat spirits as if they were meat
+
+
 ## Skills
 
-Craft (INT) (specify) - Level 1
-Knowledge (INT) (specify) - Level 1
-Perform (CHA) (specify) - Level 1
-Profession (WIS) (specify) - Level 1
+- Craft (INT) (specify) - 100 XP - Level 1
+- Knowledge (INT) (specify) - 100 XP - Level 1
+- Perform (CHA) (specify) - 100 XP - Level 1
+- Profession (WIS) (specify) - 100 XP - Level 1
+- Athletics (DEX) - 100 XP - Level 1
+- Chi Body (CON) - 100 XP - Level 1
+- Melee Fighting (STR) - 100 XP - Level 1
+- Ranged Fighting (DEX) - 100 XP - Level 1
+- Persuasion (CHA) - 100 XP - Level 1
+- Psy Blade (INT) - 100 XP - Level 1
 
-Melee Fighting (STR) - Level 1
-Athletics (DEX) - Level 1
-Ranged Fighting (DEX) - Level 1
-Chi Body (CON) - Level 1
-Psy Blade (INT) - Level 1
-Persuasion (CHA) - Level 1
+## Abilities / Spells
 
-## Abilities
+Chi Body:
 
-Dhampire: Acidic Blood: Take half damage from acid. Blood is highly acidic to other things.
-
-Dhampire: Entrancing Gaze: Charm Person, once per day
-
-Dhampire: Soul Eater: Can bite and eat spirits as if they were meat
+- Iron Body: add chi body skill level to unarmored AC
 
 ## Equipment
 
@@ -83,4 +81,4 @@ Whetstone
 
 ## Will
 
-Leave it all on the grave of my dear mother.
+Leave it to...

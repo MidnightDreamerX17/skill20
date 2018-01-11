@@ -21,6 +21,10 @@ Optional Sections:
 
 - [Feats](/Optional/Feats.md)
 
+## Where to Start?
+
+Head over to the **[Characters](/Characters.md)** page.
+
 ## Introduction
 
 Goals:
