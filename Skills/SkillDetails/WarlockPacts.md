@@ -10,14 +10,71 @@ Many patrons give other permanent gifts and mutations as well, although these al
 
 **Bonus Pacts:** The character has an additional number of pacts equal to their Charisma modifier. For example, with a Charisma of 16, a character would have three additional pacts.
 
+**Penalty Pacts:** If a character has a Charisma of 9 or lower, then they must enter into one-sided pacts with their otherworldly patrons. These penalty pacts exist solely for the purpose of horrifying people, hurting the character's soul, making the character seem insane, forcing the character to depend on the patron for life, and other such problems. The number of penalty pacts is based on Charisma modifier. For example, with a Charisma of 7, the character would have two penalty pacts.
+
+Changes in a character's Charisma that last 1 month or more will affect their Bonus and Penalty pacts.
+
+The GM may also hand out bonus and penalty pacts according to a character's actions. For example, if a character attempts to change alignments, and their patron one finds out, then the patron will apply an additional penalty pact. If a character converts ten people to the cult of their otherwordly patron, then they may get an additional bonus pact.
+
 ## Examples of otherworldly patrons
 
-- **The Archfey** (any Chaotic)
-- **The Fiend** (any Evil)
-- **The Great Old One** (any non-Good)
-- **The Secret Meaning of the Scriptures** (any Good)
-- **Numerology and Signs** (any Lawful)
-- **True Deity Who Just Likes Binding Mortals With Pacts** (alignment depends on deity, usually Lawful)
+### The Archfey (any Chaotic)
+
+- **Typical Alignments:** Chaotic Good, Chaotic Neutral, Chaotic Evil
+
+#### Examples of Penalty Pacts
+
+- You must spend one month per year as the personal plaything of an archfey.
+- You can never talk to your family, ever again.
+- You are polymorphed into a silly form. If you get it reversed, then the archfey will forcibly summon you and polymorph you again.
+
+### The Fiend (any Evil)
+
+- **Typical Alignments:** Lawful Evil, Neutral Evil, Chaotic Evil
+
+#### Examples of Penalty Pacts
+
+- You must attempt to destroy any symbols of good within 10 feet.
+- You become weak to holy damage, similar to the undead.
+- Once per day, you must spend five minutes speaking in public, with an abnormally-deep voice, about vile subjects such as torture and kidnapping.
+
+### The Great Old One (any non-Good)
+
+- **Typical Alignments:** Lawful Neutral, True Neutral, Chaotic Neutral, Lawful Evil, Neutral Evil, Chaotic Evil
+
+#### Examples of Penalty Pacts
+
+- You become hybridized with a sea creature. This changes your very soul, such that any effect that ends polymorph will still leave you in your hybrid form.
+- You lose the Common language. In its place, you gain some ancient language that predates most normal worlds. Increases in Intelligence and in the Knowledge (Linguistics) (INT) skill can let you get Common back, but you can never forget the great old tongue.
+- You are constantly assaulted by images of unnatural, impossible geometry. Looking at geometric sculptures has a 1 in 20 chance of inducing a seizure.
+
+### The Secret Meaning of the Scriptures (any Good)
+
+- **Typical Alignments:** Lawful Good, Neutral Good, Chaotic Good
+
+#### Examples of Penalty Pacts
+
+- Your speech becomes hyper-religious, 120% of the time. For example, instead of saying, "I need to use the toilet," you say "**THE SIN OF THE BOWELS MUST BE DELIVERED UNTO THE HOLY WHITE BASIN OF BAPTISMAL WATER!**"
+- You must attempt to describe every single creature you see as a set of similarities or differences with some obscure variety of angel.
+- You must spend the first hour of your rest cycle by singing in an angelic voice with all sorts of random heavenly melodies.
+
+### Numerology and Signs (any Lawful)
+
+- **Typical Alignments:** Lawful Good, Lawful Neutral, Lawful Evil
+
+#### Examples of Penalty Pacts
+
+- You must spend the first hour of your rest cycle by writing out the secret numbers on the nearest wall.
+- Every time you look at the prices of a store, an accounting ledge, a list of sports scores, etc., you have a 1 in 20 chance of needing to spend a day to draw circles around the important numbers and relate them to each other.
+- There are three or four common numbers that each have a 1 in 100 chance of inducing the *Confusion* effect. For example, your special set could be 7, 13, 40, and 666.
+
+### True Deity Who Just Likes Binding Mortals With Pacts
+
+- **Typical Alignments:** Lawful Good, Lawful Neutral, Lawful Evil, Neutral Evil
+
+#### Examples of Penalty Pacts
+
+- Depends on the deity. For example, Good deities will impose various oaths of penance.
 
 ## Eldritch Pacts
 
