@@ -43,7 +43,19 @@ It is also possible for a character to learn skills from their own party members
 
 ## Combat
 
-### Initiative
+Combat is divided into 10-second **rounds** in which each combatant has a **turn**. Each 10-second **round** is composed of two phases:
+
+1. Initiative phase
+2. Actions phase
+
+On a combatant's **turn**, they may do the following:
+
+- One set of attacks, and one movement
+- Start casting a spell or manifesting a power, and one movement
+- Start reading a scroll, and one movement
+- Use an item, and one movement
+
+### Initiative Phase
 
 Each combatant rolls 1d100 + Dexterity score for initiative. For example, if a character has 16 Dexterity and rolls 45, then their initiative is 61.
 
@@ -122,6 +134,10 @@ To repeat from Chapter 7: [Magic](/Magic), spellcasting always takes a minimum o
 To repeat from Chapter 8: [Psionics](/Psionics), manifestation of powers always takes a minimum of a full round. The manifester starts the process of manifesting the power as their action, and the power takes effect immediately before their next turn. Every time the manifester takes damage during this time, they must make a skill check to maintain concentration. The difficulty is 10 + the Experience Level of the one who did the damage to the manifester. On a failure, the manifestation is interrupted, but they do not expend the psionic power points.
 
 Spell and Power Resistance: The spellcaster or manifester must make a skill check to defeat the resistance. On a failure, the spell energy is wasted, or the psionic power points are wasted. Magic is not affected by psionic resistance. Psionic powers are not affected by spell resistance.
+
+#### Optional: Faster Casting and Manifestation
+
+The GM may rule that spells and psionic powers finish execution at the end of the character's turn, thus eliminating the possibility that concentration could be required.
 
 ### Grappling
 
