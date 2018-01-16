@@ -1,5 +1,7 @@
 # Law-Mech
 
+Law-Mechs are technically cyborgs rather than full constructs, but their flesh is specially engineered to function only in combination with their constructed parts.
+
 - Vision: Day Vision
 - Theoretical Lifespan: 10 years / Unlimited
 - Map Movement: 20 feet
@@ -22,7 +24,7 @@ Uncalculated Outcomes: When surprised, Law-Mechs remain that way for two rounds 
 
 Fried Circuits: Law-Mechs are always stunned upon taking lightning damage.
 
-Maintenance: Law-Mechs require roughly eight hours of self-maintenance every day, but unlike most mortals, these hours do not need to be contiguous. Without proper maintenance, they will eventually break down and die after 10 years. If they are properly maintained, then they can last forever.
+Maintenance: Law-Mechs require roughly eight hours of maintenance every day, but unlike most mortals, these hours do not need to be contiguous. Without proper maintenance, they will eventually break down and die after 10 years. If they are properly maintained, then they can last forever.
 
 Repair: Law-Mechs can be repaired as constructs for one hit point per day, with the difficulty being equal to 10 + the Law-Mech's own experience level. This is in addition to hit points regained by resting.
 

@@ -22,3 +22,4 @@ Race Index:
 - [Lizardfolk](/Races/Lizardfolk.md)
 - [Minotaur](/Races/Minotaur.md)
 - [Orc Hybrid](/Races/OrcHybrid.md)
+- [War-Mech](/Races/WarMech.md)
