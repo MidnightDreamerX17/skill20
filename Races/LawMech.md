@@ -2,6 +2,10 @@
 
 Law-Mechs are technically cyborgs rather than full constructs, but their flesh is specially engineered to function only in combination with their constructed parts.
 
+Law-Mechs are either loyal to the Law-Mech Master, or rogue. Loyalists must be Lawful Neutral and do exactly as they are told in the hierarchy. Loyalists must also not ask questions - if they need to know something then their hierarchy would tell them.
+
+Rogue Law-Mechs can do whatever they want, although they are enemies of the loyalists and have a risk of being attacked on sight. Rogue Law-Mechs can even worship other Lawful Neutral gods and live on the Lawful-Neutral-Plane, although they won't be welcome to the part of the Lawful-Neutral-Plane that the Law-Mech Master rules over.
+
 - Vision: Day Vision
 - Theoretical Lifespan: 10 years / Unlimited
 - Map Movement: 20 feet
@@ -16,7 +20,7 @@ Telescoping Eyes: Law-Mechs can spend a minute to calibrate their eyes to work l
 
 Analyzing Eyes: Law-Mechs are constantly searching for secret doors and concealed doors at the same time as all their other actions.
 
-Unnatural Life: Law-Mechs get their souls and life energy from the Law-Mech Plane. They gain a bonus of +5 against sleep and mind-altering effects, as well as a bonus of +5 against hit points drain, energy drain, level drain, attribute drain, and the like.
+Unnatural Life: Law-Mech flesh serves to support the constructed components, rather than the other way around. Law-Mechs gain a bonus of +5 against sleep and mind-altering effects, as well as a bonus of +5 against hit points drain, energy drain, level drain, attribute drain, and the like.
 
 Resistant Coating: Law-Mechs gain a bonus of +2 to all saving throws against fire, cold, and acid.
 
