@@ -177,6 +177,12 @@ Slam: Strength + Melee Fighting. 1d12 + (Strength bonus) damage, and causes the 
 
 Short Strikes: Dexterity + Melee Fighting. Do damage as if from an unarmed strike.
 
+### Dual-Wielding (and more)
+
+Dual-Wielding gives a bonus of +1 to attack accuracy. The dual-wielder also chooses which weapon is used for accuracy, and which one is used for damage. Any special parrying bonuses from both weapons are applied.
+
+Triple-Wielding gives a bonus of +2 to attack accuracy, while Quadruple-Wielding gives a bonus of +3.
+
 ## Status Definitions
 
 **Blinded** - The character cannot see. The character takes a -2 penalty to Armor Class, loses the Dexterity bonus to AC (if any), moves at half speed, and takes a -4 penalty on most Strength-based and Dexterity-based skill checks. All checks and activities that rely on vision (such as reading and visual searching checks) automatically fail. The character has a penalty of -10 to attack accuracy as well.

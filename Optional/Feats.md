@@ -118,6 +118,7 @@ Characters start with 10 feats and gain an additional feat at every single exper
 - **Psionic Shot** (requires Psionic Power skill) - You can spend 2 Psionic Power Points to add 2d6 psionic damage to one ranged attack.
 - **Psionic Talent** (specific) - Your maximum Psionic Power Points are increased by 2. This feat is linked to an Intelligence bonus, so for example, if your Intelligence is 14, then you can buy this feat for INT Bonus +1 and INT Bonus +2.
 - **Psionic Weapon** (requires Psionic Power skill) - You can spend 2 Psionic Power Points to add 2d6 psionic damage to one weapon attack.
+- **Quadruple-Wielding** (requires at least four arms, Triple-Wielding) - You can quadruple-wield normally.
 - **Quick Roll** - The character can choose to lose all attack actions in order to gain a +5 bonus to move through enemies.
 - **Rapid Metabolism** - Your Constitution bonus, if +1 or higher, is doubled while resting.
 - **Read Spellshadow** - The character gains a bonus of +4 to identify magic in the astral plane.
@@ -137,6 +138,7 @@ Characters start with 10 feats and gain an additional feat at every single exper
 - **Swimming Expert** - The character gains a bonus of +4 to swimming.
 - **Terrain Category Specialization** (specific) - The character gains a bonus of +1 to all actions of tracking, foraging, survival, hunting, hiding, etc. in the terrain category.
 - **Toughness** - The character's minimum dice rolls for maximum Hit Points are increased by 1. This means that they can roll a 2 through 6 on each die. If combined with *Body Builder*, the total result is that a 3 through 6 could be rolled per die.
+- **Triple-Wielding** (requires at least three arms) - You can triple-wield normally.
 - **Unavoidable Strike** (requires Psionic Power skill) - You can spend 2 psionic power points in order to cause one unarmed or natural weapon attack to ignore armor and shield.
 - **Up the Walls** (requires Psionic Power skill) - You can spend 1 Psionic Power Point to include vertical surfaces as part of your move action. You must still end your move action on something you could stand on or hover over normally.
 - **Vanguard Stance** - The character can take damage from a ranged attack in place of an adjacent ally. Usage of this feat can be declared starting from when the enemy chooses to do a ranged attack, up to immediately after damage is rolled.
