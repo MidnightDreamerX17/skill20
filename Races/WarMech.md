@@ -13,7 +13,7 @@ Field Repairs - War-Mechs can be repaired as constructs for one hit point per da
 
 Life Spark - War-Mechs have souls that receive half the effect of divine healing and harming. Keep in mind that *Potions of Cure* and the like are divine in nature, deriving their power from cleric or druid magic. *Raise Dead*, *Resurrection*, *True Resurrection*, *Reincarnation*, and the like will still work normally. Their physical attributes (Strength, Dexterity, and Constitution) cannot be drained.
 
-Maintenance: War-Mechs require roughly eight hours of maintenance every day, but unlike most mortals, these hours do not need to be contiguous. Without proper maintenance, they will eventually break down and die after 10 years. If they are properly maintained, then they can last forever.
+Maintenance - War-Mechs require roughly eight hours of maintenance every day, but unlike most mortals, these hours do not need to be contiguous. Without proper maintenance, they will eventually break down and die after 10 years. If they are properly maintained, then they can last forever.
 
 Nuclear-Biological-Chemical Filtration - War-Mechs are immune to poison, disease, paralysis, nausea, sickening, and the like.
 
