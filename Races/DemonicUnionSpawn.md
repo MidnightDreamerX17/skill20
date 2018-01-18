@@ -1,5 +1,7 @@
 # Demonic Union Spawn
 
+If they mate with mortals, their children will not inherit the demonic nature.
+
 - Vision: Infravision
 - Theoretical Lifespan: 120 years
 - Map Movement: 30 feet

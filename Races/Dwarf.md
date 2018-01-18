@@ -7,11 +7,11 @@
 - +1 Constitution
 - -1 Charisma
 
-Drinking the Strong Stuff: Dwarves apply both Strength and Constitution bonuses to all saving throws against body-altering effects such as poison, paralysis, polymorph, petrification, etc.
+Drinking the Strong Stuff - Dwarves apply both Strength and Constitution bonuses to all saving throws against body-altering effects such as poison, disease, size change, paralysis, polymorph, petrification, etc.
 
-Hard-Headed Resistance: Dwarves apply their Constitution bonus to all saving throws against magic.
+Hard-Headed Resistance - Dwarves apply their Constitution bonus to all saving throws against magic.
 
-Mountainhome Rune: Every Dwarf is associated with a unique rune. They are ageless for as long as the rune remains intact. If they unbind themself from their rune, then they have one year to bind themselves to a new one. If they go for more than a year without a Mountainhome Rune, then they start aging at the same rate as gnomes. The type of rune that a Dwarf is born with grants an extra Craft skill.
+Mountainhome Rune - Every Dwarf is associated with a unique rune. They are ageless for as long as the rune remains intact. If they unbind themself from their rune, then they have one year to bind themselves to a new one. If they go for more than a year without a Mountainhome Rune, then they start aging at the same rate as gnomes. The type of rune that a Dwarf is born with grants an extra Craft skill.
 
 - Brass Rune - Craft (INT) (Clockwork)
 - Clay Rune - Craft (INT) (Pottery)
@@ -26,4 +26,4 @@ Mountainhome Rune: Every Dwarf is associated with a unique rune. They are ageles
 - Smoke Rune - Craft (INT) (Firearms)
 - Wood Rune - Craft (INT) (Carpentry)
 
-Stonesense: Dwarves are constantly searching for secrets in stone, and are entitled to a check whenever they get near a secret door, trap, rune, or other feature that has a significant stone component.
+Stonesense - Dwarves are constantly searching for secrets in stone, and are entitled to a check whenever they get near a secret door, trap, rune, or other feature that has a significant stone component.

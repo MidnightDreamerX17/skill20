@@ -2,6 +2,8 @@
 
 Angelic Union Spawn are caused by Outsiders of Good planes mating with mortals. In some cases, they may also be produced by gods granting the wish of infertile couples. Although they are initially pushed towards the path of Good alignment, they are still mortal and therefore have free will.
 
+If they mate with mortals, the children will not inherit the angelic nature.
+
 - Vision: Infravision
 - Theoretical Lifespan: 1000 years
 - Map Movement: 30 feet

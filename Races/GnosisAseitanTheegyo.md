@@ -8,13 +8,17 @@
 - +1 Intelligence
 - -1 Wisdom
 
-Know Your Enemies: Must hate Biastis-Impetus-Anima (Bia) and Actualized Eldritch Dreamers (E-Dreamers), and have a penalty of -10 to all reactions with them.
+Know Your Enemies - Must hate Biastis-Impetus-Anima (Bia) and Actualized Eldritch Dreamers (E-Dreamers), and have a penalty of -10 to all reactions with them.
 
-Know Your Family: Allow nothing to hinder the survival of the Gnosa as a whole.
+Know Your Family - Allow nothing to hinder the survival of the Gnosa as a whole.
 
-Know Your Freedom: Do not allow anyone else to ever enslave them again. A Gnosa must also avoid being personally enslaved in any way. Obligations and duties to anything other than their own race are distressing as well, e.g. owing your life to someone or making a promise to a non-Gnosa.
+Know Your Freedom - Do not allow anyone else to ever enslave them again. A Gnosa must also avoid being personally enslaved in any way. Obligations and duties to anything other than their own race are distressing as well, e.g. owing your life to someone or making a promise to a non-Gnosa.
 
-Know Your Magic Resistance: Gnosa have an inherent Spell Resistance number equal to their Experience Level. Furthermore, in order for a Gnosa to use or equip a magic item, they must make a check to beat their own Spell Resistance + 10. On a failure, the Gnosa do not gain the magical benefits of that item, instead treating it as mundane gear. The Gnosa may choose to use a magic power skill as a penalty to their Spell Resistance for 24 hours at a time.
+Know Your Home - Gnosa are attuned to the shaping of chaos matter, live among it, and have been mutated by it. They gain a bonus of +2 to all checks relating to chaos matter.
+
+Know Your Magic Resistance - Gnosa have an inherent Spell Resistance number equal to 10 + Experience Level. Furthermore, in order for a Gnosa to use or equip a magic item, they must make a check to beat their own Spell Resistance. On a failure, the Gnosa do not gain the magical benefits of that item, instead treating it as mundane gear.
+
+The Gnosa may choose to use a magic power skill as a penalty to their Spell Resistance for 24 hours at a time. For example, if a Gnosa has Wizard Power (INT) at level 5, then they can suppress their Spell Resistance by up to 5.
 
 ## Gnosa History
 

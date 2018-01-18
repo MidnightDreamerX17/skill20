@@ -11,12 +11,12 @@
 - Natural Armor 2
 - Unusual Body Shape
 
-Cold Blooded: Lizardfolk take half damage from cold, and a bonus of +5 to resist cold.
+Cold Blooded - Lizardfolk take half damage from cold, and have a bonus of +5 to resist cold.
 
-Held Breath: Lizardfolk can hold their breath for a whole hour.
+Held Breath - Lizardfolk can hold their breath for a whole hour.
 
-Insectivorous: Lizardfolk can eat insects and other unpleasant things as if they were normal food.
+Insectivorous - Lizardfolk can eat insects and other unpleasant things as if they were normal food.
 
-Regrow Limbs: Lizardfolk slowly regrow lost limbs and tails over the course of a month.
+Regrow Limbs - Lizardfolk slowly regrow lost limbs and tails over the course of a month.
 
-Tail Whip: Lizardfolk can use their tails as a natural weapon for 1d6 impact damage.
+Tail Whip - Lizardfolk can use their tails as a natural weapon for 1d6 impact damage.
