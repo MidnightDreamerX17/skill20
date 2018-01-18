@@ -6,7 +6,21 @@
 
 **Enhanced Attribute (Specific)** - One of the character's attributes is increased by 2.
 
-**Favored Enemy Category** - The character gains a bonus of +2 for everything relating to that enemy category, including Armor Class.
+**Favored Enemy Category (Specific)** - The character gains a bonus of +2 for everything relating to that enemy category, including Armor Class. The enemy categories are:
+
+- Aberration
+- Animal
+- Construct
+- Dragon
+- Fey
+- Humanoid
+- Magical Beast
+- Monstrous Humanoid
+- Ooze
+- Outsider / Extraplanar
+- Plant
+- Undead
+- Vermin
 
 **Life Sight** - The character sees living things as having different colors from everything else.
 
