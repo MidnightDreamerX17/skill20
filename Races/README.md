@@ -31,7 +31,12 @@ Race Index:
 
 ## "Monster" Races
 
+All "monster" races have severe penalties to interactions with certain types of people. They are only recommended for campaign settings in which they would be far from the strangest things to exist.
+
 - [Ore'a'dian Goblin](/Races/OreadianGoblin.md) (equivalent to goblins)
 - [Ore'a'dian Knocker](/Races/OreadianKnocker.md) (equivalent to kobolds)
 - [Ore'a'dian Orcnea](/Races/OreadianOrcnea.md) (equivalent to orcs)
 - [Ore'a'dian Troll](/Races/OreadianTroll.md) (equivalent to trolls)
+- [Possessed Armor, Sentient](/Races/PossessedArmorSentient.md) (undead)
+- [Skeleton, Sentient](/Races/SkeletonSentient.md) (undead)
+- [Succubus / Incubus, Unbound](/Races/SuccubusIncubusUnbound.md) (demonic)

@@ -28,6 +28,8 @@ Once Theegyo society finally stabilized and was able to form a new civilization,
 
 They agreed to a truce and took their people to different planes. The followers of Therz became the Gnosis-Aseitan (Gnosa) Theegyo, while the followers of Iyanki became the Biastis-Impetus-Anima (Bia) Theegyo. The two peoples underwent rapid evolution because of the combination of teachings, natural psionic nature, planar energies in their homelands, and other such factors. It was as if their ideologies were directing their biologies towards divergent paths. Now, the Gnosa and Bia are two different races, and incompatible with each other.
 
+The main homeland of the Gnosa is a fortress-metropolis in the Chaotic-Neutral Plane, although they have spread out to all the other planes as well.
+
 ## Gnosa Cultural Alignments
 
 Good Gnosa cultures include:
