@@ -22,7 +22,7 @@
 - Undead
 - Vermin
 
-**Life Sight** - The character sees living things as having different colors from everything else.
+**Life Sight** - The character sees living things as having different colors from everything else. This gives a bonus of +4 to visually spot living creatures in a sparsely-populated environment.
 
 **Magic Domain Specialization (Specific)** - The character is strongly aligned with a specific domain of magic, causing the domain spells to be considered a lower magic circle. For example, being specialized in the Healing Domain will cause *Cure Light Wounds* to be considered a spell of the 0th circle. If a spell was already 0th-circle, then its casting time becomes a move action. The GM may rule that a character can only specialize in magic domains that are associated with their primary god.
 

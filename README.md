@@ -19,6 +19,7 @@
 
 Optional Sections:
 
+- [The Planes](/Planes)
 - [Feats](/Optional/Feats.md)
 
 ## Where to Start?
