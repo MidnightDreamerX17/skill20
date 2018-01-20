@@ -48,10 +48,12 @@ Summoning magic cannot reach beyond the Prime Material Planes. This means that:
 
 - While on the Astral or Alignment Planes - elementals can only be summoned from the Astral, Alignment, or Prime Material planes. Which is not nearly as many as live on the Elemental planes.
 - While on the Ethereal or Elemental Planes - aligned creatures such as angels and demons can only be summoned from the Prime Material, Ethereal, or Elemental planes. Which is not nearly as many as live on the Alignment planes.
-- While on the Prime Material Planes - summoning magic can pull from anywhere.
+- While on the Prime Material Planes - summoning magic can pull from anywhere. However, trying to summon from a Prime Material universe that is too different, or has had too many timeline changes, will route through the Astral Plane before aiming back at the Prime.
 
 ## Magic Items Across The Planes
 
 Magic items derive their energy from the planes they are created in. They lose one caster level, or their bonuses decrease by 1, for every planar step they are away from their origin. They cannot use portals, conduits, gates, etc. to trace their path to their origin.
 
-**Example:** A magical longsword +2 is created on a Prime Material Plane. In the Astral Plane, it functions only as +1. In an alignment plane, it functions only as "magical". While on an alignment plane, there may be a portal to the Prime Material. If someone holds the longsword up to the portal, the longsword will still only function as "magical" with no bonus. Only by passing the longsword through the portal will it function as magical +2 again.
+**Example 1:** A magical longsword +2 is created on a Prime Material Plane. In the Astral Plane, it functions only as +1. In an alignment plane, it functions only as "magical". While on an alignment plane, there may be a portal to the Prime Material. If someone holds the longsword up to the portal, the longsword will still only function as "magical" with no bonus. Only by passing the longsword through the portal will it function as magical +2 again.
+
+**Example 2:** A magical longsword +2 is created on a Prime Material Plane. In an alternate timeline with only one big change, the longsword functions as +1. In a completely different universe, or a timeline with two or more big changes, the longsword functions only as "magical" with no bonus. This is because the longsword's magical power has to route to the Astral Plane before reaching back towards the Prime.

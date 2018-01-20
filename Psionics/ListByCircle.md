@@ -41,6 +41,10 @@
 - [Hammer](/Psionics/H/Hammer.md)
 - [Inertial Armor](/Psionics/I/InertialArmor.md)
 - [Know Direction And Location](/Psionics/K/KnowDirectionAndLocation.md)
+- [Matter Agitation](/Psionics/M/MatterAgitation.md)
+- [Mind Thrust](/Psionics/M/MindThrust.md)
+- [Missive](/Psionics/M/Missive.md)
+- [My Light](/Psionics/M/MyLight.md)
 
 ## 2nd Circle
 
@@ -74,6 +78,13 @@
 - [Identify Psionic](/Psionics/I/IdentifyPsionic.md)
 - [Inflict Pain](/Psionics/I/InflictPain.md)
 - [Knock, Psionic](/Psionics/K/Knock.md)
+- [Levitate](/Psionics/L/Levitate.md)
+- [Mental Disruption](/Psionics/M/MentalDisruption.md)
+- [Metaphysical Claw](/Psionics/M/MetaphysicalClaw.md)
+- [Metaphysical Weapon](/Psionics/M/MetaphysicalWeapon.md)
+- [Mindlink](/Psionics/M/Mindlink.md)
+- [Minor Creation, Psionic](/Psionics/M/MinorCreationPsionic.md)
+- [Missive, Mass](/Psionics/M/MissiveMass.md)
 
 ## 3rd Circle
 
@@ -100,6 +111,8 @@
 - [Eradicate Invisibility](/Psionics/E/EradicateInvisibility.md)
 - [Hustle](/Psionics/H/Hustle.md)
 - [Keen Edge, Psionic](/Psionics/K/KeenEdgePsionic.md)
+- [Mental Barrier](/Psionics/M/MentalBarrier.md)
+- [Mind Trap](/Psionics/M/MindTrap.md)
 
 ## 4th Circle
 
@@ -129,6 +142,7 @@
 - [Freedom of Movement, Psionic](/Psionics/F/FreedomOfMovementPsionic.md)
 - [Graft Weapon](/Psionics/G/GraftWeapon.md)
 - [Intellect Fortress](/Psionics/I/IntellectFortress.md)
+- [Mindwipe](/Psionics/M/Mindwipe.md)
 
 ## 5th Circle
 
@@ -146,6 +160,11 @@
 - [Immovability](/Psionics/I/Immovability.md)
 - [Incarnate](/Psionics/I/Incarnate.md)
 - [Inertial Barrier](/Psionics/I/InertialBarrier.md)
+- [Leech Field](/Psionics/L/LeechField.md)
+- [Major Creation](/Psionics/M/MajorCreation.md)
+- [Metamorphosis](/Psionics/M/Metamorphosis.md)
+- [Mindlink, Thieving](/Psionics/M/MindlinkThieving.md)
+- [Modify Memory, Psionic](/Psionics/M/ModifyMemory.md)
 
 ## 6th Circle
 
@@ -161,6 +180,8 @@
 - [Energy Current](/Psionics/E/EnergyCurrent.md)
 - [Fiery Discorporation](/Psionics/F/FieryDiscorporation.md)
 - [Hail of Crystals](/Psionics/H/HailOfCrystals.md)
+- [Metaconcert](/Psionics/M/Metaconcert.md)
+- [Mind Probe](/Psionics/M/MindProbe.md)
 
 ## 7th Circle
 
@@ -176,6 +197,9 @@
 - [Form of Doom](/Psionics/F/FormOfDoom.md)
 - [Fuse Flesh](/Psionics/F/FuseFlesh.md)
 - [Insanity](/Psionics/I/Insanity.md)
+- [Mind Blank, Personal](/Psionics/M/MindBlankPersonal.md)
+- [Mind Switch](/Psionics/M/MindSwitch.md)
+- [Moment of Prescience, Psionic](/Psionics/M/MomentOfPresciencePsionic.md)
 
 ## 8th Circle
 
@@ -187,6 +211,8 @@
 - [Fate of One](/Psionics/F/FateOfOne.md)
 - [Fission](/Psionics/F/Fission.md)
 - [Iron Body, Psionic](/Psionics/I/IronBodyPsionic.md)
+- [Matter Manipulation](/Psionics/M/MatterManipulation.md)
+- [Mind Blank, Psionic](/Psionics/M/MindBlankPsionic.md)
 
 ## 9th Circle
 
@@ -197,7 +223,12 @@
 - [Etherealness, Psionic](/Psionics/E/EtherealnessPsionic.md)
 - [Fusion](/Psionics/F/Fusion.md)
 - [Hypercognition](/Psionics/H/Hypercognition.md)
+- [Microcosm](/Psionics/M/Microcosm.md)
+- [Mind Seed](/Psionics/M/MindSeed.md)
 
 ## 10th Circle
 
 - [Genesis](/Psionics/G/Genesis.md)
+- [Metafaculty](/Psionics/M/Metafaculty.md)
+- [Metamorphosis, Greater](/Psionics/M/MetamorphosisGreater.md)
+- [Mind Switch, True](/Psionics/M/MindSwitchTrue.md)

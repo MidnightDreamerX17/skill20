@@ -32,6 +32,9 @@ The psionic disciplines are as follows:
 - [Hypercognition](/Psionics/H/Hypercognition.md)
 - [Identify Psionic](/Psionics/I/IdentifyPsionic.md)
 - [Know Direction And Location](/Psionics/K/KnowDirectionAndLocation.md)
+- [Mental Barrier](/Psionics/M/MentalBarrier.md)
+- [Metafaculty](/Psionics/M/Metafaculty.md)
+- [Moment of Prescience, Psionic](/Psionics/M/MomentOfPresciencePsionic.md)
 
 ## Metacreativity
 
@@ -59,6 +62,10 @@ The psionic disciplines are as follows:
 - [Incarnate](/Psionics/I/Incarnate.md)
 - [Iron Body, Psionic](/Psionics/I/IronBodyPsionic.md)
 - [Keen Edge, Psionic](/Psionics/K/KeenEdgePsionic.md)
+- [Major Creation](/Psionics/M/MajorCreation.md)
+- [Matter Manipulation](/Psionics/M/MatterManipulation.md)
+- [Metaphysical Weapon](/Psionics/M/MetaphysicalWeapon.md)
+- [Minor Creation, Psionic](/Psionics/M/MinorCreationPsionic.md)
 
 ## Psychokinesis
 
@@ -89,7 +96,9 @@ The psionic disciplines are as follows:
 - [Inertial Armor](/Psionics/I/InertialArmor.md)
 - [Inertial Barrier](/Psionics/I/InertialBarrier.md)
 - [Intellect Fortress](/Psionics/I/IntellectFortress.md)
+- [Matter Agitation](/Psionics/M/MatterAgitation.md)
 - [Microlevitation](/Psionics/M/Microlevitation.md)
+- [My Light](/Psionics/M/MyLight.md)
 
 ## Psychometabolism
 
@@ -128,6 +137,10 @@ The psionic disciplines are as follows:
 - [Hammer](/Psionics/H/Hammer.md)
 - [Hustle](/Psionics/H/Hustle.md)
 - [Immovability](/Psionics/I/Immovability.md)
+- [Leech Field](/Psionics/L/LeechField.md)
+- [Metamorphosis](/Psionics/M/Metamorphosis.md)
+- [Metamorphosis, Greater](/Psionics/M/MetamorphosisGreater.md)
+- [Metaphysical Claw](/Psionics/M/MetaphysicalClaw.md)
 - [Self Immolation](/Psionics/S/SelfImmolation.md)
 
 ## Psychoportation
@@ -158,6 +171,7 @@ The psionic disciplines are as follows:
 - [Fly, Psionic](/Psionics/F/FlyPsionic.md)
 - [Freedom of Movement, Psionic](/Psionics/F/FreedomOfMovementPsionic.md)
 - [Knock, Psionic](/Psionics/K/Knock.md)
+- [Levitate](/Psionics/L/Levitate.md)
 
 ## Telepathy
 
@@ -194,4 +208,21 @@ The psionic disciplines are as follows:
 - [Id Insinuation](/Psionics/I/IdInsinuation.md)
 - [Inflict Pain](/Psionics/I/InflictPain.md)
 - [Insanity](/Psionics/I/Insanity.md)
+- [Mental Disruption](/Psionics/M/MentalDisruption.md)
+- [Metaconcert](/Psionics/M/Metaconcert.md)
+- [Microcosm](/Psionics/M/Microcosm.md)
+- [Mind Blank, Personal](/Psionics/M/MindBlankPersonal.md)
+- [Mind Blank, Psionic](/Psionics/M/MindBlankPsionic.md)
+- [Mind Probe](/Psionics/M/MindProbe.md)
+- [Mind Seed](/Psionics/M/MindSeed.md)
+- [Mind Switch](/Psionics/M/MindSwitch.md)
+- [Mind Switch, True](/Psionics/M/MindSwitchTrue.md)
+- [Mind Thrust](/Psionics/M/MindThrust.md)
+- [Mind Trap](/Psionics/M/MindTrap.md)
+- [Mindlink](/Psionics/M/Mindlink.md)
+- [Mindlink, Thieving](/Psionics/M/MindlinkThieving.md)
+- [Mindwipe](/Psionics/M/Mindwipe.md)
+- [Missive](/Psionics/M/Missive.md)
+- [Missive, Mass](/Psionics/M/MissiveMass.md)
+- [Modify Memory, Psionic](/Psionics/M/ModifyMemory.md)
 - [Touch Speech](/Psionics/T/TouchSpeech.md)

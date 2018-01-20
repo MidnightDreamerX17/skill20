@@ -196,9 +196,43 @@
 - [Knock, Psionic](/Psionics/K/Knock.md)
 - [Know Direction And Location](/Psionics/K/KnowDirectionAndLocation.md)
 
+## L
+
+- [Leech Field](/Psionics/L/LeechField.md)
+- [Levitate](/Psionics/L/Levitate.md)
+
 ## M
 
+- [Major Creation](/Psionics/M/MajorCreation.md)
+- [Matter Agitation](/Psionics/M/MatterAgitation.md)
+- [Matter Manipulation](/Psionics/M/MatterManipulation.md)
+- [Mental Barrier](/Psionics/M/MentalBarrier.md)
+- [Mental Disruption](/Psionics/M/MentalDisruption.md)
+- [Metaconcert](/Psionics/M/Metaconcert.md)
+- [Metafaculty](/Psionics/M/Metafaculty.md)
+- [Metamorphosis](/Psionics/M/Metamorphosis.md)
+- [Metamorphosis, Greater](/Psionics/M/MetamorphosisGreater.md)
+- [Metaphysical Claw](/Psionics/M/MetaphysicalClaw.md)
+- [Metaphysical Weapon](/Psionics/M/MetaphysicalWeapon.md)
+- [Microcosm](/Psionics/M/Microcosm.md)
 - [Microlevitation](/Psionics/M/Microlevitation.md)
+- [Mind Blank, Personal](/Psionics/M/MindBlankPersonal.md)
+- [Mind Blank, Psionic](/Psionics/M/MindBlankPsionic.md)
+- [Mind Probe](/Psionics/M/MindProbe.md)
+- [Mind Seed](/Psionics/M/MindSeed.md)
+- [Mind Switch](/Psionics/M/MindSwitch.md)
+- [Mind Switch, True](/Psionics/M/MindSwitchTrue.md)
+- [Mind Thrust](/Psionics/M/MindThrust.md)
+- [Mind Trap](/Psionics/M/MindTrap.md)
+- [Mindlink](/Psionics/M/Mindlink.md)
+- [Mindlink, Thieving](/Psionics/M/MindlinkThieving.md)
+- [Mindwipe](/Psionics/M/Mindwipe.md)
+- [Minor Creation, Psionic](/Psionics/M/MinorCreationPsionic.md)
+- [Missive](/Psionics/M/Missive.md)
+- [Missive, Mass](/Psionics/M/MissiveMass.md)
+- [Modify Memory, Psionic](/Psionics/M/ModifyMemory.md)
+- [Moment of Prescience, Psionic](/Psionics/M/MomentOfPresciencePsionic.md)
+- [My Light](/Psionics/M/MyLight.md)
 
 ## S
 

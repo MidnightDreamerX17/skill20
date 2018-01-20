@@ -23,6 +23,9 @@ The psionic categories are as follows:
 - [Fusion](/Psionics/F/Fusion.md)
 - [Hustle](/Psionics/H/Hustle.md)
 - [Iron Body, Psionic](/Psionics/I/IronBodyPsionic.md)
+- [Metamorphosis](/Psionics/M/Metamorphosis.md)
+- [Metamorphosis, Greater](/Psionics/M/MetamorphosisGreater.md)
+- [My Light](/Psionics/M/MyLight.md)
 - [Self Immolation](/Psionics/S/SelfImmolation.md)
 
 ## Kineticist
@@ -49,6 +52,7 @@ The psionic categories are as follows:
 - [Inertial Barrier](/Psionics/I/InertialBarrier.md)
 - [Intellect Fortress](/Psionics/I/IntellectFortress.md)
 - [Knock, Psionic](/Psionics/K/Knock.md)
+- [Matter Agitation](/Psionics/M/MatterAgitation.md)
 - [Microlevitation](/Psionics/M/Microlevitation.md)
 
 ## Nomad
@@ -69,6 +73,7 @@ The psionic categories are as follows:
 - [Dream Travel](/Psionics/D/DreamTravel.md)
 - [Ethereal Jaunt, Psionic](/Psionics/E/EtherealJaunt.md)
 - [Fly, Psionic](/Psionics/F/FlyPsionic.md)
+- [Levitate](/Psionics/L/Levitate.md)
 
 ## Power (cannot be specialized or opposed)
 
@@ -113,6 +118,11 @@ The psionic categories are as follows:
 - [Etherealness, Psionic](/Psionics/E/EtherealnessPsionic.md)
 - [Grease, Psionic](/Psionics/G/GreasePsionic.md)
 - [Incarnate](/Psionics/I/Incarnate.md)
+- [Leech Field](/Psionics/L/LeechField.md)
+- [Microcosm](/Psionics/M/Microcosm.md)
+- [Mind Blank, Psionic](/Psionics/M/MindBlankPsionic.md)
+- [Mind Trap](/Psionics/M/MindTrap.md)
+- [Moment of Prescience, Psionic](/Psionics/M/MomentOfPresciencePsionic.md)
 
 ## Seer
 
@@ -127,6 +137,7 @@ The psionic categories are as follows:
 - [Hypercognition](/Psionics/H/Hypercognition.md)
 - [Identify Psionic](/Psionics/I/IdentifyPsionic.md)
 - [Know Direction And Location](/Psionics/K/KnowDirectionAndLocation.md)
+- [Metafaculty](/Psionics/M/Metafaculty.md)
 
 ## Shaper
 
@@ -145,6 +156,9 @@ The psionic categories are as follows:
 - [Fuse Flesh](/Psionics/F/FuseFlesh.md)
 - [Genesis](/Psionics/G/Genesis.md)
 - [Hail of Crystals](/Psionics/H/HailOfCrystals.md)
+- [Major Creation](/Psionics/M/MajorCreation.md)
+- [Matter Manipulation](/Psionics/M/MatterManipulation.md)
+- [Minor Creation, Psionic](/Psionics/M/MinorCreationPsionic.md)
 
 ## Telepath
 
@@ -166,6 +180,19 @@ The psionic categories are as follows:
 - [Id Insinuation](/Psionics/I/IdInsinuation.md)
 - [Inflict Pain](/Psionics/I/InflictPain.md)
 - [Insanity](/Psionics/I/Insanity.md)
+- [Mental Disruption](/Psionics/M/MentalDisruption.md)
+- [Metaconcert](/Psionics/M/Metaconcert.md)
+- [Mind Probe](/Psionics/M/MindProbe.md)
+- [Mind Seed](/Psionics/M/MindSeed.md)
+- [Mind Switch](/Psionics/M/MindSwitch.md)
+- [Mind Switch, True](/Psionics/M/MindSwitchTrue.md)
+- [Mind Thrust](/Psionics/M/MindThrust.md)
+- [Mindlink](/Psionics/M/Mindlink.md)
+- [Mindlink, Thieving](/Psionics/M/MindlinkThieving.md)
+- [Mindwipe](/Psionics/M/Mindwipe.md)
+- [Missive](/Psionics/M/Missive.md)
+- [Missive, Mass](/Psionics/M/MissiveMass.md)
+- [Modify Memory, Psionic](/Psionics/M/ModifyMemory.md)
 - [Touch Speech](/Psionics/T/TouchSpeech.md)
 
 ## Warrior
@@ -203,3 +230,7 @@ The psionic categories are as follows:
 - [Immovability](/Psionics/I/Immovability.md)
 - [Inertial Armor](/Psionics/I/InertialArmor.md)
 - [Keen Edge, Psionic](/Psionics/K/KeenEdgePsionic.md)
+- [Mental Barrier](/Psionics/M/MentalBarrier.md)
+- [Metaphysical Claw](/Psionics/M/MetaphysicalClaw.md)
+- [Metaphysical Weapon](/Psionics/M/MetaphysicalWeapon.md)
+- [Mind Blank, Personal](/Psionics/M/MindBlankPersonal.md)
