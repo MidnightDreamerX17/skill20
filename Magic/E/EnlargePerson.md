@@ -9,7 +9,7 @@
 - **Map Range:** Close (25 feet + 5 feet per 2 caster levels)
 - **Target:** One humanoid creature
 - **Duration:** 1 minute per caster level (D)
-- **Saving Throw:** Fortitude negates
+- **Saving Throw:** Constitution negates
 - **Spell Resistance:** Yes
 - **Permanency Possible:** Enlarge Person
 

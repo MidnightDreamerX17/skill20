@@ -8,7 +8,7 @@
 - **Map Area:** 5-foot-radius burst
 - **Map-less Area:** One row of enemies
 - **Duration:** Instantaneous
-- **Saving Throw:** Reflex half or Fortitude half; see text
+- **Saving Throw:** Dexterity half or Constitution half; see text
 - **Power Resistance:** Yes
 - **Power Points:** 3
 
