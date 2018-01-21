@@ -1,5 +1,7 @@
 # Apopsi
 
+[Apopsi](/Psionics/A/Apopsi.md) - Circle 9, Power, Telepathy
+
 - **Circle:** 9
 - **Category:** Power
 - **Discipline:** Telepathy

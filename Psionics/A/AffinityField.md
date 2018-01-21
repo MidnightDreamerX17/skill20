@@ -1,5 +1,7 @@
 # Affinity Field
 
+[Affinity Field](/Psionics/A/AffinityField.md) - Circle 9, Power, Psychometabolism
+
 - **Circle:** 9
 - **Category:** Power
 - **Discipline:** Psychometabolism

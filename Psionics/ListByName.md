@@ -2,12 +2,12 @@
 
 ## A
 
-- [Adapt Body](/Psionics/A/AdaptBody.md)
-- [Affinity Field](/Psionics/A/AffinityField.md)
-- [Anchored Navigation](/Psionics/A/AnchoredNavigation.md)
-- [Animal Affinity](/Psionics/A/AnimalAffinity.md)
-- [Apopsi](/Psionics/A/Apopsi.md)
-- [Assimilate](/Psionics/A/Assimilate.md)
+- [Adapt Body](/Psionics/A/AdaptBody.md) - Circle 6, Warrior, Psychometabolism
+- [Affinity Field](/Psionics/A/AffinityField.md) - Circle 9, Power, Psychometabolism
+- [Anchored Navigation](/Psionics/A/AnchoredNavigation.md) - Circle 5, Seer, Clairsentience
+- [Animal Affinity](/Psionics/A/AnimalAffinity.md) - Circle 3, Warrior, Psychometabolism
+- [Apopsi](/Psionics/A/Apopsi.md) - Circle 9, Power, Telepathy
+- [Assimilate](/Psionics/A/Assimilate.md) - Circle 9, Power, Psychometabolism
 - [Astral Caravan](/Psionics/A/AstralCaravan.md)
 - [Astral Construct](/Psionics/A/AstralConstruct.md)
 - [Astral Seed](/Psionics/A/AstralSeed.md)
@@ -233,6 +233,44 @@
 - [Modify Memory, Psionic](/Psionics/M/ModifyMemory.md)
 - [Moment of Prescience, Psionic](/Psionics/M/MomentOfPresciencePsionic.md)
 - [My Light](/Psionics/M/MyLight.md)
+
+## N
+
+- [Null Psionics Field](/Psionics/N/NullPsionicsField.md)
+
+## O
+
+- [Oak Body](/Psionics/O/OakBody.md)
+- [Object Reading](/Psionics/O/ObjectReading.md)
+- [Overland Flight, Psionic](/Psionics/O/OverlandFlightPsionic.md)
+
+## P
+
+- [Painful Strike](/Psionics/P/PainfulStrike.md)
+- [Personality Parasite](/Psionics/P/PersonalityParasite.md)
+- [Phase Door, Psionic](/Psionics/P/PhaseDoorPsionic.md)
+- [Plane Shift, Psionic](/Psionics/P/PlaneShiftPsionic.md)
+- [Power Leech](/Psionics/P/PowerLeech.md)
+- [Power Resistance](/Psionics/P/PowerResistance.md)
+- [Precognition](/Psionics/P/Precognition.md)
+- [Precognition, Defensive](/Psionics/P/PrecognitionDefensive.md)
+- [Precognition, Greater](/Psionics/P/PrecognitionGreater.md)
+- [Precognition, Offensive](/Psionics/P/PrecognitionOffensive.md)
+- [Prescience, Offensive](/Psionics/P/PrescienceOffensive.md)
+- [Prevenom](/Psionics/P/Prevenom.md)
+- [Prevenom Weapon](/Psionics/P/PrevenomWeapon.md)
+- [Prowess](/Psionics/P/Prowess.md)
+- [Psionic Blast](/Psionics/P/PsionicBlast.md)
+- [Psionic Lion's Charge](/Psionics/P/PsionicLionsCharge.md)
+- [Psionic Lock](/Psionics/P/PsionicLock.md)
+- [Psionic Repair Damage](/Psionics/P/PsionicRepairDamage.md)
+- [Psionic Revivify](/Psionics/P/PsionicRevivify.md)
+- [Psionic Scent](/Psionics/P/PsionicScent.md)
+- [Psychic Chirurgery](/Psionics/P/PsychicChirurgery.md)
+- [Psychic Crush](/Psionics/P/PsychicCrush.md)
+- [Psychic Reformation](/Psionics/P/PsychicReformation.md)
+- [Psychic Vampire](/Psionics/P/PsychicVampire.md)
+- [Psychofeedback](/Psionics/P/Psychofeedback.md)
 
 ## S
 

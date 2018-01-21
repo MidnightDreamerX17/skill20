@@ -1,5 +1,7 @@
 # Adapt Body
 
+[Adapt Body](/Psionics/A/AdaptBody.md) - Circle 6, Warrior, Psychometabolism
+
 - **Circle:** 6
 - **Category:** Warrior
 - **Discipline:** Psychometabolism

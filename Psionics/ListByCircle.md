@@ -45,6 +45,11 @@
 - [Mind Thrust](/Psionics/M/MindThrust.md)
 - [Missive](/Psionics/M/Missive.md)
 - [My Light](/Psionics/M/MyLight.md)
+- [Precognition, Defensive](/Psionics/P/PrecognitionDefensive.md)
+- [Precognition, Offensive](/Psionics/P/PrecognitionOffensive.md)
+- [Prescience, Offensive](/Psionics/P/PrescienceOffensive.md)
+- [Prevenom](/Psionics/P/Prevenom.md)
+- [Prevenom Weapon](/Psionics/P/PrevenomWeapon.md)
 
 ## 2nd Circle
 
@@ -85,10 +90,12 @@
 - [Mindlink](/Psionics/M/Mindlink.md)
 - [Minor Creation, Psionic](/Psionics/M/MinorCreationPsionic.md)
 - [Missive, Mass](/Psionics/M/MissiveMass.md)
+- [Precognition](/Psionics/P/Precognition.md)
+- [Psionic Lock](/Psionics/P/PsionicLock.md)
 
 ## 3rd Circle
 
-- [Animal Affinity](/Psionics/A/AnimalAffinity.md)
+- [Animal Affinity](/Psionics/A/AnimalAffinity.md) - Circle 3, Warrior, Psychometabolism
 - [Aversion](/Psionics/A/Aversion.md)
 - [Body Adjustment](/Psionics/B/BodyAdjustment.md)
 - [Body Purification](/Psionics/B/BodyPurification.md)
@@ -113,6 +120,13 @@
 - [Keen Edge, Psionic](/Psionics/K/KeenEdgePsionic.md)
 - [Mental Barrier](/Psionics/M/MentalBarrier.md)
 - [Mind Trap](/Psionics/M/MindTrap.md)
+- [Object Reading](/Psionics/O/ObjectReading.md)
+- [Painful Strike](/Psionics/P/PainfulStrike.md)
+- [Prowess](/Psionics/P/Prowess.md)
+- [Psionic Blast](/Psionics/P/PsionicBlast.md)
+- [Psionic Lion's Charge](/Psionics/P/PsionicLionsCharge.md)
+- [Psionic Repair Damage](/Psionics/P/PsionicRepairDamage.md)
+- [Psionic Scent](/Psionics/P/PsionicScent.md)
 
 ## 4th Circle
 
@@ -143,10 +157,13 @@
 - [Graft Weapon](/Psionics/G/GraftWeapon.md)
 - [Intellect Fortress](/Psionics/I/IntellectFortress.md)
 - [Mindwipe](/Psionics/M/Mindwipe.md)
+- [Personality Parasite](/Psionics/P/PersonalityParasite.md)
+- [Power Leech](/Psionics/P/PowerLeech.md)
+- [Psychic Reformation](/Psionics/P/PsychicReformation.md)
 
 ## 5th Circle
 
-- [Anchored Navigation](/Psionics/A/AnchoredNavigation.md)
+- [Anchored Navigation](/Psionics/A/AnchoredNavigation.md) - Circle 5, Seer, Clairsentience
 - [Catapsi](/Psionics/C/Catapsi.md)
 - [Claw of Energy](/Psionics/C/ClawOfEnergy.md)
 - [Control Body](/Psionics/C/ControlBody.md)
@@ -165,10 +182,14 @@
 - [Metamorphosis](/Psionics/M/Metamorphosis.md)
 - [Mindlink, Thieving](/Psionics/M/MindlinkThieving.md)
 - [Modify Memory, Psionic](/Psionics/M/ModifyMemory.md)
+- [Plane Shift, Psionic](/Psionics/P/PlaneShiftPsionic.md)
+- [Power Resistance](/Psionics/P/PowerResistance.md)
+- [Psychic Crush](/Psionics/P/PsychicCrush.md)
+- [Psychic Vampire](/Psionics/P/PsychicVampire.md)
 
 ## 6th Circle
 
-- [Adapt Body](/Psionics/A/AdaptBody.md)
+- [Adapt Body](/Psionics/A/AdaptBody.md) - Circle 6, Warrior, Psychometabolism
 - [Aura Alteration](/Psionics/A/AuralAlteration.md)
 - [Baleful Teleport](/Psionics/B/BalefulTeleport.md)
 - [Breath of the Black Dragon](/Psionics/B/BreathOfTheBlackDragon.md)
@@ -182,6 +203,10 @@
 - [Hail of Crystals](/Psionics/H/HailOfCrystals.md)
 - [Metaconcert](/Psionics/M/Metaconcert.md)
 - [Mind Probe](/Psionics/M/MindProbe.md)
+- [Oak Body](/Psionics/O/OakBody.md)
+- [Overland Flight, Psionic](/Psionics/O/OverlandFlightPsionic.md)
+- [Psionic Revivify](/Psionics/P/PsionicRevivify.md)
+- [Psychofeedback](/Psionics/P/Psychofeedback.md)
 
 ## 7th Circle
 
@@ -200,6 +225,9 @@
 - [Mind Blank, Personal](/Psionics/M/MindBlankPersonal.md)
 - [Mind Switch](/Psionics/M/MindSwitch.md)
 - [Moment of Prescience, Psionic](/Psionics/M/MomentOfPresciencePsionic.md)
+- [Null Psionics Field](/Psionics/N/NullPsionicsField.md)
+- [Phase Door, Psionic](/Psionics/P/PhaseDoorPsionic.md)
+- [Precognition, Greater](/Psionics/P/PrecognitionGreater.md)
 
 ## 8th Circle
 
@@ -216,9 +244,9 @@
 
 ## 9th Circle
 
-- [Affinity Field](/Psionics/A/AffinityField.md)
-- [Apopsi](/Psionics/A/Apopsi.md)
-- [Assimilate](/Psionics/A/Assimilate.md)
+- [Affinity Field](/Psionics/A/AffinityField.md) - Circle 9, Power, Psychometabolism
+- [Apopsi](/Psionics/A/Apopsi.md) - Circle 9, Power, Telepathy
+- [Assimilate](/Psionics/A/Assimilate.md) - Circle 9, Power, Psychometabolism
 - [Astral Seed](/Psionics/A/AstralSeed.md)
 - [Etherealness, Psionic](/Psionics/E/EtherealnessPsionic.md)
 - [Fusion](/Psionics/F/Fusion.md)
@@ -232,3 +260,4 @@
 - [Metafaculty](/Psionics/M/Metafaculty.md)
 - [Metamorphosis, Greater](/Psionics/M/MetamorphosisGreater.md)
 - [Mind Switch, True](/Psionics/M/MindSwitchTrue.md)
+- [Psychic Chirurgery](/Psionics/P/PsychicChirurgery.md)

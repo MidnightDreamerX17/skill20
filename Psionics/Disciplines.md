@@ -11,7 +11,7 @@ The psionic disciplines are as follows:
 
 ## Clairsentience
 
-- [Anchored Navigation](/Psionics/A/AnchoredNavigation.md)
+- [Anchored Navigation](/Psionics/A/AnchoredNavigation.md) - Circle 5, Seer, Clairsentience
 - [Aura Sight](/Psionics/A/AuraSight.md)
 - [Bend Reality](/Psionics/B/BendReality.md)
 - [Clairtangent Hand](/Psionics/C/ClairtangentHand.md)
@@ -35,6 +35,14 @@ The psionic disciplines are as follows:
 - [Mental Barrier](/Psionics/M/MentalBarrier.md)
 - [Metafaculty](/Psionics/M/Metafaculty.md)
 - [Moment of Prescience, Psionic](/Psionics/M/MomentOfPresciencePsionic.md)
+- [Object Reading](/Psionics/O/ObjectReading.md)
+- [Power Resistance](/Psionics/P/PowerResistance.md)
+- [Precognition](/Psionics/P/Precognition.md)
+- [Precognition, Defensive](/Psionics/P/PrecognitionDefensive.md)
+- [Precognition, Greater](/Psionics/P/PrecognitionGreater.md)
+- [Precognition, Offensive](/Psionics/P/PrecognitionOffensive.md)
+- [Prescience, Offensive](/Psionics/P/PrescienceOffensive.md)
+- [Prowess](/Psionics/P/Prowess.md)
 
 ## Metacreativity
 
@@ -66,6 +74,7 @@ The psionic disciplines are as follows:
 - [Matter Manipulation](/Psionics/M/MatterManipulation.md)
 - [Metaphysical Weapon](/Psionics/M/MetaphysicalWeapon.md)
 - [Minor Creation, Psionic](/Psionics/M/MinorCreationPsionic.md)
+- [Psionic Repair Damage](/Psionics/P/PsionicRepairDamage.md)
 
 ## Psychokinesis
 
@@ -99,13 +108,14 @@ The psionic disciplines are as follows:
 - [Matter Agitation](/Psionics/M/MatterAgitation.md)
 - [Microlevitation](/Psionics/M/Microlevitation.md)
 - [My Light](/Psionics/M/MyLight.md)
+- [Null Psionics Field](/Psionics/N/NullPsionicsField.md)
 
 ## Psychometabolism
 
-- [Adapt Body](/Psionics/A/AdaptBody.md)
-- [Affinity Field](/Psionics/A/AffinityField.md)
-- [Animal Affinity](/Psionics/A/AnimalAffinity.md)
-- [Assimilate](/Psionics/A/Assimilate.md)
+- [Adapt Body](/Psionics/A/AdaptBody.md) - Circle 6, Warrior, Psychometabolism
+- [Affinity Field](/Psionics/A/AffinityField.md) - Circle 9, Power, Psychometabolism
+- [Animal Affinity](/Psionics/A/AnimalAffinity.md) - Circle 3, Warrior, Psychometabolism
+- [Assimilate](/Psionics/A/Assimilate.md) - Circle 9, Power, Psychometabolism
 - [Biofeedback](/Psionics/B/Biofeedback.md)
 - [Bite of the Wolf](/Psionics/B/BiteOfTheWolf.md)
 - [Body Adjustment](/Psionics/B/BodyAdjustment.md)
@@ -141,6 +151,15 @@ The psionic disciplines are as follows:
 - [Metamorphosis](/Psionics/M/Metamorphosis.md)
 - [Metamorphosis, Greater](/Psionics/M/MetamorphosisGreater.md)
 - [Metaphysical Claw](/Psionics/M/MetaphysicalClaw.md)
+- [Oak Body](/Psionics/O/OakBody.md)
+- [Painful Strike](/Psionics/P/PainfulStrike.md)
+- [Prevenom](/Psionics/P/Prevenom.md)
+- [Prevenom Weapon](/Psionics/P/PrevenomWeapon.md)
+- [Psionic Lion's Charge](/Psionics/P/PsionicLionsCharge.md)
+- [Psionic Revivify](/Psionics/P/PsionicRevivify.md)
+- [Psionic Scent](/Psionics/P/PsionicScent.md)
+- [Psychic Vampire](/Psionics/P/PsychicVampire.md)
+- [Psychofeedback](/Psionics/P/Psychofeedback.md)
 - [Self Immolation](/Psionics/S/SelfImmolation.md)
 
 ## Psychoportation
@@ -172,10 +191,14 @@ The psionic disciplines are as follows:
 - [Freedom of Movement, Psionic](/Psionics/F/FreedomOfMovementPsionic.md)
 - [Knock, Psionic](/Psionics/K/Knock.md)
 - [Levitate, Psionic](/Psionics/L/LevitatePsionic.md)
+- [Overland Flight, Psionic](/Psionics/O/OverlandFlightPsionic.md)
+- [Phase Door, Psionic](/Psionics/P/PhaseDoorPsionic.md)
+- [Plane Shift, Psionic](/Psionics/P/PlaneShiftPsionic.md)
+- [Psionic Lock](/Psionics/P/PsionicLock.md)
 
 ## Telepathy
 
-- [Apopsi](/Psionics/A/Apopsi.md)
+- [Apopsi](/Psionics/A/Apopsi.md) - Circle 9, Power, Telepathy
 - [Attraction](/Psionics/A/Attraction.md)
 - [Aura Alteration](/Psionics/A/AuralAlteration.md)
 - [Aversion](/Psionics/A/Aversion.md)
@@ -225,4 +248,10 @@ The psionic disciplines are as follows:
 - [Missive](/Psionics/M/Missive.md)
 - [Missive, Mass](/Psionics/M/MissiveMass.md)
 - [Modify Memory, Psionic](/Psionics/M/ModifyMemory.md)
+- [Personality Parasite](/Psionics/P/PersonalityParasite.md)
+- [Power Leech](/Psionics/P/PowerLeech.md)
+- [Psionic Blast](/Psionics/P/PsionicBlast.md)
+- [Psychic Chirurgery](/Psionics/P/PsychicChirurgery.md)
+- [Psychic Crush](/Psionics/P/PsychicCrush.md)
+- [Psychic Reformation](/Psionics/P/PsychicReformation.md)
 - [Touch Speech](/Psionics/T/TouchSpeech.md)

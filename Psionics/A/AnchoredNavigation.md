@@ -1,5 +1,7 @@
 # Anchored Navigation
 
+[Anchored Navigation](/Psionics/A/AnchoredNavigation.md) - Circle 5, Seer, Clairsentience
+
 - **Circle:** 5
 - **Category:** Seer
 - **Discipline:** Clairsentience

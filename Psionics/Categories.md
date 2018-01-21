@@ -26,6 +26,10 @@ The psionic categories are as follows:
 - [Metamorphosis](/Psionics/M/Metamorphosis.md)
 - [Metamorphosis, Greater](/Psionics/M/MetamorphosisGreater.md)
 - [My Light](/Psionics/M/MyLight.md)
+- [Psionic Revivify](/Psionics/P/PsionicRevivify.md)
+- [Psychic Reformation](/Psionics/P/PsychicReformation.md)
+- [Psychic Vampire](/Psionics/P/PsychicVampire.md)
+- [Psychofeedback](/Psionics/P/Psychofeedback.md)
 - [Self Immolation](/Psionics/S/SelfImmolation.md)
 
 ## Kineticist
@@ -54,6 +58,7 @@ The psionic categories are as follows:
 - [Knock, Psionic](/Psionics/K/Knock.md)
 - [Matter Agitation](/Psionics/M/MatterAgitation.md)
 - [Microlevitation](/Psionics/M/Microlevitation.md)
+- [Null Psionics Field](/Psionics/N/NullPsionicsField.md)
 
 ## Nomad
 
@@ -74,12 +79,15 @@ The psionic categories are as follows:
 - [Ethereal Jaunt, Psionic](/Psionics/E/EtherealJaunt.md)
 - [Fly, Psionic](/Psionics/F/FlyPsionic.md)
 - [Levitate, Psionic](/Psionics/L/LevitatePsionic.md)
+- [Overland Flight, Psionic](/Psionics/O/OverlandFlightPsionic.md)
+- [Phase Door, Psionic](/Psionics/P/PhaseDoorPsionic.md)
+- [Plane Shift, Psionic](/Psionics/P/PlaneShiftPsionic.md)
 
 ## Power (cannot be specialized or opposed)
 
-- [Affinity Field](/Psionics/A/AffinityField.md)
-- [Apopsi](/Psionics/A/Apopsi.md)
-- [Assimilate](/Psionics/A/Assimilate.md)
+- [Affinity Field](/Psionics/A/AffinityField.md) - Circle 9, Power, Psychometabolism
+- [Apopsi](/Psionics/A/Apopsi.md) - Circle 9, Power, Telepathy
+- [Assimilate](/Psionics/A/Assimilate.md) - Circle 9, Power, Psychometabolism
 - [Aura Alteration](/Psionics/A/AuralAlteration.md)
 - [Aura Sight](/Psionics/A/AuraSight.md)
 - [Bend Reality](/Psionics/B/BendReality.md)
@@ -123,10 +131,14 @@ The psionic categories are as follows:
 - [Mind Blank, Psionic](/Psionics/M/MindBlankPsionic.md)
 - [Mind Trap](/Psionics/M/MindTrap.md)
 - [Moment of Prescience, Psionic](/Psionics/M/MomentOfPresciencePsionic.md)
+- [Personality Parasite](/Psionics/P/PersonalityParasite.md)
+- [Power Leech](/Psionics/P/PowerLeech.md)
+- [Power Resistance](/Psionics/P/PowerResistance.md)
+- [Psychic Crush](/Psionics/P/PsychicCrush.md)
 
 ## Seer
 
-- [Anchored Navigation](/Psionics/A/AnchoredNavigation.md)
+- [Anchored Navigation](/Psionics/A/AnchoredNavigation.md) - Circle 5, Seer, Clairsentience
 - [Clairtangent Hand](/Psionics/C/ClairtangentHand.md)
 - [Clairvoyant Sense](/Psionics/C/ClairvoyantSense)
 - [Destiny Dissonance](/Psionics/D/DestinyDissonance.md)
@@ -138,6 +150,9 @@ The psionic categories are as follows:
 - [Identify Psionic](/Psionics/I/IdentifyPsionic.md)
 - [Know Direction And Location](/Psionics/K/KnowDirectionAndLocation.md)
 - [Metafaculty](/Psionics/M/Metafaculty.md)
+- [Object Reading](/Psionics/O/ObjectReading.md)
+- [Precognition](/Psionics/P/Precognition.md)
+- [Precognition, Greater](/Psionics/P/PrecognitionGreater.md)
 
 ## Shaper
 
@@ -159,6 +174,8 @@ The psionic categories are as follows:
 - [Major Creation](/Psionics/M/MajorCreation.md)
 - [Matter Manipulation](/Psionics/M/MatterManipulation.md)
 - [Minor Creation, Psionic](/Psionics/M/MinorCreationPsionic.md)
+- [Psionic Lock](/Psionics/P/PsionicLock.md)
+- [Psionic Repair Damage](/Psionics/P/PsionicRepairDamage.md)
 
 ## Telepath
 
@@ -193,12 +210,14 @@ The psionic categories are as follows:
 - [Missive](/Psionics/M/Missive.md)
 - [Missive, Mass](/Psionics/M/MissiveMass.md)
 - [Modify Memory, Psionic](/Psionics/M/ModifyMemory.md)
+- [Psionic Blast](/Psionics/P/PsionicBlast.md)
+- [Psychic Chirurgery](/Psionics/P/PsychicChirurgery.md)
 - [Touch Speech](/Psionics/T/TouchSpeech.md)
 
 ## Warrior
 
-- [Adapt Body](/Psionics/A/AdaptBody.md)
-- [Animal Affinity](/Psionics/A/AnimalAffinity.md)
+- [Adapt Body](/Psionics/A/AdaptBody.md) - Circle 6, Warrior, Psychometabolism
+- [Animal Affinity](/Psionics/A/AnimalAffinity.md) - Circle 3, Warrior, Psychometabolism
 - [Biofeedback](/Psionics/B/Biofeedback.md)
 - [Bite of the Wolf](/Psionics/B/BiteOfTheWolf.md)
 - [Body Adjustment](/Psionics/B/BodyAdjustment.md)
@@ -234,3 +253,13 @@ The psionic categories are as follows:
 - [Metaphysical Claw](/Psionics/M/MetaphysicalClaw.md)
 - [Metaphysical Weapon](/Psionics/M/MetaphysicalWeapon.md)
 - [Mind Blank, Personal](/Psionics/M/MindBlankPersonal.md)
+- [Oak Body](/Psionics/O/OakBody.md)
+- [Painful Strike](/Psionics/P/PainfulStrike.md)
+- [Precognition, Defensive](/Psionics/P/PrecognitionDefensive.md)
+- [Precognition, Offensive](/Psionics/P/PrecognitionOffensive.md)
+- [Prescience, Offensive](/Psionics/P/PrescienceOffensive.md)
+- [Prevenom](/Psionics/P/Prevenom.md)
+- [Prevenom Weapon](/Psionics/P/PrevenomWeapon.md)
+- [Prowess](/Psionics/P/Prowess.md)
+- [Psionic Lion's Charge](/Psionics/P/PsionicLionsCharge.md)
+- [Psionic Scent](/Psionics/P/PsionicScent.md)
