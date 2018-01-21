@@ -199,7 +199,7 @@
 ## L
 
 - [Leech Field](/Psionics/L/LeechField.md)
-- [Levitate](/Psionics/L/Levitate.md)
+- [Levitate, Psionic](/Psionics/L/LevitatePsionic.md)
 
 ## M
 

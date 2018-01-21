@@ -78,7 +78,7 @@
 - [Identify Psionic](/Psionics/I/IdentifyPsionic.md)
 - [Inflict Pain](/Psionics/I/InflictPain.md)
 - [Knock, Psionic](/Psionics/K/Knock.md)
-- [Levitate](/Psionics/L/Levitate.md)
+- [Levitate, Psionic](/Psionics/L/LevitatePsionic.md)
 - [Mental Disruption](/Psionics/M/MentalDisruption.md)
 - [Metaphysical Claw](/Psionics/M/MetaphysicalClaw.md)
 - [Metaphysical Weapon](/Psionics/M/MetaphysicalWeapon.md)

@@ -171,7 +171,7 @@ The psionic disciplines are as follows:
 - [Fly, Psionic](/Psionics/F/FlyPsionic.md)
 - [Freedom of Movement, Psionic](/Psionics/F/FreedomOfMovementPsionic.md)
 - [Knock, Psionic](/Psionics/K/Knock.md)
-- [Levitate](/Psionics/L/Levitate.md)
+- [Levitate, Psionic](/Psionics/L/LevitatePsionic.md)
 
 ## Telepathy
 

@@ -73,7 +73,7 @@ The psionic categories are as follows:
 - [Dream Travel](/Psionics/D/DreamTravel.md)
 - [Ethereal Jaunt, Psionic](/Psionics/E/EtherealJaunt.md)
 - [Fly, Psionic](/Psionics/F/FlyPsionic.md)
-- [Levitate](/Psionics/L/Levitate.md)
+- [Levitate, Psionic](/Psionics/L/LevitatePsionic.md)
 
 ## Power (cannot be specialized or opposed)
 
