@@ -1,5 +1,7 @@
 # Baleful Teleport
 
+[Baleful Teleport](/Psionics/B/BalefulTeleport.md) - Circle 6, Nomad, Psychoportation
+
 - **Circle:** 6
 - **Category:** Nomad
 - **Discipline:** Psychoportation

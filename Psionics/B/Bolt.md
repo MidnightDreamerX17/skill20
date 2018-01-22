@@ -1,5 +1,7 @@
 # Bolt
 
+[Bolt](/Psionics/B/Bolt.md) - Circle 1, Shaper, Metacreativity
+
 - **Circle:** 1
 - **Category:** Shaper
 - **Discipline:** Metacreativity

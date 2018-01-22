@@ -1,5 +1,7 @@
 # Bestow Power
 
+[Bestow Power](/Psionics/B/BestowPower.md) - Circle 2, Power, Telepathy
+
 - **Circle:** 2
 - **Category:** Power
 - **Discipline:** Telepathy

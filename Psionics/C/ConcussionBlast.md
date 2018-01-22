@@ -1,5 +1,7 @@
 # Concussion Blast
 
+[Concussion Blast](/Psionics/C/ConcussionBlast.md) - Circle 2, Kineticist, Psychokinesis
+
 - **Circle:** 2
 - **Category:** Kineticist
 - **Discipline:** Psychokinesis

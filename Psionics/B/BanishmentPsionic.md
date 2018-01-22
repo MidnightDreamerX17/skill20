@@ -1,5 +1,7 @@
 # Banishment, Psionic
 
+[Banishment, Psionic](/Psionics/B/BanishmentPsionic.md) - Circle 7, Nomad, Psychoportation
+
 - **Circle:** 7
 - **Category:** Nomad
 - **Discipline:** Psychoportation

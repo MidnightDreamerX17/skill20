@@ -1,5 +1,7 @@
 # Burst
 
+[Burst](/Psionics/B/Burst.md) - Circle 2, Nomad, Psychoportation
+
 - **Circle:** 2
 - **Category:** Nomad
 - **Discipline:** Psychoportation

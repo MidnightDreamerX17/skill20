@@ -1,5 +1,7 @@
 # Body Equilibrium
 
+[Body Equilibrium](/Psionics/B/BodyEquilibrium.md) - Circle 2, Warrior, Psychometabolism
+
 - **Circle:** 2
 - **Category:** Warrior
 - **Discipline:** Psychometabolism

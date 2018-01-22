@@ -174,6 +174,10 @@ Since you don’t need to hit a specific target, you can simply aim at a particu
 | Tool, Masterwork | 50.00
 | Water Clock | 1,000.00
 
+Healing / Healer's Kits can be used to restore a number of hit points equal to the target's Constitution score. However, this requires an extended check with a difficulty of 100, and a time scale of 1 hour per roll.
+
+Masterwork tools generally give a bonus of +1, if the user has a skill level of at least 5.
+
 ## Vehicles
 
 | Vehicle | Cost |

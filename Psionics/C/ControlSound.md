@@ -1,5 +1,7 @@
 # Control Sound
 
+[Control Sound](/Psionics/C/ControlSound.md) - Circle 2, Power, Psychokinesis
+
 - **Circle:** 2
 - **Category:** Power
 - **Discipline:** Psychokinesis

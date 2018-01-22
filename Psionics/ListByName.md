@@ -20,55 +20,55 @@
 
 ## B
 
-- [Baleful Teleport](/Psionics/B/BalefulTeleport.md)
-- [Banishment, Psionic](/Psionics/B/BanishmentPsionic.md)
-- [Bend Reality](/Psionics/B/BendReality.md)
-- [Bestow Power](/Psionics/B/BestowPower.md)
-- [Biofeedback](/Psionics/B/Biofeedback.md)
-- [Bite of the Wolf](/Psionics/B/BiteOfTheWolf.md)
-- [Body Adjustment](/Psionics/B/BodyAdjustment.md)
-- [Body Equilibrium](/Psionics/B/BodyEquilibrium.md)
-- [Body Purification](/Psionics/B/BodyPurification.md)
-- [Bolt](/Psionics/B/Bolt.md)
-- [Brain Lock](/Psionics/B/BrainLock.md)
-- [Breath of the Black Dragon](/Psionics/B/BreathOfTheBlackDragon.md)
-- [Burst](/Psionics/B/Burst.md)
+- [Baleful Teleport](/Psionics/B/BalefulTeleport.md) - Circle 6, Nomad, Psychoportation
+- [Banishment, Psionic](/Psionics/B/BanishmentPsionic.md) - Circle 7, Nomad, Psychoportation
+- [Bend Reality](/Psionics/B/BendReality.md) - Circle 8, Power, Clairsentience
+- [Bestow Power](/Psionics/B/BestowPower.md) - Circle 2, Power, Telepathy
+- [Biofeedback](/Psionics/B/Biofeedback.md) - Circle 2, Warrior, Psychometabolism
+- [Bite of the Wolf](/Psionics/B/BiteOfTheWolf.md) - Circle 2, Warrior, Psychometabolism
+- [Body Adjustment](/Psionics/B/BodyAdjustment.md) - Circle 3, Warrior, Psychometabolism
+- [Body Equilibrium](/Psionics/B/BodyEquilibrium.md) - Circle 2, Warrior, Psychometabolism
+- [Body Purification](/Psionics/B/BodyPurification.md) - Circle 3, Warrior, Psychometabolism
+- [Bolt](/Psionics/B/Bolt.md) - Circle 1, Shaper, Metacreativity
+- [Brain Lock](/Psionics/B/BrainLock.md) - Circle 3, Telepath, Telepathy
+- [Breath of the Black Dragon](/Psionics/B/BreathOfTheBlackDragon.md) - Circle 6, Warrior, Psychometabolism
+- [Burst](/Psionics/B/Burst.md) - Circle 2, Nomad, Psychoportation
 
 ## C
 
-- [Call to Mind](/Psionics/C/CallToMind.md)
-- [Call Weaponry](/Psionics/C/CallWeaponry.md)
-- [Catapsi](/Psionics/C/Catapsi.md)
-- [Catfall](/Psionics/C/Catfall.md)
-- [Chameleon](/Psionics/C/Chameleon.md)
-- [Charm, Psionic](/Psionics/C/CharmPsionic.md)
-- [Clairtangent Hand](/Psionics/C/ClairtangentHand.md)
-- [Clairvoyant Sense](/Psionics/C/ClairvoyantSense)
-- [Claw of Energy](/Psionics/C/ClawOfEnergy.md)
-- [Claws of the Beast](/Psionics/C/ClawsOfTheBeast)
-- [Claws of the Vampire](/Psionics/C/ClawsOfTheVampire.md)
-- [Clay Figurine](/Psionics/C/ClayFigurine.md)
-- [Cloud Mind](/Psionics/C/CloudMind.md)
-- [Cloud Mind, Mass](/Psionics/C/CloudMindMass.md)
-- [Compression](/Psionics/C/Compression.md)
-- [Conceal Thoughts](/Psionics/C/ConcealThoughts.md)
-- [Concealing Amorpha](/Psionics/C/ConcealingAmorpha.md)
-- [Concealing Amorpha, Greater](/Psionics/C/ConcealingAmorphaGreater.md)
-- [Concussion Blast](/Psionics/C/ConcussionBlast.md)
-- [Contingency, Psionic](/Psionics/C/ContingencyPsionic.md)
-- [Control Air](/Psionics/C/ControlAir.md)
-- [Control Body](/Psionics/C/ControlBody.md)
-- [Control Flames](/Psionics/C/ControlFlames.md)
-- [Control Light](/Psionics/C/ControlLight.md)
-- [Control Object](/Psionics/C/ControlObject.md)
-- [Control Sound](/Psionics/C/ControlSound.md)
-- [Co-Opt Concentration](/Psionics/C/CoOptConcentration.md)
-- [Correspond](/Psionics/C/Correspond.md)
-- [Create Sound](/Psionics/C/CreateSound.md)
-- [Crisis Of Breath](/Psionics/C/CrisisOfBreath.md)
-- [Crisis of Life](/Psionics/C/CrisisOfLife.md)
-- [Crystal Shard](/Psionics/C/CrystalShard.md)
-- [Crystallize](/Psionics/C/Crystallize.md)
+- [Call to Mind](/Psionics/C/CallToMind.md) - Circle 1, Power, Telepathy
+- [Call Weaponry](/Psionics/C/CallWeaponry.md) - Circle 2, Warrior, Psychoportation
+- [Catapsi](/Psionics/C/Catapsi.md) - Circle 5, Warrior, Telepathy
+- [Catfall](/Psionics/C/Catfall.md) - Circle 1, Warrior, Psychoportation
+- [Chameleon](/Psionics/C/Chameleon.md) - Circle 2, Egoist, Psychometabolism
+- [Charm, Psionic](/Psionics/C/CharmPsionic.md) - Circle 2, Telepath, Telepathy
+- [Clairtangent Hand](/Psionics/C/ClairtangentHand.md) - Circle 6, Seer, Clairsentience
+- [Clairvoyant Sense](/Psionics/C/ClairvoyantSense.md) - Circle 3, Seer, Clairsentience
+- [Claw of Energy](/Psionics/C/ClawOfEnergy.md) - Circle 5, Warrior, Psychokinesis
+- [Claws of the Beast](/Psionics/C/ClawsOfTheBeast.md) - Circle 2, Warrior, Psychometabolism
+- [Claws of the Vampire](/Psionics/C/ClawsOfTheVampire.md) - Circle 4, Warrior, Psychometabolism
+- [Clay Figurine](/Psionics/C/ClayFigurine.md) - Circle 0, Shaper, Metacreativity
+- [Cloud Mind](/Psionics/C/CloudMind.md) - Circle 2, Telepath, Telepathy
+- [Cloud Mind, Mass](/Psionics/C/CloudMindMass.md) - Circle 6, Telepath, Telepathy
+- [Compression](/Psionics/C/Compression.md) - Circle 2, Warrior, Psychometabolism
+- [Conceal Thoughts](/Psionics/C/ConcealThoughts.md) - Circle 1, Power, Telepathy
+- [Concealing Amorpha](/Psionics/C/ConcealingAmorpha.md) - Circle 2, Shaper, Metacreativity
+- [Concealing Amorpha, Greater](/Psionics/C/ConcealingAmorphaGreater.md) - Circle 4, Shaper, Metacreativity
+- [Concussion Blast](/Psionics/C/ConcussionBlast.md) - Circle 2, Kineticist, Psychokinesis
+- [Contingency, Psionic](/Psionics/C/ContingencyPsionic.md) - Circle 6, Power, Clairsentience
+- [Control Air](/Psionics/C/ControlAir.md) - Circle 3, Kineticist, Psychokinesis
+- [Control Body](/Psionics/C/ControlBody.md) - Circle 5, Kineticist, Psychokinesis
+- [Control Flames](/Psionics/C/ControlFlames.md) - Circle 1, Kineticist, Psychokinesis
+- [Control Light](/Psionics/C/ControlLight.md) - Circle 1, Power, Psychokinesis
+- [Control Object](/Psionics/C/ControlObject.md) - Circle 2, Kineticist, Psychokinesis
+- [Control Sound](/Psionics/C/ControlSound.md) - Circle 2, Power, Psychokinesis
+- [Co-Opt Concentration](/Psionics/C/CoOptConcentration.md) - Circle 6, Power, Telepathy
+- [Correspond](/Psionics/C/Correspond.md) - Circle 4, Telepath, Telepathy
+- [Create Sound](/Psionics/C/CreateSound.md) - Circle 1, Power, Metacreativity
+- [Crisis of Breath](/Psionics/C/CrisisOfBreath.md) - Circle 4, Telepath, Telepathy
+- [Crisis of Life](/Psionics/C/CrisisOfLife.md) - Circle 8, Telepath, Telepathy
+- [Crystal Shard](/Psionics/C/CrystalShard.md) - Circle 1, Shaper, Metacreativity
+- [Crystallize](/Psionics/C/Crystallize.md) - Circle 7, Shaper, Metacreativity
 
 ## D
 
@@ -233,6 +233,7 @@
 - [Missive, Mass](/Psionics/M/MissiveMass.md)
 - [Modify Memory, Psionic](/Psionics/M/ModifyMemory.md)
 - [Moment of Prescience, Psionic](/Psionics/M/MomentOfPresciencePsionic.md)
+- [Motion Adaptation](/Psionics/M/MotionAdaptation.md) - Circle 0, Nomad, Psychoportation
 - [My Light](/Psionics/M/MyLight.md)
 
 ## N
@@ -276,6 +277,7 @@
 ## S
 
 - [Self Immolation](/Psionics/S/SelfImmolation.md)
+- [Smudge Skin](/Psionics/S/SmudgeSkin.md) - Circle 0, Egoist, Psychometabolism
 
 ## T
 

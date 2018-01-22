@@ -8,7 +8,7 @@
 - **Divine Focus:** Yes
 - **Map Range:** Close (25 feet + 5 feet per 2 caster levels)
 - **Effect:** One summoned creature
-- **Duration:** 1 round per caster level (D)
+- **Duration:** 1 minute (6 rounds) per caster level (D)
 - **Saving Throw:** None
 - **Spell Resistance:** No
 
@@ -29,3 +29,7 @@ The spell conjures a creature with 1 experience level, examples of which are giv
 - Porpoise (animal) - May be summoned only into an aquatic or watery environment
 - Snake, Small viper (animal)
 - Wolf (animal)
+
+If the details of the desired monster type are not available in any book whatsoever, then the defaults are as follows:
+
+It has an Armor Class of 12, 6+1d6 Hit Points, and a natural weapon dealing 1d6 damage. It has a bonus of +2 to some specific types of perception and athletics.

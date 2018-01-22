@@ -13,7 +13,7 @@ The psionic categories are as follows:
 
 ## Egoist
 
-- [Chameleon](/Psionics/C/Chameleon.md)
+- [Chameleon](/Psionics/C/Chameleon.md) - Circle 2, Egoist, Psychometabolism
 - [Ectoplasmic Form](/Psionics/E/EctoplasmicForm.md)
 - [Empathic Transfer](/Psionics/E/EmpathicTransfer.md)
 - [Energy Adaptation](/Psionics/E/EnergyAdaptation.md)
@@ -32,14 +32,15 @@ The psionic categories are as follows:
 - [Psychic Vampire](/Psionics/P/PsychicVampire.md)
 - [Psychofeedback](/Psionics/P/Psychofeedback.md)
 - [Self Immolation](/Psionics/S/SelfImmolation.md)
+- [Smudge Skin](/Psionics/S/SmudgeSkin.md) - Circle 0, Egoist, Psychometabolism
 
 ## Kineticist
 
-- [Concussion Blast](/Psionics/C/ConcussionBlast.md)
-- [Control Air](/Psionics/C/ControlAir.md)
-- [Control Body](/Psionics/C/ControlBody.md)
-- [Control Flames](/Psionics/C/ControlFlames.md)
-- [Control Object](/Psionics/C/ControlObject.md)
+- [Concussion Blast](/Psionics/C/ConcussionBlast.md) - Circle 2, Kineticist, Psychokinesis
+- [Control Air](/Psionics/C/ControlAir.md) - Circle 3, Kineticist, Psychokinesis
+- [Control Body](/Psionics/C/ControlBody.md) - Circle 5, Kineticist, Psychokinesis
+- [Control Flames](/Psionics/C/ControlFlames.md) - Circle 1, Kineticist, Psychokinesis
+- [Control Object](/Psionics/C/ControlObject.md) - Circle 2, Kineticist, Psychokinesis
 - [Dispelling Buffer](/Psionics/D/DispellingBuffer.md)
 - [Energy Ball](/Psionics/E/EnergyBall.md)
 - [Energy Bolt](/Psionics/E/EnergyBolt.md)
@@ -66,9 +67,9 @@ The psionic categories are as follows:
 - [Astral Caravan](/Psionics/A/AstralCaravan.md) - Circle 4, Nomad, Psychoportation
 - [Astral Ship](/Psionics/A/AstralShip.md) - Circle 7, Nomad, Psychoportation
 - [Astral Traveler](/Psionics/A/AstralTraveler.md) - Circle 1, Nomad, Psychoportation
-- [Baleful Teleport](/Psionics/B/BalefulTeleport.md)
-- [Banishment, Psionic](/Psionics/B/BanishmentPsionic.md)
-- [Burst](/Psionics/B/Burst.md)
+- [Baleful Teleport](/Psionics/B/BalefulTeleport.md) - Circle 6, Nomad, Psychoportation
+- [Banishment, Psionic](/Psionics/B/BanishmentPsionic.md) - Circle 7, Nomad, Psychoportation
+- [Burst](/Psionics/B/Burst.md) - Circle 2, Nomad, Psychoportation
 - [Deceleration](/Psionics/D/Deceleration.md)
 - [Detect Teleportation](/Psionics/D/DetectTeleportation.md)
 - [Dimension Door, Psionic](/Psionics/D/DimensionDoorPsionic.md)
@@ -80,6 +81,7 @@ The psionic categories are as follows:
 - [Ethereal Jaunt, Psionic](/Psionics/E/EtherealJaunt.md)
 - [Fly, Psionic](/Psionics/F/FlyPsionic.md)
 - [Levitate, Psionic](/Psionics/L/LevitatePsionic.md)
+- [Motion Adaptation](/Psionics/M/MotionAdaptation.md) - Circle 0, Nomad, Psychoportation
 - [Overland Flight, Psionic](/Psionics/O/OverlandFlightPsionic.md)
 - [Phase Door, Psionic](/Psionics/P/PhaseDoorPsionic.md)
 - [Plane Shift, Psionic](/Psionics/P/PlaneShiftPsionic.md)
@@ -91,15 +93,15 @@ The psionic categories are as follows:
 - [Assimilate](/Psionics/A/Assimilate.md) - Circle 9, Power, Psychometabolism
 - [Aura Alteration](/Psionics/A/AuraAlteration.md) - Circle 6, Power, Telepathy
 - [Aura Sight](/Psionics/A/AuraSight.md) - Circle 4, Power, Clairsentience
-- [Bend Reality](/Psionics/B/BendReality.md)
-- [Bestow Power](/Psionics/B/BestowPower.md)
-- [Call to Mind](/Psionics/C/CallToMind.md)
-- [Conceal Thoughts](/Psionics/C/ConcealThoughts.md)
-- [Contingency, Psionic](/Psionics/C/ContingencyPsionic.md)
-- [Control Light](/Psionics/C/ControlLight.md)
-- [Control Sound](/Psionics/C/ControlSound.md)
-- [Co-Opt Concentration](/Psionics/C/CoOptConcentration.md)
-- [Create Sound](/Psionics/C/CreateSound.md)
+- [Bend Reality](/Psionics/B/BendReality.md) - Circle 8, Power, Clairsentience
+- [Bestow Power](/Psionics/B/BestowPower.md) - Circle 2, Power, Telepathy
+- [Call to Mind](/Psionics/C/CallToMind.md) - Circle 1, Power, Telepathy
+- [Conceal Thoughts](/Psionics/C/ConcealThoughts.md) - Circle 1, Power, Telepathy
+- [Contingency, Psionic](/Psionics/C/ContingencyPsionic.md) - Circle 6, Power, Clairsentience
+- [Control Light](/Psionics/C/ControlLight.md) - Circle 1, Power, Psychokinesis
+- [Control Sound](/Psionics/C/ControlSound.md) - Circle 2, Power, Psychokinesis
+- [Co-Opt Concentration](/Psionics/C/CoOptConcentration.md) - Circle 6, Power, Telepathy
+- [Create Sound](/Psionics/C/CreateSound.md) - Circle 1, Power, Metacreativity
 - [Danger Sense](/Psionics/D/DangerSense.md)
 - [Daze, Psionic](/Psionics/D/Daze.md)
 - [Decerebrate](/Psionics/D/Decerebrate.md)
@@ -140,8 +142,8 @@ The psionic categories are as follows:
 ## Seer
 
 - [Anchored Navigation](/Psionics/A/AnchoredNavigation.md) - Circle 5, Seer, Clairsentience
-- [Clairtangent Hand](/Psionics/C/ClairtangentHand.md)
-- [Clairvoyant Sense](/Psionics/C/ClairvoyantSense)
+- [Clairtangent Hand](/Psionics/C/ClairtangentHand.md) - Circle 6, Seer, Clairsentience
+- [Clairvoyant Sense](/Psionics/C/ClairvoyantSense.md) - Circle 3, Seer, Clairsentience
 - [Destiny Dissonance](/Psionics/D/DestinyDissonance.md)
 - [Escape Detection](/Psionics/E/EscapeDetection.md)
 - [Fate Link](/Psionics/F/FateLink.md)
@@ -159,12 +161,12 @@ The psionic categories are as follows:
 
 - [Astral Construct](/Psionics/A/AstralConstruct.md) - Circle 2, Shaper, Metacreativity
 - [Astral Seed](/Psionics/A/AstralSeed.md) - Circle 9, Shaper, Metacreativity
-- [Bolt](/Psionics/B/Bolt.md)
-- [Clay Figurine](/Psionics/C/ClayFigurine.md)
-- [Concealing Amorpha](/Psionics/C/ConcealingAmorpha.md)
-- [Concealing Amorpha, Greater](/Psionics/C/ConcealingAmorphaGreater.md)
-- [Crystal Shard](/Psionics/C/CrystalShard.md)
-- [Crystallize](/Psionics/C/Crystallize.md)
+- [Bolt](/Psionics/B/Bolt.md) - Circle 1, Shaper, Metacreativity
+- [Clay Figurine](/Psionics/C/ClayFigurine.md) - Circle 0, Shaper, Metacreativity
+- [Concealing Amorpha](/Psionics/C/ConcealingAmorpha.md) - Circle 2, Shaper, Metacreativity
+- [Concealing Amorpha, Greater](/Psionics/C/ConcealingAmorphaGreater.md) - Circle 4, Shaper, Metacreativity
+- [Crystal Shard](/Psionics/C/CrystalShard.md) - Circle 1, Shaper, Metacreativity
+- [Crystallize](/Psionics/C/Crystallize.md) - Circle 7, Shaper, Metacreativity
 - [Ectoplasmic Cocoon](/Psionics/E/EctoplasmicCocoon.md)
 - [Ectoplasmic Cocoon, Mass](/Psionics/E/EctoplasmicCocoonMass.md)
 - [Fabricate, Psionic](/Psionics/F/FabricatePsionic.md)
@@ -182,13 +184,13 @@ The psionic categories are as follows:
 
 - [Attraction](/Psionics/A/Attraction.md) - Circle 1, Telepath, Telepathy
 - [Aversion](/Psionics/A/Aversion.md) - Circle 3, Telepath, Telepathy
-- [Brain Lock](/Psionics/B/BrainLock.md)
-- [Charm, Psionic](/Psionics/C/CharmPsionic.md)
-- [Cloud Mind](/Psionics/C/CloudMind.md)
-- [Cloud Mind, Mass](/Psionics/C/CloudMindMass.md)
-- [Correspond](/Psionics/C/Correspond.md)
-- [Crisis Of Breath](/Psionics/C/CrisisOfBreath.md)
-- [Crisis of Life](/Psionics/C/CrisisOfLife.md)
+- [Brain Lock](/Psionics/B/BrainLock.md) - Circle 3, Telepath, Telepathy
+- [Charm, Psionic](/Psionics/C/CharmPsionic.md) - Circle 2, Telepath, Telepathy
+- [Cloud Mind](/Psionics/C/CloudMind.md) - Circle 2, Telepath, Telepathy
+- [Cloud Mind, Mass](/Psionics/C/CloudMindMass.md) - Circle 6, Telepath, Telepathy
+- [Correspond](/Psionics/C/Correspond.md) - Circle 4, Telepath, Telepathy
+- [Crisis of Breath](/Psionics/C/CrisisOfBreath.md) - Circle 4, Telepath, Telepathy
+- [Crisis of Life](/Psionics/C/CrisisOfLife.md) - Circle 8, Telepath, Telepathy
 - [Death Urge](/Psionics/D/DeathUrge.md)
 - [Demoralize](/Psionics/D/Demoralize.md)
 - [Dominate, Psionic](/Psionics/D/DominatePsionic.md)
@@ -219,19 +221,19 @@ The psionic categories are as follows:
 
 - [Adapt Body](/Psionics/A/AdaptBody.md) - Circle 6, Warrior, Psychometabolism
 - [Animal Affinity](/Psionics/A/AnimalAffinity.md) - Circle 3, Warrior, Psychometabolism
-- [Biofeedback](/Psionics/B/Biofeedback.md)
-- [Bite of the Wolf](/Psionics/B/BiteOfTheWolf.md)
-- [Body Adjustment](/Psionics/B/BodyAdjustment.md)
-- [Body Equilibrium](/Psionics/B/BodyEquilibrium.md)
-- [Body Purification](/Psionics/B/BodyPurification.md)
-- [Breath of the Black Dragon](/Psionics/B/BreathOfTheBlackDragon.md)
-- [Call Weaponry](/Psionics/C/CallWeaponry.md)
-- [Catapsi](/Psionics/C/Catapsi.md)
-- [Catfall](/Psionics/C/Catfall.md)
-- [Claw of Energy](/Psionics/C/ClawOfEnergy.md)
-- [Claws of the Beast](/Psionics/C/ClawsOfTheBeast)
-- [Claws of the Vampire](/Psionics/C/ClawsOfTheVampire.md)
-- [Compression](/Psionics/C/Compression.md)
+- [Biofeedback](/Psionics/B/Biofeedback.md) - Circle 2, Warrior, Psychometabolism
+- [Bite of the Wolf](/Psionics/B/BiteOfTheWolf.md) - Circle 2, Warrior, Psychometabolism
+- [Body Adjustment](/Psionics/B/BodyAdjustment.md) - Circle 3, Warrior, Psychometabolism
+- [Body Equilibrium](/Psionics/B/BodyEquilibrium.md) - Circle 2, Warrior, Psychometabolism
+- [Body Purification](/Psionics/B/BodyPurification.md) - Circle 3, Warrior, Psychometabolism
+- [Breath of the Black Dragon](/Psionics/B/BreathOfTheBlackDragon.md) - Circle 6, Warrior, Psychometabolism
+- [Call Weaponry](/Psionics/C/CallWeaponry.md) - Circle 2, Warrior, Psychoportation
+- [Catapsi](/Psionics/C/Catapsi.md) - Circle 5, Warrior, Telepathy - Circle 5, Warrior, Telepathy
+- [Catfall](/Psionics/C/Catfall.md) - Circle 1, Warrior, Psychoportation
+- [Claw of Energy](/Psionics/C/ClawOfEnergy.md) - Circle 5, Warrior, Psychokinesis
+- [Claws of the Beast](/Psionics/C/ClawsOfTheBeast.md) - Circle 2, Warrior, Psychometabolism
+- [Claws of the Vampire](/Psionics/C/ClawsOfTheVampire.md) - Circle 4, Warrior, Psychometabolism
+- [Compression](/Psionics/C/Compression.md) - Circle 2, Warrior, Psychometabolism
 - [Darkvision, Psionic](/Psionics/D/Darkvision.md)
 - [Dissolving Touch](/Psionics/D/DissolvingTouch.md)
 - [Dissolving Weapon](/Psionics/D/DissolvingWeapon.md)

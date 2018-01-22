@@ -1,5 +1,7 @@
 # Control Air
 
+[Control Air](/Psionics/C/ControlAir.md) - Circle 3, Kineticist, Psychokinesis
+
 - **Circle:** 3
 - **Category:** Kineticist
 - **Discipline:** Psychokinesis

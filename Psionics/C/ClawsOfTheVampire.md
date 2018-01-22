@@ -1,5 +1,7 @@
 # Claws of the Vampire
 
+[Claws of the Vampire](/Psionics/C/ClawsOfTheVampire.md) - Circle 4, Warrior, Psychometabolism
+
 - **Circle:** 4
 - **Category:** Warrior
 - **Discipline:** Psychometabolism

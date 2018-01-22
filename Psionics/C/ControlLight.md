@@ -1,5 +1,7 @@
 # Control Light
 
+[Control Light](/Psionics/C/ControlLight.md) - Circle 1, Power, Psychokinesis
+
 - **Circle:** 1
 - **Category:** Power
 - **Discipline:** Psychokinesis

@@ -1,5 +1,7 @@
 # Control Flames
 
+[Control Flames](/Psionics/C/ControlFlames.md) - Circle 1, Kineticist, Psychokinesis
+
 - **Circle:** 1
 - **Category:** Kineticist
 - **Discipline:** Psychokinesis

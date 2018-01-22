@@ -61,6 +61,8 @@ The market value of a cognizance crystal depends on its maximum power points as 
 | 17             | 81,000       | 40,500        | 170
 | 19             | 100,000      | 50,000        | 190
 
+Cognizance crystals are crafted with the Craft (Psionic Focuses) (INT) skill.
+
 ## Manifestation Items
 
 The common market value per use of an item is as follows:
@@ -94,7 +96,7 @@ Manifestation items include and are not limited to:
 - **Dorjes** - Crystals with multiple uses. They take up a whole hand to use.
 - **Power Stones** - Stones with a single use each.
 - **Psicrowns** - Items worn on the head, with multiple uses. They are not compatible with any other headgear.
-- **Psionic Tattoos** - Psionic inks inscribed into your skin. Each tattoo is a single use.
+- **Psionic Tattoos** - Psionic inks inscribed into your skin. Each tattoo is a single use. Each person can only have one tattoo per power.
 
 In order to use a manifestation item, you must have an Intelligence equal to 10 + Power Circle.
 
@@ -110,7 +112,7 @@ Second, the character must make one skill check per day, accumulating a total th
 
 **Psionic Tattoos** require only one hour of inscription per day. Psionic Tattoos do not finish faster than other manifestation items, but up to ten can be worked-on per day. On the other hand, they have the limitation of no more than one tattoo for the same power on a person at a time.
 
-The skill used for crafting is Craft (INT) (Psionic Focuses)
+The skill used for crafting is Craft (Psionic Focuses) (INT).
 
 ## Converting Powers from d20 to Skill20
 

@@ -1,5 +1,7 @@
 # Body Purification
 
+[Body Purification](/Psionics/B/BodyPurification.md) - Circle 3, Warrior, Psychometabolism
+
 - **Circle:** 3
 - **Category:** Warrior
 - **Discipline:** Psychometabolism

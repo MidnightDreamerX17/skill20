@@ -1,5 +1,7 @@
 # Claw of Energy
 
+[Claw of Energy](/Psionics/C/ClawOfEnergy.md) - Circle 5, Warrior, Psychokinesis
+
 - **Circle:** 5
 - **Category:** Warrior
 - **Discipline:** Psychokinesis

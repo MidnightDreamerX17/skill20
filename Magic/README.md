@@ -90,13 +90,13 @@ The common market value per use of an item is as follows:
 
 **Book of One Spell** - Books of One Spell can only be used after eight hours of rest - the same conditions as for reading one's own personal spellbook. The user must make a skill check to read the book with a difficulty of 12 + (Spell Circle * 2). If successful, then the user has memorized the spell in the book. If the skill check fails, then the user cannot attempt to memorize the spell from the Book of One Spell for the rest of the day. Books of One Spell have an unlimited number of uses, so their cost is equal to the cost of 20 uses.
 
-**Paper** - The reader must make a skill check to read the paper with a difficulty of 12 + (Spell Circle * 2). The caster level is equal to the relevant skill level of the reader. Once the spell is cast, the paper is vaporized. If the skill check fails or if concentration is broken, the paper is preserved.
+**Paper** - The reader must make a skill check to read the paper with a difficulty of 12 + (Spell Circle * 2). The caster level is equal to the that of the reader. Once the spell is cast, the paper is vaporized. If the skill check fails or if concentration is broken, the paper is preserved.
 
-**Potions** - The user can drink one potion in order to apply the spell's effect to themself. A potion can be poured into the mouth of an unconscious or dead person. Finally, potions can be used as ranged throwing weapons to apply their effect to one target. The caster level of a potion is the minimum required to be able to cast its spell normally. For example, a *Potion of Cure Moderate Wounds* will have a caster level of 3. Potions are always single-target, so for example, throwing a *Potion of Fireball* at someone would be inefficient compared to just casting it, although allowed.
+**Potions** - The user can drink one potion in order to apply the spell's effect to themself. A potion can be poured into the mouth of an unconscious or dead person. Finally, potions can be used as ranged throwing weapons to apply their effect to one target. The caster level of a potion is the minimum required to be able to cast its spell normally, without any specializations or oppositions. For example, a *Potion of Cure Moderate Wounds* will have a caster level of 3. Potions are always single-target, so for example, throwing a *Potion of Fireball* at someone would be inefficient compared to just casting it, although allowed.
 
 **Spell Focus** *(Rod / Staff / Wand)* - The user must have the magic potential skill that corresponds to the spell focus, but a skill level of 1 is sufficient to utilize the full power. The caster level of the spell effect is equal to the caster level of the one who crafted the spell focus. If the user has the spell memorized, then they can spend spell energies to add charges to the spell focus at a rate of one per day. The crafting cost for one use of the spell must also be paid to add the charge. Once all charges in the spell focus are used up, the spell focus is vaporized.
 
-**Scroll** - The reader must make a skill check to read the scroll with a difficulty of 12 + (Spell Circle * 2). The caster level is the minimum required to be able to cast the spell normally, so for example, a Scroll of Identify has a caster level of 1. Once the spell is cast, the scroll is vaporized. If the skill check fails or if concentration is broken, the scroll is preserved. In addition to the effective caster level, scrolls have another key difference to papers. A Wizard Scroll can be inserted into a Wizard Spellbook, taking one day and a skill check, in order to permanently become part of that spellbook. Likewise for Illusionist Scrolls and Illusionist Spellbooks.
+**Scroll** - The reader must make a skill check to read the scroll with a difficulty of 12 + (Spell Circle * 2). The caster level is the minimum required to be able to cast the spell normally without any specializations or oppositions, so for example, a Scroll of Identify has a caster level of 1. Once the spell is cast, the scroll is vaporized. If the skill check fails or if concentration is broken, the scroll is preserved. In addition to the effective caster level, scrolls have another key difference to papers. A Wizard Scroll can be inserted into a Wizard Spellbook, taking one day and a skill check, in order to permanently become part of that spellbook. Likewise for Illusionist Scrolls and Illusionist Spellbooks.
 
 ## Crafting Spellcasting Items
 
@@ -108,15 +108,15 @@ Second, the character must make one skill check per day, accumulating a total th
 
 The skill used for crafting is as follows:
 
-- **Book of One Spell** - Craft (Int) (Magic Writing)
-- **Paper** - Craft (Int) (Magic Writing)
-- **Potion** - Alchemy (Int)
-- **Scroll** - Craft (Int) (Magic Writing)
-- **Spell Focus** - Craft (Int) (Magic Focuses)
+- **Book of One Spell** - Craft (Magic Writing) (INT). Its crafting cost is as if it had 20 uses.
+- **Paper** - Craft (Magic Writing) (INT)
+- **Potion** - Alchemy (INT)
+- **Scroll** - Craft (Magic Writing) (INT)
+- **Spell Focus** *(Rod / Staff / Wand)* - Craft (Magic Focuses) (INT)
 
 ## Writing Spells Into Spellbooks
 
-Generally, having the *Read Magic* spell active makes this endeavor possible. Otherwise, you will need to make a Wizard Potential or Illusionist Potential skill check, with the difficulty equal to 12 + (Spell Circle * 2) in order to be able to read the book or scroll.
+Generally, having the *Read Magic* spell active makes this endeavor possible in a timely manner. Otherwise, you will need to make a Wizard Potential or Illusionist Potential skill check, with the difficulty equal to 12 + (Spell Circle * 2) in order to be able to read the book or scroll.
 
 It takes 1 day per writing attempt.
 

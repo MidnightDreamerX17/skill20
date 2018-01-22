@@ -1,5 +1,7 @@
 # Clairtangent Hand
 
+[Clairtangent Hand](/Psionics/C/ClairtangentHand.md) - Circle 6, Seer, Clairsentience
+
 - **Circle:** 6
 - **Category:** Seer
 - **Discipline:** Clairsentience

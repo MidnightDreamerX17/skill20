@@ -1,5 +1,7 @@
 # Breath of the Black Dragon
 
+[Breath of the Black Dragon](/Psionics/B/BreathOfTheBlackDragon.md) - Circle 6, Warrior, Psychometabolism
+
 - **Circle:** 6
 - **Category:** Warrior
 - **Discipline:** Psychometabolism

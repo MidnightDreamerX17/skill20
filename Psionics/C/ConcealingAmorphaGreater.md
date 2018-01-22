@@ -1,5 +1,7 @@
 # Concealing Amorpha, Greater
 
+[Concealing Amorpha, Greater](/Psionics/C/ConcealingAmorphaGreater.md) - Circle 4, Shaper, Metacreativity
+
 - **Circle:** 4
 - **Category:** Shaper
 - **Discipline:** Metacreativity

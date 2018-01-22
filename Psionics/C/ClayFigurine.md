@@ -1,5 +1,7 @@
 # Clay Figurine
 
+[Clay Figurine](/Psionics/C/ClayFigurine.md) - Circle 0, Shaper, Metacreativity
+
 - **Circle:** 0
 - **Category:** Shaper
 - **Discipline:** Metacreativity

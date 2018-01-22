@@ -44,7 +44,7 @@
 
 **Reincarnate** - The character is a reincarnation. As the character gains experience levels, they regain memories of people, places, and events from their past lives. Spending experience points on skills could be role-played as the character remembering old instincts. If the GM requires training time for skill improvement, then the character can use that time to revisit places that their past lives have used those skills at.
 
-**Self Magic Energy** - The character gains additional 0th-circle spell energies per day, equal to their Constitution modifier. These spell energies can be spent for any magic type.
+**Self Magic Energy** - The character gains additional 0th-circle spell energies per day, equal to their Constitution modifier. These spell energies can be spent for any magic type. They do not affect the character's memorization slots. The character can also burn 2 hit points to gain an additional 0th-circle spell energy.
 
 **Skilled (Specific)** - The character starts with 1 additional skill. It cannot be an Advanced skill. For starting with additional Craft, Knowledge, Perform, or Profession skills, the advantage of Work Experience is more efficient.
 
@@ -114,15 +114,15 @@
 
 **Opposed Magic Domain (Specific)** - Spells from this domain are considered to be of a higher spell circle. For example, being opposed to the Healing domain will result in *Cure Light Wounds* being a spell of the 2nd circle. A character must start with the ability to memorize and cast 1st-circle spells in order to have an Opposed Magic Domain.
 
-**Opposed Magic School (Specific)** - Spells from this school are considered to be of a higher spell circle. For example, being opposed to the Evocation school will result in *Magic Missile* being a spell of the 2nd circle. A character must start with the ability to memorize and cast 1st-circle spells in order to have an Opposed Magic School.
+**Opposed Magic School (Specific)** - Spells from this school are considered to be of a higher spell circle. For example, being opposed to the Evocation school will result in *Magic Missile* being a spell of the 2nd circle. A character must start with the ability to memorize and cast 1st-circle spells in order to have an Opposed Magic School. The "Universal" school cannot be opposed.
 
 **Opposed Psionic Category (Specific)** - Powers from this category are considered to be of a higher power circle. For example, being opposed to the Warrior category will cause *Body Adjustment* to become a 5th-circle power. A character must start with the ability to use 1st-circle powers and have psionic power points in order to have an Opposed Psionic Category. The "Power" category cannot be opposed.
 
 **Opposed Psionic Discipline (Specific)** - Powers from this discipline are considered to be of a higher power circle. For example, being opposed to the Clairsentience discipline will cause *Aura Sight* to become a 5th-circle power. A character must start with the ability to use 1st-circle powers and have psionic power points in order to have an Opposed Psionic Discipline.
 
-**Racist (Specific)** - The character has a penalty of -10 to all interactions with the specified race. It must be a civilized and common race. The character's Intelligence and Wisdom must be 9 or lower.
+**Racist (Specific)** - The character has a penalty of -10 to all interactions with the specified race. It must be a civilized and common race. The character's Intelligence or Wisdom must be 9 or lower.
 
-**Sexist (Specific)** - The character has a penalty of -10 to all interactions with the specified sex. If the sex is "neutral", "plural", or "other" then the character must be of a race for which this is common, e.g. a Law-Mech being sexist against neuters. The character's Intelligence and Wisdom must be 9 or lower.
+**Sexist (Specific)** - The character has a penalty of -10 to all interactions with the specified sex. If the sex is "neutral", "plural", or "other" then the character must be of a race for which this is common, e.g. a Law-Mech being sexist against neuters. The character's Intelligence or Wisdom must be 9 or lower.
 
 **Slow Starter** - The character only rolls 1d10 for initiative, rather than 1d100 + Dexterity score.
 
@@ -139,16 +139,6 @@
 **Vow of Poverty** - Half of the character's gold income and gold-equivalent value must be given to charity.
 
 ## Quirks
-
-**Antimagic** - The character has a Spell Resistance number equal to 10 + Experience Level. On the other hand, they are unable to pickup or use any magic item. This includes all items that are +1, +2, +3, etc. Possible potions are limited to those that restore hit points, with no other benefits from potions. The character must roll to defeat their own Spell Resistance in order to cast spells.
-
-**Beastial Spirit (Specific)** - Spells and powers relating to this spirit are considered to be one circle lower. For example, having a Beastial Spirit of Bear will allow the character to use *Summon Nature's Ally I* as if it were *Summon Nature's Ally II* in order to summon a bear. On the other hand, the character's personality is strongly modified depending on the spirit, having a penalty of -10 to all actions that are contrary to the spirit's nature. For example, having a Beastial Spirit of Bear will make the character want to eat a lot and sleep in for the whole winter.
-
-**Darksign** - The character is undead, harmed by most effects that heal mortals. The character does not regain hit points by resting, instead needing to sit near magically-blessed fires. If killed, the character will come back to life the next day with 1 less maximum hit point and looking more dead. Once the character's maximum hit points go to zero, they will be raised as a mindless hollow. The cure to the darksign is only known by a select few, and by specific gods. The reduction in maximum hit points can be temporarily alleviated by consuming distilled essences of humanity.
-
-**Dependent** - The character has a non-adventurer dependent. If this person is killed, then the character must cease adventuring immediately for the rest of their lives and all future incarnations. The dependent's experience level is capped at 1/5th of the character's own.
-
-**Documented Identity** - The character has a large number of records about them in multiple places, identifying their appearance, place of residence, family, and other such things. This could be used for the character's benefit, proving that they are an upstanding citizen, proving that they possess a noble title, etc. But, this information is also readily available to those who wish to do harm to the character.
 
 **Aligned: Lawful Good (Alignment)** - The character starts at Rank 2 in both the Law and Good Associations. On the other hand, the character has a penalty of -10 to reactions with chaotic and evil people.
 
@@ -167,6 +157,18 @@
 **Aligned: Neutral Evil (Alignment)** - The character starts at Rank 2 in both the Neutral and Evil Associations. On the other hand, the character has a penalty of -10 to reactions with good people, and -2 to both lawful and chaotic people.
 
 **Aligned: Chaotic Evil (Alignment)** - The character starts at Rank 2 in both the Chaos and Evil Associations. On the other hand, the character has a penalty of -10 to reactions with lawful and good people.
+
+**Antimagic** - The character has a Spell Resistance number equal to 10 + Experience Level. On the other hand, they are unable to pickup or use any magic item. This includes all items that are magically-reinforced +1, +2, +3, etc. Possible potions are limited to those that restore hit points, with no other benefits from potions. The character must roll to defeat their own Spell Resistance in order to cast spells.
+
+**Antipsionic** - The character has a Power Resistance number equal to 10 + Experience Level. On the other hand, they are unable to pickup or use any psionic item. This includes all items that are psionically-reinforced +1, +2, +3, etc. The character must roll to defeat their own Power Resistance in order to manifest powers.
+
+**Beastial Spirit (Specific)** - Spells and powers relating to this spirit are considered to be one circle lower. For example, having a Beastial Spirit of Bear will allow the character to memorize and cast *Summon Nature's Ally II* as a 1st-circle spell, but this form of the spell would be specialized for bears only. On the other hand, the character's personality is strongly modified depending on the spirit, having a penalty of -10 to all actions that are contrary to the spirit's nature. For example, having a Beastial Spirit of Bear will make the character want to eat a lot and sleep in for the whole winter.
+
+**Darksign** - The character is undead, harmed by most effects that heal mortals. The character does not regain hit points by resting, instead needing to sit near magically-blessed fires. If killed, the character will come back to life the next day with 1 less maximum hit point and looking more dead. Once the character's maximum hit points go to zero, they will be raised as a mindless hollow. The cure to the darksign is only known by a select few, and by specific gods. The reduction in maximum hit points can be temporarily alleviated by consuming distilled essences of humanity.
+
+**Dependent** - The character has a non-adventurer dependent. If this person is killed, then the character must cease adventuring immediately for the rest of their lives and all future incarnations. The dependent's experience level is capped at 1/5th of the character's own.
+
+**Documented Identity** - The character has a large number of records about them in multiple places, identifying their appearance, place of residence, family, and other such things. This could be used for the character's benefit, proving that they are an upstanding citizen, proving that they possess a noble title, etc. But, this information is also readily available to those who wish to do harm to the character.
 
 **Possessed (Specific)** - The character is possessed by a different creature. Such a creature is likely to be astral, ethereal, undead, or aligned.
 

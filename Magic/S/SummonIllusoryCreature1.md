@@ -7,7 +7,7 @@
 - **Somatic Component:** Drawing an outline of the creature with both hands
 - **Map Range:** Close (25 feet + 5 feet per 2 caster levels)
 - **Effect:** One summoned creature
-- **Duration:** 1 round per caster level (D)
+- **Duration:** 1 minute (6 rounds) per caster level (D)
 - **Saving Throw:** Wisdom to recognize its true form
 - **Spell Resistance:** No
 

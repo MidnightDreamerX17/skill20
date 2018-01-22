@@ -9,7 +9,7 @@
 - **Divine Focus:** Yes
 - **Map Range:** Close (25 feet + 5 feet per 2 caster levels)
 - **Effect:** One summoned creature
-- **Duration:** 1 round per caster level (D)
+- **Duration:** 1 minute (6 rounds) per caster level (D)
 - **Saving Throw:** None
 - **Spell Resistance:** No
 
@@ -19,7 +19,7 @@ The spell conjures a creature with 1 experience level, examples of which are giv
 
 A summoned monster cannot summon or otherwise conjure another creature, nor can it use any teleportation or planar travel abilities. This also means that creatures capable of gating are not allowed to be chosen by this spell. Creatures cannot be summoned into an environment that cannot support them.
 
-When you use a summoning spell to summon an air, chaotic, earth, evil, fire, good, lawful, or water creature, it is a spell of that type.
+When you use a summoning spell to summon an air, chaotic, earth, evil, fire, good, lawful, or water creature, it is a spell of that Domain.
 
 **Examples of Level 1 Summonable Monsters**
 
@@ -46,5 +46,9 @@ When you use a summoning spell to summon an air, chaotic, earth, evil, fire, goo
 | Level 1 Hunting Animal | Any Neutral
 | Level 1 Air Native | Air | Typically a humanoid "inflatable tube man" made of cloth, who can whip things or throw things, and fly
 | Level 1 Earth Native | Earth | Typically a dirt golem who can meld into the earth
-| Level 1 Fire Native | Fire | Typically a humanoid who is always on fire
+| Level 1 Fire Native | Fire | Typically a humanoid who is always on fire, and sets things on fire with its attacks
 | Level 1 Water Native | Water | Typically a humanoid who is capable of turning into a very fast-moving puddle
+
+If the details of the desired monster type are not available in any book whatsoever, then the defaults are as follows:
+
+It has an Armor Class of 12, 6+1d6 Hit Points, and a natural weapon dealing 1d6 damage. Aligned creatures do magical aligned damage, while elemental creatures do magical damage of their element type.

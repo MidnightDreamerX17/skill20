@@ -1,5 +1,7 @@
 # Compression
 
+[Compression](/Psionics/C/Compression.md) - Circle 2, Warrior, Psychometabolism
+
 - **Circle:** 2
 - **Category:** Warrior
 - **Discipline:** Psychometabolism

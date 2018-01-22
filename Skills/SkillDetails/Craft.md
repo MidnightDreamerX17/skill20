@@ -19,15 +19,15 @@ Examples of Craft skills:
 - Jewelry
 - Leather
 - Locks
-- Magic Equipment
+- Magic Equipment - making equipment magically-reinforced to +1, +2, etc.
 - Magic Focuses - includes rods, wands, and staves
 - Magic Writing - includes scrolls, papers, and books of one spell
 - Mechanical
 - Musical Instruments
 - Painting
 - Pottery
-- Psionic Equipment
-- Psionic Focuses
+- Psionic Equipment - making equipment psionically-reinforced to +1, +2, etc.
+- Psionic Focuses - includes cognizance crystals, psicrowns, dorjes, power crystals, psionic tattoos
 - Rope
 - Sculpture
 - Ships
@@ -35,7 +35,7 @@ Examples of Craft skills:
 - Siege Engines
 - Stonemasonry
 - Tattoo
-- Traps
+- Traps - allows crafting trap kits for less than their market price, but deployment of them is done by the Traps (INT) skill
 - Weapons
 - \<Other Craft\>
 

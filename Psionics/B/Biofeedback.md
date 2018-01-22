@@ -1,5 +1,7 @@
 # Biofeedback
 
+[Biofeedback](/Psionics/B/Biofeedback.md) - Circle 2, Warrior, Psychometabolism
+
 - **Circle:** 2
 - **Category:** Warrior
 - **Discipline:** Psychometabolism

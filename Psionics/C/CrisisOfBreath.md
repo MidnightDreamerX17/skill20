@@ -1,5 +1,7 @@
 # Crisis of Breath
 
+[Crisis of Breath](/Psionics/C/CrisisOfBreath.md) - Circle 4, Telepath, Telepathy
+
 - **Circle:** 4
 - **Category:** Telepath
 - **Discipline:** Telepathy

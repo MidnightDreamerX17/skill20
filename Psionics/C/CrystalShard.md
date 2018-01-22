@@ -1,5 +1,7 @@
 # Crystal Shard
 
+[Crystal Shard](/Psionics/C/CrystalShard.md) - Circle 1, Shaper, Metacreativity
+
 - **Circle:** 1
 - **Category:** Shaper
 - **Discipline:** Metacreativity
@@ -12,6 +14,6 @@
 - **Power Resistance:** No
 - **Power Points:** 1
 
-Upon manifesting this power, you propel a razor-sharp crystal shard at your targets. The ray deals 1d6 points of piercing damage. It strikes unerringly.
+Upon manifesting this power, you propel a razor-sharp crystal shard at your targets. This is considered a ranged attack with a point-and-shoot weapon, against each possible target. The ray deals 1d6 points of puncture damage.
 
 **Augment:** For every additional power point you spend, this power’s damage increases by 1d6 points.

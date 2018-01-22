@@ -1,5 +1,7 @@
 # Contingency, Psionic
 
+[Contingency, Psionic](/Psionics/C/ContingencyPsionic.md) - Circle 6, Power, Clairsentience
+
 - **Circle:** 6
 - **Category:** Power
 - **Discipline:** Clairsentience

@@ -1,5 +1,7 @@
 # Cloud Mind, Mass
 
+[Cloud Mind, Mass](/Psionics/C/CloudMindMass.md) - Circle 6, Telepath, Telepathy
+
 - **Circle:** 6
 - **Category:** Telepath
 - **Discipline:** Telepathy

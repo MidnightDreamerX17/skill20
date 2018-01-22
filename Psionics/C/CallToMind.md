@@ -1,5 +1,7 @@
 # Call to Mind
 
+[Call to Mind](/Psionics/C/CallToMind.md) - Circle 1, Power, Telepathy
+
 - **Circle:** 1
 - **Category:** Power
 - **Discipline:** Telepathy

@@ -1,5 +1,7 @@
 # Brain Lock
 
+[Brain Lock](/Psionics/B/BrainLock.md) - Circle 3, Telepath, Telepathy
+
 - **Circle:** 3
 - **Category:** Telepath
 - **Discipline:** Telepathy

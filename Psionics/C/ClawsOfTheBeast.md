@@ -1,5 +1,7 @@
 # Claws of the Beast
 
+[Claws of the Beast](/Psionics/C/ClawsOfTheBeast.md) - Circle 2, Warrior, Psychometabolism
+
 - **Circle:** 2
 - **Category:** Warrior
 - **Discipline:** Psychometabolism

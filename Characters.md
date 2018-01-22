@@ -71,6 +71,10 @@ Attribute numbers cause bonuses or penalties to d20 rolls based on attributes. T
 | 20 - 21 | +5
 | 22 - 23 | +6
 
+Frequently, attribute *modifiers* are called for. Whether for d20 rolls or for other purposes. It is rare that the attribute number itself is used, except for initiative order in combat.
+
+If only an attribute *bonus* is called for, rather than the *modifier*, then it means that negative modifiers are considered "no modifier" for that case.
+
 ## Statistics
 
 ### Hit Points

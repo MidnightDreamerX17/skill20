@@ -1,5 +1,7 @@
 # Chameleon
 
+[Chameleon](/Psionics/C/Chameleon.md) - Circle 2, Egoist, Psychometabolism
+
 - **Circle:** 2
 - **Category:** Egoist
 - **Discipline:** Psychometabolism

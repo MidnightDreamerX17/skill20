@@ -1,10 +1,16 @@
 # Rules
 
-Skill checks generally consist of 1d20 + (Attribute bonus) + Skill level. There are only a few special cases that will use an attribute that the skill is not associated with. For example, Melee Fighting is associated with Strength, but may use Dexterity instead for finesse weapons.
+Skill checks generally consist of 1d20 + Skill level + Attribute modifier. There are only a few special cases that will use an attribute that the skill is not associated with. For example, Melee Fighting is associated with Strength, but may use Dexterity instead for finesse weapons.
 
-Non-skill checks generally consist of 1d20 + (Attribute bonus) + Experience level.
+Attribute checks generally consist of 1d20 + Experience level + Attribute modifier. Attribute checks include saving throws, most types of perception, and the like. Attribute checks basically cover everything that is not claimed by a skill.
+
+If a check requires a skill, and the character does not have the skill, then it will be an *unskilled check*. This means 1d20 + Attribute modifier only. Note that all saving throws and most types of perception do not require skills, so they are typically *attribute checks* instead.
 
 The average difficulty of a check is 10.
+
+If the d20 shows a 20 (often called a "natural 20") then the check is a guaranteed success, regardless of the difficulty. Therefore, even the gods prepare multiple safeguards against some random lucky stranger trying to do bad stuff to them.
+
+If the d20 shows a 1 (often called a "natural 1") then the check is a guaranteed failure, regardless of the difficulty.
 
 ## Time Scales
 
@@ -29,17 +35,17 @@ Extended Checks can only be failed if the GM defines failure as an inability to 
 
 Characters regain 1 hit point per period of rest, plus their Constitution bonus. For example, having a Constitution of 14 will cause 2 additional hit points to be restored during a full rest period.
 
-Healing Kits can be used to restore a number of hit points equal to the target's Constitution score. However, this requires an extended check with a difficulty of 100, and a time scale of 1 hour per roll.
+Healing / Healer's Kits can be used to restore a number of hit points equal to the target's Constitution score. However, this requires an extended check with a difficulty of 100, and a time scale of 1 hour per roll.
 
 ## Learning New Skills
 
 The fastest way to learn new skills is to perform the following steps:
 
 1. Find a guild, order, temple, etc. that is willing to teach you the skill. **Advanced** skills generally require that you have achieved the rank of Master in a guild before a guildmaster will teach you one.
-2. Train for a week. Magic, psionic, and advanced skills require a whole month.
+2. Train for a week. Magic and psionic skills require between two weeks to a month, although the GM may rule that already having one set of magic skills could make it faster to learn other types of magic. Advanced skills require a whole month.
 3. Pay 100 XP for the first level of the skill.
 
-It is also possible for a character to learn skills from their own party members. This requires 100 XP plus additional requirements. The requirements for such a process are detailed in each skill's description.
+It is also possible for a character to learn skills from their own party members. This requires 100 XP plus additional requirements. The requirements for such a process are detailed in each skill's description. Typically, learning skills from other party members takes a much longer time, since the full set of guild instructors, facilities, books, magical teaching aids, psionic teaching aids, etc. are not present.
 
 ## Combat
 
@@ -67,7 +73,7 @@ To save even more time, the GM may decide that the player side rolls 1d100, then
 
 ### Attacks
 
-All combatants have a base of 1 attack per round, with additional attacks from the Melee Fighting (STR) and Ranged Fighting (DEX) skills. All attacks in one round must be either melee or ranged.
+All combatants have a base of 1 attack per round, with additional attacks from the Melee Fighting (STR) and Ranged Fighting (DEX) skills. All attacks in one round must be either melee or ranged. The optional feats system may provide a way to mix specific types of melee and ranged attacks.
 
 For melee attack accuracy, the attacker rolls 1d20 + Melee Fighting (STR) + Strength modifier. Some weapons are designated as "finesse" weapons, meaning that they use Dexterity modifier instead of Strength modifier.
 
@@ -107,9 +113,13 @@ Side A Back Row: Reach & ranged attacks against Side B's front row, or ranged at
 
 **Blitz** - A blitz maneuver requires at least three combatants on both sides. First, two of the blitzers attempt to body-block two of the enemies with a bonus of +4 to the d20 rolls. Then, the third blitzer may move into melee with the third enemy without any possibility of getting body-blocked by the first two enemies.
 
+**Full Defense** - The combatant does not do anything other than defending. They gain a bonus to Armor Class against melee attacks equal to half of their Melee Fighting (STR) skill, and a bonus to Armor Class against ranged attacks equal to half of their Ranged Fighting (DEX) skill.
+
 **Point Defense** - The combatant chooses one target, and forgoes all actions. When the target moves, the combatant may then move to intercept, attempt to body-block the target, and attack the target. After this, the target may then choose to finish its action by attacking the point-defender. Note that this is **not** any kind of technique "of opportunity," but rather, a special type of delayed action. Techniques "of opportunity" **do not exist in Skill20**.
 
 **Precise Shot** - The attacker cannot move, nor do anything else other than ranged attacks. All attacks must be directed at one target. The attacker gains a bonus of +4 to accuracy.
+
+**Reckless Attack** - The attacker takes a penalty of -2 to Armor Class in order to add 1 accuracy to attacks. The effect lasts until the beginning of the attacker's next action. The maximum amount of Armor Class that may be spent in this manner is 10.
 
 **Zone Defense** - The combatant establishes a zone defense in a radius within its movement speed. The combatant forgoes all actions. When an enemy enters the zone, the combatant may then move to intercept, attempt to body-block the enemy, and attack the enemy. After this, the enemy may then choose to finish its action by attacking the zone-defender. Note that this is **not** any kind of technique "of opportunity," but rather, a special type of delayed action. Techniques "of opportunity" **do not exist in Skill20**.
 
@@ -147,11 +157,11 @@ Grappling is divided into three separate actions: takedowns, position changes, a
 
 If the Takedown check is successful, then you start grappling and have Grappling Advantage. On a natural 20, you may then attempt a position change or attack. On a failure, grappling is not initiated. On a natural 1, the opponent may choose either Grappling Advantage or a free melee attack.
 
-Clinching Takedown: Strength + Melee Fighting
+Clinching Takedown: d20 check of Melee Fighting + Strength modifier
 
-Tackling Takedown: Dexterity + Melee Fighting
+Tackling Takedown: d20 check of Melee Fighting + Dexterity modifier
 
-Tripping Takedown: Wisdom + Melee Fighting
+Tripping Takedown: d20 check of Melee Fighting + Wisdom modifier
 
 #### Position Changes
 
@@ -159,11 +169,11 @@ Grappling Advantage gives a bonus of +5.
 
 If the Position Change check is successful, then you gain Grappling Advantage. If you already have Grappling Advantage, then you gain a bonus of +5 to your next grappling attack. On a natural 1, the opponent gains Grappling Advantage.
 
-Push and Pull: Strength + Melee Fighting
+Push and Pull: d20 check of Melee Fighting + Strength modifier
 
-Scramble: Dexterity + Melee Fighting
+Scramble: d20 check of Melee Fighting + Dexterity modifier
 
-Reversal: Wisdom + Melee Fighting. Cannot be done if you already have advantage.
+Reversal: d20 check of Melee Fighting + Wisdom modifier. Cannot be done if you already have advantage.
 
 #### Attacks
 
@@ -171,11 +181,11 @@ Grappling Advantage gives a bonus of +5.
 
 On a natural 20, the effect is doubled. On a natural 1, the opponent gains Grappling Advantage.
 
-Submission: Strength + Melee Fighting. Temporarily decreases the target's Strength and Constitution by 1, lasting for an hour. Additional successes with submission will continue to harm the target's Strength and Constitution. Typically, the target will fall unconscious long before it goes to negative Constitution.
+Submission: d20 check of Melee Fighting + Strength modifier. Temporarily decreases the target's Strength and Constitution by 1, lasting for an hour. Additional successes with submission will continue to harm the target's Strength and Constitution. Typically, the target will fall unconscious long before it goes to negative Constitution.
 
-Slam: Strength + Melee Fighting. 1d12 + (Strength bonus) damage, and causes the target to be stunned for one round.
+Slam: d20 check of Melee Fighting + Strength modifier. 1d12 + (Strength modifier) damage, and causes the target to be stunned for one round.
 
-Short Strikes: Dexterity + Melee Fighting. Do damage as if from an unarmed strike.
+Short Strikes: d20 check of Melee Fighting + Dexterity modifier. Do damage as if from an unarmed strike.
 
 ### Dual-Wielding (and more)
 
@@ -184,6 +194,8 @@ Dual-Wielding gives a bonus of +1 to attack accuracy. The dual-wielder also choo
 Triple-Wielding gives a bonus of +2 to attack accuracy, while Quadruple-Wielding gives a bonus of +3.
 
 ## Status Definitions
+
+**Attribute Damage / Ability Damage / Ability Drain** - The character's attribute functions at a lower number.
 
 **Blinded** - The character cannot see. The character takes a -2 penalty to Armor Class, loses the Dexterity bonus to AC (if any), moves at half speed, and takes a -4 penalty on most Strength-based and Dexterity-based skill checks. All checks and activities that rely on vision (such as reading and visual searching checks) automatically fail. The character has a penalty of -10 to attack accuracy as well.
 
@@ -210,6 +222,8 @@ Triple-Wielding gives a bonus of +2 to attack accuracy, while Quadruple-Wielding
 **Entangled** - The character is ensnared. Being entangled impedes movement, but does not entirely prevent it unless the bonds are anchored to an immobile object or tethered by an opposing force. An entangled creature moves at half speed, cannot run or charge, and takes a -2 penalty on all accuracy rolls and a -4 penalty to Dexterity. An entangled character who attempts to cast a spell with somatic components has a 20% chance of spell failure.
 
 **Exhausted** - An exhausted character moves at half speed and takes a -6 penalty to Strength and Dexterity. After 1 hour of complete rest, an exhausted character becomes *fatigued*. A fatigued character becomes exhausted by doing something else that would normally cause fatigue.
+
+**Experience Level Damage / Negative Levels / Level Drain** - Not only does this decrease the character's effective experience level, but it also imposes a cap on the effectiveness of their skills. Skills cannot function at a level higher than current experience level, while under the effect of experience level damage. This could cause the character to have a lower number of spell energies, spell memorization slots, psionic power points, etc. It could also cause the character to be unable to memorize higher-circle spells, or unable to manifest higher-circle powers.
 
 **Fascinated** - A fascinated creature is entranced by a supernatural or spell effect. The creature stands or sits quietly, taking no actions other than to pay attention to the fascinating effect, for as long as the effect lasts. It takes a -4 penalty on all d20 rolls. Any potential threat, such as a hostile creature approaching, allows the fascinated creature a new saving throw against the fascinating effect. Any obvious threat, such as someone drawing a weapon, casting a spell, or aiming a ranged weapon at the fascinated creature, automatically breaks the effect. A fascinated creature’s ally may shake it free as an attack or move action.
 

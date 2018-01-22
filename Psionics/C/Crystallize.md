@@ -1,5 +1,7 @@
 # Crystallize
 
+[Crystallize](/Psionics/C/Crystallize.md) - Circle 7, Shaper, Metacreativity
+
 - **Circle:** 7
 - **Category:** Shaper
 - **Discipline:** Metacreativity
@@ -15,4 +17,4 @@ You seed the subject’s flesh with supersaturated crystal. In an eyeblink, the 
 
 The target gets an additional Constitution save once per year.
 
-This power has a chance of being dispelled only by a manifester of a higher experience level than you when you manifested this power. When the power is dispelled, crystal melts back into flesh, and the subject is in exactly the state he was prior being affected by crystallize.
+This power has a chance of being dispelled only by a manifester of a higher manifester level than you when you manifested this power. When the power is dispelled, crystal melts back into flesh, and the subject is in exactly the state he was prior being affected by *Crystallize*.

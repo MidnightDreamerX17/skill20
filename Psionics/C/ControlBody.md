@@ -1,5 +1,7 @@
 # Control Body
 
+[Control Body](/Psionics/C/ControlBody.md) - Circle 5, Kineticist, Psychokinesis
+
 - **Circle:** 5
 - **Category:** Kineticist
 - **Discipline:** Psychokinesis

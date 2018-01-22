@@ -1,5 +1,7 @@
 # Bend Reality
 
+[Bend Reality](/Psionics/B/BendReality.md) - Circle 8, Power, Clairsentience
+
 - **Circle:** 8
 - **Category:** Power
 - **Discipline:** Clairsentience

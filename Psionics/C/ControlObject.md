@@ -1,5 +1,7 @@
 # Control Object
 
+[Control Object](/Psionics/C/ControlObject.md) - Circle 2, Kineticist, Psychokinesis
+
 - **Circle:** 2
 - **Category:** Kineticist
 - **Discipline:** Psychokinesis

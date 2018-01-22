@@ -1,5 +1,7 @@
 # Catapsi
 
+[Catapsi](/Psionics/C/Catapsi.md) - Circle 5, Warrior, Telepathy
+
 - **Circle:** 5
 - **Category:** Warrior
 - **Discipline:** Telepathy
