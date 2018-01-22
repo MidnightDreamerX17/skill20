@@ -1,5 +1,7 @@
 # Astral Traveler
 
+[Astral Traveler](/Psionics/A/AstralTraveler.md) - Circle 1, Nomad, Psychoportation
+
 - **Circle:** 1
 - **Category:** Nomad
 - **Discipline:** Psychoportation
@@ -18,4 +20,4 @@ All those who are part of the caravan who are capable of performing purely menta
 
 The last creature in the line of those making up the caravan is sometimes referred to as the rear guard, because he or she has one hand free and can use it to wield a weapon without relinquishing his or her grip on the next traveler in line. The weightless, subjective environment of the Astral Plane allows the caravan to flex and bend as necessary to bring the rear guard’s weapon to bear.
 
-The *Astral Traveler* power also allows you to hold onto an *Astral Ship* using one hand.
+The *Astral Traveler* power also allows you to hold onto an *Astral Ship* using one hand or foot.

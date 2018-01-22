@@ -1,5 +1,7 @@
 # Astral Construct
 
+[Astral Construct](/Psionics/A/AstralConstruct.md) - Circle 2, Shaper, Metacreativity
+
 - **Circle:** 2
 - **Category:** Shaper
 - **Discipline:** Metacreativity

@@ -1,5 +1,7 @@
 # Attraction
 
+[Attraction](/Psionics/A/Attraction.md) - Circle 1, Telepath, Telepathy
+
 - **Circle:** 1
 - **Category:** Telepath
 - **Discipline:** Telepathy

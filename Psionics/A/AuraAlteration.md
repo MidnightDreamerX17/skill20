@@ -1,5 +1,7 @@
 # Aura Alteration
 
+[Aura Alteration](/Psionics/A/AuraAlteration.md) - Circle 6, Power, Telepathy
+
 - **Circle:** 6
 - **Category:** Power
 - **Discipline:** Telepathy

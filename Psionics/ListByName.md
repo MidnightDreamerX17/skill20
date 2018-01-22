@@ -8,15 +8,15 @@
 - [Animal Affinity](/Psionics/A/AnimalAffinity.md) - Circle 3, Warrior, Psychometabolism
 - [Apopsi](/Psionics/A/Apopsi.md) - Circle 9, Power, Telepathy
 - [Assimilate](/Psionics/A/Assimilate.md) - Circle 9, Power, Psychometabolism
-- [Astral Caravan](/Psionics/A/AstralCaravan.md)
-- [Astral Construct](/Psionics/A/AstralConstruct.md)
-- [Astral Seed](/Psionics/A/AstralSeed.md)
-- [Astral Ship](/Psionics/A/AstralShip.md)
-- [Astral Traveler](/Psionics/A/AstralTraveler.md)
-- [Attraction](/Psionics/A/Attraction.md)
-- [Aura Alteration](/Psionics/A/AuralAlteration.md)
-- [Aura Sight](/Psionics/A/AuraSight.md)
-- [Aversion](/Psionics/A/Aversion.md)
+- [Astral Caravan](/Psionics/A/AstralCaravan.md) - Circle 4, Nomad, Psychoportation
+- [Astral Construct](/Psionics/A/AstralConstruct.md) - Circle 2, Shaper, Metacreativity
+- [Astral Seed](/Psionics/A/AstralSeed.md) - Circle 9, Shaper, Metacreativity
+- [Astral Ship](/Psionics/A/AstralShip.md) - Circle 7, Nomad, Psychoportation
+- [Astral Traveler](/Psionics/A/AstralTraveler.md) - Circle 1, Nomad, Psychoportation
+- [Attraction](/Psionics/A/Attraction.md) - Circle 1, Telepath, Telepathy
+- [Aura Alteration](/Psionics/A/AuraAlteration.md) - Circle 6, Power, Telepathy
+- [Aura Sight](/Psionics/A/AuraSight.md) - Circle 4, Power, Clairsentience
+- [Aversion](/Psionics/A/Aversion.md) - Circle 3, Telepath, Telepathy
 
 ## B
 
@@ -206,6 +206,7 @@
 - [Major Creation](/Psionics/M/MajorCreation.md)
 - [Matter Agitation](/Psionics/M/MatterAgitation.md)
 - [Matter Manipulation](/Psionics/M/MatterManipulation.md)
+- [Matter to Energy, Self](/Psionics/M/MatterToEnergySelf.md) - Circle 10, Egoist, Psychometabolism
 - [Mental Barrier](/Psionics/M/MentalBarrier.md)
 - [Mental Disruption](/Psionics/M/MentalDisruption.md)
 - [Metaconcert](/Psionics/M/Metaconcert.md)

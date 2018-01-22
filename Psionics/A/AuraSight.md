@@ -1,5 +1,7 @@
 # Aura Sight
 
+[Aura Sight](/Psionics/A/AuraSight.md) - Circle 4, Power, Clairsentience
+
 - **Circle:** 4
 - **Category:** Power
 - **Discipline:** Clairsentience

@@ -23,6 +23,7 @@ The psionic categories are as follows:
 - [Fusion](/Psionics/F/Fusion.md)
 - [Hustle](/Psionics/H/Hustle.md)
 - [Iron Body, Psionic](/Psionics/I/IronBodyPsionic.md)
+- [Matter to Energy, Self](/Psionics/M/MatterToEnergySelf.md) - Circle 10, Egoist, Psychometabolism
 - [Metamorphosis](/Psionics/M/Metamorphosis.md)
 - [Metamorphosis, Greater](/Psionics/M/MetamorphosisGreater.md)
 - [My Light](/Psionics/M/MyLight.md)
@@ -62,9 +63,9 @@ The psionic categories are as follows:
 
 ## Nomad
 
-- [Astral Caravan](/Psionics/A/AstralCaravan.md)
-- [Astral Ship](/Psionics/A/AstralShip.md)
-- [Astral Traveler](/Psionics/A/AstralTraveler.md)
+- [Astral Caravan](/Psionics/A/AstralCaravan.md) - Circle 4, Nomad, Psychoportation
+- [Astral Ship](/Psionics/A/AstralShip.md) - Circle 7, Nomad, Psychoportation
+- [Astral Traveler](/Psionics/A/AstralTraveler.md) - Circle 1, Nomad, Psychoportation
 - [Baleful Teleport](/Psionics/B/BalefulTeleport.md)
 - [Banishment, Psionic](/Psionics/B/BanishmentPsionic.md)
 - [Burst](/Psionics/B/Burst.md)
@@ -88,8 +89,8 @@ The psionic categories are as follows:
 - [Affinity Field](/Psionics/A/AffinityField.md) - Circle 9, Power, Psychometabolism
 - [Apopsi](/Psionics/A/Apopsi.md) - Circle 9, Power, Telepathy
 - [Assimilate](/Psionics/A/Assimilate.md) - Circle 9, Power, Psychometabolism
-- [Aura Alteration](/Psionics/A/AuralAlteration.md)
-- [Aura Sight](/Psionics/A/AuraSight.md)
+- [Aura Alteration](/Psionics/A/AuraAlteration.md) - Circle 6, Power, Telepathy
+- [Aura Sight](/Psionics/A/AuraSight.md) - Circle 4, Power, Clairsentience
 - [Bend Reality](/Psionics/B/BendReality.md)
 - [Bestow Power](/Psionics/B/BestowPower.md)
 - [Call to Mind](/Psionics/C/CallToMind.md)
@@ -156,8 +157,8 @@ The psionic categories are as follows:
 
 ## Shaper
 
-- [Astral Construct](/Psionics/A/AstralConstruct.md)
-- [Astral Seed](/Psionics/A/AstralSeed.md)
+- [Astral Construct](/Psionics/A/AstralConstruct.md) - Circle 2, Shaper, Metacreativity
+- [Astral Seed](/Psionics/A/AstralSeed.md) - Circle 9, Shaper, Metacreativity
 - [Bolt](/Psionics/B/Bolt.md)
 - [Clay Figurine](/Psionics/C/ClayFigurine.md)
 - [Concealing Amorpha](/Psionics/C/ConcealingAmorpha.md)
@@ -179,8 +180,8 @@ The psionic categories are as follows:
 
 ## Telepath
 
-- [Attraction](/Psionics/A/Attraction.md)
-- [Aversion](/Psionics/A/Aversion.md)
+- [Attraction](/Psionics/A/Attraction.md) - Circle 1, Telepath, Telepathy
+- [Aversion](/Psionics/A/Aversion.md) - Circle 3, Telepath, Telepathy
 - [Brain Lock](/Psionics/B/BrainLock.md)
 - [Charm, Psionic](/Psionics/C/CharmPsionic.md)
 - [Cloud Mind](/Psionics/C/CloudMind.md)

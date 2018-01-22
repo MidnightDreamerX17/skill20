@@ -1,5 +1,7 @@
 # Aversion
 
+[Aversion](/Psionics/A/Aversion.md) - Circle 3, Telepath, Telepathy
+
 - **Circle:** 3
 - **Category:** Telepath
 - **Discipline:** Telepathy

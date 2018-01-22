@@ -12,7 +12,7 @@ The psionic disciplines are as follows:
 ## Clairsentience
 
 - [Anchored Navigation](/Psionics/A/AnchoredNavigation.md) - Circle 5, Seer, Clairsentience
-- [Aura Sight](/Psionics/A/AuraSight.md)
+- [Aura Sight](/Psionics/A/AuraSight.md) - Circle 4, Power, Clairsentience
 - [Bend Reality](/Psionics/B/BendReality.md)
 - [Clairtangent Hand](/Psionics/C/ClairtangentHand.md)
 - [Clairvoyant Sense](/Psionics/C/ClairvoyantSense)
@@ -46,8 +46,8 @@ The psionic disciplines are as follows:
 
 ## Metacreativity
 
-- [Astral Construct](/Psionics/A/AstralConstruct.md)
-- [Astral Seed](/Psionics/A/AstralSeed.md)
+- [Astral Construct](/Psionics/A/AstralConstruct.md) - Circle 2, Shaper, Metacreativity
+- [Astral Seed](/Psionics/A/AstralSeed.md) - Circle 9, Shaper, Metacreativity
 - [Bolt](/Psionics/B/Bolt.md)
 - [Clay Figurine](/Psionics/C/ClayFigurine.md)
 - [Concealing Amorpha](/Psionics/C/ConcealingAmorpha.md)
@@ -148,6 +148,7 @@ The psionic disciplines are as follows:
 - [Hustle](/Psionics/H/Hustle.md)
 - [Immovability](/Psionics/I/Immovability.md)
 - [Leech Field](/Psionics/L/LeechField.md)
+- [Matter to Energy, Self](/Psionics/M/MatterToEnergySelf.md) - Circle 10, Egoist, Psychometabolism
 - [Metamorphosis](/Psionics/M/Metamorphosis.md)
 - [Metamorphosis, Greater](/Psionics/M/MetamorphosisGreater.md)
 - [Metaphysical Claw](/Psionics/M/MetaphysicalClaw.md)
@@ -164,9 +165,9 @@ The psionic disciplines are as follows:
 
 ## Psychoportation
 
-- [Astral Caravan](/Psionics/A/AstralCaravan.md)
-- [Astral Ship](/Psionics/A/AstralShip.md)
-- [Astral Traveler](/Psionics/A/AstralTraveler.md)
+- [Astral Caravan](/Psionics/A/AstralCaravan.md) - Circle 4, Nomad, Psychoportation
+- [Astral Ship](/Psionics/A/AstralShip.md) - Circle 7, Nomad, Psychoportation
+- [Astral Traveler](/Psionics/A/AstralTraveler.md) - Circle 1, Nomad, Psychoportation
 - [Baleful Teleport](/Psionics/B/BalefulTeleport.md)
 - [Banishment, Psionic](/Psionics/B/BanishmentPsionic.md)
 - [Burst](/Psionics/B/Burst.md)
@@ -199,9 +200,9 @@ The psionic disciplines are as follows:
 ## Telepathy
 
 - [Apopsi](/Psionics/A/Apopsi.md) - Circle 9, Power, Telepathy
-- [Attraction](/Psionics/A/Attraction.md)
-- [Aura Alteration](/Psionics/A/AuralAlteration.md)
-- [Aversion](/Psionics/A/Aversion.md)
+- [Attraction](/Psionics/A/Attraction.md) - Circle 1, Telepath, Telepathy
+- [Aura Alteration](/Psionics/A/AuraAlteration.md) - Circle 6, Power, Telepathy
+- [Aversion](/Psionics/A/Aversion.md) - Circle 3, Telepath, Telepathy
 - [Bestow Power](/Psionics/B/BestowPower.md)
 - [Brain Lock](/Psionics/B/BrainLock.md)
 - [Call to Mind](/Psionics/C/CallToMind.md)

@@ -1,5 +1,7 @@
 # Astral Caravan
 
+[Astral Caravan](/Psionics/A/AstralCaravan.md) - Circle 4, Nomad, Psychoportation
+
 - **Circle:** 4
 - **Category:** Nomad
 - **Discipline:** Psychoportation

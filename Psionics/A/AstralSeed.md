@@ -1,5 +1,7 @@
 # Astral Seed
 
+[Astral Seed](/Psionics/A/AstralSeed.md) - Circle 9, Shaper, Metacreativity
+
 - **Circle:** 9
 - **Category:** Shaper
 - **Discipline:** Metacreativity

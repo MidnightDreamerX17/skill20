@@ -11,8 +11,8 @@
 
 ## 1st Circle
 
-- [Astral Traveler](/Psionics/A/AstralTraveler.md)
-- [Attraction](/Psionics/A/Attraction.md)
+- [Astral Traveler](/Psionics/A/AstralTraveler.md) - Circle 1, Nomad, Psychoportation
+- [Attraction](/Psionics/A/Attraction.md) - Circle 1, Telepath, Telepathy
 - [Bolt](/Psionics/B/Bolt.md)
 - [Call to Mind](/Psionics/C/CallToMind.md)
 - [Catfall](/Psionics/C/Catfall.md)
@@ -53,7 +53,7 @@
 
 ## 2nd Circle
 
-- [Astral Construct](/Psionics/A/AstralConstruct.md)
+- [Astral Construct](/Psionics/A/AstralConstruct.md) - Circle 2, Shaper, Metacreativity
 - [Bestow Power](/Psionics/B/BestowPower.md)
 - [Biofeedback](/Psionics/B/Biofeedback.md)
 - [Bite of the Wolf](/Psionics/B/BiteOfTheWolf.md)
@@ -96,7 +96,7 @@
 ## 3rd Circle
 
 - [Animal Affinity](/Psionics/A/AnimalAffinity.md) - Circle 3, Warrior, Psychometabolism
-- [Aversion](/Psionics/A/Aversion.md)
+- [Aversion](/Psionics/A/Aversion.md) - Circle 3, Telepath, Telepathy
 - [Body Adjustment](/Psionics/B/BodyAdjustment.md)
 - [Body Purification](/Psionics/B/BodyPurification.md)
 - [Brain Lock](/Psionics/B/BrainLock.md)
@@ -130,8 +130,8 @@
 
 ## 4th Circle
 
-- [Astral Caravan](/Psionics/A/AstralCaravan.md)
-- [Aura Sight](/Psionics/A/AuraSight.md)
+- [Astral Caravan](/Psionics/A/AstralCaravan.md) - Circle 4, Nomad, Psychoportation
+- [Aura Sight](/Psionics/A/AuraSight.md) - Circle 4, Power, Clairsentience
 - [Claws of the Vampire](/Psionics/C/ClawsOfTheVampire.md)
 - [Concealing Amorpha, Greater](/Psionics/C/ConcealingAmorphaGreater.md)
 - [Correspond](/Psionics/C/Correspond.md)
@@ -190,7 +190,7 @@
 ## 6th Circle
 
 - [Adapt Body](/Psionics/A/AdaptBody.md) - Circle 6, Warrior, Psychometabolism
-- [Aura Alteration](/Psionics/A/AuralAlteration.md)
+- [Aura Alteration](/Psionics/A/AuraAlteration.md) - Circle 6, Power, Telepathy
 - [Baleful Teleport](/Psionics/B/BalefulTeleport.md)
 - [Breath of the Black Dragon](/Psionics/B/BreathOfTheBlackDragon.md)
 - [Clairtangent Hand](/Psionics/C/ClairtangentHand.md)
@@ -210,7 +210,7 @@
 
 ## 7th Circle
 
-- [Astral Ship](/Psionics/A/AstralShip.md)
+- [Astral Ship](/Psionics/A/AstralShip.md) - Circle 7, Nomad, Psychoportation
 - [Banishment, Psionic](/Psionics/B/BanishmentPsionic.md)
 - [Crystallize](/Psionics/C/Crystallize.md)
 - [Decerebrate](/Psionics/D/Decerebrate.md)
@@ -247,7 +247,7 @@
 - [Affinity Field](/Psionics/A/AffinityField.md) - Circle 9, Power, Psychometabolism
 - [Apopsi](/Psionics/A/Apopsi.md) - Circle 9, Power, Telepathy
 - [Assimilate](/Psionics/A/Assimilate.md) - Circle 9, Power, Psychometabolism
-- [Astral Seed](/Psionics/A/AstralSeed.md)
+- [Astral Seed](/Psionics/A/AstralSeed.md) - Circle 9, Shaper, Metacreativity
 - [Etherealness, Psionic](/Psionics/E/EtherealnessPsionic.md)
 - [Fusion](/Psionics/F/Fusion.md)
 - [Hypercognition](/Psionics/H/Hypercognition.md)
@@ -257,6 +257,7 @@
 ## 10th Circle
 
 - [Genesis](/Psionics/G/Genesis.md)
+- [Matter to Energy, Self](/Psionics/M/MatterToEnergySelf.md) - Circle 10, Egoist, Psychometabolism
 - [Metafaculty](/Psionics/M/Metafaculty.md)
 - [Metamorphosis, Greater](/Psionics/M/MetamorphosisGreater.md)
 - [Mind Switch, True](/Psionics/M/MindSwitchTrue.md)
