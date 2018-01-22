@@ -2,7 +2,7 @@
 
 Psionic Powers use thought and mental energy to cause material effects. Although a very different kind of energy compared to magic, they are not opposed, so some people wield both psionics and magic at the same time. It is generally impossible to share one's understanding of psionics with anyone else, so practitioners must rely on themselves to improve their psionic abilities.
 
-Possible Powers: At each level including the first, the character learns two psionic powers. The powers may be of a circle equal to or less than the character's maximum possible psionic power circle, according to the following table:
+Possible Powers: At the first Psionic Potential level, the character learns two 0th-circle and two 1st-circle powers. At each level afterwards, the character learns two psionic powers. The powers learned may be of a circle equal to or less than the character's maximum possible psionic power circle, according to the following table:
 
 - Level 1: 1st-circle powers
 - Level 3: 2nd-circle powers
