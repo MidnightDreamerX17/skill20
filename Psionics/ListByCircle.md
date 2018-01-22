@@ -23,7 +23,7 @@
 - [Control Light](/Psionics/C/ControlLight.md) - Circle 1, Power, Psychokinesis
 - [Create Sound](/Psionics/C/CreateSound.md) - Circle 1, Power, Metacreativity
 - [Crystal Shard](/Psionics/C/CrystalShard.md) - Circle 1, Shaper, Metacreativity
-- [Daze, Psionic](/Psionics/D/Daze.md)
+- [Daze, Psionic](/Psionics/D/DazePsionic.md) - Circle 1, Power, Telepathy
 - [Deceleration](/Psionics/D/Deceleration.md)
 - [Déjà Vu](/Psionics/D/DejaVu.md)
 - [Demoralize](/Psionics/D/Demoralize.md)

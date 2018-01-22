@@ -103,7 +103,7 @@ The psionic categories are as follows:
 - [Co-Opt Concentration](/Psionics/C/CoOptConcentration.md) - Circle 6, Power, Telepathy
 - [Create Sound](/Psionics/C/CreateSound.md) - Circle 1, Power, Metacreativity
 - [Danger Sense](/Psionics/D/DangerSense.md)
-- [Daze, Psionic](/Psionics/D/Daze.md)
+- [Daze, Psionic](/Psionics/D/DazePsionic.md) - Circle 1, Power, Telepathy
 - [Decerebrate](/Psionics/D/Decerebrate.md)
 - [Déjà Vu](/Psionics/D/DejaVu.md)
 - [Detect Hostile Intent](/Psionics/D/DetectHostileIntent.md)

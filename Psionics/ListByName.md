@@ -74,7 +74,7 @@
 
 - [Danger Sense](/Psionics/D/DangerSense.md)
 - [Darkvision, Psionic](/Psionics/D/Darkvision.md)
-- [Daze, Psionic](/Psionics/D/Daze.md)
+- [Daze, Psionic](/Psionics/D/DazePsionic.md) - Circle 1, Power, Telepathy
 - [Death Urge](/Psionics/D/DeathUrge.md)
 - [Deceleration](/Psionics/D/Deceleration.md)
 - [Decerebrate](/Psionics/D/Decerebrate.md)

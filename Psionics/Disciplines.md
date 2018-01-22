@@ -217,7 +217,7 @@ The psionic disciplines are as follows:
 - [Correspond](/Psionics/C/Correspond.md) - Circle 4, Telepath, Telepathy
 - [Crisis of Breath](/Psionics/C/CrisisOfBreath.md) - Circle 4, Telepath, Telepathy
 - [Crisis of Life](/Psionics/C/CrisisOfLife.md) - Circle 8, Telepath, Telepathy
-- [Daze, Psionic](/Psionics/D/Daze.md)
+- [Daze, Psionic](/Psionics/D/DazePsionic.md) - Circle 1, Power, Telepathy
 - [Death Urge](/Psionics/D/DeathUrge.md)
 - [Déjà Vu](/Psionics/D/DejaVu.md)
 - [Demoralize](/Psionics/D/Demoralize.md)
