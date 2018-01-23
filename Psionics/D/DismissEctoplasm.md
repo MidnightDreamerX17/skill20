@@ -1,5 +1,7 @@
 # Dismiss Ectoplasm
 
+[Dismiss Ectoplasm](/Psionics/D/DismissEctoplasm.md) - Circle 3, Power, Metacreativity
+
 - **Circle:** 3
 - **Category:** Power
 - **Discipline:** Metacreativity

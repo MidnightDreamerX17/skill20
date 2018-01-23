@@ -1,5 +1,7 @@
 # Dimension Swap
 
+[Dimension Swap](/Psionics/D/DimensionSwap.md) - Circle 3, Nomad, Psychoportation
+
 - **Circle:** 3
 - **Category:** Nomad
 - **Discipline:** Psychoportation

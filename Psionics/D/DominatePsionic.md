@@ -1,5 +1,7 @@
 # Dominate, Psionic
 
+[Dominate, Psionic](/Psionics/D/DominatePsionic.md) - Circle 5, Telepath, Telepathy
+
 - **Circle:** 5
 - **Category:** Telepath
 - **Discipline:** Telepathy

@@ -1,5 +1,7 @@
 # Dissipating Touch
 
+[Dissipating Touch](/Psionics/D/DissipatingTouch.md) - Circle 1, Power, Psychoportation
+
 - **Circle:** 1
 - **Category:** Power
 - **Discipline:** Psychoportation
@@ -7,11 +9,13 @@
 - **Map Range:** Touch
 - **Map-less Range:** Melee
 - **Target:** Creature or object touched
-- **Duration:** Instantaneous
+- **Duration:** Maximum of 1 round per manifester level; See text
 - **Saving Throw:** None
 - **Power Resistance:** Yes (object)
 - **Power Points:** 1
 
-Your mere touch can disperse the surface material of a foe or object, sending a tiny portion of it far away. This effect is disruptive; thus, your successful melee unarmed attack deals 1d6 points of damage.
+Your hands become charged with the *Dissipating Touch* effect. The charge can be held for a maximum number of rounds equal to your manifester level.
 
-**Augment:** For every additional power point you spend, this power’s damage increases by 1d6 points. 
+When you do a successful melee attack within the duration, the *Dissipating Touch* is discharged. The effect disperses some of the surface material of the target, sending a tiny portion of it away. This effect is disruptive; thus, your successful melee attack does 1d6 additional points of damage.
+
+**Augment:** For every additional power point you spend, this power’s damage increases by 1d6 points.

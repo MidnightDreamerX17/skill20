@@ -1,5 +1,7 @@
 # Divert Teleport
 
+[Divert Teleport](/Psionics/D/DivertTeleport.md) - Circle 7, Power, Psychoportation
+
 - **Circle:** 7
 - **Category:** Power
 - **Discipline:** Psychoportation

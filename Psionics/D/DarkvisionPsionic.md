@@ -1,5 +1,7 @@
 # Darkvision, Psionic
 
+[Darkvision, Psionic](/Psionics/D/DarkvisionPsionic.md) - Circle 3, Warrior, Clairsentience
+
 - **Circle:** 3
 - **Category:** Warrior
 - **Discipline:** Clairsentience

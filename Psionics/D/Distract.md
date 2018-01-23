@@ -1,5 +1,7 @@
 # Distract
 
+[Distract](/Psionics/D/Distract.md) - Circle 1, Power, Telepathy
+
 - **Circle:** 1
 - **Category:** Power
 - **Discipline:** Telepathy

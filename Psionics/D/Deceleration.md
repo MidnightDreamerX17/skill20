@@ -1,5 +1,7 @@
 # Deceleration
 
+[Deceleration](/Psionics/D/Deceleration.md) - Circle 1, Nomad, Psychoportation
+
 - **Circle:** 1
 - **Category:** Nomad
 - **Discipline:** Psychoportation

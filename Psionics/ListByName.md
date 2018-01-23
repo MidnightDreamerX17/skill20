@@ -72,39 +72,39 @@
 
 ## D
 
-- [Danger Sense](/Psionics/D/DangerSense.md)
-- [Darkvision, Psionic](/Psionics/D/Darkvision.md)
+- [Danger Sense](/Psionics/D/DangerSense.md) - Circle 3, Seer, Clairsentience
+- [Darkvision, Psionic](/Psionics/D/DarkvisionPsionic.md) - Circle 3, Warrior, Clairsentience
 - [Daze, Psionic](/Psionics/D/DazePsionic.md) - Circle 1, Power, Telepathy
-- [Death Urge](/Psionics/D/DeathUrge.md)
-- [Deceleration](/Psionics/D/Deceleration.md)
-- [Decerebrate](/Psionics/D/Decerebrate.md)
-- [Déjà Vu](/Psionics/D/DejaVu.md)
-- [Demoralize](/Psionics/D/Demoralize.md)
-- [Destiny Dissonance](/Psionics/D/DestinyDissonance.md)
-- [Detect Hostile Intent](/Psionics/D/DetectHostileIntent.md)
-- [Detect Psionics](/Psionics/D/DetectPsionics.md)
-- [Detect Remote Viewing](/Psionics/D/DetectRemoteViewing.md)
-- [Detect Teleportation](/Psionics/D/DetectTeleportation.md)
-- [Dimension Door, Psionic](/Psionics/D/DimensionDoorPsionic.md)
-- [Dimension Slide](/Psionics/D/DimensionSlide.md)
-- [Dimension Swap](/Psionics/D/DimensionSwap.md)
-- [Dimensional Anchor, Psionic](/Psionics/D/DimensionalAnchorPsionic.md)
-- [Disable](/Psionics/D/Disable.md)
-- [Disappearing Trick](/Psionics/D/DisappearingTrick.md)
-- [Disintegrate, Psionic](/Psionics/D/DisintegratePsionic.md)
-- [Dismissal, Psionic](/Psionics/D/DismissalPsionic.md)
-- [Dismiss Ectoplasm](/Psionics/D/DismissEctoplasm.md)
-- [Dispel Psionics](/Psionics/D/DispelPsionics.md)
-- [Dispelling Buffer](/Psionics/D/DispellingBuffer.md)
-- [Dissipating Touch](/Psionics/D/DissipatingTouch.md)
-- [Dissolving Touch](/Psionics/D/DissolvingTouch.md)
-- [Dissolving Weapon](/Psionics/D/DissolvingWeapon.md)
-- [Distract](/Psionics/D/Distract.md)
-- [Divert Teleport](/Psionics/D/DivertTeleport.md)
-- [Divination, Psionic](/Psionics/D/DivinationPsionic.md)
-- [Dominate, Psionic](/Psionics/D/DominatePsionic.md)
-- [Dream Travel](/Psionics/D/DreamTravel.md)
-- [Duodimensional Claw](/Psionics/D/DuodimensionalClaw.md)
+- [Death Urge](/Psionics/D/DeathUrge.md) - Circle 4, Telepath, Telepathy
+- [Deceleration](/Psionics/D/Deceleration.md) - Circle 1, Nomad, Psychoportation
+- [Decerebrate](/Psionics/D/Decerebrate.md) - Circle 7, Power, Psychoportation
+- [Déjà Vu](/Psionics/D/DejaVu.md) - Circle 1, Power, Telepathy
+- [Demoralize](/Psionics/D/Demoralize.md) - Circle 1, Telepath, Telepathy
+- [Destiny Dissonance](/Psionics/D/DestinyDissonance.md) - Circle 2, Seer, Clairsentience
+- [Detect Hostile Intent](/Psionics/D/DetectHostileIntent.md) - Circle 2, Power, Telepathy
+- [Detect Psionics](/Psionics/D/DetectPsionics.md) - Circle 1, Power, Clairsentience
+- [Detect Remote Viewing](/Psionics/D/DetectRemoteViewing.md) - Circle 4, Power, Clairsentience
+- [Detect Teleportation](/Psionics/D/DetectTeleportation.md) - Circle 2, Nomad, Clairsentience
+- [Dimension Door, Psionic](/Psionics/D/DimensionDoorPsionic.md) - Circle 4, Nomad, Psychoportation
+- [Dimension Slide](/Psionics/D/DimensionSlide.md) - Circle 4, Warrior, Psychoportation
+- [Dimension Swap](/Psionics/D/DimensionSwap.md) - Circle 3, Nomad, Psychoportation
+- [Dimensional Anchor, Psionic](/Psionics/D/DimensionalAnchorPsionic.md) - Circle 5, Nomad, Psychoportation
+- [Disable](/Psionics/D/Disable.md) - Circle 1, Power, Telepathy
+- [Disappearing Trick](/Psionics/D/DisappearingTrick.md) - Circle 0, Nomad, Psychoportation
+- [Disintegrate, Psionic](/Psionics/D/DisintegratePsionic.md) - Circle 6, Power, Psychoportation
+- [Dismissal, Psionic](/Psionics/D/DismissalPsionic.md) - Circle 5, Nomad, Psychoportation
+- [Dismiss Ectoplasm](/Psionics/D/DismissEctoplasm.md) - Circle 3, Power, Metacreativity
+- [Dispel Psionics](/Psionics/D/DispelPsionics.md) - Circle 3, Power, Psychokinesis
+- [Dispelling Buffer](/Psionics/D/DispellingBuffer.md) - Circle 7, Kineticist, Psychokinesis
+- [Dissipating Touch](/Psionics/D/DissipatingTouch.md) - Circle 1, Power, Psychoportation
+- [Dissolving Touch](/Psionics/D/DissolvingTouch.md) - Circle 3, Warrior, Psychometabolism
+- [Dissolving Weapon](/Psionics/D/DissolvingWeapon.md) - Circle 3, Warrior, Psychometabolism
+- [Distract](/Psionics/D/Distract.md) - Circle 1, Power, Telepathy
+- [Divert Teleport](/Psionics/D/DivertTeleport.md) - Circle 7, Power, Psychoportation
+- [Divination, Psionic](/Psionics/D/DivinationPsionic.md) - Circle 4, Power, Clairsentience
+- [Dominate, Psionic](/Psionics/D/DominatePsionic.md) - Circle 5, Telepath, Telepathy
+- [Dream Travel](/Psionics/D/DreamTravel.md) - Circle 8, Nomad, Psychoportation
+- [Duodimensional Claw](/Psionics/D/DuodimensionalClaw.md) - Circle 4, Warrior, Psychometabolism
 
 ## E
 
@@ -282,3 +282,7 @@
 ## T
 
 - [Touch Speech](/Psionics/T/TouchSpeech.md)
+
+## V
+
+- [Visualize](/Psionics/V/Visualize.md) - Circle 0, Seer, Clairsentience

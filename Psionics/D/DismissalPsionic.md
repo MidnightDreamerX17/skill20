@@ -1,5 +1,7 @@
 # Dismissal, Psionic
 
+[Dismissal, Psionic](/Psionics/D/DismissalPsionic.md) - Circle 5, Nomad, Psychoportation
+
 - **Circle:** 5
 - **Category:** Nomad
 - **Discipline:** Psychoportation

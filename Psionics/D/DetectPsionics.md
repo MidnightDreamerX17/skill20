@@ -1,5 +1,7 @@
 # Detect Psionics
 
+[Detect Psionics](/Psionics/D/DetectPsionics.md) - Circle 1, Power, Clairsentience
+
 - **Circle:** 1
 - **Category:** Power
 - **Discipline:** Clairsentience

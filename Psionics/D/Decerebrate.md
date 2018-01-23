@@ -1,5 +1,7 @@
 # Decerebrate
 
+[Decerebrate](/Psionics/D/Decerebrate.md) - Circle 7, Power, Psychoportation
+
 - **Circle:** 7
 - **Category:** Power
 - **Discipline:** Psychoportation

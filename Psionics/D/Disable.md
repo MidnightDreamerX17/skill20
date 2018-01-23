@@ -1,5 +1,7 @@
 # Disable
 
+[Disable](/Psionics/D/Disable.md) - Circle 1, Power, Telepathy
+
 - **Circle:** 1
 - **Category:** Power
 - **Discipline:** Telepathy

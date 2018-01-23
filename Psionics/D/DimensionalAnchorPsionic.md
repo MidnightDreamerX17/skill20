@@ -1,5 +1,7 @@
 # Dimensional Anchor, Psionic
 
+[Dimensional Anchor, Psionic](/Psionics/D/DimensionalAnchorPsionic.md) - Circle 5, Nomad, Psychoportation
+
 - **Circle:** 5
 - **Category:** Nomad
 - **Discipline:** Psychoportation

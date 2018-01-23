@@ -1,5 +1,7 @@
 # Detect Hostile Intent
 
+[Detect Hostile Intent](/Psionics/D/DetectHostileIntent.md) - Circle 2, Power, Telepathy
+
 - **Circle:** 2
 - **Category:** Power
 - **Discipline:** Telepathy

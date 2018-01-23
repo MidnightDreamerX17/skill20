@@ -1,5 +1,7 @@
 # Dispel Psionics
 
+[Dispel Psionics](/Psionics/D/DispelPsionics.md) - Circle 3, Power, Psychokinesis
+
 - **Circle:** 3
 - **Category:** Power
 - **Discipline:** Psychokinesis

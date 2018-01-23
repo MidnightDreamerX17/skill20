@@ -1,5 +1,7 @@
 # Demoralize
 
+[Demoralize](/Psionics/D/Demoralize.md) - Circle 1, Telepath, Telepathy
+
 - **Circle:** 1
 - **Category:** Telepath
 - **Discipline:** Telepathy
@@ -12,6 +14,6 @@
 - **Power Resistance:** Yes
 - **Power Points:** 1
 
-You fill your enemies with self-doubt. Any enemy in the area that fails its save becomes shaken for the duration of the power. Allies and creatures without an Intelligence score are unaffected. The shaken condition causes a penalty of -2 to all d20 rolls.
+You fill your enemies with self-doubt. Any enemy in the area that fails its save becomes *shaken* for the duration of the power. Allies and creatures without an Intelligence score are unaffected. The *shaken* condition causes a penalty of -2 to all d20 rolls.
 
 **Augment:** For every 2 additional power points you spend, this power’s map range and the map radius of its area both increase by 5 feet, and the power’s save difficulty increases by 1.

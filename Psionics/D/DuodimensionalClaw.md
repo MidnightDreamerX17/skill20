@@ -1,5 +1,7 @@
 # Duodimensional Claw
 
+[Duodimensional Claw](/Psionics/D/DuodimensionalClaw.md) - Circle 4, Warrior, Psychometabolism
+
 - **Circle:** 4
 - **Category:** Warrior
 - **Discipline:** Psychometabolism

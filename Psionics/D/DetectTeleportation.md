@@ -1,5 +1,7 @@
 # Detect Teleportation
 
+[Detect Teleportation](/Psionics/D/DetectTeleportation.md) - Circle 2, Nomad, Clairsentience
+
 - **Circle:** 2
 - **Category:** Nomad
 - **Discipline:** Clairsentience

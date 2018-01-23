@@ -1,5 +1,7 @@
 # Dimension Slide
 
+[Dimension Slide](/Psionics/D/DimensionSlide.md) - Circle 4, Warrior, Psychoportation
+
 - **Circle:** 4
 - **Category:** Warrior
 - **Discipline:** Psychoportation
@@ -12,7 +14,7 @@
 
 This power is manifested as a move action.
 
-You instantly transfer yourself from your current location to any other spot within range to which you have line of sight. You can bring along possessions that amount to as much as a medium load, including living creatures that weigh as much as 20 pounds. Movement caused by the use of dimension slide does not trigger prepared reactions.
+You instantly transfer yourself from your current location to any other spot within range to which you have line of sight. You can bring along possessions that amount to as much as a medium load, including living creatures that weigh as much as 20 pounds. Movement caused by the use of *Dimension Slide* does not trigger prepared reactions.
 
 If you somehow attempt to transfer yourself to a location occupied by a solid body or a location you can’t see the power simply fails to function.
 

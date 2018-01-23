@@ -41,7 +41,7 @@ The psionic categories are as follows:
 - [Control Body](/Psionics/C/ControlBody.md) - Circle 5, Kineticist, Psychokinesis
 - [Control Flames](/Psionics/C/ControlFlames.md) - Circle 1, Kineticist, Psychokinesis
 - [Control Object](/Psionics/C/ControlObject.md) - Circle 2, Kineticist, Psychokinesis
-- [Dispelling Buffer](/Psionics/D/DispellingBuffer.md)
+- [Dispelling Buffer](/Psionics/D/DispellingBuffer.md) - Circle 7, Kineticist, Psychokinesis
 - [Energy Ball](/Psionics/E/EnergyBall.md)
 - [Energy Bolt](/Psionics/E/EnergyBolt.md)
 - [Energy Burst](/Psionics/E/EnergyBurst.md)
@@ -70,14 +70,14 @@ The psionic categories are as follows:
 - [Baleful Teleport](/Psionics/B/BalefulTeleport.md) - Circle 6, Nomad, Psychoportation
 - [Banishment, Psionic](/Psionics/B/BanishmentPsionic.md) - Circle 7, Nomad, Psychoportation
 - [Burst](/Psionics/B/Burst.md) - Circle 2, Nomad, Psychoportation
-- [Deceleration](/Psionics/D/Deceleration.md)
-- [Detect Teleportation](/Psionics/D/DetectTeleportation.md)
-- [Dimension Door, Psionic](/Psionics/D/DimensionDoorPsionic.md)
-- [Dimension Swap](/Psionics/D/DimensionSwap.md)
-- [Dimensional Anchor, Psionic](/Psionics/D/DimensionalAnchorPsionic.md)
-- [Disappearing Trick](/Psionics/D/DisappearingTrick.md)
-- [Dismissal, Psionic](/Psionics/D/DismissalPsionic.md)
-- [Dream Travel](/Psionics/D/DreamTravel.md)
+- [Deceleration](/Psionics/D/Deceleration.md) - Circle 1, Nomad, Psychoportation
+- [Detect Teleportation](/Psionics/D/DetectTeleportation.md) - Circle 2, Nomad, Clairsentience
+- [Dimension Door, Psionic](/Psionics/D/DimensionDoorPsionic.md) - Circle 4, Nomad, Psychoportation
+- [Dimension Swap](/Psionics/D/DimensionSwap.md) - Circle 3, Nomad, Psychoportation
+- [Dimensional Anchor, Psionic](/Psionics/D/DimensionalAnchorPsionic.md) - Circle 5, Nomad, Psychoportation
+- [Disappearing Trick](/Psionics/D/DisappearingTrick.md) - Circle 0, Nomad, Psychoportation
+- [Dismissal, Psionic](/Psionics/D/DismissalPsionic.md) - Circle 5, Nomad, Psychoportation
+- [Dream Travel](/Psionics/D/DreamTravel.md) - Circle 8, Nomad, Psychoportation
 - [Ethereal Jaunt, Psionic](/Psionics/E/EtherealJaunt.md)
 - [Fly, Psionic](/Psionics/F/FlyPsionic.md)
 - [Levitate, Psionic](/Psionics/L/LevitatePsionic.md)
@@ -102,22 +102,21 @@ The psionic categories are as follows:
 - [Control Sound](/Psionics/C/ControlSound.md) - Circle 2, Power, Psychokinesis
 - [Co-Opt Concentration](/Psionics/C/CoOptConcentration.md) - Circle 6, Power, Telepathy
 - [Create Sound](/Psionics/C/CreateSound.md) - Circle 1, Power, Metacreativity
-- [Danger Sense](/Psionics/D/DangerSense.md)
 - [Daze, Psionic](/Psionics/D/DazePsionic.md) - Circle 1, Power, Telepathy
-- [Decerebrate](/Psionics/D/Decerebrate.md)
-- [Déjà Vu](/Psionics/D/DejaVu.md)
-- [Detect Hostile Intent](/Psionics/D/DetectHostileIntent.md)
-- [Detect Psionics](/Psionics/D/DetectPsionics.md)
-- [Detect Remote Viewing](/Psionics/D/DetectRemoteViewing.md)
-- [Dimension Slide](/Psionics/D/DimensionSlide.md)
-- [Disable](/Psionics/D/Disable.md)
-- [Disintegrate, Psionic](/Psionics/D/DisintegratePsionic.md)
-- [Dismiss Ectoplasm](/Psionics/D/DismissEctoplasm.md)
-- [Dispel Psionics](/Psionics/D/DispelPsionics.md)
-- [Dissipating Touch](/Psionics/D/DissipatingTouch.md)
-- [Distract](/Psionics/D/Distract.md)
-- [Divert Teleport](/Psionics/D/DivertTeleport.md)
-- [Divination, Psionic](/Psionics/D/DivinationPsionic.md)
+- [Decerebrate](/Psionics/D/Decerebrate.md) - Circle 7, Power, Psychoportation
+- [Déjà Vu](/Psionics/D/DejaVu.md) - Circle 1, Power, Telepathy
+- [Detect Hostile Intent](/Psionics/D/DetectHostileIntent.md) - Circle 2, Power, Telepathy
+- [Detect Psionics](/Psionics/D/DetectPsionics.md) - Circle 1, Power, Clairsentience
+- [Detect Remote Viewing](/Psionics/D/DetectRemoteViewing.md) - Circle 4, Power, Clairsentience
+- [Dimension Slide](/Psionics/D/DimensionSlide.md) - Circle 4, Warrior, Psychoportation
+- [Disable](/Psionics/D/Disable.md) - Circle 1, Power, Telepathy
+- [Disintegrate, Psionic](/Psionics/D/DisintegratePsionic.md) - Circle 6, Power, Psychoportation
+- [Dismiss Ectoplasm](/Psionics/D/DismissEctoplasm.md) - Circle 3, Power, Metacreativity
+- [Dispel Psionics](/Psionics/D/DispelPsionics.md) - Circle 3, Power, Psychokinesis
+- [Dissipating Touch](/Psionics/D/DissipatingTouch.md) - Circle 1, Power, Psychoportation
+- [Distract](/Psionics/D/Distract.md) - Circle 1, Power, Telepathy
+- [Divert Teleport](/Psionics/D/DivertTeleport.md) - Circle 7, Power, Psychoportation
+- [Divination, Psionic](/Psionics/D/DivinationPsionic.md) - Circle 4, Power, Clairsentience
 - [Ecto Protection](/Psionics/E/EctoProtection.md)
 - [Ectoplasmic Shambler](/Psionics/E/EctoplasmicShambler.md)
 - [Ego Whip](/Psionics/E/EgoWhip.md)
@@ -144,7 +143,8 @@ The psionic categories are as follows:
 - [Anchored Navigation](/Psionics/A/AnchoredNavigation.md) - Circle 5, Seer, Clairsentience
 - [Clairtangent Hand](/Psionics/C/ClairtangentHand.md) - Circle 6, Seer, Clairsentience
 - [Clairvoyant Sense](/Psionics/C/ClairvoyantSense.md) - Circle 3, Seer, Clairsentience
-- [Destiny Dissonance](/Psionics/D/DestinyDissonance.md)
+- [Danger Sense](/Psionics/D/DangerSense.md) - Circle 3, Seer, Clairsentience
+- [Destiny Dissonance](/Psionics/D/DestinyDissonance.md) - Circle 2, Seer, Clairsentience
 - [Escape Detection](/Psionics/E/EscapeDetection.md)
 - [Fate Link](/Psionics/F/FateLink.md)
 - [Fate of One](/Psionics/F/FateOfOne.md)
@@ -156,6 +156,7 @@ The psionic categories are as follows:
 - [Object Reading](/Psionics/O/ObjectReading.md)
 - [Precognition](/Psionics/P/Precognition.md)
 - [Precognition, Greater](/Psionics/P/PrecognitionGreater.md)
+- [Visualize](/Psionics/V/Visualize.md) - Circle 0, Seer, Clairsentience
 
 ## Shaper
 
@@ -191,9 +192,9 @@ The psionic categories are as follows:
 - [Correspond](/Psionics/C/Correspond.md) - Circle 4, Telepath, Telepathy
 - [Crisis of Breath](/Psionics/C/CrisisOfBreath.md) - Circle 4, Telepath, Telepathy
 - [Crisis of Life](/Psionics/C/CrisisOfLife.md) - Circle 8, Telepath, Telepathy
-- [Death Urge](/Psionics/D/DeathUrge.md)
-- [Demoralize](/Psionics/D/Demoralize.md)
-- [Dominate, Psionic](/Psionics/D/DominatePsionic.md)
+- [Death Urge](/Psionics/D/DeathUrge.md) - Circle 4, Telepath, Telepathy
+- [Demoralize](/Psionics/D/Demoralize.md) - Circle 1, Telepath, Telepathy
+- [Dominate, Psionic](/Psionics/D/DominatePsionic.md) - Circle 5, Telepath, Telepathy
 - [Empathic Transfer, Hostile](/Psionics/E/EmpathicTransferHostile.md)
 - [Empathy](/Psionics/E/Empathy.md)
 - [False Sensory Input](/Psionics/F/FalseSensoryInput.md)
@@ -234,10 +235,10 @@ The psionic categories are as follows:
 - [Claws of the Beast](/Psionics/C/ClawsOfTheBeast.md) - Circle 2, Warrior, Psychometabolism
 - [Claws of the Vampire](/Psionics/C/ClawsOfTheVampire.md) - Circle 4, Warrior, Psychometabolism
 - [Compression](/Psionics/C/Compression.md) - Circle 2, Warrior, Psychometabolism
-- [Darkvision, Psionic](/Psionics/D/Darkvision.md)
-- [Dissolving Touch](/Psionics/D/DissolvingTouch.md)
-- [Dissolving Weapon](/Psionics/D/DissolvingWeapon.md)
-- [Duodimensional Claw](/Psionics/D/DuodimensionalClaw.md)
+- [Darkvision, Psionic](/Psionics/D/DarkvisionPsionic.md) - Circle 3, Warrior, Clairsentience
+- [Dissolving Touch](/Psionics/D/DissolvingTouch.md) - Circle 3, Warrior, Psychometabolism
+- [Dissolving Weapon](/Psionics/D/DissolvingWeapon.md) - Circle 3, Warrior, Psychometabolism
+- [Duodimensional Claw](/Psionics/D/DuodimensionalClaw.md) - Circle 4, Warrior, Psychometabolism
 - [Evade Burst](/Psionics/E/EvadeBurst.md)
 - [Exhalation of the Black Dragon](/Psionics/ExhalationOfTheBlackDragon.md)
 - [Expansion](/Psionics/E/Expansion.md)

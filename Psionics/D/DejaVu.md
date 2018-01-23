@@ -1,5 +1,7 @@
 # Déjà Vu
 
+[Déjà Vu](/Psionics/D/DejaVu.md) - Circle 1, Power, Telepathy
+
 - **Circle:** 1
 - **Category:** Power
 - **Discipline:** Telepathy

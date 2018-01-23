@@ -1,5 +1,7 @@
 # Dispelling Buffer
 
+[Dispelling Buffer](/Psionics/D/DispellingBuffer.md) - Circle 7, Kineticist, Psychokinesis
+
 - **Circle:** 7
 - **Category:** Kineticist
 - **Discipline:** Psychokinesis

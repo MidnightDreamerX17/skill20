@@ -1,5 +1,7 @@
 # Disappearing Trick
 
+[Disappearing Trick](/Psionics/D/DisappearingTrick.md) - Circle 0, Nomad, Psychoportation
+
 - **Circle:** 0
 - **Category:** Nomad
 - **Discipline:** Psychoportation

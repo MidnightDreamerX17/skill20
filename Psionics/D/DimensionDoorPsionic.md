@@ -1,5 +1,7 @@
 # Dimension Door, Psionic
 
+[Dimension Door, Psionic](/Psionics/D/DimensionDoorPsionic.md) - Circle 4, Nomad, Psychoportation
+
 - **Circle:** 4
 - **Category:** Nomad
 - **Discipline:** Psychoportation

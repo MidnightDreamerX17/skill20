@@ -1,5 +1,7 @@
 # Detect Remote Viewing
 
+[Detect Remote Viewing](/Psionics/D/DetectRemoteViewing.md) - Circle 4, Power, Clairsentience
+
 - **Circle:** 4
 - **Category:** Power
 - **Discipline:** Clairsentience

@@ -1,7 +1,9 @@
 # Danger Sense
 
+[Danger Sense](/Psionics/D/DangerSense.md) - Circle 3, Seer, Clairsentience
+
 - **Circle:** 3
-- **Category:** Power
+- **Category:** Seer
 - **Discipline:** Clairsentience
 - **Display:** Visual
 - **Map Range:** Personal
