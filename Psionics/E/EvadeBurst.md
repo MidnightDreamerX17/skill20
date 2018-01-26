@@ -1,5 +1,7 @@
 # Evade Burst
 
+[Evade Burst](/Psionics/E/EvadeBurst.md) - Circle 4, Warrior, Psychometabolism
+
 - **Circle:** 4
 - **Category:** Warrior
 - **Discipline:** Psychometabolism

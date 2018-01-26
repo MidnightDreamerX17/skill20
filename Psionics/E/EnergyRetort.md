@@ -1,5 +1,7 @@
 # Energy Retort
 
+[Energy Retort](/Psionics/E/EnergyRetort.md) - Circle 3, Kineticist, Psychokinesis
+
 - **Circle:** 3
 - **Category:** Kineticist
 - **Discipline:** Psychokinesis [see text]

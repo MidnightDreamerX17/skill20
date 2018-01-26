@@ -1,5 +1,7 @@
 # Ectoplasmic Cocoon, Mass
 
+[Ectoplasmic Cocoon, Mass](/Psionics/E/EctoplasmicCocoonMass.md) - Circle 8, Shaper, Metacreativity
+
 - **Circle:** 8
 - **Category:** Shaper
 - **Discipline:** Metacreativity

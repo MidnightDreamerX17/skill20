@@ -1,5 +1,7 @@
 # Energy Wall
 
+[Energy Wall](/Psionics/E/EnergyWall.md) - Circle 3, Kineticist, Metacreativity
+
 - **Circle:** 3
 - **Category:** Kineticist
 - **Discipline:** Metacreativity (Creation) [see text]

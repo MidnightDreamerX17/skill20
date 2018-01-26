@@ -1,5 +1,7 @@
 # Empathic Transfer
 
+[Empathic Transfer](/Psionics/E/EmpathicTransfer.md) - Circle 3, Egoist, Psychometabolism
+
 - **Circle:** 3
 - **Category:** Egoist
 - **Discipline:** Psychometabolism
@@ -16,4 +18,4 @@ Alternatively, you can use this power to absorb one poison or one disease afflic
 
 Finally, you can use this power to transfer up to 1 point of ability damage per manifester level from the target to yourself.
 
-**Augment:** For every additional power point you spend, you can heal an additional 2d10 points of damage.
+**Augment:** For every additional power point you spend, you can heal an additional 2d10 points of damage. This still follows the rule that you take half that much damage to yourself.

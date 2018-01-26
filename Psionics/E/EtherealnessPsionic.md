@@ -1,5 +1,7 @@
 # Etherealness, Psionic
 
+[Etherealness, Psionic](/Psionics/E/EtherealnessPsionic.md) - Circle 9, Power, Psychoportation
+
 - **Circle:** 9
 - **Category:** Power
 - **Discipline:** Psychoportation

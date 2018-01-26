@@ -1,5 +1,7 @@
 # Ectoplasmic Form
 
+[Ectoplasmic Form](/Psionics/E/EctoplasmicForm.md) - Circle 4, Egoist, Psychometabolism
+
 - **Circle:** 4
 - **Category:** Egoist
 - **Discipline:** Psychometabolism
@@ -9,7 +11,7 @@
 - **Duration:** 1 minute per manifester level (D)
 - **Power Points:** 5
 
-You and all your gear become a partially translucent mass of rippling ectoplasm that generally conforms to your normal shape. You gain a bonus of +10 to Armor Class, and you gain immunity to poison and critical hits. Your material armor (including inertial armor) becomes meaningless, although your size, Dexterity, magical reinforcement on armor, and psionic reinforcement on armor still apply to your Armor Class.
+You and all your gear become a partially translucent mass of rippling ectoplasm that generally conforms to your normal shape. You gain a bonus of +10 to Armor Class, and you gain immunity to poison and critical hits. Your armor (including *Inertial Armor*) becomes meaningless, although your size, natural armor, Dexterity, magical reinforcement on armor, and psionic reinforcement on armor still apply to your Armor Class.
 
 You can manifest powers while in *Ectoplasmic Form*, but you must make a concentration check (difficulty 20 + power circle) for each power you attempt to manifest.
 

@@ -108,40 +108,41 @@
 
 ## E
 
-- [Ecto Protection](/Psionics/E/EctoProtection.md)
-- [Ectoplasmic Cocoon](/Psionics/E/EctoplasmicCocoon.md)
-- [Ectoplasmic Cocoon, Mass](/Psionics/E/EctoplasmicCocoonMass.md)
-- [Ectoplasmic Form](/Psionics/E/EctoplasmicForm.md)
-- [Ectoplasmic Shambler](/Psionics/E/EctoplasmicShambler.md)
-- [Ego Whip](/Psionics/E/EgoWhip.md)
-- [Elfsight](/Psionics/E/Elfsight.md)
-- [Empathic Feedback](/Psionics/E/EmpathicFeedback.md)
-- [Empathic Transfer](/Psionics/E/EmpathicTransfer.md)
-- [Empathic Transfer, Hostile](/Psionics/E/EmpathicTransferHostile.md)
-- [Empathy](/Psionics/E/Empathy.md)
-- [Empty Mind](/Psionics/E/EmptyMind.md)
-- [Energy Adaptation](/Psionics/E/EnergyAdaptation.md)
-- [Energy Adaptation, Specified](/Psionics/E/EnergyAdaptationSpecified.md)
-- [Energy Ball](/Psionics/E/EnergyBall.md)
-- [Energy Bolt](/Psionics/E/EnergyBolt.md)
-- [Energy Burst](/Psionics/E/EnergyBurst.md)
-- [Energy Cone](/Psionics/E/EnergyCone.md)
-- [Energy Conversion](/Psionics/E/EnergyConversion.md)
-- [Energy Current](/Psionics/E/EnergyCurrent.md)
-- [Energy Missile](/Psionics/E/EnergyMissile.md)
-- [Energy Push](/Psionics/E/EnergyPush.md)
-- [Energy Ray](/Psionics/E/EnergyRay.md)
-- [Energy Retort](/Psionics/E/EnergyRetort.md)
-- [Energy Wall](/Psionics/E/EnergyWall.md)
-- [Energy Wave](/Psionics/E/EnergyWave.md)
-- [Entangling Ectoplasm](/Psionics/E/EntanglingEctoplasm.md)
-- [Eradicate Invisibility](/Psionics/E/EradicateInvisibility.md)
-- [Escape Detection](/Psionics/E/EscapeDetection.md)
-- [Ethereal Jaunt, Psionic](/Psionics/E/EtherealJaunt.md)
-- [Etherealness, Psionic](/Psionics/E/EtherealnessPsionic.md)
-- [Evade Burst](/Psionics/E/EvadeBurst.md)
-- [Exhalation of the Black Dragon](/Psionics/ExhalationOfTheBlackDragon.md)
-- [Expansion](/Psionics/E/Expansion.md)
+- [Ecto Protection](/Psionics/E/EctoProtection.md) - Circle 1, Power, Metacreativity
+- [Ectoplasmic Cocoon](/Psionics/E/EctoplasmicCocoon.md) - Circle 4, Shaper, Metacreativity
+- [Ectoplasmic Cocoon, Mass](/Psionics/E/EctoplasmicCocoonMass.md) - Circle 8, Shaper, Metacreativity
+- [Ectoplasmic Form](/Psionics/E/EctoplasmicForm.md) - Circle 4, Egoist, Psychometabolism
+- [Ectoplasmic Shambler](/Psionics/E/EctoplasmicShambler.md) - Circle 5, Power, Metacreativity
+- [Ego Whip](/Psionics/E/EgoWhip.md) - Circle 2, Power, Telepathy
+- [Elfsight](/Psionics/E/Elfsight.md) - Circle 2, Seer, Psychometabolism
+- [Empathic Feedback](/Psionics/E/EmpathicFeedback.md) - Circle 4, Power, Telepathy
+- [Empathic Transfer](/Psionics/E/EmpathicTransfer.md) - Circle 3, Egoist, Psychometabolism
+- [Empathic Transfer, Hostile](/Psionics/E/EmpathicTransferHostile.md) - Circle 4, Telepath, Telepathy
+- [Empathy](/Psionics/E/Empathy.md) - Circle 1, Telepath, Telepathy
+- [Empty Mind](/Psionics/E/EmptyMind.md) - Circle 1, Power, Telepathy
+- [Energy Adaptation](/Psionics/E/EnergyAdaptation.md) - Circle 4, Egoist, Psychometabolism
+- [Energy Adaptation, Specified](/Psionics/E/EnergyAdaptationSpecified.md) - Circle 2, Egoist, Psychometabolism
+- [Energy Ball](/Psionics/E/EnergyBall.md) - Circle 5, Kineticist, Psychokinesis
+- [Energy Bolt](/Psionics/E/EnergyBolt.md) - Circle 3, Kineticist, Psychokinesis
+- [Energy Burst](/Psionics/E/EnergyBurst.md) - Circle 3, Kineticist, Psychokinesis
+- [Energy Cone](/Psionics/E/EnergyCone.md) - Circle 4, Kineticist, Psychokinesis
+- [Energy Conversion](/Psionics/E/EnergyConversion.md) - Circle 7, Egoist, Psychometabolism
+- [Energy Current](/Psionics/E/EnergyCurrent.md) - Circle 6, Kineticist, Psychokinesis
+- [Energy Missile](/Psionics/E/EnergyMissile.md) - Circle 3, Kineticist, Psychokinesis
+- [Energy Push](/Psionics/E/EnergyPush.md) - Circle 2, Kineticist, Psychokinesis
+- [Energy Ray](/Psionics/E/EnergyRay.md) - Circle 1, Kineticist, Psychokinesis
+- [Energy Retort](/Psionics/E/EnergyRetort.md) - Circle 3, Kineticist, Psychokinesis
+- [Energy Stun](/Psionics/E/EnergyStun.md) - Circle 2, Kineticist, Psychokinesis
+- [Energy Wall](/Psionics/E/EnergyWall.md) - Circle 3, Kineticist, Metacreativity
+- [Energy Wave](/Psionics/E/EnergyWave.md) - Circle 7, Kineticist, Psychokinesis
+- [Entangling Ectoplasm](/Psionics/E/EntanglingEctoplasm.md) - Circle 1, Power, Metacreativity
+- [Eradicate Invisibility](/Psionics/E/EradicateInvisibility.md) - Circle 3, Power, Psychokinesis
+- [Escape Detection](/Psionics/E/EscapeDetection.md) - Circle 4, Seer, Clairsentience
+- [Ethereal Jaunt, Psionic](/Psionics/E/EtherealJauntPsionic.md) - Circle 8, Nomad, Psychoportation
+- [Etherealness, Psionic](/Psionics/E/EtherealnessPsionic.md) - Circle 9, Power, Psychoportation
+- [Evade Burst](/Psionics/E/EvadeBurst.md) - Circle 4, Warrior, Psychometabolism
+- [Exhalation of the Black Dragon](/Psionics/E/ExhalationOfTheBlackDragon.md) - Circle 4, Warrior, Psychometabolism
+- [Expansion](/Psionics/E/Expansion.md) - Circle 2, Warrior, Psychometabolism
 
 ## F
 

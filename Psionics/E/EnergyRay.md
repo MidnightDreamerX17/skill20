@@ -1,5 +1,7 @@
 # Energy Ray
 
+[Energy Ray](/Psionics/E/EnergyRay.md) - Circle 1, Kineticist, Psychokinesis
+
 - **Circle:** 1
 - **Category:** Kineticist
 - **Discipline:** Psychokinesis [see text]

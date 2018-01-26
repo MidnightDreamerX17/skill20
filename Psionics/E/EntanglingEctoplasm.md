@@ -1,5 +1,7 @@
 # Entangling Ectoplasm
 
+[Entangling Ectoplasm](/Psionics/E/EntanglingEctoplasm.md) - Circle 1, Power, Metacreativity
+
 - **Circle:** 1
 - **Category:** Power
 - **Discipline:** Metacreativity

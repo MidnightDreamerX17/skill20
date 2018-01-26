@@ -1,5 +1,7 @@
 # Energy Current
 
+[Energy Current](/Psionics/E/EnergyCurrent.md) - Circle 6, Kineticist, Psychokinesis
+
 - **Circle:** 6
 - **Category:** Kineticist
 - **Discipline:** Psychokinesis [see text]

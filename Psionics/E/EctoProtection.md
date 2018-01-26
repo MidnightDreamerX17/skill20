@@ -1,5 +1,7 @@
 # Ecto Protection
 
+[Ecto Protection](/Psionics/E/EctoProtection.md) - Circle 1, Power, Metacreativity
+
 - **Circle:** 1
 - **Category:** Power
 - **Discipline:** Metacreativity

@@ -1,5 +1,7 @@
 # Energy Bolt
 
+[Energy Bolt](/Psionics/E/EnergyBolt.md) - Circle 3, Kineticist, Psychokinesis
+
 - **Circle:** 3
 - **Category:** Kineticist
 - **Discipline:** Psychokinesis [see text]

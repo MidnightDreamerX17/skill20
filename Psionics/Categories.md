@@ -14,11 +14,11 @@ The psionic categories are as follows:
 ## Egoist
 
 - [Chameleon](/Psionics/C/Chameleon.md) - Circle 2, Egoist, Psychometabolism
-- [Ectoplasmic Form](/Psionics/E/EctoplasmicForm.md)
-- [Empathic Transfer](/Psionics/E/EmpathicTransfer.md)
-- [Energy Adaptation](/Psionics/E/EnergyAdaptation.md)
-- [Energy Adaptation, Specified](/Psionics/E/EnergyAdaptationSpecified.md)
-- [Energy Conversion](/Psionics/E/EnergyConversion.md)
+- [Ectoplasmic Form](/Psionics/E/EctoplasmicForm.md) - Circle 4, Egoist, Psychometabolism
+- [Empathic Transfer](/Psionics/E/EmpathicTransfer.md) - Circle 3, Egoist, Psychometabolism
+- [Energy Adaptation](/Psionics/E/EnergyAdaptation.md) - Circle 4, Egoist, Psychometabolism
+- [Energy Adaptation, Specified](/Psionics/E/EnergyAdaptationSpecified.md) - Circle 2, Egoist, Psychometabolism
+- [Energy Conversion](/Psionics/E/EnergyConversion.md) - Circle 7, Egoist, Psychometabolism
 - [Fission](/Psionics/F/Fission.md)
 - [Fusion](/Psionics/F/Fusion.md)
 - [Hustle](/Psionics/H/Hustle.md)
@@ -42,17 +42,18 @@ The psionic categories are as follows:
 - [Control Flames](/Psionics/C/ControlFlames.md) - Circle 1, Kineticist, Psychokinesis
 - [Control Object](/Psionics/C/ControlObject.md) - Circle 2, Kineticist, Psychokinesis
 - [Dispelling Buffer](/Psionics/D/DispellingBuffer.md) - Circle 7, Kineticist, Psychokinesis
-- [Energy Ball](/Psionics/E/EnergyBall.md)
-- [Energy Bolt](/Psionics/E/EnergyBolt.md)
-- [Energy Burst](/Psionics/E/EnergyBurst.md)
-- [Energy Cone](/Psionics/E/EnergyCone.md)
-- [Energy Current](/Psionics/E/EnergyCurrent.md)
-- [Energy Missile](/Psionics/E/EnergyMissile.md)
-- [Energy Push](/Psionics/E/EnergyPush.md)
-- [Energy Ray](/Psionics/E/EnergyRay.md)
-- [Energy Retort](/Psionics/E/EnergyRetort.md)
-- [Energy Wall](/Psionics/E/EnergyWall.md)
-- [Energy Wave](/Psionics/E/EnergyWave.md)
+- [Energy Ball](/Psionics/E/EnergyBall.md) - Circle 5, Kineticist, Psychokinesis
+- [Energy Bolt](/Psionics/E/EnergyBolt.md) - Circle 3, Kineticist, Psychokinesis
+- [Energy Burst](/Psionics/E/EnergyBurst.md) - Circle 3, Kineticist, Psychokinesis
+- [Energy Cone](/Psionics/E/EnergyCone.md) - Circle 4, Kineticist, Psychokinesis
+- [Energy Current](/Psionics/E/EnergyCurrent.md) - Circle 6, Kineticist, Psychokinesis
+- [Energy Missile](/Psionics/E/EnergyMissile.md) - Circle 3, Kineticist, Psychokinesis
+- [Energy Push](/Psionics/E/EnergyPush.md) - Circle 2, Kineticist, Psychokinesis
+- [Energy Ray](/Psionics/E/EnergyRay.md) - Circle 1, Kineticist, Psychokinesis
+- [Energy Retort](/Psionics/E/EnergyRetort.md) - Circle 3, Kineticist, Psychokinesis
+- [Energy Stun](/Psionics/E/EnergyStun.md) - Circle 2, Kineticist, Psychokinesis
+- [Energy Wall](/Psionics/E/EnergyWall.md) - Circle 3, Kineticist, Metacreativity
+- [Energy Wave](/Psionics/E/EnergyWave.md) - Circle 7, Kineticist, Psychokinesis
 - [Far Hand](/Psionics/F/FarHand.md)
 - [Fiery Discorporation](/Psionics/F/FieryDiscorporation.md)
 - [Inertial Barrier](/Psionics/I/InertialBarrier.md)
@@ -78,7 +79,7 @@ The psionic categories are as follows:
 - [Disappearing Trick](/Psionics/D/DisappearingTrick.md) - Circle 0, Nomad, Psychoportation
 - [Dismissal, Psionic](/Psionics/D/DismissalPsionic.md) - Circle 5, Nomad, Psychoportation
 - [Dream Travel](/Psionics/D/DreamTravel.md) - Circle 8, Nomad, Psychoportation
-- [Ethereal Jaunt, Psionic](/Psionics/E/EtherealJaunt.md)
+- [Ethereal Jaunt, Psionic](/Psionics/E/EtherealJauntPsionic.md) - Circle 8, Nomad, Psychoportation
 - [Fly, Psionic](/Psionics/F/FlyPsionic.md)
 - [Levitate, Psionic](/Psionics/L/LevitatePsionic.md)
 - [Motion Adaptation](/Psionics/M/MotionAdaptation.md) - Circle 0, Nomad, Psychoportation
@@ -117,15 +118,14 @@ The psionic categories are as follows:
 - [Distract](/Psionics/D/Distract.md) - Circle 1, Power, Telepathy
 - [Divert Teleport](/Psionics/D/DivertTeleport.md) - Circle 7, Power, Psychoportation
 - [Divination, Psionic](/Psionics/D/DivinationPsionic.md) - Circle 4, Power, Clairsentience
-- [Ecto Protection](/Psionics/E/EctoProtection.md)
-- [Ectoplasmic Shambler](/Psionics/E/EctoplasmicShambler.md)
-- [Ego Whip](/Psionics/E/EgoWhip.md)
-- [Elfsight](/Psionics/E/Elfsight.md)
-- [Empathic Feedback](/Psionics/E/EmpathicFeedback.md)
-- [Empty Mind](/Psionics/E/EmptyMind.md)
-- [Entangling Ectoplasm](/Psionics/E/EntanglingEctoplasm.md)
-- [Eradicate Invisibility](/Psionics/E/EradicateInvisibility.md)
-- [Etherealness, Psionic](/Psionics/E/EtherealnessPsionic.md)
+- [Ecto Protection](/Psionics/E/EctoProtection.md) - Circle 1, Power, Metacreativity
+- [Ectoplasmic Shambler](/Psionics/E/EctoplasmicShambler.md) - Circle 5, Power, Metacreativity
+- [Ego Whip](/Psionics/E/EgoWhip.md) - Circle 2, Power, Telepathy
+- [Empathic Feedback](/Psionics/E/EmpathicFeedback.md) - Circle 4, Power, Telepathy
+- [Empty Mind](/Psionics/E/EmptyMind.md) - Circle 1, Power, Telepathy
+- [Entangling Ectoplasm](/Psionics/E/EntanglingEctoplasm.md) - Circle 1, Power, Metacreativity
+- [Eradicate Invisibility](/Psionics/E/EradicateInvisibility.md) - Circle 3, Power, Psychokinesis
+- [Etherealness, Psionic](/Psionics/E/EtherealnessPsionic.md) - Circle 9, Power, Psychoportation
 - [Grease, Psionic](/Psionics/G/GreasePsionic.md)
 - [Incarnate](/Psionics/I/Incarnate.md)
 - [Leech Field](/Psionics/L/LeechField.md)
@@ -145,7 +145,8 @@ The psionic categories are as follows:
 - [Clairvoyant Sense](/Psionics/C/ClairvoyantSense.md) - Circle 3, Seer, Clairsentience
 - [Danger Sense](/Psionics/D/DangerSense.md) - Circle 3, Seer, Clairsentience
 - [Destiny Dissonance](/Psionics/D/DestinyDissonance.md) - Circle 2, Seer, Clairsentience
-- [Escape Detection](/Psionics/E/EscapeDetection.md)
+- [Escape Detection](/Psionics/E/EscapeDetection.md) - Circle 4, Seer, Clairsentience
+- [Elfsight](/Psionics/E/Elfsight.md) - Circle 2, Seer, Psychometabolism
 - [Fate Link](/Psionics/F/FateLink.md)
 - [Fate of One](/Psionics/F/FateOfOne.md)
 - [Hand Eye](/Psionics/H/HandEye.md)
@@ -168,8 +169,8 @@ The psionic categories are as follows:
 - [Concealing Amorpha, Greater](/Psionics/C/ConcealingAmorphaGreater.md) - Circle 4, Shaper, Metacreativity
 - [Crystal Shard](/Psionics/C/CrystalShard.md) - Circle 1, Shaper, Metacreativity
 - [Crystallize](/Psionics/C/Crystallize.md) - Circle 7, Shaper, Metacreativity
-- [Ectoplasmic Cocoon](/Psionics/E/EctoplasmicCocoon.md)
-- [Ectoplasmic Cocoon, Mass](/Psionics/E/EctoplasmicCocoonMass.md)
+- [Ectoplasmic Cocoon](/Psionics/E/EctoplasmicCocoon.md) - Circle 4, Shaper, Metacreativity
+- [Ectoplasmic Cocoon, Mass](/Psionics/E/EctoplasmicCocoonMass.md) - Circle 8, Shaper, Metacreativity
 - [Fabricate, Psionic](/Psionics/F/FabricatePsionic.md)
 - [Fabricate, Greater Psionic](/Psionics/F/FabricateGreaterPsionic.md)
 - [Fuse Flesh](/Psionics/F/FuseFlesh.md)
@@ -195,8 +196,8 @@ The psionic categories are as follows:
 - [Death Urge](/Psionics/D/DeathUrge.md) - Circle 4, Telepath, Telepathy
 - [Demoralize](/Psionics/D/Demoralize.md) - Circle 1, Telepath, Telepathy
 - [Dominate, Psionic](/Psionics/D/DominatePsionic.md) - Circle 5, Telepath, Telepathy
-- [Empathic Transfer, Hostile](/Psionics/E/EmpathicTransferHostile.md)
-- [Empathy](/Psionics/E/Empathy.md)
+- [Empathic Transfer, Hostile](/Psionics/E/EmpathicTransferHostile.md) - Circle 4, Telepath, Telepathy
+- [Empathy](/Psionics/E/Empathy.md) - Circle 1, Telepath, Telepathy
 - [False Sensory Input](/Psionics/F/FalseSensoryInput.md)
 - [Id Insinuation](/Psionics/I/IdInsinuation.md)
 - [Inflict Pain](/Psionics/I/InflictPain.md)
@@ -239,9 +240,9 @@ The psionic categories are as follows:
 - [Dissolving Touch](/Psionics/D/DissolvingTouch.md) - Circle 3, Warrior, Psychometabolism
 - [Dissolving Weapon](/Psionics/D/DissolvingWeapon.md) - Circle 3, Warrior, Psychometabolism
 - [Duodimensional Claw](/Psionics/D/DuodimensionalClaw.md) - Circle 4, Warrior, Psychometabolism
-- [Evade Burst](/Psionics/E/EvadeBurst.md)
-- [Exhalation of the Black Dragon](/Psionics/ExhalationOfTheBlackDragon.md)
-- [Expansion](/Psionics/E/Expansion.md)
+- [Evade Burst](/Psionics/E/EvadeBurst.md) - Circle 4, Warrior, Psychometabolism
+- [Exhalation of the Black Dragon](/Psionics/E/ExhalationOfTheBlackDragon.md) - Circle 4, Warrior, Psychometabolism
+- [Expansion](/Psionics/E/Expansion.md) - Circle 2, Warrior, Psychometabolism
 - [Feat Leech](/Psionics/F/FeatLeech.md)
 - [Float](/Psionics/F/Float.md)
 - [Force Screen](/Psionics/F/ForceScreen.md)

@@ -24,7 +24,7 @@ The psionic disciplines are as follows:
 - [Detect Remote Viewing](/Psionics/D/DetectRemoteViewing.md) - Circle 4, Power, Clairsentience
 - [Detect Teleportation](/Psionics/D/DetectTeleportation.md) - Circle 2, Nomad, Clairsentience
 - [Divination, Psionic](/Psionics/D/DivinationPsionic.md) - Circle 4, Power, Clairsentience
-- [Escape Detection](/Psionics/E/EscapeDetection.md)
+- [Escape Detection](/Psionics/E/EscapeDetection.md) - Circle 4, Seer, Clairsentience
 - [Fate Link](/Psionics/F/FateLink.md)
 - [Fate of One](/Psionics/F/FateOfOne.md)
 - [Feat Leech](/Psionics/F/FeatLeech.md)
@@ -57,12 +57,12 @@ The psionic disciplines are as follows:
 - [Crystal Shard](/Psionics/C/CrystalShard.md) - Circle 1, Shaper, Metacreativity
 - [Crystallize](/Psionics/C/Crystallize.md) - Circle 7, Shaper, Metacreativity
 - [Dismiss Ectoplasm](/Psionics/D/DismissEctoplasm.md) - Circle 3, Power, Metacreativity
-- [Ecto Protection](/Psionics/E/EctoProtection.md)
-- [Ectoplasmic Cocoon](/Psionics/E/EctoplasmicCocoon.md)
-- [Ectoplasmic Cocoon, Mass](/Psionics/E/EctoplasmicCocoonMass.md)
-- [Ectoplasmic Shambler](/Psionics/E/EctoplasmicShambler.md)
-- [Energy Wall](/Psionics/E/EnergyWall.md)
-- [Entangling Ectoplasm](/Psionics/E/EntanglingEctoplasm.md)
+- [Ecto Protection](/Psionics/E/EctoProtection.md) - Circle 1, Power, Metacreativity
+- [Ectoplasmic Cocoon](/Psionics/E/EctoplasmicCocoon.md) - Circle 4, Shaper, Metacreativity
+- [Ectoplasmic Cocoon, Mass](/Psionics/E/EctoplasmicCocoonMass.md) - Circle 8, Shaper, Metacreativity
+- [Ectoplasmic Shambler](/Psionics/E/EctoplasmicShambler.md) - Circle 5, Power, Metacreativity
+- [Energy Wall](/Psionics/E/EnergyWall.md) - Circle 3, Kineticist, Metacreativity
+- [Entangling Ectoplasm](/Psionics/E/EntanglingEctoplasm.md) - Circle 1, Power, Metacreativity
 - [Fabricate, Psionic](/Psionics/F/FabricatePsionic.md)
 - [Fabricate, Greater Psionic](/Psionics/F/FabricateGreaterPsionic.md)
 - [Genesis](/Psionics/G/Genesis.md)
@@ -89,17 +89,18 @@ The psionic disciplines are as follows:
 - [Control Sound](/Psionics/C/ControlSound.md) - Circle 2, Power, Psychokinesis
 - [Dispel Psionics](/Psionics/D/DispelPsionics.md) - Circle 3, Power, Psychokinesis
 - [Dispelling Buffer](/Psionics/D/DispellingBuffer.md) - Circle 7, Kineticist, Psychokinesis
-- [Energy Ball](/Psionics/E/EnergyBall.md)
-- [Energy Bolt](/Psionics/E/EnergyBolt.md)
-- [Energy Burst](/Psionics/E/EnergyBurst.md)
-- [Energy Cone](/Psionics/E/EnergyCone.md)
-- [Energy Current](/Psionics/E/EnergyCurrent.md)
-- [Energy Missile](/Psionics/E/EnergyMissile.md)
-- [Energy Push](/Psionics/E/EnergyPush.md)
-- [Energy Ray](/Psionics/E/EnergyRay.md)
-- [Energy Retort](/Psionics/E/EnergyRetort.md)
-- [Energy Wave](/Psionics/E/EnergyWave.md)
-- [Eradicate Invisibility](/Psionics/E/EradicateInvisibility.md)
+- [Energy Ball](/Psionics/E/EnergyBall.md) - Circle 5, Kineticist, Psychokinesis
+- [Energy Bolt](/Psionics/E/EnergyBolt.md) - Circle 3, Kineticist, Psychokinesis
+- [Energy Burst](/Psionics/E/EnergyBurst.md) - Circle 3, Kineticist, Psychokinesis
+- [Energy Cone](/Psionics/E/EnergyCone.md) - Circle 4, Kineticist, Psychokinesis
+- [Energy Current](/Psionics/E/EnergyCurrent.md) - Circle 6, Kineticist, Psychokinesis
+- [Energy Missile](/Psionics/E/EnergyMissile.md) - Circle 3, Kineticist, Psychokinesis
+- [Energy Push](/Psionics/E/EnergyPush.md) - Circle 2, Kineticist, Psychokinesis
+- [Energy Ray](/Psionics/E/EnergyRay.md) - Circle 1, Kineticist, Psychokinesis
+- [Energy Retort](/Psionics/E/EnergyRetort.md) - Circle 3, Kineticist, Psychokinesis
+- [Energy Stun](/Psionics/E/EnergyStun.md) - Circle 2, Kineticist, Psychokinesis
+- [Energy Wave](/Psionics/E/EnergyWave.md) - Circle 7, Kineticist, Psychokinesis
+- [Eradicate Invisibility](/Psionics/E/EradicateInvisibility.md) - Circle 3, Power, Psychokinesis
 - [Far Hand](/Psionics/F/FarHand.md)
 - [Fiery Discorporation](/Psionics/F/FieryDiscorporation.md)
 - [Force Screen](/Psionics/F/ForceScreen.md)
@@ -130,15 +131,15 @@ The psionic disciplines are as follows:
 - [Dissolving Touch](/Psionics/D/DissolvingTouch.md) - Circle 3, Warrior, Psychometabolism
 - [Dissolving Weapon](/Psionics/D/DissolvingWeapon.md) - Circle 3, Warrior, Psychometabolism
 - [Duodimensional Claw](/Psionics/D/DuodimensionalClaw.md) - Circle 4, Warrior, Psychometabolism
-- [Ectoplasmic Form](/Psionics/E/EctoplasmicForm.md)
-- [Elfsight](/Psionics/E/Elfsight.md)
-- [Empathic Transfer](/Psionics/E/EmpathicTransfer.md)
-- [Energy Adaptation](/Psionics/E/EnergyAdaptation.md)
-- [Energy Adaptation, Specified](/Psionics/E/EnergyAdaptationSpecified.md)
-- [Energy Conversion](/Psionics/E/EnergyConversion.md)
-- [Evade Burst](/Psionics/E/EvadeBurst.md)
-- [Exhalation of the Black Dragon](/Psionics/ExhalationOfTheBlackDragon.md)
-- [Expansion](/Psionics/E/Expansion.md)
+- [Ectoplasmic Form](/Psionics/E/EctoplasmicForm.md) - Circle 4, Egoist, Psychometabolism
+- [Elfsight](/Psionics/E/Elfsight.md) - Circle 2, Seer, Psychometabolism
+- [Empathic Transfer](/Psionics/E/EmpathicTransfer.md) - Circle 3, Egoist, Psychometabolism
+- [Energy Adaptation](/Psionics/E/EnergyAdaptation.md) - Circle 4, Egoist, Psychometabolism
+- [Energy Adaptation, Specified](/Psionics/E/EnergyAdaptationSpecified.md) - Circle 2, Egoist, Psychometabolism
+- [Energy Conversion](/Psionics/E/EnergyConversion.md) - Circle 7, Egoist, Psychometabolism
+- [Evade Burst](/Psionics/E/EvadeBurst.md) - Circle 4, Warrior, Psychometabolism
+- [Exhalation of the Black Dragon](/Psionics/E/ExhalationOfTheBlackDragon.md) - Circle 4, Warrior, Psychometabolism
+- [Expansion](/Psionics/E/Expansion.md) - Circle 2, Warrior, Psychometabolism
 - [Fission](/Psionics/F/Fission.md)
 - [Form of Doom](/Psionics/F/FormOfDoom.md)
 - [Fuse Flesh](/Psionics/F/FuseFlesh.md)
@@ -187,8 +188,8 @@ The psionic disciplines are as follows:
 - [Dissipating Touch](/Psionics/D/DissipatingTouch.md) - Circle 1, Power, Psychoportation
 - [Divert Teleport](/Psionics/D/DivertTeleport.md) - Circle 7, Power, Psychoportation
 - [Dream Travel](/Psionics/D/DreamTravel.md) - Circle 8, Nomad, Psychoportation
-- [Ethereal Jaunt, Psionic](/Psionics/E/EtherealJaunt.md)
-- [Etherealness, Psionic](/Psionics/E/EtherealnessPsionic.md)
+- [Ethereal Jaunt, Psionic](/Psionics/E/EtherealJauntPsionic.md) - Circle 8, Nomad, Psychoportation
+- [Etherealness, Psionic](/Psionics/E/EtherealnessPsionic.md) - Circle 9, Power, Psychoportation
 - [Float](/Psionics/F/Float.md)
 - [Fly, Psionic](/Psionics/F/FlyPsionic.md)
 - [Freedom of Movement, Psionic](/Psionics/F/FreedomOfMovementPsionic.md)
@@ -226,11 +227,11 @@ The psionic disciplines are as follows:
 - [Disable](/Psionics/D/Disable.md) - Circle 1, Power, Telepathy
 - [Distract](/Psionics/D/Distract.md) - Circle 1, Power, Telepathy
 - [Dominate, Psionic](/Psionics/D/DominatePsionic.md) - Circle 5, Telepath, Telepathy
-- [Ego Whip](/Psionics/E/EgoWhip.md)
-- [Empathic Feedback](/Psionics/E/EmpathicFeedback.md)
-- [Empathic Transfer, Hostile](/Psionics/E/EmpathicTransferHostile.md)
-- [Empathy](/Psionics/E/Empathy.md)
-- [Empty Mind](/Psionics/E/EmptyMind.md)
+- [Ego Whip](/Psionics/E/EgoWhip.md) - Circle 2, Power, Telepathy
+- [Empathic Feedback](/Psionics/E/EmpathicFeedback.md) - Circle 4, Power, Telepathy
+- [Empathic Transfer, Hostile](/Psionics/E/EmpathicTransferHostile.md) - Circle 4, Telepath, Telepathy
+- [Empathy](/Psionics/E/Empathy.md) - Circle 1, Telepath, Telepathy
+- [Empty Mind](/Psionics/E/EmptyMind.md) - Circle 1, Power, Telepathy
 - [False Sensory Input](/Psionics/F/FalseSensoryInput.md)
 - [Id Insinuation](/Psionics/I/IdInsinuation.md)
 - [Inflict Pain](/Psionics/I/InflictPain.md)

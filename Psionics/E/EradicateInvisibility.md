@@ -1,5 +1,7 @@
 # Eradicate Invisibility
 
+[Eradicate Invisibility](/Psionics/E/EradicateInvisibility.md) - Circle 3, Power, Psychokinesis
+
 - **Circle:** 3
 - **Category:** Power
 - **Discipline:** Psychokinesis

@@ -32,11 +32,11 @@
 - [Disable](/Psionics/D/Disable.md) - Circle 1, Power, Telepathy
 - [Dissipating Touch](/Psionics/D/DissipatingTouch.md) - Circle 1, Power, Psychoportation
 - [Distract](/Psionics/D/Distract.md) - Circle 1, Power, Telepathy
-- [Ecto Protection](/Psionics/E/EctoProtection.md)
-- [Empathy](/Psionics/E/Empathy.md)
-- [Empty Mind](/Psionics/E/EmptyMind.md)
-- [Energy Ray](/Psionics/E/EnergyRay.md)
-- [Entangling Ectoplasm](/Psionics/E/EntanglingEctoplasm.md)
+- [Ecto Protection](/Psionics/E/EctoProtection.md) - Circle 1, Power, Metacreativity
+- [Empathy](/Psionics/E/Empathy.md) - Circle 1, Telepath, Telepathy
+- [Empty Mind](/Psionics/E/EmptyMind.md) - Circle 1, Power, Telepathy
+- [Energy Ray](/Psionics/E/EnergyRay.md) - Circle 1, Kineticist, Psychokinesis
+- [Entangling Ectoplasm](/Psionics/E/EntanglingEctoplasm.md) - Circle 1, Power, Metacreativity
 - [Far Hand](/Psionics/F/FarHand.md)
 - [Float](/Psionics/F/Float.md)
 - [Force Screen](/Psionics/F/ForceScreen.md)
@@ -75,11 +75,12 @@
 - [Destiny Dissonance](/Psionics/D/DestinyDissonance.md) - Circle 2, Seer, Clairsentience
 - [Detect Hostile Intent](/Psionics/D/DetectHostileIntent.md) - Circle 2, Power, Telepathy
 - [Detect Teleportation](/Psionics/D/DetectTeleportation.md) - Circle 2, Nomad, Clairsentience
-- [Ego Whip](/Psionics/E/EgoWhip.md)
-- [Elfsight](/Psionics/E/Elfsight.md)
-- [Energy Adaptation, Specified](/Psionics/E/EnergyAdaptationSpecified.md)
-- [Energy Push](/Psionics/E/EnergyPush.md)
-- [Expansion](/Psionics/E/Expansion.md)
+- [Ego Whip](/Psionics/E/EgoWhip.md) - Circle 2, Power, Telepathy
+- [Elfsight](/Psionics/E/Elfsight.md) - Circle 2, Seer, Psychometabolism
+- [Energy Adaptation, Specified](/Psionics/E/EnergyAdaptationSpecified.md) - Circle 2, Egoist, Psychometabolism
+- [Energy Push](/Psionics/E/EnergyPush.md) - Circle 2, Kineticist, Psychokinesis
+- [Energy Stun](/Psionics/E/EnergyStun.md) - Circle 2, Kineticist, Psychokinesis
+- [Expansion](/Psionics/E/Expansion.md) - Circle 2, Warrior, Psychometabolism
 - [Feat Leech](/Psionics/F/FeatLeech.md)
 - [Grip of Iron](/Psionics/G/GripOfIron.md)
 - [Id Insinuation](/Psionics/I/IdInsinuation.md)
@@ -112,13 +113,13 @@
 - [Dispel Psionics](/Psionics/D/DispelPsionics.md) - Circle 3, Power, Psychokinesis
 - [Dissolving Touch](/Psionics/D/DissolvingTouch.md) - Circle 3, Warrior, Psychometabolism
 - [Dissolving Weapon](/Psionics/D/DissolvingWeapon.md) - Circle 3, Warrior, Psychometabolism
-- [Empathic Transfer](/Psionics/E/EmpathicTransfer.md)
-- [Energy Bolt](/Psionics/E/EnergyBolt.md)
-- [Energy Burst](/Psionics/E/EnergyBurst.md)
-- [Energy Missile](/Psionics/E/EnergyMissile.md)
-- [Energy Retort](/Psionics/E/EnergyRetort.md)
-- [Energy Wall](/Psionics/E/EnergyWall.md)
-- [Eradicate Invisibility](/Psionics/E/EradicateInvisibility.md)
+- [Empathic Transfer](/Psionics/E/EmpathicTransfer.md) - Circle 3, Egoist, Psychometabolism
+- [Energy Bolt](/Psionics/E/EnergyBolt.md) - Circle 3, Kineticist, Psychokinesis
+- [Energy Burst](/Psionics/E/EnergyBurst.md) - Circle 3, Kineticist, Psychokinesis
+- [Energy Missile](/Psionics/E/EnergyMissile.md) - Circle 3, Kineticist, Psychokinesis
+- [Energy Retort](/Psionics/E/EnergyRetort.md) - Circle 3, Kineticist, Psychokinesis
+- [Energy Wall](/Psionics/E/EnergyWall.md) - Circle 3, Kineticist, Metacreativity
+- [Eradicate Invisibility](/Psionics/E/EradicateInvisibility.md) - Circle 3, Power, Psychokinesis
 - [Hustle](/Psionics/H/Hustle.md)
 - [Keen Edge, Psionic](/Psionics/K/KeenEdgePsionic.md)
 - [Mental Barrier](/Psionics/M/MentalBarrier.md)
@@ -145,14 +146,14 @@
 - [Dimension Slide](/Psionics/D/DimensionSlide.md) - Circle 4, Warrior, Psychoportation
 - [Divination, Psionic](/Psionics/D/DivinationPsionic.md) - Circle 4, Power, Clairsentience
 - [Duodimensional Claw](/Psionics/D/DuodimensionalClaw.md) - Circle 4, Warrior, Psychometabolism
-- [Ectoplasmic Cocoon](/Psionics/E/EctoplasmicCocoon.md)
-- [Ectoplasmic Form](/Psionics/E/EctoplasmicForm.md)
-- [Empathic Feedback](/Psionics/E/EmpathicFeedback.md)
-- [Empathic Transfer, Hostile](/Psionics/E/EmpathicTransferHostile.md)
-- [Energy Adaptation](/Psionics/E/EnergyAdaptation.md)
-- [Energy Cone](/Psionics/E/EnergyCone.md)
-- [Escape Detection](/Psionics/E/EscapeDetection.md)
-- [Evade Burst](/Psionics/E/EvadeBurst.md)
+- [Ectoplasmic Cocoon](/Psionics/E/EctoplasmicCocoon.md) - Circle 4, Shaper, Metacreativity
+- [Ectoplasmic Form](/Psionics/E/EctoplasmicForm.md) - Circle 4, Egoist, Psychometabolism
+- [Empathic Feedback](/Psionics/E/EmpathicFeedback.md) - Circle 4, Power, Telepathy
+- [Empathic Transfer, Hostile](/Psionics/E/EmpathicTransferHostile.md) - Circle 4, Telepath, Telepathy
+- [Energy Adaptation](/Psionics/E/EnergyAdaptation.md) - Circle 4, Egoist, Psychometabolism
+- [Energy Cone](/Psionics/E/EnergyCone.md) - Circle 4, Kineticist, Psychokinesis
+- [Escape Detection](/Psionics/E/EscapeDetection.md) - Circle 4, Seer, Clairsentience
+- [Evade Burst](/Psionics/E/EvadeBurst.md) - Circle 4, Warrior, Psychometabolism
 - [Exhalation of the Black Dragon](/Psionics/E/ExhalationOfTheBlackDragon.md)
 - [False Sensory Input](/Psionics/F/FalseSensoryInput.md)
 - [Fate Link](/Psionics/F/FateLink.md)
@@ -173,8 +174,8 @@
 - [Dimensional Anchor, Psionic](/Psionics/D/DimensionalAnchorPsionic.md) - Circle 5, Nomad, Psychoportation
 - [Dismissal, Psionic](/Psionics/D/DismissalPsionic.md) - Circle 5, Nomad, Psychoportation
 - [Dominate, Psionic](/Psionics/D/DominatePsionic.md) - Circle 5, Telepath, Telepathy
-- [Ectoplasmic Shambler](/Psionics/E/EctoplasmicShambler.md)
-- [Energy Ball](/Psionics/E/EnergyBall.md)
+- [Ectoplasmic Shambler](/Psionics/E/EctoplasmicShambler.md) - Circle 5, Power, Metacreativity
+- [Energy Ball](/Psionics/E/EnergyBall.md) - Circle 5, Kineticist, Psychokinesis
 - [Fabricate, Psionic](/Psionics/F/FabricatePsionic.md)
 - [Fly, Psionic](/Psionics/F/FlyPsionic.md)
 - [Immovability](/Psionics/I/Immovability.md)
@@ -201,7 +202,7 @@
 - [Contingency, Psionic](/Psionics/C/ContingencyPsionic.md) - Circle 6, Power, Clairsentience
 - [Co-Opt Concentration](/Psionics/C/CoOptConcentration.md) - Circle 6, Power, Telepathy
 - [Disintegrate, Psionic](/Psionics/D/DisintegratePsionic.md) - Circle 6, Power, Psychoportation
-- [Energy Current](/Psionics/E/EnergyCurrent.md)
+- [Energy Current](/Psionics/E/EnergyCurrent.md) - Circle 6, Kineticist, Psychokinesis
 - [Fiery Discorporation](/Psionics/F/FieryDiscorporation.md)
 - [Hail of Crystals](/Psionics/H/HailOfCrystals.md)
 - [Metaconcert](/Psionics/M/Metaconcert.md)
@@ -219,8 +220,8 @@
 - [Decerebrate](/Psionics/D/Decerebrate.md) - Circle 7, Power, Psychoportation
 - [Dispelling Buffer](/Psionics/D/DispellingBuffer.md) - Circle 7, Kineticist, Psychokinesis
 - [Divert Teleport](/Psionics/D/DivertTeleport.md) - Circle 7, Power, Psychoportation
-- [Energy Conversion](/Psionics/E/EnergyConversion.md)
-- [Energy Wave](/Psionics/E/EnergyWave.md)
+- [Energy Conversion](/Psionics/E/EnergyConversion.md) - Circle 7, Egoist, Psychometabolism
+- [Energy Wave](/Psionics/E/EnergyWave.md) - Circle 7, Kineticist, Psychokinesis
 - [Fabricate, Greater Psionic](/Psionics/F/FabricateGreaterPsionic.md)
 - [Form of Doom](/Psionics/F/FormOfDoom.md)
 - [Fuse Flesh](/Psionics/F/FuseFlesh.md)
@@ -237,8 +238,8 @@
 - [Bend Reality](/Psionics/B/BendReality.md) - Circle 8, Power, Clairsentience
 - [Crisis of Life](/Psionics/C/CrisisOfLife.md) - Circle 8, Telepath, Telepathy
 - [Dream Travel](/Psionics/D/DreamTravel.md) - Circle 8, Nomad, Psychoportation
-- [Ectoplasmic Cocoon, Mass](/Psionics/E/EctoplasmicCocoonMass.md)
-- [Ethereal Jaunt, Psionic](/Psionics/E/EtherealJaunt.md)
+- [Ectoplasmic Cocoon, Mass](/Psionics/E/EctoplasmicCocoonMass.md) - Circle 8, Shaper, Metacreativity
+- [Ethereal Jaunt, Psionic](/Psionics/E/EtherealJauntPsionic.md) - Circle 8, Nomad, Psychoportation
 - [Fate of One](/Psionics/F/FateOfOne.md)
 - [Fission](/Psionics/F/Fission.md)
 - [Iron Body, Psionic](/Psionics/I/IronBodyPsionic.md)
@@ -251,7 +252,7 @@
 - [Apopsi](/Psionics/A/Apopsi.md) - Circle 9, Power, Telepathy
 - [Assimilate](/Psionics/A/Assimilate.md) - Circle 9, Power, Psychometabolism
 - [Astral Seed](/Psionics/A/AstralSeed.md) - Circle 9, Shaper, Metacreativity
-- [Etherealness, Psionic](/Psionics/E/EtherealnessPsionic.md)
+- [Etherealness, Psionic](/Psionics/E/EtherealnessPsionic.md) - Circle 9, Power, Psychoportation
 - [Fusion](/Psionics/F/Fusion.md)
 - [Hypercognition](/Psionics/H/Hypercognition.md)
 - [Microcosm](/Psionics/M/Microcosm.md)

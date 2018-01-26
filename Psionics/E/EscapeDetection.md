@@ -1,5 +1,7 @@
 # Escape Detection
 
+[Escape Detection](/Psionics/E/EscapeDetection.md) - Circle 4, Seer, Clairsentience
+
 - **Circle:** 4
 - **Category:** Seer
 - **Discipline:** Clairsentience

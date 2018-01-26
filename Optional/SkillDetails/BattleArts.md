@@ -25,7 +25,7 @@ Acid Strike (1) (Melee) - Attack, with damage type changed to acid. (Battle Arts
 
 Chaos Strike (1) (Melee) - Attack, with damage type changed to chaos. (Battle Arts Level / 2) added to damage, for a minimum of +1 damage. The stamina cost is paid per individual attack.
 
-Chest / Hip Attack (2) (Melee) - Attack, and the weapon is your own body. The damage type is impact, and the amount of damage is equal to your Armor Class. The stamina cost is paid per individual attack.
+Chest / Hip Attack (2) (Melee) - Attack, and the weapon is your own body. This is considered a two-handed impact weapon, and the amount of damage is equal to your Armor Class. The stamina cost is paid per individual attack.
 
 Electric Strike (1) (Melee) - Attack, with damage type changed to electric. (Battle Arts Level / 2) added to damage, for a minimum of +1 damage. The stamina cost is paid per individual attack.
 

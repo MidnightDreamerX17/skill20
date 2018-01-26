@@ -1,5 +1,7 @@
 # Ethereal Jaunt, Psionic
 
+[Ethereal Jaunt, Psionic](/Psionics/E/EtherealJauntPsionic.md) - Circle 8, Nomad, Psychoportation
+
 - **Circle:** 8
 - **Category:** Nomad
 - **Discipline:** Psychoportation

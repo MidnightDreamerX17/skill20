@@ -34,10 +34,10 @@ Languages: Common, ...
 
 ## Skills
 
-- Craft (INT) (specify) - 100 XP - Level 1
-- Knowledge (INT) (specify) - 100 XP - Level 1
-- Perform (CHA) (specify) - 100 XP - Level 1
-- Profession (WIS) (specify) - 100 XP - Level 1
+- Craft (specify) (INT) - 100 XP - Level 1
+- Knowledge (specify) (INT) - 100 XP - Level 1
+- Perform (specify) (CHA) - 100 XP - Level 1
+- Profession (specify) (WIS) - 100 XP - Level 1
 - 1st skill of choice - 100 XP - Level 1
 - 2nd skill of choice - 100 XP - Level 1
 - 3rd skill of choice - 100 XP - Level 1

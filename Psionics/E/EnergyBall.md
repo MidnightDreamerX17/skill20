@@ -1,5 +1,7 @@
 # Energy Ball
 
+[Energy Ball](/Psionics/E/EnergyBall.md) - Circle 5, Kineticist, Psychokinesis
+
 - **Circle:** 5
 - **Category:** Kineticist
 - **Discipline:** Psychokinesis [see text]

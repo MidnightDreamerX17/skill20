@@ -1,7 +1,9 @@
 # Elfsight
 
+[Elfsight](/Psionics/E/Elfsight.md) - Circle 2, Seer, Psychometabolism
+
 - **Circle:** 2
-- **Category:** Power
+- **Category:** Seer
 - **Discipline:** Psychometabolism
 - **Display:** Visual
 - **Map Range:** Personal
@@ -13,4 +15,4 @@ You gain low-light vision (as an elf) for the duration of the power, as well as 
 
 In addition, you gain the ability to notice secret or concealed doors by merely passing within 5 feet of one, getting to make a visual searching check as if you were actively looking for it.
 
-If *Elfsight* is used in conjunction with *My Light*, the cone of light extends out to 40 feet instead of 20 feet.
+If *Elfsight* is used in conjunction with *My Light*, the light extends out to 40 feet instead of 20 feet.

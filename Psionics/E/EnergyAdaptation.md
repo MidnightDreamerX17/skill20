@@ -1,5 +1,7 @@
 # Energy Adaptation
 
+[Energy Adaptation](/Psionics/E/EnergyAdaptation.md) - Circle 4, Egoist, Psychometabolism
+
 - **Circle:** 4
 - **Category:** Egoist
 - **Discipline:** Psychometabolism [see text]

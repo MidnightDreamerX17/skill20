@@ -1,5 +1,7 @@
 # Exhalation of the Black Dragon
 
+[Exhalation of the Black Dragon](/Psionics/E/ExhalationOfTheBlackDragon.md) - Circle 4, Warrior, Psychometabolism
+
 - **Circle:** 4
 - **Category:** Warrior
 - **Discipline:** Psychometabolism

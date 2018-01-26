@@ -1,10 +1,12 @@
 # Law-Mech
 
+First and most importantly - Law-Mechs are not generic robots. Law-Mechs are strongly associated with the Lawful Neutral Plane. This has serious role-playing implications.
+
 Law-Mechs are technically cyborgs rather than full constructs, but their flesh is specially engineered to function only in combination with their constructed parts.
 
-Law-Mechs are either loyal to the Law-Mech Master, or rogue. Loyalists must be Lawful Neutral and do exactly as they are told in the hierarchy. Loyalists must also not ask questions - if they need to know something then their hierarchy would tell them.
+Law-Mechs are either loyal to the Law-Mech Master, or rogue. Loyalists must be Lawful Neutral and do exactly as they are told in the hierarchy. Loyalists must also not ask questions, especially if they are lower-ranked - if they need to know something then their hierarchy would tell them. Loyalists can only function when they know who their superiors and subordinates are, and what their exact orders are at all times.
 
-Rogue Law-Mechs can do whatever they want, although they are enemies of the loyalists and have a risk of being attacked on sight. Rogue Law-Mechs can even worship other Lawful Neutral gods and live on the Lawful-Neutral-Plane, although they won't be welcome to the part of the Lawful-Neutral-Plane that the Law-Mech Master rules over.
+Rogue Law-Mechs can do whatever they want, although they are enemies of the loyalists and have a risk of being attacked on sight. Rogue Law-Mechs can even worship other Lawful Neutral gods and live on the Lawful Neutral Plane, although they won't be welcome to the part of the Lawful Neutral Plane that the Law-Mech Master rules over.
 
 - Vision: Day Vision
 - Theoretical Lifespan: 10 years / Unlimited

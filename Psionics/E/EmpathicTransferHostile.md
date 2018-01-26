@@ -1,5 +1,7 @@
 # Empathic Transfer, Hostile
 
+[Empathic Transfer, Hostile](/Psionics/E/EmpathicTransferHostile.md) - Circle 4, Telepath, Telepathy
+
 - **Circle:** 4
 - **Category:** Telepath
 - **Discipline:** Telepathy
@@ -12,7 +14,7 @@
 - **Power Resistance:** Yes
 - **Power Points:** 5
 
-You transfer your hurt to another. When you manifest this power and then make a successful unarmed attack, you can transfer 50 points of damage (or less, if you choose) from yourself to the touched creature. You immediately regain hit points equal to the amount of damage you transfer.
+You transfer your hurt to another. When you manifest this power and then make a successful melee attack, you can transfer 50 points of damage (or less, if you choose) from yourself to the touched creature. You immediately regain hit points equal to the amount of damage you transfer.
 
 You cannot use this power to gain hit points in excess of your full normal total. The transferred damage is empathic in nature, so powers and abilities the subject may have such as damage reduction and regeneration do not lessen or change this damage.
 

@@ -1,5 +1,7 @@
 # Energy Cone
 
+[Energy Cone](/Psionics/E/EnergyCone.md) - Circle 4, Kineticist, Psychokinesis
+
 - **Circle:** 4
 - **Category:** Kineticist
 - **Discipline:** Psychokinesis [see text]

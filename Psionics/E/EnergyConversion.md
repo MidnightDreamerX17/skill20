@@ -1,5 +1,7 @@
 # Energy Conversion
 
+[Energy Conversion](/Psionics/E/EnergyConversion.md) - Circle 7, Egoist, Psychometabolism
+
 - **Circle:** 7
 - **Category:** Egoist
 - **Discipline:** Psychometabolism [see text]

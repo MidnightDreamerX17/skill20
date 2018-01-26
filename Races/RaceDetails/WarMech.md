@@ -1,5 +1,7 @@
 # War-Mech
 
+War-Mechs were invented and manufactured on a Prime Material world. Consequently, they are not strongly associated with any alignment plane. Of course, those who follow their original war-oriented programming will find the Lawful Neutral-Evil Plane to be the most suitable.
+
 War-Mechs are constructs that were given souls so that they can wage war independently, but this causes a number of tradeoffs compared to soul-less constructs. Unlike Law-Mechs, they have no fleshy bits.
 
 - Vision: Day Vision

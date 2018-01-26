@@ -1,5 +1,7 @@
 # Ectoplasmic Shambler
 
+[Ectoplasmic Shambler](/Psionics/E/EctoplasmicShambler.md) - Circle 5, Power, Metacreativity
+
 - **Circle:** 5
 - **Category:** Power
 - **Discipline:** Metacreativity
