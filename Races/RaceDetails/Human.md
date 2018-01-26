@@ -9,25 +9,25 @@
 - +1 Wisdom
 - +2 Charisma
 
-Human-to-Human Bonding: All humans have a bonus of +2 to interact with other humans.
+Human-to-Human Bonding - All humans have a bonus of +2 to interact with other humans. As a result of this, humans are also more likely to get together and have children, thus causing them to be a highly-populous race in nearly every single plane of existence that they can survive in.
 
 Every human has one virtue and one vice. Each virtue and vice has an Opposite. Humans cannot have both a virtue and its Opposite.
 
 ## Human Virtues
 
-Charity - Opposite to Greed. The character must give at least 10% of all earned gold or gold-equivalent value to the poor. In exchange, the character gains a bonus of (Level/5) to all reactions with poor people. The character also gains a bonus of (Level/5) to resist illusions (if the illusion is trying to be something higher-level than what it is).
+Charity - Opposite to Greed. The character must give at least 10% of all earned gold or gold-equivalent value to the poor. In exchange, the character gains a bonus of (Level/2) to all reactions with poor people. The character also gains a bonus of (Level/2) to recognize illusions (if the illusion is trying to be something higher-level than what it is).
 
-Chastity - Opposite to Lust. The character cannot have sex unless it is with the one person they are married to. They also cannot get divorced except by death, or by their spouse cheating. In exchange, the character gains a bonus of (Level/5) to resist all mind-altering effects, as well as to resist draining effects caused by the touch of undead and demons.
+Chastity - Opposite to Lust. The character cannot have sex unless it is with the one person they are married to. They also cannot get divorced except by death, or by their spouse cheating. In exchange, the character gains a bonus of (Level/2) to resist all mind-altering effects, as well as to resist draining effects caused by the touch of undead and demons.
 
-Diligence - Opposite to Sloth. When the character sees a problem, they must always choose exactly one possible way to solve a problem and will not listen to the rest of the party about alternatives. In exchange, the character gains a bonus of (Level/5) to all out-of-combat checks for solving that problem.
+Diligence - Opposite to Sloth. When the character sees a problem, they must always choose exactly one possible way to solve a problem and will not listen to the rest of the party about alternatives. In exchange, the character gains a bonus of (Level/2) to all out-of-combat checks for solving that problem.
 
-Humility - Opposite to Pride. The character must reject all titles, honors, awards, and medals until the rest of the party has gotten more than themself. In exchange, the character gains a bonus of (Level/5) to all reactions with administrators, craftsmen, stagehands, and other behind-the-scenes types.
+Humility - Opposite to Pride. The character must reject all titles, honors, awards, and medals until the rest of the party has gotten more than themself. In exchange, the character gains a bonus of (Level/2) to all reactions with administrators, craftsmen, stagehands, and other behind-the-scenes types.
 
-Kindness - Opposite to Envy. The character must never kill helpless creatures unless it is to end the suffering of a creature that otherwise cannot be saved. The character must also never use force unless they or their party are threatened first (e.g. an enemy pointing a crossbow at the party). In exchange, the character gains a bonus of (Level/5) to all reactions with children, monks, nuns, and other secluded types.
+Kindness - Opposite to Envy. The character must never kill helpless creatures unless it is to end the suffering of a creature that otherwise cannot be saved. The character must also never use force unless they or their party are threatened first (e.g. an enemy pointing a crossbow at the party). In exchange, the character gains a bonus of (Level/2) to all reactions with children, monks, nuns, and other secluded types.
 
-Patience - Opposite to Wrath. The character must always choose a slower but less-risky path when available. In exchange, the character gains a bonus of (Level/5) when working with things that take a long time, such as construction, mining, and creating artistic masterpieces. The character also gains a bonus of (Level/5) to resist temporal and planar effects.
+Patience - Opposite to Wrath. The character must always choose a slower but less-risky path when available. In exchange, the character gains a bonus of (Level/2) when working with things that take a long time, such as construction, mining, and creating artistic masterpieces. The character also gains a bonus of (Level/2) to resist temporal and planar effects.
 
-Temperance - Opposite to Gluttony. The character cannot drink alcohol except when involved in rituals, and even then, must feel shame at getting red-faced or acting inappropriately. In exchange, the character gains a bonus of (Level/5) to resist body-altering effects, polymorph, poisons, and diseases.
+Temperance - Opposite to Gluttony. The character cannot drink alcohol except when involved in rituals, and even then, must feel shame at getting red-faced or acting inappropriately. In exchange, the character gains a bonus of (Level/2) to resist body-altering effects, polymorph, poisons, and diseases.
 
 ## Human Vices
 

@@ -14,7 +14,7 @@ Eldritch Hybrids can often be identified by their silver-white hair and silver-r
 - -2 Constitution
 - +2 Wisdom
 
-Body Part Attachment - Eldritch Hybrids can trade arms, legs, and other body parts with each other. It is possible to impart unique combat techniques into a body part, then give it to another Eldritch Hybrid so that they can use those unique techniques for as long as they have the part attached. *Regeneration* and similar effects do not modify body parts that had come from someone else, except to repair damage.
+Body Part Attachment - Eldritch Hybrids can trade arms, legs, and other body parts with each other, as well as with Aberration-category monsters. It is possible to impart unique combat techniques into a body part, then give it to another Eldritch Hybrid so that they can use those unique techniques for as long as they have the part attached. *Regeneration* and similar effects do not modify body parts that had come from someone else, except to repair damage.
 
 Monstrous Absorption - Eldritch Hybrids can eat fleshy monsters normally, and can gain the most recent memories from eaten monsters.
 
