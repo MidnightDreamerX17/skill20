@@ -5,22 +5,34 @@
 | Commodity | Cost |
 | ---  | ---  |
 | Butter | 0.20 per pound
+| Carrots | 0.10 per pound
 | Cheese | 0.40 per pound
 | Cider | 8.00 per 250 gallons
+| Cinnamon | 1.00 per pound
+| Cloves | 15.00 per pound
 | Daikon | 0.10 per pound
 | Eggs | 0.80 per hundred
 | Figs | 0.30 per pound
 | Fish, pickled | 3.00 per barrel
 | Flour | 0.02 per pound
+| Garlic | 0.50 per pound
+| Ginger | 2.00 per pound
+| Hand-pulled Wheat Noodles | 0.50 per pound
 | Herring, salted | 1.00 per hundred
 | Honey | 0.50 per pound
 | Millet | 0.01 per pound
 | Nuts | 1.00 per pound
+| Pepper | 2.00 per pound
 | Quinoa | 0.50 per pound
 | Raisins | 0.20 per pound
 | Rice | 0.20 per pound
+| Saffron | 15.00 per pound
 | Salt | 0.10 per pound
+| Sesame Seeds | 3.00 per pound
 | Soy Sprouts | 0.05 per pound
+| Sugar | 1.00 per pound
+| Taro Root | 0.50 per pound
+| Tobacco | 0.50 | per pound
 | Tofu | 0.50 per pound
 | Wheat | 0.01 per pound
 | Wine | 20.00 per 250 gallons
@@ -30,27 +42,18 @@
 | Trade Good | Cost per pound | Special |
 | ---  | ---            | ---     |
 | Air Plane Fluffcandy | 10,000.00 |     | 
-| Astral Plane Brainburner Powder | 2,000.00 | 1/10th pound - Doubles initiative for 1 round, then causes nosebleeding and possible brain aneurysms
+| Astral Plane Brainburner Powder | 2,000.00 | 1/10th pound dosage - Doubles initiative for 1 round, then causes nosebleeding and possible brain aneurysms
 | Celestial Fruit | 25,000.00 |    | 
 | Chaos Plane Color-changing Ink | 1,000.00 | Constantly changing and shifting colors
-| Cinnamon | 1.00 |   | 
-| Cloves | 15.00 |    | 
 | Earth Plane Puresoil | 1,000.00 |   | 
 | Earth Plane Rock Candy | 1,000.00 | Takes roughly ten million licks to get to the center of a one-pound sphere
 | Fire Plane Hotstone | 20,000.00 | Retains cooking temperature for a whole month
-| Fire Plane Burnpeppers | 500.00 | 1/100th pound (5-gold-value pinch) - Constitution save, difficulty 50, to be able to finish eating without spitting it out
-| Garlic | 0.50 |    |
-| Ginger | 2.00 |    |
+| Fire Plane Burnpeppers | 500.00 | 1/100th pound (5-gold-value pinch) dosage - Constitution save, difficulty 50, to be able to finish eating without spitting it out
 | Ice Plane Coldstone | 10,000.00 | Retains freezing temperature for a whole month
 | Law Plane Standardized Weights | 10,000.00 | These weights save against changes to size, weight, shape, etc. at +40 to the saving throws
 | Lightning Plane Shock Gel | 10,000.00 |    |
 | Nature Plane Grass Seed | 1,000.00 |    |
-| Pepper | 2.00 |     |
-| Saffron | 15.00 |    |
-| Scintillating Plane Vapor Fluid | 5,000.00 | 1/10th pound - Causes the user to experience extreme synaesthesia for an hour
-| Sesame Seeds | 3.00 |     |
-| Sugar | 1.00 |     |
-| Tobacco | 0.50 |     |
+| Scintillating Plane Vapor Fluid | 5,000.00 | 1/10th pound dosage - Causes the user to experience extreme synaesthesia for an hour
 | Water Plane Seaweed | 100.00 | Most people like to dry it, then salt and roast it, then eat it as a thinly-sliced snack
 
 ## Animals

@@ -27,6 +27,7 @@
 ### Intelligence
 
 - [Alchemy (INT)](/Skills/SkillDetails/Alchemy.md)
+- [Construct Technician (INT)](/Skills/SkillDetails/ConstructTechnician.md)
 - [Craft (INT) (Specific)](/Skills/SkillDetails/Craft.md)
 - [Illusionist Potential (INT)](/Skills/SkillDetails/IllusionistPotential.md)
 - [Illusionist Power (INT)](/Skills/SkillDetails/IllusionistPower.md)
@@ -82,6 +83,7 @@
 - [Cleric Potential (WIS)](/Skills/SkillDetails/ClericPotential.md)
 - [Cleric Power (WIS)](/Skills/SkillDetails/ClericPower.md)
 - [Constitution Training (CON) (Advanced)](/Skills/SkillDetails/ConstitutionTraining.md)
+- [Construct Technician (INT)](/Skills/SkillDetails/ConstructTechnician.md)
 - [Craft (INT) (Specific)](/Skills/SkillDetails/Craft.md)
 - [Dexterity Training (DEX) (Advanced)](/Skills/SkillDetails/DexterityTraining.md)
 - [Druid Potential (WIS)](/Skills/SkillDetails/DruidPotential.md)
