@@ -95,7 +95,9 @@
 
 **Bad Credit Rating** - The character's starting wealth is changed to only 70 gold loaned from Adventure Capital, with 40 gold already spent on an adventuring kit. The amount that must be repaid to Adventure Capital is 70 gold (i.e. zero interest), but the consequences for failure to repay are more severe (i.e. repossession of family property, family members taken as indentured servants, bodily harm to the character, and the like). Furthermore, the character will be unable to get financing of any kind, except from loan sharks and other illegal channels. Clearing up the credit rating will take a lot more than just showing off how much wealth the character has gotten through adventuring. It will require all sorts of paperwork, difficult interactions with banks, etc.
 
-**Brand of the Convict** - The character is not allowed to have any titles, own any land, or participate in any government. Furthermore, the character has a penalty of -10 to all interactions with guards, inquisitors, knights, the Law Association, and other sorts.
+**Blind** - The character was born blind. This cannot be removed by *Regeneration* or other such effect, since the character never had eyesight in the first place.
+
+**Brand of the Convict** - The character is not allowed to have any titles, own any land, or participate in any government. Furthermore, the character has a penalty of -10 to all interactions with guards, inquisitors, knights, the Law Association, and other sorts who are able to see the brand. The brand is usually put on the face.
 
 **Cannot Shed Blood** - The character is not allowed to do any puncture or slashing damage. The character must start with both Melee Fighting and Ranged Fighting skills in order to have this disadvantage.
 
@@ -126,6 +128,8 @@
 **Necrophobia** - The character is afraid of the undead and has a penalty of -2 to all checks relating to them.
 
 **No Arms** - The character inherently has no arms. It is not possible to gain arms through *Regeneration* because the character never had any. The character has the equivalent of one hand by holding objects in the teeth, and can never do anything that requires two hands.
+
+**No Legs** - The character inherently has no legs. It is not possible to gain legs through *Regeneration* because the character never had any. In combat situations, the character suffers a penalty of -10 to Armor Class. If the character has a method of moving at least 20 feet per move action without using their hands, then the penalty is changed to only -2.
 
 **Opposed Guild (Specific)** - The character is banned for life from a guild, and has a penalty of -10 to all reactions with members of that guild. The character must start with at least six of that guild's primary skills in order to be opposed to it. Or, if opposed to an Association, then the character must have a Quirk that makes them of the same alignment as that Association.
 
