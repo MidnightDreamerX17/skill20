@@ -219,6 +219,8 @@ Triple-Wielding gives a bonus of +2 to attack accuracy, while Quadruple-Wielding
 
 **Deafened** - A deafened character cannot hear. The character takes a -40 penalty on initiative checks, automatically fails auditory perception checks, and has a 20% chance of spell failure when casting spells with verbal components.
 
+**Divine Shield Hit Points** - Divine Shield Hit Points always dissipate at the end of combat. This means that the end of combat could result in bleeding and death.
+
 **Entangled** - The character is ensnared. Being entangled impedes movement, but does not entirely prevent it unless the bonds are anchored to an immobile object or tethered by an opposing force. An entangled creature moves at half speed, cannot run or charge, and takes a -2 penalty on all accuracy rolls and a -4 penalty to Dexterity. An entangled character who attempts to cast a spell with somatic components has a 20% chance of spell failure.
 
 **Exhausted** - An exhausted character moves at half speed and takes a -6 penalty to Strength and Dexterity. After 1 hour of complete rest, an exhausted character becomes *fatigued*. A fatigued character becomes exhausted by doing something else that would normally cause fatigue.

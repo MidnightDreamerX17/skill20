@@ -2,11 +2,11 @@
 
 The True Faith skill requires its users to be Lawful Good.
 
-Aura of Faith: For all saving throws, both for the character and for all allies, the True Faith Level may be used instead of Experience Level. The one making the saving throw chooses which is more favorable at the time of the check.
+**Aura of Faith:** For all saving throws, both for the character and for all allies, True Faith skill can be used in place of the normal check. The one making the saving throw chooses which is more favorable at the time of the check.
 
-Detect Evil: Charisma + True Faith skill can be used to detect evil.
+**Detect Evil:** True Faith skill can be used to detect evil by looking at the target for 10 seconds (1 combat round).
 
-Lay on Hands: Once per day, the character may touch themself or one ally to restore a number of hit points equal to double the True Faith Level. As the True Faith Level increases, the number of times per day increases, and the laying of hands removes other ailments.
+**Lay on Hands:** Once per day, the character may touch themself or one ally to restore a number of hit points equal to double the True Faith Level. As the True Faith Level increases, the number of times per day increases, and the laying of hands removes other ailments.
 
 - True Faith Level 2: Removes stunning
 - True Faith Level 4: 2 times per day and removes stunning and fear
@@ -29,9 +29,13 @@ Lay on Hands: Once per day, the character may touch themself or one ally to rest
 - True Faith Level 38: 19 times per day and removes stunning, fear, charm, disease, poison, deafness, blindness, paralysis, curse, geas, and petrification. It also acts as Greater Restoration, Regenerate, and Wish-Power Resurrection.
 - True Faith Level 40: 20 times per day, and simply restores the target fully in every possible way that is permitted by the character's faith.
 
-True Faith Level 5: Divine Companion: The gods grant the character one celestial companion of the same level. This is most frequently a Celestial Heavy Warhorse, as commonly ridden by Paladins, but may take other forms as well. The Divine Companion is always of at least average intelligence, if not better. If the Divine Companion dies, then the character must either wait a year, or must increase their True Faith Level, to get another one.
+**Smite Evil:** Once per day, the character can empower one attack with the power to *Smite Evil*. The attack gains a bonus to accuracy and damage equal to the character's True Faith skill level.
 
-True Faith Level 10: Holy Focus: Whenever the character has a holy weapon drawn, they project a constant *Circle of Dispelling*. Holy weapons include and are not limited to the Holy Avenger, Carsomyr, Excalibur (not to be confused with the Pendragon Sword-in-the-Stone), the Lunarian Mythgraven Blade, the Save-the-Queen Greatsword, Abel's Lance, and other such artifacts. The DM may rule that magic weapons of +5 quality and higher which are dedicated to the gods of Lawful Good are also included.
+True Faith Level 5: **Divine Companion:** The gods grant the character one celestial companion of the same level. This is most frequently a Celestial Heavy Warhorse, as commonly ridden by Paladins, but may take other forms as well. The Divine Companion is always of at least average intelligence, if not better. If the Divine Companion dies, then the character must either wait a year, or must increase their True Faith Level, to get another one.
+
+True Faith Level 10: **Holy Focus:** Whenever the character has a holy weapon drawn, they project a constant *Circle of Dispelling*. Holy weapons include and are not limited to the Holy Avenger, Carsomyr, Excalibur (not to be confused with the Pendragon Sword-in-the-Stone), the Lunarian Mythgraven Blade, the Save-the-Queen Greatsword, Abel's Lance, and other such artifacts. The DM may rule that magic weapons of +5 quality and higher which are dedicated to the gods of Lawful Good are also included.
+
+True Faith Level 10: **Soul of Good:** The character's attack damage type is set to Lawful Good.
 
 ## Learning From Party Members
 

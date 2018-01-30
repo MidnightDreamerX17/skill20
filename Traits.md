@@ -22,6 +22,23 @@
 - Undead
 - Vermin
 
+**Favored Terrain Category (Specific)** - The character gains a bonus of +2 for everything relating to that terrain, including visual hiding, tracking, animals native to that terrain, and survival. The terrain categories are:
+
+- Alignment Plane (specific)
+- Astral Plane
+- Cold
+- Desert
+- Elemental Plane (specific)
+- Ethereal Plane
+- Forest
+- Jungle
+- Mountain
+- Plains
+- Swamp
+- Underground
+- Urban
+- Water
+
 **Life Sight** - The character sees living things as having different colors from everything else. This gives a bonus of +4 to visually spot living creatures in a sparsely-populated environment.
 
 **Magic Domain Specialization (Specific)** - The character is strongly aligned with a specific domain of magic, causing the domain spells to be considered a lower magic circle. For example, being specialized in the Healing Domain will cause *Cure Light Wounds* to be considered a spell of the 0th circle. If a spell was already 0th-circle, then its casting time becomes a move action. The GM may rule that a character can only specialize in magic domains that are associated with their primary god.
@@ -102,9 +119,9 @@
 
 **Natural Equipment Only** - The character must start with Melee Fighting and Armor Training skills in order to have this disadvantage. The character cannot use metal equipment unless it was made through one of the following methods:
 
-- The equipment was made from wood, then turned into ironwood or other metal material achieved by Druid Magic (market price * 5 before other modifiers)
-- The equipment was pulled and cold-forged from meteoric metal (market price * 5 before other modifiers)
-- The equipment was spontaneously popped into existence by a god of metal, earth, crafting, etc. (market price * 5 before other modifiers)
+- The equipment was made from wood, then turned into ironwood or other metal material achieved by Druid Magic (base cost multiplier x 4)
+- The equipment was pulled and cold-forged from meteoric metal (base cost multiplier x 4)
+- The equipment was spontaneously popped into existence by a god of metal, earth, crafting, etc. (base cost multiplier x 4)
 
 **Necrophobia** - The character is afraid of the undead and has a penalty of -2 to all checks relating to them.
 
@@ -120,13 +137,15 @@
 
 **Opposed Psionic Discipline (Specific)** - Powers from this discipline are considered to be of a higher power circle. For example, being opposed to the Clairsentience discipline will cause *Aura Sight* to become a 5th-circle power. A character must start with the ability to use 1st-circle powers and have psionic power points in order to have an Opposed Psionic Discipline.
 
+**Opposed Terrain Category (Specific)** - The character has a penalty of -2 to all d20 checks while in the terrain category. Whether this is some terrain version of the *Enemy God* trait, or mental trauma, or other reason must be determined by both the player and the GM. The terrain must be of a category that the party is likely to visit. For example, if the GM rules that there are no special planes of existence, then this trait is not allowed to be taken for any Alignment, Elemental, Astral, or Ethereal planes. If the GM rules that the world is desertified and has no oceans or large groups of trees, then this trait is not allowed to be taken for any such terrain category.
+
 **Racist (Specific)** - The character has a penalty of -10 to all interactions with the specified race. It must be a civilized and common race. The character's Intelligence or Wisdom must be 9 or lower.
 
 **Sexist (Specific)** - The character has a penalty of -10 to all interactions with the specified sex. If the sex is "neutral", "plural", or "other" then the character must be of a race for which this is common, e.g. a Law-Mech being sexist against neuters. The character's Intelligence or Wisdom must be 9 or lower.
 
 **Slow Starter** - The character only rolls 1d10 for initiative, rather than 1d100 + Dexterity score.
 
-**Spell Failure** - The character must start with the ability to memorize and cast 1st-circle spells in order to have a Spell Failure chance. The character has a percentage chance of failing spellcasting while wearing armor, equal to Armor Weight * 5%.
+**Spell Failure** - The character must start with the ability to memorize and cast 1st-circle spells in order to have a Spell Failure chance. The character has a percentage chance of failing spellcasting while wearing armor, equal to Armor Weight * 5%. If their armor exceeds their maximum armor weight capacity, then the spell failure chance is doubled.
 
 **Static Burn** - The character must not sleep in the same place for more than 3 days in a row. Otherwise, they suffer a penalty of -2 to Intelligence and Charisma until they change their dwelling like a proper nomad.
 

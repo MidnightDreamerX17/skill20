@@ -4,6 +4,8 @@ These rules should only be used if the gaming group agrees that they will spend 
 
 Characters start with 10 feats and gain an additional feat at every single experience level.
 
+The GM may rule that bonus feats are given as rewards for achieving high ranks in a guild or other organization. Such feats also require a week of training to learn. The GM may furthermore rule that this is the only way to gain feats.
+
 - **Ace Surgeon** - The character uses Healing Kits on a time scale of one check per 10 minutes.
 - **Acrobatic** - The character gains a bonus of +2 to jumping, tumbling, and falling safely.
 - **Additional Advantage** (uses 2 feats) - The character gains an additional Advantage.
@@ -15,6 +17,10 @@ Characters start with 10 feats and gain an additional feat at every single exper
 - **Aligned Attack** (requires Psionic Power skill) - You can spend 2 Psionic Power Points to add 1d6 aligned psionic damage to one attack. The alignment of the damage matches your own.
 - **Animal Affinity** - The character gains a bonus of +2 to deal with animals.
 - **Antipsionic Magic** - The character gains a bonus of +4 to penetrate spell resistance caused by psionics, psionic equipment, and the like.
+- **Arcane Armor Training** (requires Armor Training (CON) skill) - If the character has the *Spell Failure* disadvantage, then their Spell Failure Chance is reduced by 10% for Illusionist and Wizard magic.
+- **Arcane Armor Training, Improved** (requires Arcane Armor Training) - Spell Failure Chance is reduced by 10% for Illusionist and Wizard magic.
+- **Arcane Armor Training, Greater** (requires Arcane Armor Training, Improved) - Spell Failure Chance is reduced by 10% for Illusionist and Wizard magic.
+- **Arcane Armor Training, Superior** (requires Arcane Armor Training, Greater) - Spell Failure Chance is reduced by 10% for Illusionist and Wizard magic.
 - **Arms Master** - The character gains a bonus of +1 to all attack accuracy checks.
 - **Astral Constriction** - The character can attempt to "grapple" opponents within line of "sight" in the astral plane. This is basically using one's grappling skills and physical abilities translated into the power to affect another person's astral relativity, even if they are not astrally-touching.
 - **Astral Navigation** - While in the astral plane, the character can perceive astral landmarks from twice as "far" away, and can travel to them in half the "time". "Far" and "time" in quotation marks due to the nature of the astral plane. It is more accurate to say that the character can sense the existence of an astral landmark's bubble at only half the astral probability of intersection, and can maintain a stable merge of astral bubbles at lower relativity.
@@ -24,12 +30,18 @@ Characters start with 10 feats and gain an additional feat at every single exper
 - **Athletic** - The character gains a bonus of +2 to climbing, swimming, running, and other activities for extended periods of time.
 - **Augment Summoning** - The character's summons gain a bonus of +1 to experience level.
 - **Autonomous** - The character gains a bonus of +2 to Knowledge (Psionics) checks, and concentration checks for both magic and psionics.
-- **Blessed Attribute** (specific) (requires Experience Level 5) - One of the character's attributes is increased by 1. This feat can be taken once per attribute.
-- **Blessed Attribute, Improved** (specific) (requires Experience Level 10) - One of the character's attributes is increased by 1. This feat can be taken once per attribute.
-- **Blessed Attribute, Greater** (specific) (requires Experience Level 15) - One of the character's attributes is increased by 1. This feat can be taken once per attribute.
-- **Blessed Attribute, Superior** (specific) (requires Experience Level 20) - One of the character's attributes is increased by 1. This feat can be taken once per attribute.
+- **Black Magic of Betrayal** (requires Metamagic (INT) skill and Evil alignment) - The character gets one free Betrayal Metamagic per day per 2 caster levels of their lowest-skilled magic type. Betrayal Metamagic acts as either *Empower Spell* or *Extend Spell*, chosen when spellcasting begins. The spell causes 2d6 negative energy damage to one ally within line-of-sight, chosen by the user. The ally can make an Intelligence saving throw for half damage.
+- **Black Magic of Darkness** (requires Metamagic (INT) skill and Evil alignment) - The character gets one free Darkness Metamagic per day per 2 caster levels of their lowest-skilled magic type. The Darkness Metamagic causes half of a spell's damage to be negative energy.
+- **Black Magic of Fear** (requires Metamagic (INT) skill and Evil alignment) - The character gets one free Fear Metamagic per day per 2 caster levels of their lowest-skilled magic type. The Fear Metamagic causes a spell to inflict the *shaken* status on hit.
+- **Black Magic of Hunger** (requires Metamagic (INT) skill and Evil alignment) - The character can take 1 point of Constitution damage for 1 day, in order to memorize one additional spell for that day. This Constitution damage cannot be healed except by the passage of time.
+- **Black Magic of Pain** (requires Metamagic (INT) skill and Evil alignment) - The character gets one free Pain Metamagic per day per 2 caster levels of their lowest-skilled magic type. The Pain Metamagic causes a spell to inflict the *sickened* status on hit.
+- **Blessed Attribute** (specific) (requires Experience Level 5) - One of the character's attributes is increased by 1. This feat can only be taken once per attribute.
+- **Blessed Attribute, Improved** (specific) (requires Experience Level 10) - One of the character's attributes is increased by 1. This feat can only be taken once per attribute.
+- **Blessed Attribute, Greater** (specific) (requires Experience Level 15) - One of the character's attributes is increased by 1. This feat can only be taken once per attribute.
+- **Blessed Attribute, Superior** (specific) (requires Experience Level 20) - One of the character's attributes is increased by 1. This feat can only be taken once per attribute.
 - **Blind Fight** - The character does melee fighting normally while blind.
-- **Blind Fight, Greater** (requires Blind Fight) - The character does ranged fighting normally while blind.
+- **Blind Fight, Greater** (requires Blind Fight) - The character does fighting involving reach weapons normally while blind.
+- **Blind Fight, Superior** (requires Blind Fight, Greater) - The character does ranged fighting normally while blind.
 - **Body Builder** - The character's minimum dice rolls for maximum Hit Points are increased by 1. This means that they can roll a 2 through 6 on each die. If combined with *Toughness*, the total result is that a 3 through 6 could be rolled per die.
 - **Body Fuel** - You can burn a point of Strength, Dexterity, and Constitution (for a total of 3 attribute points burned) in order to regain 2 Psionic Power Points. This is considered 1-day ability drain.
 - **Boost Construct** - You can craft constructs in the astral plane at one experience level higher.
@@ -46,11 +58,13 @@ Characters start with 10 feats and gain an additional feat at every single exper
 - **Combat Casting, Greater** (requires Combat Casting) - The character gains a bonus of +4 to concentration checks for magic.
 - **Combat Manifestation** - The character gains a bonus of +4 to concentration checks for psionics.
 - **Combat Manifestation, Greater** (requires Combat Manifestation) - The character gains a bonus of +4 to concentration checks for psionics.
-- **Counter Attack** - The character may choose to hold all actions and increase their Armor Class by 2. Any melee attack against the character that misses allows usage of one of their attacks.
+- **Counter Attack** - During a full defense action, any melee attack against the character that misses allows usage of one of the character's own melee attacks.
 - **Danger Sense** - The character gains a bonus of +4 to avoid surprise.
 - **Danger Sense, Greater** (requires Danger Sense) - The character gains a bonus of +4 to avoid surprise.
 - **Deadly Precision** - Your weapon damage dice has a minimum result of 2. For example, if your weapon does 1d8 damage, then with this feat its possible damage rolls are 2 through 8.
+- **Deadly Precision, Improved** (requires Deadly Precision) - Your weapon damage dice has a minimum result of 3. For example, if your weapon does 1d8 damage, then with this feat its possible damage rolls are 3 through 8.
 - **Deep Impact** (requires Psionic Power skill) - You can spend 2 psionic power points to make an attack ignore armor and shield.
+- **Desert Adaptation** - The character gains a bonus of +4 to checks relating to deserts, survival in them, and traversing through them.
 - **Direction Sense** - The character gains a bonus of +4 to checks relating to direction, estimating distance, and the like.
 - **Deceitful** - The character gains a bonus of +2 to disguise, forgery, lying, and other such checks.
 - **Deft Hands** - The character gains a bonus of +2 to steal, use rope, manipulate coin tosses, and other such checks.
@@ -100,7 +114,7 @@ Characters start with 10 feats and gain an additional feat at every single exper
 - **Magic Spell Specialization** (specific) - One magic spell is considered to be a lower circle. This feat can only be taken once per spell.
 - **Magic Weapon Charge** (requires Wizard Power skill) - The character can expend a 1st-circle Wizard spell energy to make the whole party's weapons able to damage incorporeal, gelatinous, and other such creatures. This effect lasts for a number of rounds equal to the character's Experience Level. This is not considered to be a spell casting.
 - **Magical Aptitude** - The character gains a bonus of +2 to identify the magical specifics of anything.
-- **Mana Heal** (requires Experience Level 10) - The character only needs 6 hours of sleep to regain all spell energies.
+- **Mana Heal** (requires Experience Level 10) - The character only needs 6 hours of sleep or maintenance to regain all spell energies.
 - **Mariner** - The character gains a bonus of +4 to checks relating to oceans, survival in them, and traversing through them.
 - **Mountaineer** - The character gains a bonus of +4 to checks relating to mountains, survival in them, and traversing through them.
 - **Mysterious Bag** - The character can instantly send items to their home. However, they must go back home to get those items back.
@@ -132,6 +146,11 @@ Characters start with 10 feats and gain an additional feat at every single exper
 - **Quick Roll** - The character can choose to lose all attack actions in order to gain a +5 bonus to move through enemies and avoid body-blocking.
 - **Rapid Metabolism** - Your Constitution bonus, if +1 or higher, is doubled while resting.
 - **Read Spellshadow** - The character gains a bonus of +4 to identify magic in the astral plane.
+- **Red Magic of Change** (requires Metamagic (INT) skill and non-Good non-Evil alignment) - The character gets one free Change Metamagic per day per 2 caster levels of their lowest-skilled magic type. Change Metamagic acts as either *Enlarge Spell* or *Extend Spell*, chosen at the time of spellcasting.
+- **Red Magic of Deception** (requires Metamagic (INT) skill and non-Good non-Evil alignment) - The character gets one free Deception Metamagic per day per 2 caster levels of their lowest-skilled magic type. Deception Metamagic acts as either *Enlarge Spell* or *Extend Spell* to a spell of the Illusion or Enchantment school, chosen at the time of spellcasting.
+- **Red Magic of Independence** (requires Metamagic (INT) skill and non-Good non-Evil alignment) - The character gets one free Independence Metamagic per day per 2 caster levels of their lowest-skilled magic type. Independence Metamagic makes a spell be considered 5 caster levels higher if someone else tries to dispel it.
+- **Red Magic of Mystery** (requires Metamagic (INT) skill and non-Good non-Evil alignment) - The character's magic is more difficult to identify. The difficulty of identifying the Mystery user's magic is increased by 10.
+- **Red Magic of Purity** (requires Metamagic (INT) skill and non-Good non-Evil alignment) - The character gets one free Purity Metamagic per day per 2 caster levels of their lowest-skilled magic type. Purity Metamagic changes half of the spell's damage to be true neutral arcane energy.
 - **Return Shot** (requires Psionic Power skill) - You can spend 2 Psionic Power Points to gain +2 AC against one ranged attack. If the ranged attack misses, then you do it right back at the attacker. Usage of this feat is a reaction, rather than an action.
 - **Self-Sufficient** - The character gains a bonus of +2 to use healing kits, as well as to survival.
 - **Sense Emotion** - The character can track emotions and thoughts in the astral plane as if they were footprints or other such tracks on other planes.
@@ -143,6 +162,7 @@ Characters start with 10 feats and gain an additional feat at every single exper
 - **Spell Penetration** - The character gains a bonus of +2 to penetrate spell resistance.
 - **Spell Penetration, Greater** (requires Spell Penetration) - The character gains a bonus of +2 to penetrate spell resistance.
 - **Spell Recovery** - The character gains a bonus of +4 to know which spells will not work on their current plane, as well as which spells are enhanced on the current plane.
+- **Spelunker** - The character gains a bonus of +4 to checks relating to caves, survival in them, and traversing through them.
 - **Stand Still** - You can spend your movement action to instead put extra effort into intercepting enemies who try to move past you. You gain a bonus of +4 to body-blocking for this effect.
 - **Stealthy** - The character gains a bonus of +2 to hide from sight and to move silently.
 - **Swimming Expert** - The character gains a bonus of +4 to swimming.
@@ -157,6 +177,11 @@ Characters start with 10 feats and gain an additional feat at every single exper
 - **Weapon Specialization** (specific) (requires Weapon Focus) - The character gains a bonus of +1 to accuracy and damage with one specific weapon type.
 - **Weapon Specialization, Greater** (specific) (requires Weapon Specialization) - The character gains a bonus of +1 to accuracy and damage with one specific weapon type.
 - **Weapon Trick** - The character can throw any weapon as a ranged weapon. The damage of the weapon is unchanged.
+- **White Magic of Defense** (requires Metamagic (INT) skill and Good alignment) - The character gets one free Defense Metamagic per day per 2 caster levels of their lowest-skilled magic type. Defense Metamagic acts as either *Empower Spell* or *Extend Spell* to a spell of the Abjuration school, chosen at the time of spellcasting.
+- **White Magic of Radiance** (requires Metamagic (INT) skill and Good alignment) - The character gets one free Radiance Metamagic per day per 2 caster levels of their lowest-skilled magic type. Radiance Metamagic changes half of the spell's damage to be good positive energy. The affected spell also creates light for a whole 10 seconds (1 round) as per the *Light* spell.
+- **White Magic of Resistance** (requires Metamagic (INT) skill and Good alignment) - The character gains a bonus equal to (Experience Level / 2) to all checks to dispel magic.
+- **White Magic of Sustenance** (requires Metamagic (INT) skill and Good alignment) - The character gains a bonus equal to (Experience Level / 2) to all concentration checks for spellcasting. The bonus is not applied to manifesting psionic powers.
+- **White Magic of Truth** (requires Metamagic (INT) skill and Good alignment) - The character gets one free Truth Metamagic per day per 2 caster levels of their lowest-skilled magic type. Truth Metamagic acts as either *Enlarge Spell* or *Extend Spell* to a spell of the Divination school, chosen at the time of spellcasting.
 - **Wide Slash** - The character can use two of their attacks to do one attack against an enemy in the back row. In map combat, the character can use two of their attacks to do one attack 10 feet away.
 - **Wild Eye** - The character gains a bonus of +2 to find secret doors.
 - **Wounding Attack** (requires Psionic Power skill) - You can spend 2 Psionic Power Points to add 1 point of Constitution damage to one attack. This is considered long-term ability damage, thus cannot be healed by normal rest. It must be healed by spells or psionics that explicitly state that they heal ability damage.

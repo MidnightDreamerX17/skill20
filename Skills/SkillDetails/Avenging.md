@@ -2,9 +2,9 @@
 
 The Avenging skill requires its users to be Chaotic.
 
-Aura of Clear Mindedness: The character can use Avenging skill as a replacement for any saving throw against mind-affecting magic, both for themself and for all allies.
+**Aura of Clear Mindedness:** The character can use Avenging skill as a replacement for any saving throw against mind-affecting magic, both for themself and for all allies. The one making the saving throw chooses which is more favorable at the time of the check.
 
-Chaos Wave: The character declares usage of this ability after attack accuracy is rolled, but before damage has been rolled. The character loses a number of hit points equal to their experience level. Double this number is added to the weapon's damage.
+**Chaos Wave:** The character declares usage of this ability after attack accuracy is rolled, but before damage has been rolled. The character loses a number of hit points equal to their experience level. Double this number is added to the attack's damage.
 
 - Avenging Level 5: The multiplier is changed to 3x the hit points lost.
 - Avenging Level 10: Chaos Wave also causes stunning, confusion, and fear. A Wisdom save negates.
@@ -15,15 +15,17 @@ Chaos Wave: The character declares usage of this ability after attack accuracy i
 - Avenging Level 35: The multiplier is changed to 6x the hit points lost.
 - Avenging Level 40: Chaos Wave affects all enemies, regardless of whether or not the attack hit.
 
-Detect Law: Charisma + Avenging skill can be used to detect law.
+**Detect Law:** Avenging skill can be used to detect law by looking at the target for 10 seconds (1 combat round).
 
-Intimidate: The character can use Charisma + Avenging skill for intimidation. Intimidation is potentially useful for causing cowardly enemies to flee combat.
+**Intimidate:** The character can use Avenging skill for intimidation. Intimidation is potentially useful for causing cowardly enemies to flee combat.
 
-Taunt: The character can use Charisma + Avenging skill for taunting enemies. Taunting is potentially useful for forcing enemies to switch targets.
+**Taunt:** The character can use Avenging skill for taunting enemies. Taunting is potentially useful for forcing enemies to switch targets.
 
-Avenging Level 5: Chaos Minion: The gods grant the character one chaotic minion of the same level. The chaos minion is always of at least average intelligence, if not better. If the chaos minion dies, then the character must either wait a year, or increase their Avenging level, to get a new one.
+Avenging Level 5: **Chaos Minion:** The gods grant the character one chaotic minion of the same level. The chaos minion is always of at least average intelligence, if not better. If the chaos minion dies, then the character must either wait a year, or increase their Avenging level, to get a new one.
 
-Avenging Level 10: Chaos Focus: Whenever the character has a chaotic weapon drawn, they project a constant *Circle of Protection From Law*. Examples of chaotic weapons include Stormbringer, Mournblade, and the like.
+Avenging Level 10: **Chaos Focus:** Whenever the character has a chaotic weapon drawn, they project a constant *Circle of Protection From Law*. Examples of chaotic weapons include Stormbringer, Mournblade, and the like.
+
+Avenging Level 10: **Soul of Chaos:** The character's attack damage type is set to Chaotic.
 
 ## Learning From Party Members
 

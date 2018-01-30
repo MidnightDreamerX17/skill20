@@ -53,7 +53,7 @@ There are many possible methods of determining attribute numbers. The GM chooses
 
 The most common method for attribute numbers is Method 4, but the method is ultimately decided by the GM.
 
-Attribute numbers cause bonuses or penalties to d20 rolls based on attributes. These are called the "modifiers" of the attributes. For example, with a Strength of 16, the "Strength Modifier" is +3.
+Attribute numbers cause bonuses or penalties to d20 rolls based on attributes. These are called the "*modifiers*" of the attributes. For example, with a Strength number of 16, the "*Strength Modifier*" is +3.
 
 | Number | Modifier |
 | ---    | ---      |
@@ -75,13 +75,18 @@ Frequently, attribute *modifiers* are called for. Whether for d20 rolls or for o
 
 If only an attribute *bonus* is called for, rather than the *modifier*, then it means that negative modifiers are considered "no modifier" for that case.
 
+If an attribute *number* or *score* is called for, then the entire number (usually between 3 to 18) is used. Currently, there are at least two cases you would need to use the *number*, rather than the *modifier* or *bonus* for:
+
+- **Dexterity number** is used for initiative rolls
+- **Constitution number** affects starting hit points
+
 ## Statistics
 
 ### Hit Points
 
 Hit Points are heroic energy that holds the character's body together and alive, despite being chopped up, burnt to a crisp, and losing a lot of blood. If two characters lose 100 hit points, one dies, and one lives, then the one that survived simply has that much more blood and other heroic energy in their body holding them together by supernatural means. Some characters' Hit Points are primarily in supernatural efficiency of flesh, bones, and amount of blood - this is more common among thick, stout, and/or tall individuals. Other characters' Hit Points are primarily in a life energy field that surrounds all their important organs and generates blood in order to fill in damaged areas - this is more common amongst skinny, lean, and/or short individuals.
 
-Hit Points start as the character's Constitution score + 1d6. For example, a character with a Constitution of 14 will start with 14+1d6 maximum Hit Points.
+Hit Points start as the character's Constitution number + 1d6. For example, a character with a Constitution number of 14 will start with 14+1d6 maximum Hit Points.
 
 When Hit Points are at 0 or below, then the character starts losing 1 Hit Point per round (10 seconds) and falls unconscious. When Hit Points are lower than the character's full negative Constitution score, then they are dead.
 
