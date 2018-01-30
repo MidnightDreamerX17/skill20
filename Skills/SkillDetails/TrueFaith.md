@@ -2,7 +2,7 @@
 
 The True Faith skill requires its users to be Lawful Good.
 
-**Aura of Faith:** For all saving throws, both for the character and for all allies, True Faith skill can be used in place of the normal check. The one making the saving throw chooses which is more favorable at the time of the check.
+**Aura of Faith:** For all saving throws, both for the character and for all allies, True Faith skill can be used in place of the normal check. The one making the saving throw chooses which is more favorable before rolling the save.
 
 **Detect Evil:** True Faith skill can be used to detect evil by looking at the target for 10 seconds (1 combat round).
 
@@ -29,7 +29,7 @@ The True Faith skill requires its users to be Lawful Good.
 - True Faith Level 38: 19 times per day and removes stunning, fear, charm, disease, poison, deafness, blindness, paralysis, curse, geas, and petrification. It also acts as Greater Restoration, Regenerate, and Wish-Power Resurrection.
 - True Faith Level 40: 20 times per day, and simply restores the target fully in every possible way that is permitted by the character's faith.
 
-**Smite Evil:** Once per day, the character can empower one attack with the power to *Smite Evil*. The attack gains a bonus to accuracy and damage equal to the character's True Faith skill level.
+**Smite Evil:** Once per day, the character can empower one attack with the power to *Smite Evil*. The attack gains a bonus to accuracy and damage equal to the character's True Faith skill level. *Smite Evil* only works on targets of Evil alignment.
 
 True Faith Level 5: **Divine Companion:** The gods grant the character one celestial companion of the same level. This is most frequently a Celestial Heavy Warhorse, as commonly ridden by Paladins, but may take other forms as well. The Divine Companion is always of at least average intelligence, if not better. If the Divine Companion dies, then the character must either wait a year, or must increase their True Faith Level, to get another one.
 

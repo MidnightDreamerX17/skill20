@@ -39,6 +39,7 @@ Craft a new sorcery lodge, stocking it with magical supplies and inscribing rune
 | Craft (Painting) (INT) | 1 | 10
 | Craft (Tattoo) (INT) | 1 | 10
 | Dexterity Training (DEX) | 20 | Grandmaster
+| Divine Mysticism (WIS) | 5 | 20
 | Intelligence Training (INT) | 20 | Grandmaster
 | Knowledge (Arcana) (INT) | 1 | 10
 | Knowledge (Planes) (INT) | 1 | 10

@@ -36,6 +36,7 @@ You become Partner of a guild branch, requiring you to train all the lower-ranke
 | Constitution Training (CON) | 20 | Grandmaster
 | Dexterity Training (DEX) | 20 | Grandmaster
 | Intelligence Training (INT) | 20 | Grandmaster
+| Knight Honor (CHA) (Aligned) | 5 | 20
 | Knowledge (Arcana) (INT) | 1 | 10
 | Knowledge (Law) (INT) | 1 | 10
 | Knowledge (Linguistics) (INT) | 1 | 10

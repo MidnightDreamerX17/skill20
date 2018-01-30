@@ -48,6 +48,7 @@ Teach advanced mystic arts to lower-ranked members. Seek out the masters and gra
 | Craft (Stonemasonry) (INT) | 1 | 10
 | Craft (Tattoo) (INT) | 1 | 10
 | Dexterity Training (DEX) | 20 | Grandmaster
+| Divine Mysticism (WIS) | 5 | 20
 | Intelligence Training (INT) | 20 | Grandmaster
 | Knowledge (Arcana) (INT) | 5 | 20
 | Knowledge (Biology) (INT) | 5 | 20

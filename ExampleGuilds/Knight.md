@@ -42,6 +42,7 @@ Take charge of a city wall or citadel, and provide all of its needs. To attain R
 | Craft (Siege Weapons) (INT) | 5 | 20
 | Craft (Weapons) (INT) | 5 | 20
 | Dexterity Training (DEX) | 20 | Grandmaster
+| Knight Honor (CHA) (aligned) | 5 | 20
 | Knowledge (Law) (INT) | 1 | 10
 | Knowledge (Nobility) (INT) | 1 | 10
 | Melee Fighting (STR) | 1 | 10

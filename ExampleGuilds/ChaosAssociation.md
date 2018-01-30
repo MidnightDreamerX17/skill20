@@ -37,6 +37,7 @@ Your home is now a de-facto Chaos Association meeting place, where other members
 | Cleric Potential (WIS) | 10 | Grandmaster
 | Cleric Power (WIS) | 10 | Grandmaster
 | Dexterity Trianing (DEX) | 20 | Grandmaster
+| Divine Mysticism (WIS) | 10 | 20
 | Knowledge (Religion) (INT) | 10 | 20
 | Melee Fighting (STR) | 10 | 20
 | Perform (Dance) (CHA) | 1 | 20

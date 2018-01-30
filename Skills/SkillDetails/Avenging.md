@@ -2,7 +2,7 @@
 
 The Avenging skill requires its users to be Chaotic.
 
-**Aura of Clear Mindedness:** The character can use Avenging skill as a replacement for any saving throw against mind-affecting magic, both for themself and for all allies. The one making the saving throw chooses which is more favorable at the time of the check.
+**Aura of Clear Mindedness:** The character can use Avenging skill as a replacement for any saving throw against mind-affecting magic, both for themself and for all allies. The one making the saving throw chooses which is more favorable before rolling the save.
 
 **Chaos Wave:** The character declares usage of this ability after attack accuracy is rolled, but before damage has been rolled. The character loses a number of hit points equal to their experience level. Double this number is added to the attack's damage.
 
@@ -14,6 +14,8 @@ The Avenging skill requires its users to be Chaotic.
 - Avenging Level 30: The usage of Chaos Wave can be declared before rolling attack accuracy. It adds half of the character's experience level to the attack accuracy roll.
 - Avenging Level 35: The multiplier is changed to 6x the hit points lost.
 - Avenging Level 40: Chaos Wave affects all enemies, regardless of whether or not the attack hit.
+
+**Damage Dissipation:** Once per day, the character can distribute damage inside their body to touched objects and terrain. The amount of damage that can be dissipated in this action is equal to Avenging skill level.
 
 **Detect Law:** Avenging skill can be used to detect law by looking at the target for 10 seconds (1 combat round).
 

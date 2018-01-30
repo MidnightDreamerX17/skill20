@@ -38,6 +38,7 @@ Organize the defense of guild castles. Lead small armies to war. Lead cavalry fo
 | Craft (Clothing) (INT) | 1 | 10
 | Craft (Painting) (INT) | 1 | 10
 | Dexterity Training (DEX) | 20 | Grandmaster
+| Knight Honor (CHA) (Aligned) | 5 | 20
 | Knowledge (Nobility) (INT) | 1 | 10
 | Melee Fighting (STR) | 1 | 10
 | Perform (Dance) (CHA) | 1 | 10

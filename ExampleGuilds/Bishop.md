@@ -33,6 +33,7 @@ Find potential candidates for the guild. Participate in ceremonies to ordain new
 | Alchemy (INT) | 1 | 20
 | Cleric Potential (WIS) | 10 | Grandmaster
 | Cleric Power (WIS) | 10 | Grandmaster
+| Divine Mysticism (WIS) | 10 | Grandmaster
 | Druid Potential (WIS) | 10 | Grandmaster
 | Druid Power (WIS) | 10 | Grandmaster
 | Illusionist Potential (INT) | 10 | Grandmaster
