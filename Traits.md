@@ -4,7 +4,7 @@
 
 **Ascetic Training** - The character gives up all ten starting skills in order to have one advanced skill of choice. This advantage is incompatible with all other advantages and disadvantages that change a character's starting skills.
 
-**Enhanced Attribute (Specific)** - One of the character's attributes is increased by 2.
+**Enhanced Attribute (Specific)** - One of the character's attributes is increased by 2. This trait can only be taken once per attribute.
 
 **Favored Enemy Category (Specific)** - The character gains a bonus of +2 for everything relating to that enemy category, including Armor Class. The enemy categories are:
 

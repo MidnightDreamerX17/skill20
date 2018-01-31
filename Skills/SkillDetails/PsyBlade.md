@@ -1,6 +1,11 @@
 # Psy Blade (INT)
 
-Projected Blade: The Projected Blade requires the character to be conscious and not under any mind-altering effects. If the character falls unconscious or comes under a mind-altering effect, then the Projected Blade disappears. It takes both hands to use. It can be used as either a melee weapon, or as a throwing weapon with a range increment of 60 feet, but not both in the same round. It deals an amount of damage according to the following table:
+A Psy-Blade is considered one of the following:
+
+- A subtype of Two-Handed Straight Sword - when used as a melee weapon
+- A subtype of Throwing Weapon - when used as a throwing weapon
+
+**Projected Blade:** The Projected Blade requires the character to be conscious and not under any mind-altering effects. If the character falls unconscious or comes under a mind-altering effect, then the Projected Blade disappears. It takes both hands to use. It can be used as either a melee weapon, or as a throwing weapon with a range increment of 60 feet, but not both in the same round. It deals an amount of damage according to the following table:
 
 | Psy Blade Level | Damage | Accuracy Bonus | Psionic Reinforcement Equivalency |
 | ---             | ---    | ---            | ---                               |
@@ -28,7 +33,7 @@ Projected Blade: The Projected Blade requires the character to be conscious and 
 
 If the character has an Intelligence of 9 or less, then the blade does no damage.
 
-Solid Blade:
+**Solid Blade:**
 
 - Psy Blade Level 20: The character can lend one copy of the Projected Blade to one ally. If the character falls unconscious or comes under a mind-altering effect, then both Projected Blades disappear.
 - Psy Blade Level 40: The Projected Blade becomes a permanent and real object, which will continue to exist even if the character is unconscious or killed. However, its damage is divided by 10 in the hands of someone who does not have any levels in Psy Blade.

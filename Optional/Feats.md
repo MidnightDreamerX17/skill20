@@ -26,7 +26,7 @@ The GM may rule that bonus feats are given as rewards for achieving high ranks i
 - **Astral Navigation** - While in the astral plane, the character can perceive astral landmarks from twice as "far" away, and can travel to them in half the "time". "Far" and "time" in quotation marks due to the nature of the astral plane. It is more accurate to say that the character can sense the existence of an astral landmark's bubble at only half the astral probability of intersection, and can maintain a stable merge of astral bubbles at lower relativity.
 - **Astral Running** - While in the astral plane, the character can spend a full action to "fly" at triple their normal astral speed. This uses up stamina as if the character had sprinted. This is basically translating the character's running speed into increased control of astral relativity compared to other creatures in the same astral bubble.
 - **Astral Tracking** - The character can attempt to track targets through the astral plane just as well as through any other plane.
-- **Astrologer** - The character gains two 0th-circle Druid spell energies and memorization slots.
+- **Astrologer** - The character gains two additional 0th-circle Druid spell energies and memorization slots.
 - **Athletic** - The character gains a bonus of +2 to climbing, swimming, running, and other activities for extended periods of time.
 - **Augment Summoning** - The character's summons gain a bonus of +1 to experience level.
 - **Autonomous** - The character gains a bonus of +2 to Knowledge (Psionics) checks, and concentration checks for both magic and psionics.
@@ -134,13 +134,13 @@ The GM may rule that bonus feats are given as rewards for achieving high ranks i
 - **Power Penetration** - The character gains a bonus of +2 to penetrate power resistance.
 - **Power Penetration, Greater** (requires Power Penetration) - The character gains a bonus of +2 to penetrate power resistance.
 - **Prayer Master** - The character gains two additional 0th-circle Cleric spell energies and memorization slots.
-- **Prestidigitator** - The character gains two additional 0th-circle Illusionist spell energies. Gaining this feat will also cause sudden inspiration to write two 0th-circle Illusionist spells into the spellbook.
+- **Prestidigitator** - The character gains two additional 0th-circle Illusionist spell energies and memorization slots. Gaining this feat will also cause sudden inspiration to write two 0th-circle Illusionist spells into the spellbook.
 - **Psionic Fist** (requires Psionic Power skill) - You can spend 2 Psionic Power Points to add 2d6 psionic damage to one unarmed or natural attack.
 - **Psionic Fist, Greater** (requires Psionic Fist) - You can spend 2 Psionic Power Points to add 2d6 psionic damage to one unarmed or natural attack. This can be combined with Psionic Fist for a total of 4 Psionic Power Points in order to add 4d6 psionic damage.
 - **Psionic Hole** - Anyone who has the Psionic Power skill must spend 1 additional Psionic Power Point to target you, whether with attacks or with powers. If someone is at zero Psionic Power Points, however, then they do not need to spend any more to target you.
 - **Psionic Power Specialization** (specific) - One psionic power of choice is considered to be of a lower circle, and its power point cost is reduced by 1. This feat can only be taken once per power.
 - **Psionic Shot** (requires Psionic Power skill) - You can spend 2 Psionic Power Points to add 2d6 psionic damage to one ranged attack.
-- **Psionic Talent** (specific) - Your maximum Psionic Power Points are increased by 2. This feat is linked to an Intelligence bonus, so for example, if your Intelligence is 14, then you can buy this feat for INT Bonus +1 and INT Bonus +2.
+- **Psionic Talent** - Your maximum Psionic Power Points are increased by 2. This feat can be purchased a number of times equal to your Intelligence bonus. For example, if you have an Intelligence number of 12, then you can buy this feat once. If you have an Intelligence number of 14, then you can buy this feat up to two times. And so on.
 - **Psionic Weapon** (requires Psionic Power skill) - You can spend 2 Psionic Power Points to add 2d6 psionic damage to one weapon attack.
 - **Quadruple-Wielding** (requires at least four arms, Triple-Wielding) - You can quadruple-wield normally.
 - **Quick Roll** - The character can choose to lose all attack actions in order to gain a +5 bonus to move through enemies and avoid body-blocking.
