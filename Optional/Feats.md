@@ -23,7 +23,7 @@ The GM may rule that bonus feats are given as rewards for achieving high ranks i
 - **Arcane Armor Training, Superior** (requires Arcane Armor Training, Greater) - Spell Failure Chance is reduced by 10% for Illusionist and Wizard magic.
 - **Arms Master** - The character gains a bonus of +1 to all attack accuracy checks.
 - **Astral Constriction** - The character can attempt to "grapple" opponents within line of "sight" in the astral plane. This is basically using one's grappling skills and physical abilities translated into the power to affect another person's astral relativity, even if they are not astrally-touching.
-- **Astral Navigation** - While in the astral plane, the character can perceive astral landmarks from twice as "far" away, and can travel to them in half the "time". "Far" and "time" in quotation marks due to the nature of the astral plane. It is more accurate to say that the character can sense the existence of an astral landmark's bubble at only half the astral probability of intersection, and can maintain a stable merge of astral bubbles at lower relativity.
+- **Astral Navigation** - While in the astral plane, the character can perceive astral landmarks from twice as "far" away, and can travel to them in half the "time". "Far" and "time" in quotation marks due to the nature of the astral plane. It is more accurate to say that the character can sense the existence of an astral landmark's bubble at only half the astral probability of intersection, and can maintain a stable merge of astral bubbles at lower relativity. This also applies when the character is the designated navigator for an *Astral Caravan*, *Astral Ship*, or other such astral vehicle.
 - **Astral Running** - While in the astral plane, the character can spend a full action to "fly" at triple their normal astral speed. This uses up stamina as if the character had sprinted. This is basically translating the character's running speed into increased control of astral relativity compared to other creatures in the same astral bubble.
 - **Astral Tracking** - The character can attempt to track targets through the astral plane just as well as through any other plane.
 - **Astrologer** - The character gains two additional 0th-circle Druid spell energies and memorization slots.
@@ -77,11 +77,12 @@ The GM may rule that bonus feats are given as rewards for achieving high ranks i
 - **Enemy Category Specialization** (specific) - The character gains a bonus of +1 to all actions against the enemy category.
 - **Ethereal Curtain Cognizance** - The character can spend a full minute to try to find shortcuts in the curtain between the border and deep ethereal.
 - **Ethereal Nutriment** - The character can gain basic nutrition by breathing in the ethereal plane.
-- **Ethereal Sight** - The character can see through the deep ethereal for up to 100 seconds at a time. A minute is required to recover.
-- **Ethereal Tracking** - The character can track targets through the ethereal plane normally.
+- **Ethereal Sight** - The character can see through the Deep Ethereal for up to 100 seconds at a time. A minute is required to recover.
+- **Ethereal Sight, Improved** (requires Ethereal Sight) - The character can see in the Ethereal Plane normally.
+- **Ethereal Tracking** - The character can track targets through the Ethereal Plane normally.
 - **Ethereal Vapor Weave** - The character can form basic images, objects, and sounds in the ethereal plane for up to an hour. It takes another hour to recover from this effort.
 - **Ethereal Vapor Weave, Improved** (requires Ethereal Vapor Weave) - The character does not need any time to recover from usage of *Ethereal Vapor Weave*.
-- **Expanded Knowledge** (specific) - You learn one additional psionic power, fitting within the constraints of powers that you could possibly have learned during your most recent Psionic skill improvement. This feat can be taken once per psionic power.
+- **Ethereal Vapor Weave, Greater** (requires Ethereal Vapor Weave, Improved) - The character can form ethereal mist from the Deep Ethereal into objects, creatures, and structures which have the strength of thick paper or cardboard. If these things are brought out of the Ethereal Plane, they will be affected by gravity and other forces accordingly.
 - **Focused Sunder** (requires Psionic Power skill) - You can spend 2 Psionic Power Points in order to gain a bonus of +5 to break weapons.
 - **Force of Will** - You can use Wisdom or Intelligence to save against psionics that require Strength, Constitution, or Dexterity saves.
 - **Forester** - The character gains a bonus of +4 to checks relating to forests, survival in them, and traversing through them.
@@ -98,7 +99,7 @@ The GM may rule that bonus feats are given as rewards for achieving high ranks i
 - **Improved Initiative, Greater** (requires Improved Initiative) - The character gains a bonus of +10 to initiative rolls.
 - **Intuition** - The character gains a bonus of +2 to find and disarm traps.
 - **Investigator** - The character gains a bonus of +2 to examine scenes for details, ask groups of people for information, and other such checks.
-- **Invincible** - The character gains a bonus of +2 to save against instant-death, petrification, polymorph, and other body-altering "game-ending" effects.
+- **Invincible** - The character gains a bonus of +2 to save against instant-death, petrification, polymorph, size changing, and other body-altering "game-ending" effects.
 - **Invincible Heart** (requires Invincible) - The character gains a bonus of +2 to save against instant-death, petrification, polymorph, and other body-altering "game-ending" effects.
 - **Iron Will** - The character gains a bonus of +2 to Wisdom and Charisma saving throws.
 - **Item Trick** - The character can use two items in one action.
