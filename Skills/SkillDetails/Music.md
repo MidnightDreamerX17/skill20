@@ -19,3 +19,11 @@ Average Gold Cost: 100
 Average Training Time for 1st Skill Level: 2 months
 
 Musical instruments with replacement parts. Sheet music for the instrument type. The trainer must have Music Level 5.
+
+### Guild Operated By Party
+
+Average Gold Cost: 2,000
+
+Average Training Time for 1st Skill Level: 1 week
+
+Trainers: 3 x Music (CHA) skill level 5

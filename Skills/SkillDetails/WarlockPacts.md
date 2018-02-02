@@ -160,3 +160,11 @@ Average Gold Cost: 2,000
 Average Training Time for 1st Skill Level: 1 month
 
 Summoning circle, dark tomes of lore, trinkets and animals to sacrifice to secret powers, safety measures to protect from being eaten outright. The trainer must have Warlock Pacts Level 5.
+
+### Guild Operated By Party
+
+Average Gold Cost: 40,000
+
+Average Training Time for 1st Skill Level: 1 week
+
+Trainers: 3 x Warlock Pacts (CHA) skill level 5

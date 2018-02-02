@@ -33,3 +33,11 @@ Average Gold Cost: 200
 Average Training Time for 1st Skill Level: 1 month
 
 Sparring gear and wooden weapons. Training partners to spar with. The trainer must have Melee Fighting Level 5.
+
+### Guild Operated By Party
+
+Average Gold Cost: 4,000
+
+Average Training Time for 1st Skill Level: 1 week
+
+Trainers: 3 x Melee Fighting (STR) skill level 5

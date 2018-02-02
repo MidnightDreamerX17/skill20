@@ -97,3 +97,11 @@ Average Gold Cost: 0
 Average Training Time for 1st Skill Level: 6 months
 
 Access to a variety of subjects and materials for practicing magic on. The trainer must have Metamagic Level 10.
+
+### Guild Operated By Party
+
+Average Gold Cost: 0
+
+Average Training Time for 1st Skill Level: 2 weeks
+
+Trainers: 6 x Metamagic (INT) skill level 5

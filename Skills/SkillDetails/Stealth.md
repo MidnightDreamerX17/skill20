@@ -32,3 +32,11 @@ Average Gold Cost: 100
 Average Training Time for 1st Skill Level: 3 months
 
 Obstacle course with a variety of floor types. Training partners with acute senses. The trainer must have Stealth Level 10.
+
+### Guild Operated By Party
+
+Average Gold Cost: 2,000
+
+Average Training Time for 1st Skill Level: 1 week
+
+Trainers: 3 x Stealth (DEX) skill level 5

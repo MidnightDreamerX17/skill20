@@ -9,3 +9,11 @@ Average Gold Cost: 0
 Average Training Time for 1st Skill Level: 6 months
 
 The trainer must have Constitution Training Level 10.
+
+### Guild Operated By Party
+
+Average Gold Cost: 0
+
+Average Training Time for 1st Skill Level: 3 weeks
+
+Trainers: 6 x Constitution Training (CON) skill level 10

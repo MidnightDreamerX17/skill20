@@ -10,6 +10,14 @@ Average Training Time for 1st Skill Level: 3 months
 
 Supplies and metals for practicing the component construction and assembly. Access to heavy tools. The trainer must have Power Tools Level 10.
 
+### Guild Operated By Party
+
+Average Gold Cost: 40,000
+
+Average Training Time for 1st Skill Level: 1 week
+
+Trainers: 6 x Power Tools (INT) skill level 5
+
 ## Definitions
 
 F-crank = Fantasy Crank = measurement of stable repetitive mechanical force

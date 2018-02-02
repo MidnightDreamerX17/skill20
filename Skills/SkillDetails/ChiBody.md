@@ -50,3 +50,11 @@ Average Gold Cost: 500
 Average Training Time for 1st Skill Level: 3 months
 
 Training weapons for hitting the trainee with. Acupuncture needles, incense, and other supplies for modifying the trainee's energy flows. Herbal medicines. The trainer must have Chi Body Level 10.
+
+### Guild Operated By Party
+
+Average Gold Cost: 10,000
+
+Average Training Time for 1st Skill Level: 1 week
+
+Trainers: 6 x Chi Body (CON) skill level 5

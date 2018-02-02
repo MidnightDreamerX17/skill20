@@ -35,3 +35,11 @@ Average Gold Cost: 200
 Average Training Time for 1st Skill Level: 2 months
 
 Firing range with obstacles, targets, and practice weapons. Training partners with training gear to do paint-fighting practice. The trainer must have Ranged Fighting Level 5.
+
+### Guild Operated By Party
+
+Average Gold Cost: 4,000
+
+Average Training Time for 1st Skill Level: 1 week
+
+Trainers: 3 x Ranged Fighting (DEX) skill level 5

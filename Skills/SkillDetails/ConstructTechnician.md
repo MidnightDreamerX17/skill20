@@ -116,3 +116,19 @@ A power source must be included in the units of each mech to complete the build.
 | Siege Laser, Long       | 550.00 | 2d10 laser | 240 feet | 11 units | 16
 | Siege Laser, Pulse      | 550.00 | 2d10 laser | 90 feet  | 8 units | 16 | +1 accuracy
 | Sonic Beamer            | 200.00 | 2d4 sonic | 150 feet  | 4 units | 0
+
+## Learning From Party Members
+
+Average Gold Cost: 2,000
+
+Average Training Time for 1st Skill Level: 3 months
+
+Full construct build & repair shop with heavy tools. Surplus and scrap parts to work on. Complete constructs to test. The trainer must have Construct Technician Level 10.
+
+### Guild Operated By Party
+
+Average Gold Cost: 40,000
+
+Average Training Time for 1st Skill Level: 2 weeks
+
+Trainers: 6 x Construct Technician (INT) skill level 5

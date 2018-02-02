@@ -27,3 +27,11 @@ Average Gold Cost: 1,000
 Average Training Time for 1st Skill Level: 3 months
 
 Full alchemy laboratory with safety gear, access to open air, and a large variety of alchemical ingredients. The trainer must have Alchemy Level 5.
+
+### Guild Operated By Party
+
+Average Gold Cost: 20,000
+
+Average Training Time for 1st Skill Level: 2 weeks
+
+Trainers: 3 x Alchemy (INT) skill level 5

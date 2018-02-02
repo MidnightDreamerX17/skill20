@@ -60,3 +60,11 @@ Average Gold Cost: 1,000
 Average Training Time for 1st Skill Level: 6 months
 
 Theater space, wide variety of props and materials, other people to scrutinize the trainee's performance and look for flaws in the illusions. The trainer must have Illusionist Potential Level 10.
+
+### Guild Operated By Party
+
+Average Gold Cost: 20,000
+
+Average Training Time for 1st Skill Level: 2 weeks
+
+Trainers: 6 x Illusionist Potential (INT) skill level 5

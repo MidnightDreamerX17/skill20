@@ -54,3 +54,11 @@ Average Gold Cost: 500
 Average Training Time for 1st Skill Level: 6 months
 
 Access to minor psionic items. The trainer must have Psionic Power Level 10.
+
+### Guild Operated By Party
+
+Average Gold Cost: 10,000
+
+Average Training Time for 1st Skill Level: 2 weeks
+
+Trainers: 6 x Psionic Power (INT) skill level 5

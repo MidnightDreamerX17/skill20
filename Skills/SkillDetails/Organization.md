@@ -9,3 +9,11 @@ Average Gold Cost: 0
 Average Training Time for 1st Skill Level: 6 months
 
 The trainer must have a team of people and a set of concrete tasks for the trainee to practice with. The trainer must have Organization Level 5.
+
+### Guild Operated By Party
+
+Average Gold Cost: 0
+
+Average Training Time for 1st Skill Level: 2 weeks
+
+Trainers: 6 x Organization (INT) skill level 5

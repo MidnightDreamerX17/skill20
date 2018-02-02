@@ -35,3 +35,11 @@ Average Gold Cost: 200
 Average Training Time for 1st Skill Level: 6 months
 
 Magical ingredients for practicing the transformation of spells. The trainer must have Sorcery Level 10.
+
+### Guild Operated By Party
+
+Average Gold Cost: 4,000
+
+Average Training Time for 1st Skill Level: 2 weeks
+
+Trainers: 6 x Sorcery (CHA) skill level 5

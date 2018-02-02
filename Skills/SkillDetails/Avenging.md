@@ -36,3 +36,11 @@ Average Gold Cost: 100
 Average Training Time for 1st Skill Level: 3 months
 
 Access to locations full of both lawful and chaotic people. Minor items blessed to be lawful and chaotic. The trainer must have Avenging Level 10.
+
+### Guild Operated By Party
+
+Average Gold Cost: 2,000
+
+Average Training Time for 1st Skill Level: 2 weeks
+
+Trainers: 6 x Avenging (CHA) skill level 5

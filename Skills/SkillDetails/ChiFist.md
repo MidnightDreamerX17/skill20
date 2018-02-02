@@ -63,3 +63,11 @@ Average Gold Cost: 500
 Average Training Time for 1st Skill Level: 3 months
 
 Access to trees, wooden and brick pillars, and other objects for practicing the strength of one's fist. Mystically-infused items to attempt to strike. The trainer must have Chi Fist Level 10.
+
+### Guild Operated By Party
+
+Average Gold Cost: 10,000
+
+Average Training Time for 1st Skill Level: 1 week
+
+Trainers: 6 x Chi Fist (CON) skill level 5

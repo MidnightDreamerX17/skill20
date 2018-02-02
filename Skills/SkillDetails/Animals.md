@@ -15,3 +15,11 @@ Average Gold Cost: 2,000
 Average Training Time for 1st Skill Level: 2 months
 
 Large open field with well-trained horses, basic jousting gear, field obstacles, and targets for practicing lancing and ride-by slashes. Access to an average farm and ranch, with a large variety of animals. The trainer must have Animals Level 5.
+
+### Guild Operated By Party
+
+Average Gold Cost: 40,000
+
+Average Training Time for 1st Skill Level: 1 week
+
+Trainers: 3 x Animals (WIS) skill level 5

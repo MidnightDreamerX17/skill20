@@ -11,3 +11,11 @@ Average Gold Cost: 100
 Average Training Time for 1st Skill Level: 2 months
 
 Variety of survival gear. Access to multiple regions to practice in. The trainer must have Survival Level 5.
+
+### Guild Operated By Party
+
+Average Gold Cost: 2,000
+
+Average Training Time for 1st Skill Level: 1 week
+
+Trainers: 3 x Survival (WIS) skill level 5

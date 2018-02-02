@@ -25,3 +25,11 @@ Average Gold Cost: 2,000
 Average Training Time for 1st Skill Level: 3 months
 
 Access to magic items that have various restrictions. The trainer must have Use Magic Device Level 10.
+
+### Guild Operated By Party
+
+Average Gold Cost: 40,000
+
+Average Training Time for 1st Skill Level: 1 week
+
+Trainers: 6 x Use Magic Device (CHA) skill level 5

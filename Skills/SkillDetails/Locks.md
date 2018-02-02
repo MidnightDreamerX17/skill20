@@ -9,3 +9,11 @@ Average Gold Cost: 1,000
 Average Training Time for 1st Skill Level: 2 months
 
 A variety of locks to practice on, including safes and padlocks that nobles would use. Tools and materials for crafting various types of locks. The trainer must have Locks Level 10.
+
+### Guild Operated By Party
+
+Average Gold Cost: 20,000
+
+Average Training Time for 1st Skill Level: 1 week
+
+Trainers: 3 x Locks (DEX) skill level 5

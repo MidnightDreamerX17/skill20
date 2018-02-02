@@ -13,3 +13,11 @@ Average Gold Cost: 500
 Average Training Time for 1st Skill Level: 1 month
 
 Heavy padded training armor, wooden weapons, obstacle course, sparring partners with practice gear. The trainer must have Armor Training Level 5.
+
+### Guild Operated By Party
+
+Average Gold Cost: 10,000
+
+Average Training Time for 1st Skill Level: 1 week
+
+Trainers: 3 x Armor Training (CON) skill level 5

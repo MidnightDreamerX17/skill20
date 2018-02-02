@@ -29,3 +29,19 @@ Knight Honor Level 16: **Wisdom of Knightly Virtues:** The character gains an in
 Knight Honor Level 19: **Final Stand:** Once per day, the character can spend 1 second to announce the *Final Stand*. This is usually compatible with all other actions in the round. All allies who can hear the character gain 2d10 divine shield hit points.
 
 Knight Honor Level 20: **Knighthood's Flower:** The character becomes immune to mind-altering effects unless they are purely beneficial. The character also gains an inherent *Foresight* spell that can be cast once per day on themself.
+
+## Learning From Party Members
+
+Average Gold Cost: 0
+
+Average Training Time for 1st Skill Level: 6 months
+
+Access to various people who believe in knightly honor. Other people to practice with. Situations that test one's own knightly honor. The trainer must have Knight Honor Level 10.
+
+### Guild Operated By Party
+
+Average Gold Cost: 0
+
+Average Training Time for 1st Skill Level: 2 weeks
+
+Trainers: 6 x Knight Honor (CHA) skill level 5

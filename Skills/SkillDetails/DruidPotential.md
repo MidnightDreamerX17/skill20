@@ -38,3 +38,13 @@ Average Gold Cost: 100
 Average Training Time for 1st Skill Level: 6 months
 
 Access to elder trees, figurines, sacred groves, and druids dedicated to nature. The trainer must have Druid Potential Level 10.
+
+### Guild Operated By Party
+
+Average Gold Cost: 2,000
+
+Average Training Time for 1st Skill Level: 2 weeks
+
+Trainers: 6 x Druid Potential (WIS) skill level 5
+
+Gods can serve as multiple trainers for this purpose, although they would have to be willing to spend enough of their concentration on having a direct speaking presence at the guild.

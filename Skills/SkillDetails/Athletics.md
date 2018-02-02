@@ -13,3 +13,11 @@ Average Gold Cost: 200
 Average Training Time for 1st Skill Level: 1 month
 
 Access to a complex urban environment, a river for swimming, various walls for climbing, and other improvised obstacles. The trainer must have Athletics Level 5.
+
+### Guild Operated By Party
+
+Average Gold Cost: 4,000
+
+Average Training Time for 1st Skill Level: 1 week
+
+Trainers: 3 x Athletics (DEX) skill level 5

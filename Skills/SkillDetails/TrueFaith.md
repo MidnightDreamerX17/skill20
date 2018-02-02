@@ -44,3 +44,11 @@ Average Gold Cost: 0
 Average Training Time for 1st Skill Level: 6 months
 
 Spending a lot of time with other faithful. The trainer must have True Faith Level 10.
+
+### Guild Operated By Party
+
+Average Gold Cost: 0
+
+Average Training Time for 1st Skill Level: 3 weeks
+
+Trainers: 6 x True Faith (CHA) skill level 5

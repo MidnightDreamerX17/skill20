@@ -38,3 +38,11 @@ Average Gold Cost: 2,000
 Average Training Time for 1st Skill Level: 6 months
 
 Spellbooks, spell components, magical foci, apparatus for experimentation. The trainer must have Wizard Potential Level 10.
+
+### Guild Operated By Party
+
+Average Gold Cost: 40,000
+
+Average Training Time for 1st Skill Level: 2 weeks
+
+Trainers: 6 x Wizard Potential (INT) skill level 5

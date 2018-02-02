@@ -45,3 +45,11 @@ Average Gold Cost: 200
 Average Training Time for 1st Skill Level: 6 months
 
 Access to specially-crafted targets and other objects to practice cutting with the Psy Blade. The trainer must have Psy Blade Level 10.
+
+### Guild Operated By Party
+
+Average Gold Cost: 4,000
+
+Average Training Time for 1st Skill Level: 2 weeks
+
+Trainers: 6 x Psy Blade (INT) skill level 5

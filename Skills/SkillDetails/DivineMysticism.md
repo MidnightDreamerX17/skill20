@@ -34,3 +34,19 @@ Divine Mysticism grants inherent knowledge of Cleric spells, without needing to 
 | **18** | 13  | 11  | 9   | 8   | 7   | 6   | 5   | 4   | 3   | 2   |      |         |
 | **19** | 14  | 12  | 9   | 8   | 7   | 6   | 5   | 4   | 3   | 2   |      |         |
 | **20** | 14  | 12  | 10  | 9   | 8   | 7   | 6   | 5   | 4   | 3   | 2    | 8th     |
+
+## Learning From Party Members
+
+Average Gold Cost: 0
+
+Average Training Time for 1st Skill Level: 6 months
+
+Access to natural locations where various aspects of divine mysticism can be practiced. The trainer must have Divine Mysticism Level 10.
+
+### Guild Operated By Party
+
+Average Gold Cost: 0
+
+Average Training Time for 1st Skill Level: 2 weeks
+
+Trainers: 6 x Divine Mysticism (WIS) skill level 5

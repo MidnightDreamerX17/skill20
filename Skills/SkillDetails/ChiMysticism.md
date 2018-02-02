@@ -59,3 +59,11 @@ Average Gold Cost: 1,000
 Average Training Time for 1st Skill Level: 3 months
 
 Access to sacred scrolls and scriptures of mysticism. Access to multiple sites of meditating on different elements and concepts. The trainer must have Chi Mysticism Level 10.
+
+### Guild Operated By Party
+
+Average Gold Cost: 20,000
+
+Average Training Time for 1st Skill Level: 1 week
+
+Trainers: 6 x Chi Mysticism (CON) skill level 5
