@@ -173,10 +173,10 @@ The GM may rule that bonus feats are given as rewards for achieving high ranks i
 - **Unavoidable Strike** (requires Psionic Power skill) - You can spend 2 psionic power points in order to cause one unarmed or natural weapon attack to ignore armor and shield.
 - **Up the Walls** (requires Psionic Power skill) - You can spend 1 Psionic Power Point to include vertical surfaces as part of your move action. You must still end your move action on something you could stand on or hover over normally.
 - **Vanguard Stance** - The character can take damage from a ranged attack in place of an adjacent ally. Usage of this feat can be declared starting from when the enemy chooses to do a ranged attack, up to immediately after damage is rolled.
-- **Weapon Focus** (specific) - The character gains a bonus of +1 to accuracy and damage with one specific weapon type.
-- **Weapon Focus, Greater** (specific) (requires Weapon Focus) - The character gains a bonus of +1 to accuracy and damage with one specific weapon type.
-- **Weapon Specialization** (specific) (requires Weapon Focus) - The character gains a bonus of +1 to accuracy and damage with one specific weapon type.
-- **Weapon Specialization, Greater** (specific) (requires Weapon Specialization) - The character gains a bonus of +1 to accuracy and damage with one specific weapon type.
+- **Weapon Focus** (specific) - The character gains a bonus of +1 to accuracy and damage with one specific weapon subtype.
+- **Weapon Focus, Greater** (specific) (requires Weapon Focus) - The character gains a bonus of +1 to accuracy and damage with one specific weapon subtype.
+- **Weapon Specialization** (specific) (requires Weapon Focus) - The character gains a bonus of +1 to accuracy and damage with one specific weapon subtype.
+- **Weapon Specialization, Greater** (specific) (requires Weapon Specialization) - The character gains a bonus of +1 to accuracy and damage with one specific weapon subtype. The guaranteed hit range is expanded to 19 through 20.
 - **Weapon Trick** - The character can throw any weapon as a ranged weapon. The damage of the weapon is unchanged.
 - **White Magic of Defense** (requires Metamagic (INT) skill and Good alignment) - The character gets one free Defense Metamagic per day per 2 caster levels of their lowest-skilled magic type. Defense Metamagic acts as either *Empower Spell* or *Extend Spell* to a spell of the Abjuration school, chosen at the time of spellcasting.
 - **White Magic of Radiance** (requires Metamagic (INT) skill and Good alignment) - The character gets one free Radiance Metamagic per day per 2 caster levels of their lowest-skilled magic type. Radiance Metamagic changes half of the spell's damage to be good positive energy. The affected spell also creates light for a whole 10 seconds (1 round) as per the *Light* spell.
