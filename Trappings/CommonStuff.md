@@ -197,10 +197,14 @@
 | Doctor, leech, or bleeding | 3.00
 | Guide, in City | 0.20 per day
 | Guide, in Non-Standard Plane | 10.00 per day and a share of earned value
-| Hireling, Level 0 | 0.10
-| Hireling, Level 1 | 0.30 per day
-| Hireling, Level 2 | 2.00 per day and a share of earned value
-| Hireling, Level 3 | 10.00 per day and a share of earned value
+| Hireling, Level 0 | 0.10 per day
+| Hireling, Level 1 | 0.30 per day, half-share of coin, casts a lot for potions and protective items
+| Hireling, Level 2 | 2.00 per day, equal share of coin, and casts a lot for most essential items
+| Hireling, Level 3 | 4.00 per day, equal share of coin, and casts a lot for half of all items
+| Hireling, Level 4 | 8.00 per day, equal share of coin, and casts a lot for half of all items
+| Hireling, Level 5 | 16.00 per day, equal share of coin, and casts a lot for all items
+| Hireling, Level 6 | 32.00 per day, equal share of coin, and casts a lot for all items
+| Hireling, Level 7 | 64.00 per day, equal share of coin, and casts a lot for all items
 | Hospital, Poor | 0.10 per week
 | Hospital, Good | 5.00 per week
 | Lantern or Torchbearer | 0.10 per day
