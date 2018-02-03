@@ -1,5 +1,7 @@
 # Fusion
 
+[Fusion](/Psionics/F/Fusion.md) - Circle 9, Egoist, Psychometabolism
+
 - **Circle:** 9
 - **Category:** Egoist
 - **Discipline:** Psychometabolism

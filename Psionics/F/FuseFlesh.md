@@ -1,5 +1,7 @@
 # Fuse Flesh
 
+[Fuse Flesh](/Psionics/F/FuseFlesh.md) - Circle 7, Shaper, Psychometabolism
+
 - **Circle:** 7
 - **Category:** Shaper
 - **Discipline:** Psychometabolism

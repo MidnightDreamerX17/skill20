@@ -1,5 +1,7 @@
 # Genesis
 
+[Genesis](/Psionics/G/Genesis.md) - Circle 10, Shaper, Metacreativity
+
 - **Circle:** 10
 - **Category:** Shaper
 - **Discipline:** Metacreativity

@@ -1,5 +1,7 @@
 # Fate Link
 
+[Fate Link](/Psionics/F/FateLink.md) - Circle 4, Seer, Clairsentience
+
 - **Circle:** 4
 - **Category:** Seer
 - **Discipline:** Clairsentience

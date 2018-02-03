@@ -1,5 +1,7 @@
 # Immovability
 
+[Immovability](/Psionics/I/Immovability.md) - Circle 5, Warrior, Psychometabolism
+
 - **Circle:** 5
 - **Category:** Warrior
 - **Discipline:** Psychometabolism

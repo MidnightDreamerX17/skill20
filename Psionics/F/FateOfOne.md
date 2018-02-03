@@ -1,5 +1,7 @@
 # Fate of One
 
+[Fate of One](/Psionics/F/FateOfOne.md) - Circle 8, Seer, Clairsentience
+
 - **Circle:** 8
 - **Category:** Seer
 - **Discipline:** Clairsentience

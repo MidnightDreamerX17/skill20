@@ -1,5 +1,7 @@
 # Freedom of Movement, Psionic
 
+[Freedom of Movement, Psionic](/Psionics/F/FreedomOfMovementPsionic.md) - Circle 4, Warrior, Psychoportation
+
 - **Circle:** 4
 - **Category:** Warrior
 - **Discipline:** Psychoportation

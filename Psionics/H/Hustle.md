@@ -1,5 +1,7 @@
 # Hustle
 
+[Hustle](/Psionics/H/Hustle.md) - Circle 3, Egoist, Psychometabolism
+
 - **Circle:** 3
 - **Category:** Egoist
 - **Discipline:** Psychometabolism

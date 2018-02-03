@@ -1,5 +1,7 @@
 # Hail of Crystals
 
+[Hail of Crystals](/Psionics/H/HailOfCrystals.md) - Circle 6, Shaper, Metacreativity
+
 - **Circle:** 6
 - **Category:** Shaper
 - **Discipline:** Metacreativity

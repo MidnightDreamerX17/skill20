@@ -1,5 +1,7 @@
 # Keen Edge, Psionic
 
+[Keen Edge, Psionic](/Psionics/K/KeenEdgePsionic.md) - Circle 3, Warrior, Metacreativity
+
 - **Circle:** 3
 - **Category:** Warrior
 - **Discipline:** Metacreativity

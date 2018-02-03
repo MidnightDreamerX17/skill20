@@ -1,5 +1,7 @@
 # Fission
 
+[Fission](/Psionics/F/Fission.md) - Circle 8, Egoist, Psychometabolism
+
 - **Circle:** 8
 - **Category:** Egoist
 - **Discipline:** Psychometabolism

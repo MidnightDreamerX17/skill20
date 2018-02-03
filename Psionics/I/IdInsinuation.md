@@ -1,5 +1,7 @@
 # Id Insinuation
 
+[Id Insinuation](/Psionics/I/IdInsinuation.md) - Circle 2, Telepath, Telepathy
+
 - **Circle:** 2
 - **Category:** Telepath
 - **Discipline:** Telepathy

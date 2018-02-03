@@ -1,5 +1,7 @@
 # Far Hand
 
+[Far Hand](/Psionics/F/FarHand.md) - Circle 1, Kineticist, Psychokinesis
+
 - **Circle:** 1
 - **Category:** Kineticist
 - **Discipline:** Psychokinesis

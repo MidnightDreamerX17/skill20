@@ -1,5 +1,7 @@
 # Fly, Psionic
 
+[Fly, Psionic](/Psionics/F/FlyPsionic.md) - Circle 5, Nomad, Psychoportation
+
 - **Circle:** 5
 - **Category:** Nomad
 - **Discipline:** Psychoportation

@@ -1,5 +1,7 @@
 # Knock, Psionic
 
+[Knock, Psionic](/Psionics/K/KnockPsionic.md) - Circle 2, Kineticist, Psychoportation
+
 - **Circle:** 2
 - **Category:** Kineticist
 - **Discipline:** Psychoportation

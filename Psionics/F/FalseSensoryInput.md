@@ -1,5 +1,7 @@
 # False Sensory Input
 
+[False Sensory Input](/Psionics/F/FalseSensoryInput.md) - Circle 4, Telepath, Telepathy
+
 - **Circle:** 4
 - **Category:** Telepath
 - **Discipline:** Telepathy

@@ -1,5 +1,7 @@
 # Hypercognition
 
+[Hypercognition](/Psionics/H/Hypercognition.md) - Circle 9, Seer, Clairsentience
+
 - **Circle:** 9
 - **Category:** Seer
 - **Discipline:** Clairsentience

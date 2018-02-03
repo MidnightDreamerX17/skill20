@@ -1,5 +1,7 @@
 # Fiery Discorporation
 
+[Fiery Discorporation](/Psionics/F/FieryDiscorporation.md) - Circle 6, Kineticist, Psychokinesis
+
 - **Circle:** 6
 - **Category:** Kineticist
 - **Discipline:** Psychokinesis

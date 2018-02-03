@@ -146,61 +146,61 @@
 
 ## F
 
-- [Fabricate, Psionic](/Psionics/F/FabricatePsionic.md)
-- [Fabricate, Greater Psionic](/Psionics/F/FabricateGreaterPsionic.md)
-- [False Sensory Input](/Psionics/F/FalseSensoryInput.md)
-- [Far Hand](/Psionics/F/FarHand.md)
-- [Fate Link](/Psionics/F/FateLink.md)
-- [Fate of One](/Psionics/F/FateOfOne.md)
-- [Feat Leech](/Psionics/F/FeatLeech.md)
-- [Fiery Discorporation](/Psionics/F/FieryDiscorporation.md)
-- [Fission](/Psionics/F/Fission.md)
-- [Float](/Psionics/F/Float.md)
-- [Fly, Psionic](/Psionics/F/FlyPsionic.md)
-- [Force Screen](/Psionics/F/ForceScreen.md)
-- [Form of Doom](/Psionics/F/FormOfDoom.md)
-- [Freedom of Movement, Psionic](/Psionics/F/FreedomOfMovementPsionic.md)
-- [Fuse Flesh](/Psionics/F/FuseFlesh.md)
-- [Fusion](/Psionics/F/Fusion.md)
+- [Fabricate, Psionic](/Psionics/F/FabricatePsionic.md) - Circle 5, Shaper, Metacreativity
+- [Fabricate, Greater Psionic](/Psionics/F/FabricateGreaterPsionic.md) - Circle 7, Shaper, Metacreativity
+- [False Sensory Input](/Psionics/F/FalseSensoryInput.md) - Circle 4, Telepath, Telepathy
+- [Far Hand](/Psionics/F/FarHand.md) - Circle 1, Kineticist, Psychokinesis
+- [Fate Link](/Psionics/F/FateLink.md) - Circle 4, Seer, Clairsentience
+- [Fate of One](/Psionics/F/FateOfOne.md) - Circle 8, Seer, Clairsentience
+- [Feat Leech](/Psionics/F/FeatLeech.md) - Circle 2, Warrior, Clairsentience
+- [Fiery Discorporation](/Psionics/F/FieryDiscorporation.md) - Circle 6, Kineticist, Psychokinesis
+- [Fission](/Psionics/F/Fission.md) - Circle 8, Egoist, Psychometabolism
+- [Float](/Psionics/F/Float.md) - Circle 1, Warrior, Psychoportation
+- [Fly, Psionic](/Psionics/F/FlyPsionic.md) - Circle 5, Nomad, Psychoportation
+- [Force Screen](/Psionics/F/ForceScreen.md) - Circle 1, Warrior, Psychokinesis
+- [Form of Doom](/Psionics/F/FormOfDoom.md) - Circle 7, Warrior, Psychometabolism
+- [Freedom of Movement, Psionic](/Psionics/F/FreedomOfMovementPsionic.md) - Circle 4, Warrior, Psychoportation
+- [Fuse Flesh](/Psionics/F/FuseFlesh.md) - Circle 7, Shaper, Psychometabolism
+- [Fusion](/Psionics/F/Fusion.md) - Circle 9, Egoist, Psychometabolism
 
 ## G
 
-- [Genesis](/Psionics/G/Genesis.md)
-- [Graft Weapon](/Psionics/G/GraftWeapon.md)
-- [Grease, Psionic](/Psionics/G/GreasePsionic.md)
-- [Grip of Iron](/Psionics/G/GripOfIron.md)
+- [Genesis](/Psionics/G/Genesis.md) - Circle 10, Shaper, Metacreativity
+- [Graft Weapon](/Psionics/G/GraftWeapon.md) - Circle 4, Warrior, Psychometabolism
+- [Grease, Psionic](/Psionics/G/GreasePsionic.md) - Circle 1, Power, Metacreativity
+- [Grip of Iron](/Psionics/G/GripOfIron.md) - Circle 2, Warrior, Psychometabolism
 
 ## H
 
-- [Hail of Crystals](/Psionics/H/HailOfCrystals.md)
-- [Hammer](/Psionics/H/Hammer.md)
-- [Hand Eye](/Psionics/H/HandEye.md)
-- [Hustle](/Psionics/H/Hustle.md)
-- [Hypercognition](/Psionics/H/Hypercognition.md)
+- [Hail of Crystals](/Psionics/H/HailOfCrystals.md) - Circle 6, Shaper, Metacreativity
+- [Hammer](/Psionics/H/Hammer.md) - Circle 1, Warrior, Psychometabolism
+- [Hand Eye](/Psionics/H/HandEye.md) - Circle 0, Seer, Clairsentience
+- [Hustle](/Psionics/H/Hustle.md) - Circle 3, Egoist, Psychometabolism
+- [Hypercognition](/Psionics/H/Hypercognition.md) - Circle 9, Seer, Clairsentience
 
 ## I
 
-- [Id Insinuation](/Psionics/I/IdInsinuation.md)
-- [Identify Psionic](/Psionics/I/IdentifyPsionic.md)
-- [Immovability](/Psionics/I/Immovability.md)
-- [Incarnate](/Psionics/I/Incarnate.md)
-- [Inertial Armor](/Psionics/I/InertialArmor.md)
-- [Inertial Barrier](/Psionics/I/InertialBarrier.md)
-- [Inflict Pain](/Psionics/I/InflictPain.md)
-- [Insanity](/Psionics/I/Insanity.md)
-- [Intellect Fortress](/Psionics/I/IntellectFortress.md)
-- [Iron Body, Psionic](/Psionics/I/IronBodyPsionic.md)
+- [Id Insinuation](/Psionics/I/IdInsinuation.md) - Circle 2, Telepath, Telepathy
+- [Identify Psionic](/Psionics/I/IdentifyPsionic.md) - Circle 2, Seer, Clairsentience
+- [Immovability](/Psionics/I/Immovability.md) - Circle 5, Warrior, Psychometabolism
+- [Incarnate](/Psionics/I/Incarnate.md) - Circle 5, Power, Metacreativity
+- [Inertial Armor](/Psionics/I/InertialArmor.md) - Circle 1, Warrior, Psychokinesis
+- [Inertial Barrier](/Psionics/I/InertialBarrier.md) - Circle 5, Kineticist, Psychokinesis
+- [Inflict Pain](/Psionics/I/InflictPain.md) - Circle 2, Telepath, Telepathy
+- [Insanity](/Psionics/I/Insanity.md) - Circle 7, Telepath, Telepathy
+- [Intellect Fortress](/Psionics/I/IntellectFortress.md) - Circle 4, Kineticist, Psychokinesis
+- [Iron Body, Psionic](/Psionics/I/IronBodyPsionic.md) - Circle 8, Egoist, Metacreativity
 
 ## K
 
-- [Keen Edge, Psionic](/Psionics/K/KeenEdgePsionic.md)
-- [Knock, Psionic](/Psionics/K/Knock.md)
-- [Know Direction And Location](/Psionics/K/KnowDirectionAndLocation.md)
+- [Keen Edge, Psionic](/Psionics/K/KeenEdgePsionic.md) - Circle 3, Warrior, Metacreativity
+- [Knock, Psionic](/Psionics/K/KnockPsionic.md) - Circle 2, Kineticist, Psychoportation
+- [Know Direction And Location](/Psionics/K/KnowDirectionAndLocation.md) - Circle 1, Seer, Clairsentience
 
 ## L
 
-- [Leech Field](/Psionics/L/LeechField.md)
-- [Levitate, Psionic](/Psionics/L/LevitatePsionic.md)
+- [Leech Field](/Psionics/L/LeechField.md) - Circle 5, Power, Psychometabolism
+- [Levitate, Psionic](/Psionics/L/LevitatePsionic.md) - Circle 2, Nomad, Psychoportation
 
 ## M
 

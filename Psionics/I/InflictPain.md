@@ -1,5 +1,7 @@
 # Inflict Pain
 
+[Inflict Pain](/Psionics/I/InflictPain.md) - Circle 2, Telepath, Telepathy
+
 - **Circle:** 2
 - **Category:** Telepath
 - **Discipline:** Telepathy

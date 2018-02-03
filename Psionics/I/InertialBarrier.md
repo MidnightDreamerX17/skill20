@@ -1,5 +1,7 @@
 # Inertial Barrier
 
+[Inertial Barrier](/Psionics/I/InertialBarrier.md) - Circle 5, Kineticist, Psychokinesis
+
 - **Circle:** 5
 - **Category:** Kineticist
 - **Discipline:** Psychokinesis

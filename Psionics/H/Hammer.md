@@ -1,5 +1,7 @@
 # Hammer
 
+[Hammer](/Psionics/H/Hammer.md) - Circle 1, Warrior, Psychometabolism
+
 - **Circle:** 1
 - **Category:** Warrior
 - **Discipline:** Psychometabolism

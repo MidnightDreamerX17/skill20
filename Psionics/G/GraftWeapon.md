@@ -1,5 +1,7 @@
 # Graft Weapon
 
+[Graft Weapon](/Psionics/G/GraftWeapon.md) - Circle 4, Warrior, Psychometabolism
+
 - **Circle:** 4
 - **Category:** Warrior
 - **Discipline:** Psychometabolism

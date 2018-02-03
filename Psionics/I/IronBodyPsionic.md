@@ -1,5 +1,7 @@
 # Iron Body, Psionic
 
+[Iron Body, Psionic](/Psionics/I/IronBodyPsionic.md) - Circle 8, Egoist, Metacreativity
+
 - **Circle:** 8
 - **Category:** Egoist
 - **Discipline:** Metacreativity

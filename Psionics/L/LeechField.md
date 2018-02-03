@@ -1,5 +1,7 @@
 # Leech Field
 
+[Leech Field](/Psionics/L/LeechField.md) - Circle 5, Power, Psychometabolism
+
 - **Circle:** 5
 - **Category:** Power
 - **Discipline:** Psychometabolism

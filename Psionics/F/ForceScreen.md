@@ -1,5 +1,7 @@
 # Force Screen
 
+[Force Screen](/Psionics/F/ForceScreen.md) - Circle 1, Warrior, Psychokinesis
+
 - **Circle:** 1
 - **Category:** Warrior
 - **Discipline:** Psychokinesis

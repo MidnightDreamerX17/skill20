@@ -1,5 +1,7 @@
 # Intellect Fortress
 
+[Intellect Fortress](/Psionics/I/IntellectFortress.md) - Circle 4, Kineticist, Psychokinesis
+
 - **Circle:** 4
 - **Category:** Kineticist
 - **Discipline:** Psychokinesis

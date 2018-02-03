@@ -1,5 +1,7 @@
 # Know Direction and Location
 
+[Know Direction And Location](/Psionics/K/KnowDirectionAndLocation.md) - Circle 1, Seer, Clairsentience
+
 - **Circle:** 1
 - **Category:** Seer
 - **Discipline:** Clairsentience

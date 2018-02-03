@@ -1,5 +1,7 @@
 # Insanity
 
+[Insanity](/Psionics/I/Insanity.md) - Circle 7, Telepath, Telepathy
+
 - **Circle:** 7
 - **Category:** Telepath
 - **Discipline:** Telepathy

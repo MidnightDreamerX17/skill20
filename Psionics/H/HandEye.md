@@ -1,5 +1,7 @@
 # Hand Eye
 
+[Hand Eye](/Psionics/H/HandEye.md) - Circle 0, Seer, Clairsentience
+
 - **Circle:** 0
 - **Category:** Seer
 - **Discipline:** Clairsentience

@@ -1,5 +1,7 @@
 # Inertial Armor
 
+[Inertial Armor](/Psionics/I/InertialArmor.md) - Circle 1, Warrior, Psychokinesis
+
 - **Circle:** 1
 - **Category:** Warrior
 - **Discipline:** Psychokinesis

@@ -25,13 +25,13 @@ The psionic disciplines are as follows:
 - [Detect Teleportation](/Psionics/D/DetectTeleportation.md) - Circle 2, Nomad, Clairsentience
 - [Divination, Psionic](/Psionics/D/DivinationPsionic.md) - Circle 4, Power, Clairsentience
 - [Escape Detection](/Psionics/E/EscapeDetection.md) - Circle 4, Seer, Clairsentience
-- [Fate Link](/Psionics/F/FateLink.md)
-- [Fate of One](/Psionics/F/FateOfOne.md)
-- [Feat Leech](/Psionics/F/FeatLeech.md)
-- [Hand Eye](/Psionics/H/HandEye.md)
-- [Hypercognition](/Psionics/H/Hypercognition.md)
-- [Identify Psionic](/Psionics/I/IdentifyPsionic.md)
-- [Know Direction And Location](/Psionics/K/KnowDirectionAndLocation.md)
+- [Fate Link](/Psionics/F/FateLink.md) - Circle 4, Seer, Clairsentience
+- [Fate of One](/Psionics/F/FateOfOne.md) - Circle 8, Seer, Clairsentience
+- [Feat Leech](/Psionics/F/FeatLeech.md) - Circle 2, Warrior, Clairsentience
+- [Hand Eye](/Psionics/H/HandEye.md) - Circle 0, Seer, Clairsentience
+- [Hypercognition](/Psionics/H/Hypercognition.md) - Circle 9, Seer, Clairsentience
+- [Identify Psionic](/Psionics/I/IdentifyPsionic.md) - Circle 2, Seer, Clairsentience
+- [Know Direction And Location](/Psionics/K/KnowDirectionAndLocation.md) - Circle 1, Seer, Clairsentience
 - [Mental Barrier](/Psionics/M/MentalBarrier.md)
 - [Metafaculty](/Psionics/M/Metafaculty.md)
 - [Moment of Prescience, Psionic](/Psionics/M/MomentOfPresciencePsionic.md)
@@ -63,14 +63,14 @@ The psionic disciplines are as follows:
 - [Ectoplasmic Shambler](/Psionics/E/EctoplasmicShambler.md) - Circle 5, Power, Metacreativity
 - [Energy Wall](/Psionics/E/EnergyWall.md) - Circle 3, Kineticist, Metacreativity
 - [Entangling Ectoplasm](/Psionics/E/EntanglingEctoplasm.md) - Circle 1, Power, Metacreativity
-- [Fabricate, Psionic](/Psionics/F/FabricatePsionic.md)
-- [Fabricate, Greater Psionic](/Psionics/F/FabricateGreaterPsionic.md)
-- [Genesis](/Psionics/G/Genesis.md)
-- [Grease, Psionic](/Psionics/G/GreasePsionic.md)
-- [Hail of Crystals](/Psionics/H/HailOfCrystals.md)
-- [Incarnate](/Psionics/I/Incarnate.md)
-- [Iron Body, Psionic](/Psionics/I/IronBodyPsionic.md)
-- [Keen Edge, Psionic](/Psionics/K/KeenEdgePsionic.md)
+- [Fabricate, Psionic](/Psionics/F/FabricatePsionic.md) - Circle 5, Shaper, Metacreativity
+- [Fabricate, Greater Psionic](/Psionics/F/FabricateGreaterPsionic.md) - Circle 7, Shaper, Metacreativity
+- [Genesis](/Psionics/G/Genesis.md) - Circle 10, Shaper, Metacreativity
+- [Grease, Psionic](/Psionics/G/GreasePsionic.md) - Circle 1, Power, Metacreativity
+- [Hail of Crystals](/Psionics/H/HailOfCrystals.md) - Circle 6, Shaper, Metacreativity
+- [Incarnate](/Psionics/I/Incarnate.md) - Circle 5, Power, Metacreativity
+- [Iron Body, Psionic](/Psionics/I/IronBodyPsionic.md) - Circle 8, Egoist, Metacreativity
+- [Keen Edge, Psionic](/Psionics/K/KeenEdgePsionic.md) - Circle 3, Warrior, Metacreativity
 - [Major Creation](/Psionics/M/MajorCreation.md)
 - [Matter Manipulation](/Psionics/M/MatterManipulation.md)
 - [Metaphysical Weapon](/Psionics/M/MetaphysicalWeapon.md)
@@ -101,12 +101,12 @@ The psionic disciplines are as follows:
 - [Energy Stun](/Psionics/E/EnergyStun.md) - Circle 2, Kineticist, Psychokinesis
 - [Energy Wave](/Psionics/E/EnergyWave.md) - Circle 7, Kineticist, Psychokinesis
 - [Eradicate Invisibility](/Psionics/E/EradicateInvisibility.md) - Circle 3, Power, Psychokinesis
-- [Far Hand](/Psionics/F/FarHand.md)
-- [Fiery Discorporation](/Psionics/F/FieryDiscorporation.md)
-- [Force Screen](/Psionics/F/ForceScreen.md)
-- [Inertial Armor](/Psionics/I/InertialArmor.md)
-- [Inertial Barrier](/Psionics/I/InertialBarrier.md)
-- [Intellect Fortress](/Psionics/I/IntellectFortress.md)
+- [Far Hand](/Psionics/F/FarHand.md) - Circle 1, Kineticist, Psychokinesis
+- [Fiery Discorporation](/Psionics/F/FieryDiscorporation.md) - Circle 6, Kineticist, Psychokinesis
+- [Force Screen](/Psionics/F/ForceScreen.md) - Circle 1, Warrior, Psychokinesis
+- [Inertial Armor](/Psionics/I/InertialArmor.md) - Circle 1, Warrior, Psychokinesis
+- [Inertial Barrier](/Psionics/I/InertialBarrier.md) - Circle 5, Kineticist, Psychokinesis
+- [Intellect Fortress](/Psionics/I/IntellectFortress.md) - Circle 4, Kineticist, Psychokinesis
 - [Matter Agitation](/Psionics/M/MatterAgitation.md)
 - [Microlevitation](/Psionics/M/Microlevitation.md)
 - [My Light](/Psionics/M/MyLight.md)
@@ -140,16 +140,16 @@ The psionic disciplines are as follows:
 - [Evade Burst](/Psionics/E/EvadeBurst.md) - Circle 4, Warrior, Psychometabolism
 - [Exhalation of the Black Dragon](/Psionics/E/ExhalationOfTheBlackDragon.md) - Circle 4, Warrior, Psychometabolism
 - [Expansion](/Psionics/E/Expansion.md) - Circle 2, Warrior, Psychometabolism
-- [Fission](/Psionics/F/Fission.md)
-- [Form of Doom](/Psionics/F/FormOfDoom.md)
-- [Fuse Flesh](/Psionics/F/FuseFlesh.md)
-- [Fusion](/Psionics/F/Fusion.md)
-- [Graft Weapon](/Psionics/G/GraftWeapon.md)
-- [Grip of Iron](/Psionics/G/GripOfIron.md)
-- [Hammer](/Psionics/H/Hammer.md)
-- [Hustle](/Psionics/H/Hustle.md)
-- [Immovability](/Psionics/I/Immovability.md)
-- [Leech Field](/Psionics/L/LeechField.md)
+- [Fission](/Psionics/F/Fission.md) - Circle 8, Egoist, Psychometabolism
+- [Form of Doom](/Psionics/F/FormOfDoom.md) - Circle 7, Warrior, Psychometabolism
+- [Fuse Flesh](/Psionics/F/FuseFlesh.md) - Circle 7, Shaper, Psychometabolism
+- [Fusion](/Psionics/F/Fusion.md) - Circle 9, Egoist, Psychometabolism
+- [Graft Weapon](/Psionics/G/GraftWeapon.md) - Circle 4, Warrior, Psychometabolism
+- [Grip of Iron](/Psionics/G/GripOfIron.md) - Circle 2, Warrior, Psychometabolism
+- [Hammer](/Psionics/H/Hammer.md) - Circle 1, Warrior, Psychometabolism
+- [Hustle](/Psionics/H/Hustle.md) - Circle 3, Egoist, Psychometabolism
+- [Immovability](/Psionics/I/Immovability.md) - Circle 5, Warrior, Psychometabolism
+- [Leech Field](/Psionics/L/LeechField.md) - Circle 5, Power, Psychometabolism
 - [Matter to Energy, Self](/Psionics/M/MatterToEnergySelf.md) - Circle 10, Egoist, Psychometabolism
 - [Metamorphosis](/Psionics/M/Metamorphosis.md)
 - [Metamorphosis, Greater](/Psionics/M/MetamorphosisGreater.md)
@@ -190,11 +190,11 @@ The psionic disciplines are as follows:
 - [Dream Travel](/Psionics/D/DreamTravel.md) - Circle 8, Nomad, Psychoportation
 - [Ethereal Jaunt, Psionic](/Psionics/E/EtherealJauntPsionic.md) - Circle 8, Nomad, Psychoportation
 - [Etherealness, Psionic](/Psionics/E/EtherealnessPsionic.md) - Circle 9, Power, Psychoportation
-- [Float](/Psionics/F/Float.md)
-- [Fly, Psionic](/Psionics/F/FlyPsionic.md)
-- [Freedom of Movement, Psionic](/Psionics/F/FreedomOfMovementPsionic.md)
-- [Knock, Psionic](/Psionics/K/Knock.md)
-- [Levitate, Psionic](/Psionics/L/LevitatePsionic.md)
+- [Float](/Psionics/F/Float.md) - Circle 1, Warrior, Psychoportation
+- [Fly, Psionic](/Psionics/F/FlyPsionic.md) - Circle 5, Nomad, Psychoportation
+- [Freedom of Movement, Psionic](/Psionics/F/FreedomOfMovementPsionic.md) - Circle 4, Warrior, Psychoportation
+- [Knock, Psionic](/Psionics/K/KnockPsionic.md) - Circle 2, Kineticist, Psychoportation
+- [Levitate, Psionic](/Psionics/L/LevitatePsionic.md) - Circle 2, Nomad, Psychoportation
 - [Motion Adaptation](/Psionics/M/MotionAdaptation.md) - Circle 0, Nomad, Psychoportation
 - [Overland Flight, Psionic](/Psionics/O/OverlandFlightPsionic.md)
 - [Phase Door, Psionic](/Psionics/P/PhaseDoorPsionic.md)
@@ -232,10 +232,10 @@ The psionic disciplines are as follows:
 - [Empathic Transfer, Hostile](/Psionics/E/EmpathicTransferHostile.md) - Circle 4, Telepath, Telepathy
 - [Empathy](/Psionics/E/Empathy.md) - Circle 1, Telepath, Telepathy
 - [Empty Mind](/Psionics/E/EmptyMind.md) - Circle 1, Power, Telepathy
-- [False Sensory Input](/Psionics/F/FalseSensoryInput.md)
-- [Id Insinuation](/Psionics/I/IdInsinuation.md)
-- [Inflict Pain](/Psionics/I/InflictPain.md)
-- [Insanity](/Psionics/I/Insanity.md)
+- [False Sensory Input](/Psionics/F/FalseSensoryInput.md) - Circle 4, Telepath, Telepathy
+- [Id Insinuation](/Psionics/I/IdInsinuation.md) - Circle 2, Telepath, Telepathy
+- [Inflict Pain](/Psionics/I/InflictPain.md) - Circle 2, Telepath, Telepathy
+- [Insanity](/Psionics/I/Insanity.md) - Circle 7, Telepath, Telepathy
 - [Mental Disruption](/Psionics/M/MentalDisruption.md)
 - [Metaconcert](/Psionics/M/Metaconcert.md)
 - [Microcosm](/Psionics/M/Microcosm.md)

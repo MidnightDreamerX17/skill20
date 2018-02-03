@@ -1,5 +1,7 @@
 # Form of Doom
 
+[Form of Doom](/Psionics/F/FormOfDoom.md) - Circle 7, Warrior, Psychometabolism
+
 - **Circle:** 7
 - **Category:** Warrior
 - **Discipline:** Psychometabolism

@@ -1,5 +1,7 @@
 # Feat Leech
 
+[Feat Leech](/Psionics/F/FeatLeech.md) - Circle 2, Warrior, Clairsentience
+
 - **Circle:** 2
 - **Category:** Warrior
 - **Discipline:** Clairsentience

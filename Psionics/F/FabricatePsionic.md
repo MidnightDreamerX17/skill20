@@ -1,5 +1,7 @@
 # Fabricate, Psionic
 
+[Fabricate, Psionic](/Psionics/F/FabricatePsionic.md) - Circle 5, Shaper, Metacreativity
+
 - **Circle:** 5
 - **Category:** Shaper
 - **Discipline:** Metacreativity
