@@ -4,6 +4,8 @@ Quality and Material cost modifiers are additive. For example, an item that is e
 
 If the base item type has a cost of 0, then it is considered to have a base cost of 1 gold for material and modification purposes.
 
+If an item has at least 1 Armor Weight, then its Armor Weight cannot be reduced below 1 by any means.
+
 ## Quality Modifiers
 
 Quality modifiers add an amount of cost that is relative to the base cost of the equipment. They only provide benefits if the user possesses certain skill requirements.
@@ -62,7 +64,7 @@ Ammunition is reinforced in batches of 20, and gains a bonus equal to double its
 
 Armor gains 1 AC for each point of reinforcement.
 
-Other wearable gear, such as shields, rings, amulets, bracers, and robes can be reinforced as armor for double the gold value. For example, the gold value of Robes of Armor +1 is 2,000 gold.
+Other wearable gear, such as shields, rings, amulets, bracers, and robes can be reinforced as armor for double the gold value. For example, the gold value of Robes of Armor +1 is 2,000 gold. The gold value of Bracers of Armor +2 is 8,000 gold. And so on.
 
 - +1: +1,000 gold value
 - +2: +4,000 gold value

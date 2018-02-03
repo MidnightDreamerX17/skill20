@@ -1,6 +1,6 @@
 # Chi Body (CON)
 
-**Armor Channelling:** This cannot be used during the same combat round as *Iron Body*. The character improves Armor Class while wearing armor - including temporary armor created by magic or psionics. However, it cannot be used with permanent Natural Armor, as that is covered by *Iron Body* instead. The AC improvements are unlocked based on Chi Body Level and attribute numbers, according to the following table:
+**Armor Channelling:** This cannot be used during the same combat round as *Iron Body*. The character improves Armor Class while wearing equipment that has Armor Weight - including temporary armor created by magic or psionics which specifies that it has Armor Weight. The AC improvements are unlocked based on Chi Body Level and attribute numbers, according to the following table:
 
 | Chi Body Level | AC from CON           | AC from WIS           | AC from INT           | AC from CHA     |
 | ---            | ---                   | ---                   | ---                   | ---             |
@@ -19,7 +19,7 @@
 | 25             | positive CON modifier | positive WIS modifier | positive INT modifier | 20 CHA gives +5 |
 | 27             | positive CON modifier | positive WIS modifier | positive INT modifier | positive CHA modifier |
 
-**Iron Body:** This ability requires that the character is not wearing any armor, helmet, shield, or any other gear that gives Armor Class through mundane means. This ability also cannot be used with temporary armor created by magic or psionics. It therefore cannot be used during the same combat round as *Armor Channelling*. The character's Armor Class is improved by an amount equal to their Chi Body Level. It also grants magic armor equivalency, to help save clothing against various effects, as follows:
+**Iron Body:** This ability requires that the character is not wearing any armor, helmet, shield, or any other gear that has Armor Weight. It therefore cannot be used during the same combat round as *Armor Channelling*. The character's Armor Class is improved by an amount equal to their Chi Body Level. It also grants magic armor equivalency, to help save clothing and other carried items against various effects, as follows:
 
 | Iron Body Level | Unarmored Magic Armor Equivalency |
 | ---             | ---                               |
