@@ -8,7 +8,7 @@ The GM may rule that bonus feats are given as rewards for achieving high ranks i
 
 - **Ace Surgeon** - The character uses Healing Kits on a time scale of one check per 10 minutes.
 - **Acrobatic** - The character gains a bonus of +2 to jumping, tumbling, and falling safely.
-- **Additional Advantage** (uses 2 feats) - The character gains an additional Advantage.
+- **Additional Advantage** (uses 2 feats) (can only be purchased at Experience Level 1) - The character gains an additional Advantage. Once the character advances to Experience Level 2, this feat can no longer be purchased.
 - **Additional Illusionist Spell** (specific) (requires Illusionist Potential (INT) skill) - The character gains sudden inspiration for one additional Illusionist spell, which is then immediately written into the character's spellbook. The possible spells are determined by Illusionist Potential (INT) skill.
 - **Additional Wizard Spell** (specific) (requires Wizard Potential (INT) skill) - The character gains sudden inspiration for one additional Wizard spell, which is then immediately written into the character's spellbook. The possible spells are determined by Wizard Potential (INT) skill.
 - **Additional Psionic Power** (specific) (requires Psionic Potential (INT) skill) - The character learns one additional psionic power. The possible powers are limited by Psionic Potential (INT) skill.
@@ -112,7 +112,7 @@ The GM may rule that bonus feats are given as rewards for achieving high ranks i
 - **Lightning Reflexes** - The character gains a bonus of +2 to Dexterity and Intelligence saving throws.
 - **Linguist** - The character gets the Knowledge (INT) (Linguistics) skill for free, and it always equals the character's experience level. Any experience points put into that skill are refunded.
 - **Magic Essence** (requires Spell Penetration) - The character gains a bonus of +2 to penetrate spell resistance.
-- **Magic Spell Specialization** (specific) - One magic spell is considered to be a lower circle. This feat can only be taken once per spell.
+- **Magic Spell Specialization** (specific) (requires certain levels of magical Potential skill) - One magic spell is considered to be a lower circle. This feat can only be taken once per spell. The character's magical Potential skill must be high enough to be able to memorize and cast the spell without any specializations or oppositions.
 - **Magic Weapon Charge** (requires Wizard Power skill) - The character can expend a 1st-circle Wizard spell energy to make the whole party's weapons able to damage incorporeal, gelatinous, and other such creatures. This effect lasts for a number of rounds equal to the character's Experience Level. This is not considered to be a spell casting.
 - **Magical Aptitude** - The character gains a bonus of +2 to identify the magical specifics of anything.
 - **Mana Heal** (requires Experience Level 10) - The character only needs 6 hours of sleep or maintenance to regain all spell energies.
