@@ -167,3 +167,26 @@
 | Sling                      | 0         | 1d4 impact   | 50 feet
 | Staff-Sling                | 5.00      | 1d6 impact   | 60 feet | also has a melee weapon component
 | Spear-Sling                | 5.00      | 1d6 impact   | 60 feet | also has a melee weapon component
+
+## Throwing Bombs (Ranged)
+
+Throwing Bombs are part of the Throwing Weapons And Slings category, except that they deal damage in a very different manner. They have a radius increment, and deal damage to all targets within the radius. They then do half damage in the second radius increment, one-fourth damage in the third radius increment, and so on.
+
+The attacker rolls for attack accuracy and damage once. Then the accuracy result is compared to the Armor Class of each target separately. Each target that is "hit" takes the normal amount of damage. Each target that is "missed" takes half damage.
+
+When hitting a scattering swarm that has a special way to limit damage from area-of-effect magic, throwing bombs can kill 1 additional creature per 5 feet of base radius. They can also kill 1 additional creature if they have at least 2 damage dice.
+
+| Weapon               | Cost   | Damage        | Map Range | Radius  | Special |
+| ---                  | ---    | ---           | ---       | ---     | ---     |
+| Aether Crystal Bomb  | 100.00 | 1d4+2 magic   | 30 feet   | 10 feet | counts as +2 magical for penetrating immunity
+| Acid Bomb            | 20.00  | 1d6 acid      | 20 feet   | 5 feet  | Dexterity save to avoid being *blinded* for 1 round
+| Concussion Bomb      | 20.00  | 1d6 sonic     | 20 feet   | 5 feet  | Constitution save to avoid being *shaken* for 1 round
+| Cryofluid Bomb       | 20.00  | 1d6 cold      | 20 feet   | 5 feet  | Constitution save to avoid being *sickened* for 1 round
+| Electrofluid Bomb    | 20.00  | 1d6 electric  | 20 feet   | 5 feet  | Dexterity save to avoid being *dazzled* for 1 round
+| Holy Water Sprayer   | 100.00 | 1d6 positive  | 30 feet   | 10 feet | functions as Holy Water
+| Lantern Oil, 1 pint  | 0.10   | 1d3 fire      | 20 feet   | 5 feet
+| Modern Grenade       | 100.00 | 2d6 impact    | 30 feet   | 10 feet | Constitution save to avoid 1 point of bleeding
+| Psycho Crystal Bomb  | 100.00 | 1d4+2 psionic | 30 feet   | 10 feet | counts as +2 psionic for penetrating immunity
+| Shrapnel Bomb        | 20.00  | 1d6 puncture  | 20 feet   | 5 feet  | Constitution save to avoid 1 point of bleeding
+| Sticky Firebomb      | 20.00  | 1d6 fire      | 20 feet   | 5 feet  | Dexterity save to avoid 1 point of burning
+| Unholy Water Sprayer | 100.00 | 1d6 negative  | 30 feet   | 10 feet | functions as Unholy Water

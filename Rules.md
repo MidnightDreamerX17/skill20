@@ -197,9 +197,9 @@ Triple-Wielding gives a bonus of +2 to attack accuracy, while Quadruple-Wielding
 
 **Attribute Damage / Ability Damage / Ability Drain** - The character's attribute functions at a lower number.
 
-**Blinded** - The character cannot see. The character takes a -2 penalty to Armor Class, loses the Dexterity bonus to AC (if any), moves at half speed, and takes a -4 penalty on most Strength-based and Dexterity-based skill checks. All checks and activities that rely on vision (such as reading and visual searching checks) automatically fail. The character has a penalty of -10 to attack accuracy as well.
+**Blinded** (forces Concentration) - The character cannot see. The character takes a -2 penalty to Armor Class, loses the Dexterity bonus to AC (if any), moves at half speed, and takes a -4 penalty on most Strength-based and Dexterity-based skill checks. All checks and activities that rely on vision (such as reading and visual searching checks) automatically fail. The character has a penalty of -10 to attack accuracy as well.
 
-**Blown Away** - A creature that is blow across the floor takes 1d4 points of damage per 10 feet. A creature that is blown into a wall takes 2d6 points of damage.
+**Blown Away** (forces Concentration) - A creature that is blow across the floor takes 1d4 points of damage per 10 feet. A creature that is blown into a wall takes 2d6 points of damage.
 
 **Confused** - A confused character’s actions are determined by rolling d100 at the beginning of its turn:
 
@@ -215,21 +215,21 @@ Triple-Wielding gives a bonus of +2 to attack accuracy, while Quadruple-Wielding
 
 **Dazed** - The creature is unable to act normally. A dazed creature can take no actions, but has no penalty to AC.
 
-**Dazzled** - The creature is unable to see well because of overstimulation of the eyes. A dazzled creature takes a -1 penalty on all physical actions and physical saving throws.
+**Dazzled** (forces Concentration) - The creature is unable to see well because of overstimulation of the eyes. A dazzled creature takes a -1 penalty on all physical actions and physical saving throws.
 
-**Deafened** - A deafened character cannot hear. The character takes a -40 penalty on initiative checks, automatically fails auditory perception checks, and has a 20% chance of spell failure when casting spells with verbal components.
+**Deafened** (forces Concentration) - A deafened character cannot hear. The character takes a -40 penalty on initiative checks, automatically fails auditory perception checks, and has a 20% chance of spell failure when casting spells with verbal components.
 
 **Divine Shield Hit Points** - Divine Shield Hit Points always dissipate at the end of combat. This means that the end of combat could result in bleeding and death.
 
-**Entangled** - The character is ensnared. Being entangled impedes movement, but does not entirely prevent it unless the bonds are anchored to an immobile object or tethered by an opposing force. An entangled creature moves at half speed, cannot run or charge, and takes a -2 penalty on all accuracy rolls and a -4 penalty to Dexterity. An entangled character who attempts to cast a spell with somatic components has a 20% chance of spell failure.
+**Entangled** (forces Concentration) - The character is ensnared. Being entangled impedes movement, but does not entirely prevent it unless the bonds are anchored to an immobile object or tethered by an opposing force. An entangled creature moves at half speed, cannot run or charge, and takes a -2 penalty on all accuracy rolls and a -4 penalty to Dexterity. An entangled character who attempts to cast a spell with somatic components has a 20% chance of spell failure.
 
-**Exhausted** - An exhausted character moves at half speed and takes a -6 penalty to Strength and Dexterity. After 1 hour of complete rest, an exhausted character becomes *fatigued*. A fatigued character becomes exhausted by doing something else that would normally cause fatigue.
+**Exhausted** (forces Concentration) - An exhausted character moves at half speed and takes a -6 penalty to Strength and Dexterity. After 1 hour of complete rest, an exhausted character becomes *fatigued*. A fatigued character becomes exhausted by doing something else that would normally cause fatigue.
 
 **Experience Level Damage / Negative Levels / Level Drain** - Not only does this decrease the character's effective experience level, but it also imposes a cap on the effectiveness of their skills. Skills cannot function at a level higher than current experience level, while under the effect of experience level damage. This could cause the character to have a lower number of spell energies, spell memorization slots, psionic power points, etc. It could also cause the character to be unable to memorize higher-circle spells, or unable to manifest higher-circle powers.
 
 **Fascinated** - A fascinated creature is entranced by a supernatural or spell effect. The creature stands or sits quietly, taking no actions other than to pay attention to the fascinating effect, for as long as the effect lasts. It takes a -4 penalty on all d20 rolls. Any potential threat, such as a hostile creature approaching, allows the fascinated creature a new saving throw against the fascinating effect. Any obvious threat, such as someone drawing a weapon, casting a spell, or aiming a ranged weapon at the fascinated creature, automatically breaks the effect. A fascinated creature’s ally may shake it free as an attack or move action.
 
-**Fatigued** - A fatigued character can neither run nor charge and takes a -2 penalty to Strength and Dexterity. Doing anything that would normally cause fatigue causes the fatigued character to become *exhausted*. After 8 hours of complete rest, fatigued characters are no longer fatigued.
+**Fatigued** (forces Concentration) - A fatigued character can neither run nor charge and takes a -2 penalty to Strength and Dexterity. Doing anything that would normally cause fatigue causes the fatigued character to become *exhausted*. After 8 hours of complete rest, fatigued characters are no longer fatigued.
 
 **Frightened** - A frightened creature flees from the source of its fear as best it can. If unable to flee, it may fight. A frightened creature takes a -2 penalty on all d20 rolls. A frightened creature can use special abilities, including spells, to flee; indeed, the creature must use such means if they are the only way to escape.
 
@@ -245,10 +245,10 @@ Triple-Wielding gives a bonus of +2 to attack accuracy, while Quadruple-Wielding
 
 **Prone** - The character is on the ground. A character who is prone gains a +4 bonus to Armor Class against ranged attacks, but takes a -4 penalty to AC against melee attacks.
 
-**Shaken** - A shaken character takes a -2 penalty on all d20 rolls.
+**Shaken** (forces Concentration) - A shaken character takes a -2 penalty on all d20 rolls.
 
-**Sickened** - A sickened character takes a -2 penalty on all d20 rolls.
+**Sickened** (forces Concentration) - A sickened character takes a -2 penalty on all d20 rolls.
 
-**Staggered** - A staggered character may take a single move action or standard action each round (but not both, nor can the character take full-round actions).
+**Staggered** (forces Concentration) - A staggered character may take a single move action or standard action each round (but not both, nor can the character take full-round actions).
 
 **Stunned** - A stunned creature drops everything held, can’t take actions, and takes a -2 penalty to AC and d20 rolls.
