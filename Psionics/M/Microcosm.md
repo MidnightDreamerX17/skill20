@@ -1,5 +1,7 @@
 # Microcosm
 
+[Microcosm](/Psionics/M/Microcosm.md) - Circle 9, Power, Telepathy
+
 - **Circle:** 9
 - **Category:** Power
 - **Discipline:** Telepathy

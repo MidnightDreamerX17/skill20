@@ -1,5 +1,7 @@
 # Precognition, Offensive
 
+[Precognition, Offensive](/Psionics/P/PrecognitionOffensive.md) - Circle 1, Warrior, Clairsentience
+
 - **Circle:** 1
 - **Category:** Warrior
 - **Discipline:** Clairsentience

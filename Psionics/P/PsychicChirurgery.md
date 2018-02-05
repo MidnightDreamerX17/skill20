@@ -1,5 +1,7 @@
 # Psychic Chirurgery
 
+[Psychic Chirurgery](/Psionics/P/PsychicChirurgery.md) - Circle 10, Telepath, Telepathy
+
 - **Circle:** 10
 - **Category:** Telepath
 - **Discipline:** Telepathy

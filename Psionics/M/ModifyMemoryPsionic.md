@@ -1,5 +1,7 @@
 # Modify Memory, Psionic
 
+[Modify Memory, Psionic](/Psionics/M/ModifyMemoryPsionic.md) - Circle 5, Telepath, Telepathy
+
 - **Circle:** 5
 - **Category:** Telepath
 - **Discipline:** Telepathy

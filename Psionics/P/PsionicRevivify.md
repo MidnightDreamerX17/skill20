@@ -1,5 +1,7 @@
 # Psionic Revivify
 
+[Psionic Revivify](/Psionics/P/PsionicRevivify.md) - Circle 6, Egoist, Psychometabolism
+
 - **Circle:** 6
 - **Category:** Egoist
 - **Discipline:** Psychometabolism

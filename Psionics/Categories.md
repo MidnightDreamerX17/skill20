@@ -24,14 +24,14 @@ The psionic categories are as follows:
 - [Hustle](/Psionics/H/Hustle.md) - Circle 3, Egoist, Psychometabolism
 - [Iron Body, Psionic](/Psionics/I/IronBodyPsionic.md) - Circle 8, Egoist, Metacreativity
 - [Matter to Energy, Self](/Psionics/M/MatterToEnergySelf.md) - Circle 10, Egoist, Psychometabolism
-- [Metamorphosis](/Psionics/M/Metamorphosis.md)
-- [Metamorphosis, Greater](/Psionics/M/MetamorphosisGreater.md)
-- [My Light](/Psionics/M/MyLight.md)
-- [Psionic Revivify](/Psionics/P/PsionicRevivify.md)
-- [Psychic Reformation](/Psionics/P/PsychicReformation.md)
-- [Psychic Vampire](/Psionics/P/PsychicVampire.md)
-- [Psychofeedback](/Psionics/P/Psychofeedback.md)
-- [Self Immolation](/Psionics/S/SelfImmolation.md)
+- [Metamorphosis](/Psionics/M/Metamorphosis.md) - Circle 5, Egoist, Psychometabolism
+- [Metamorphosis, Greater](/Psionics/M/MetamorphosisGreater.md) - Circle 10, Egoist, Psychometabolism
+- [My Light](/Psionics/M/MyLight.md) - Circle 1, Egoist, Psychokinesis
+- [Psionic Revivify](/Psionics/P/PsionicRevivify.md) - Circle 6, Egoist, Psychometabolism
+- [Psychic Reformation](/Psionics/P/PsychicReformation.md) - Circle 4, Egoist, Telepathy
+- [Psychic Vampire](/Psionics/P/PsychicVampire.md) - Circle 5, Egoist, Psychometabolism
+- [Psychofeedback](/Psionics/P/Psychofeedback.md) - Circle 6, Egoist, Psychometabolism
+- [Self Immolation](/Psionics/S/SelfImmolation.md) - Circle 0, Egoist, Psychometabolism
 - [Smudge Skin](/Psionics/S/SmudgeSkin.md) - Circle 0, Egoist, Psychometabolism
 
 ## Kineticist
@@ -59,9 +59,9 @@ The psionic categories are as follows:
 - [Inertial Barrier](/Psionics/I/InertialBarrier.md) - Circle 5, Kineticist, Psychokinesis
 - [Intellect Fortress](/Psionics/I/IntellectFortress.md) - Circle 4, Kineticist, Psychokinesis
 - [Knock, Psionic](/Psionics/K/KnockPsionic.md) - Circle 2, Kineticist, Psychoportation
-- [Matter Agitation](/Psionics/M/MatterAgitation.md)
-- [Microlevitation](/Psionics/M/Microlevitation.md)
-- [Null Psionics Field](/Psionics/N/NullPsionicsField.md)
+- [Matter Agitation](/Psionics/M/MatterAgitation.md) - Circle 1, Kineticist, Psychokinesis
+- [Microlevitation](/Psionics/M/Microlevitation.md) - Circle 0, Kineticist, Psychokinesis
+- [Null Psionics Field](/Psionics/N/NullPsionicsField.md) - Circle 7, Kineticist, Psychokinesis
 
 ## Nomad
 
@@ -83,9 +83,9 @@ The psionic categories are as follows:
 - [Fly, Psionic](/Psionics/F/FlyPsionic.md) - Circle 5, Nomad, Psychoportation
 - [Levitate, Psionic](/Psionics/L/LevitatePsionic.md) - Circle 2, Nomad, Psychoportation
 - [Motion Adaptation](/Psionics/M/MotionAdaptation.md) - Circle 0, Nomad, Psychoportation
-- [Overland Flight, Psionic](/Psionics/O/OverlandFlightPsionic.md)
-- [Phase Door, Psionic](/Psionics/P/PhaseDoorPsionic.md)
-- [Plane Shift, Psionic](/Psionics/P/PlaneShiftPsionic.md)
+- [Overland Flight, Psionic](/Psionics/O/OverlandFlightPsionic.md) - Circle 6, Nomad, Psychoportation
+- [Phase Door, Psionic](/Psionics/P/PhaseDoorPsionic.md) - Circle 7, Nomad, Psychoportation
+- [Plane Shift, Psionic](/Psionics/P/PlaneShiftPsionic.md) - Circle 5, Nomad, Psychoportation
 
 ## Power (cannot be specialized or opposed)
 
@@ -129,14 +129,14 @@ The psionic categories are as follows:
 - [Grease, Psionic](/Psionics/G/GreasePsionic.md) - Circle 1, Power, Metacreativity
 - [Incarnate](/Psionics/I/Incarnate.md) - Circle 5, Power, Metacreativity
 - [Leech Field](/Psionics/L/LeechField.md) - Circle 5, Power, Psychometabolism
-- [Microcosm](/Psionics/M/Microcosm.md)
-- [Mind Blank, Psionic](/Psionics/M/MindBlankPsionic.md)
-- [Mind Trap](/Psionics/M/MindTrap.md)
-- [Moment of Prescience, Psionic](/Psionics/M/MomentOfPresciencePsionic.md)
-- [Personality Parasite](/Psionics/P/PersonalityParasite.md)
-- [Power Leech](/Psionics/P/PowerLeech.md)
-- [Power Resistance](/Psionics/P/PowerResistance.md)
-- [Psychic Crush](/Psionics/P/PsychicCrush.md)
+- [Microcosm](/Psionics/M/Microcosm.md) - Circle 9, Power, Telepathy
+- [Mind Blank, Psionic](/Psionics/M/MindBlankPsionic.md) - Circle 8, Power, Telepathy
+- [Mind Trap](/Psionics/M/MindTrap.md) - Circle 3, Power, Telepathy
+- [Moment of Prescience, Psionic](/Psionics/M/MomentOfPresciencePsionic.md) - Circle 7, Power, Clairsentience
+- [Personality Parasite](/Psionics/P/PersonalityParasite.md) - Circle 4, Power, Telepathy
+- [Power Leech](/Psionics/P/PowerLeech.md) - Circle 4, Power, Telepathy
+- [Power Resistance](/Psionics/P/PowerResistance.md) - Circle 5, Power, Clairsentience
+- [Psychic Crush](/Psionics/P/PsychicCrush.md) - Circle 5, Power, Telepathy
 
 ## Seer
 
@@ -153,10 +153,10 @@ The psionic categories are as follows:
 - [Hypercognition](/Psionics/H/Hypercognition.md) - Circle 9, Seer, Clairsentience
 - [Identify Psionic](/Psionics/I/IdentifyPsionic.md) - Circle 2, Seer, Clairsentience
 - [Know Direction And Location](/Psionics/K/KnowDirectionAndLocation.md) - Circle 1, Seer, Clairsentience
-- [Metafaculty](/Psionics/M/Metafaculty.md)
-- [Object Reading](/Psionics/O/ObjectReading.md)
-- [Precognition](/Psionics/P/Precognition.md)
-- [Precognition, Greater](/Psionics/P/PrecognitionGreater.md)
+- [Metafaculty](/Psionics/M/Metafaculty.md) - Circle 10, Seer, Clairsentience
+- [Object Reading](/Psionics/O/ObjectReading.md) - Circle 3, Seer, Clairsentience
+- [Precognition](/Psionics/P/Precognition.md) - Circle 2, Seer, Clairsentience
+- [Precognition, Greater](/Psionics/P/PrecognitionGreater.md) - Circle 7, Seer, Clairsentience
 - [Visualize](/Psionics/V/Visualize.md) - Circle 0, Seer, Clairsentience
 
 ## Shaper
@@ -176,11 +176,11 @@ The psionic categories are as follows:
 - [Fuse Flesh](/Psionics/F/FuseFlesh.md) - Circle 7, Shaper, Psychometabolism
 - [Genesis](/Psionics/G/Genesis.md) - Circle 10, Shaper, Metacreativity
 - [Hail of Crystals](/Psionics/H/HailOfCrystals.md) - Circle 6, Shaper, Metacreativity
-- [Major Creation](/Psionics/M/MajorCreation.md)
-- [Matter Manipulation](/Psionics/M/MatterManipulation.md)
+- [Major Creation, Psionic](/Psionics/M/MajorCreationPsionic.md) - Circle 5, Shaper, Metacreativity
+- [Matter Manipulation](/Psionics/M/MatterManipulation.md) - Circle 8, Shaper, Metacreativity
 - [Minor Creation, Psionic](/Psionics/M/MinorCreationPsionic.md)
-- [Psionic Lock](/Psionics/P/PsionicLock.md)
-- [Psionic Repair Damage](/Psionics/P/PsionicRepairDamage.md)
+- [Psionic Lock](/Psionics/P/PsionicLock.md) - Circle 2, Shaper, Psychoportation
+- [Psionic Repair Damage](/Psionics/P/PsionicRepairDamage.md) - Circle 3, Shaper, Metacreativity
 
 ## Telepath
 
@@ -202,22 +202,22 @@ The psionic categories are as follows:
 - [Id Insinuation](/Psionics/I/IdInsinuation.md) - Circle 2, Telepath, Telepathy
 - [Inflict Pain](/Psionics/I/InflictPain.md) - Circle 2, Telepath, Telepathy
 - [Insanity](/Psionics/I/Insanity.md) - Circle 7, Telepath, Telepathy
-- [Mental Disruption](/Psionics/M/MentalDisruption.md)
-- [Metaconcert](/Psionics/M/Metaconcert.md)
-- [Mind Probe](/Psionics/M/MindProbe.md)
-- [Mind Seed](/Psionics/M/MindSeed.md)
-- [Mind Switch](/Psionics/M/MindSwitch.md)
-- [Mind Switch, True](/Psionics/M/MindSwitchTrue.md)
-- [Mind Thrust](/Psionics/M/MindThrust.md)
-- [Mindlink](/Psionics/M/Mindlink.md)
-- [Mindlink, Thieving](/Psionics/M/MindlinkThieving.md)
-- [Mindwipe](/Psionics/M/Mindwipe.md)
-- [Missive](/Psionics/M/Missive.md)
-- [Missive, Mass](/Psionics/M/MissiveMass.md)
-- [Modify Memory, Psionic](/Psionics/M/ModifyMemory.md)
-- [Psionic Blast](/Psionics/P/PsionicBlast.md)
-- [Psychic Chirurgery](/Psionics/P/PsychicChirurgery.md)
-- [Touch Speech](/Psionics/T/TouchSpeech.md)
+- [Mental Disruption](/Psionics/M/MentalDisruption.md) - Circle 2, Telepath, Telepathy
+- [Metaconcert](/Psionics/M/Metaconcert.md) - Circle 6, Telepath, Telepathy
+- [Mind Probe](/Psionics/M/MindProbe.md) - Circle 6, Telepath, Telepathy
+- [Mind Seed](/Psionics/M/MindSeed.md) - Circle 9, Telepath, Telepathy
+- [Mind Switch](/Psionics/M/MindSwitch.md) - Circle 7, Telepath, Telepathy
+- [Mind Switch, True](/Psionics/M/MindSwitchTrue.md) - Circle 10, Telepath, Telepathy
+- [Mind Thrust](/Psionics/M/MindThrust.md) - Circle 1, Telepath, Telepathy
+- [Mindlink](/Psionics/M/Mindlink.md) - Circle 2, Telepath, Telepathy
+- [Mindlink, Thieving](/Psionics/M/MindlinkThieving.md) - Circle 5, Telepath, Telepathy
+- [Mindwipe](/Psionics/M/Mindwipe.md) - Circle 4, Telepath, Telepathy
+- [Missive](/Psionics/M/Missive.md) - Circle 1, Telepath, Telepathy
+- [Missive, Mass](/Psionics/M/MissiveMass.md) - Circle 2, Telepath, Telepathy
+- [Modify Memory, Psionic](/Psionics/M/ModifyMemoryPsionic.md) - Circle 5, Telepath, Telepathy
+- [Psionic Blast](/Psionics/P/PsionicBlast.md) - Circle 3, Telepath, Telepathy
+- [Psychic Chirurgery](/Psionics/P/PsychicChirurgery.md) - Circle 10, Telepath, Telepathy
+- [Touch Speech](/Psionics/T/TouchSpeech.md) - Circle 0, Telepath, Telepathy
 
 ## Warrior
 
@@ -254,17 +254,17 @@ The psionic categories are as follows:
 - [Immovability](/Psionics/I/Immovability.md) - Circle 5, Warrior, Psychometabolism
 - [Inertial Armor](/Psionics/I/InertialArmor.md) - Circle 1, Warrior, Psychokinesis
 - [Keen Edge, Psionic](/Psionics/K/KeenEdgePsionic.md) - Circle 3, Warrior, Metacreativity
-- [Mental Barrier](/Psionics/M/MentalBarrier.md)
-- [Metaphysical Claw](/Psionics/M/MetaphysicalClaw.md)
-- [Metaphysical Weapon](/Psionics/M/MetaphysicalWeapon.md)
-- [Mind Blank, Personal](/Psionics/M/MindBlankPersonal.md)
-- [Oak Body](/Psionics/O/OakBody.md)
-- [Painful Strike](/Psionics/P/PainfulStrike.md)
-- [Precognition, Defensive](/Psionics/P/PrecognitionDefensive.md)
-- [Precognition, Offensive](/Psionics/P/PrecognitionOffensive.md)
-- [Prescience, Offensive](/Psionics/P/PrescienceOffensive.md)
-- [Prevenom](/Psionics/P/Prevenom.md)
-- [Prevenom Weapon](/Psionics/P/PrevenomWeapon.md)
-- [Prowess](/Psionics/P/Prowess.md)
-- [Psionic Lion's Charge](/Psionics/P/PsionicLionsCharge.md)
-- [Psionic Scent](/Psionics/P/PsionicScent.md)
+- [Mental Barrier](/Psionics/M/MentalBarrier.md) - Circle 3, Warrior, Clairsentience
+- [Metaphysical Claw](/Psionics/M/MetaphysicalClaw.md) - Circle 1, Warrior, Psychometabolism
+- [Metaphysical Weapon](/Psionics/M/MetaphysicalWeapon.md) - Circle 2, Warrior, Metacreativity
+- [Mind Blank, Personal](/Psionics/M/MindBlankPersonal.md) - Circle 7, Warrior, Telepathy
+- [Oak Body](/Psionics/O/OakBody.md) - Circle 7, Warrior, Psychometabolism
+- [Painful Strike](/Psionics/P/PainfulStrike.md) - Circle 3, Warrior, Psychometabolism
+- [Precognition, Defensive](/Psionics/P/PrecognitionDefensive.md) - Circle 1, Warrior, Clairsentience
+- [Precognition, Offensive](/Psionics/P/PrecognitionOffensive.md) - Circle 1, Warrior, Clairsentience
+- [Prescience, Offensive](/Psionics/P/PrescienceOffensive.md) - Circle 1, Warrior, Clairsentience
+- [Prevenom](/Psionics/P/Prevenom.md) - Circle 2, Warrior, Psychometabolism
+- [Prevenom Weapon](/Psionics/P/PrevenomWeapon.md) - Circle 1, Warrior, Psychometabolism
+- [Prowess](/Psionics/P/Prowess.md) - Circle 3, Warrior, Clairsentience
+- [Psionic Lion's Charge](/Psionics/P/PsionicLionsCharge.md) - Circle 3, Warrior, Psychometabolism
+- [Psionic Scent](/Psionics/P/PsionicScent.md) - Circle 3, Warrior, Psychometabolism

@@ -1,5 +1,7 @@
 # Mind Switch
 
+[Mind Switch](/Psionics/M/MindSwitch.md) - Circle 7, Telepath, Telepathy
+
 - **Circle:** 7
 - **Category:** Telepath
 - **Discipline:** Telepathy

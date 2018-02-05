@@ -1,5 +1,7 @@
 # Power Resistance
 
+[Power Resistance](/Psionics/P/PowerResistance.md) - Circle 5, Power, Clairsentience
+
 - **Circle:** 5
 - **Category:** Power
 - **Discipline:** Clairsentience

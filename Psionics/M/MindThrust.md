@@ -1,5 +1,7 @@
 # Mind Thrust
 
+[Mind Thrust](/Psionics/M/MindThrust.md) - Circle 1, Telepath, Telepathy
+
 - **Circle:** 1
 - **Category:** Telepath
 - **Discipline:** Telepathy

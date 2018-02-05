@@ -1,5 +1,7 @@
 # Metafaculty
 
+[Metafaculty](/Psionics/M/Metafaculty.md) - Circle 10, Seer, Clairsentience
+
 - **Circle:** 10
 - **Category:** Seer
 - **Discipline:** Clairsentience

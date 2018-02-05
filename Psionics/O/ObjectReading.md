@@ -1,5 +1,7 @@
 # Object Reading
 
+[Object Reading](/Psionics/O/ObjectReading.md) - Circle 3, Seer, Clairsentience
+
 - **Circle:** 3
 - **Category:** Seer
 - **Discipline:** Clairsentience

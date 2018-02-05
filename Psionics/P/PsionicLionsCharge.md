@@ -1,5 +1,7 @@
 # Psionic Lion’s Charge
 
+[Psionic Lion's Charge](/Psionics/P/PsionicLionsCharge.md) - Circle 3, Warrior, Psychometabolism
+
 - **Circle:** 3
 - **Category:** Warrior
 - **Discipline:** Psychometabolism

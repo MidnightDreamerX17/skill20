@@ -1,5 +1,7 @@
 # Psychofeedback
 
+[Psychofeedback](/Psionics/P/Psychofeedback.md) - Circle 6, Egoist, Psychometabolism
+
 - **Circle:** 6
 - **Category:** Egoist
 - **Discipline:** Psychometabolism

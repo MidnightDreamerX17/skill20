@@ -1,5 +1,7 @@
 # Psionic Lock
 
+[Psionic Lock](/Psionics/P/PsionicLock.md) - Circle 2, Shaper, Psychoportation
+
 - **Circle:** 2
 - **Category:** Shaper
 - **Discipline:** Psychoportation

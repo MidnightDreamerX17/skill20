@@ -1,5 +1,7 @@
 # Matter Manipulation
 
+[Matter Manipulation](/Psionics/M/MatterManipulation.md) - Circle 8, Shaper, Metacreativity
+
 - **Circle:** 8
 - **Category:** Shaper
 - **Discipline:** Metacreativity

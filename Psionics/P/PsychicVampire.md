@@ -1,5 +1,7 @@
 # Psychic Vampire
 
+[Psychic Vampire](/Psionics/P/PsychicVampire.md) - Circle 5, Egoist, Psychometabolism
+
 - **Circle:** 5
 - **Category:** Egoist
 - **Discipline:** Psychometabolism

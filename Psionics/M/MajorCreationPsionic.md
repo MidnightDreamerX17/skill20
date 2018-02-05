@@ -1,5 +1,7 @@
 # Major Creation, Psionic
 
+[Major Creation, Psionic](/Psionics/M/MajorCreationPsionic.md) - Circle 5, Shaper, Metacreativity
+
 - **Circle:** 5
 - **Category:** Shaper
 - **Discipline:** Metacreativity

@@ -1,5 +1,7 @@
 # Moment of Prescience, Psionic
 
+[Moment of Prescience, Psionic](/Psionics/M/MomentOfPresciencePsionic.md) - Circle 7, Power, Clairsentience
+
 - **Circle:** 7
 - **Category:** Power
 - **Discipline:** Clairsentience

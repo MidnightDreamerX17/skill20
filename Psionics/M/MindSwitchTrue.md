@@ -1,5 +1,7 @@
 # Mind Switch, True
 
+[Mind Switch, True](/Psionics/M/MindSwitchTrue.md) - Circle 10, Telepath, Telepathy
+
 - **Circle:** 10
 - **Category:** Telepath
 - **Discipline:** Telepathy

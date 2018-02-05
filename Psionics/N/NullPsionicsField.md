@@ -1,5 +1,7 @@
 # Null Psionics Field
 
+[Null Psionics Field](/Psionics/N/NullPsionicsField.md) - Circle 7, Kineticist, Psychokinesis
+
 - **Circle:** 7
 - **Category:** Kineticist
 - **Discipline:** Psychokinesis

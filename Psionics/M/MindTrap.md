@@ -1,5 +1,7 @@
 # Mind Trap
 
+[Mind Trap](/Psionics/M/MindTrap.md) - Circle 3, Power, Telepathy
+
 - **Circle:** 3
 - **Category:** Power
 - **Discipline:** Telepathy

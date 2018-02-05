@@ -1,5 +1,7 @@
 # Mental Disruption
 
+[Mental Disruption](/Psionics/M/MentalDisruption.md) - Circle 2, Telepath, Telepathy
+
 - **Circle:** 2
 - **Category:** Telepath
 - **Discipline:** Telepathy

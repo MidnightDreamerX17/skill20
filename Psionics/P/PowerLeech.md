@@ -1,5 +1,7 @@
 # Power Leech
 
+[Power Leech](/Psionics/P/PowerLeech.md) - Circle 4, Power, Telepathy
+
 - **Circle:** 4
 - **Category:** Power
 - **Discipline:** Telepathy

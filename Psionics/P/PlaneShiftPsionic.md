@@ -1,5 +1,7 @@
 # Plane Shift, Psionic
 
+[Plane Shift, Psionic](/Psionics/P/PlaneShiftPsionic.md) - Circle 5, Nomad, Psychoportation
+
 - **Circle:** 5
 - **Category:** Nomad
 - **Discipline:** Psychoportation

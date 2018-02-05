@@ -1,5 +1,7 @@
 # Mind Blank, Psionic
 
+[Mind Blank, Psionic](/Psionics/M/MindBlankPsionic.md) - Circle 8, Power, Telepathy
+
 - **Circle:** 8
 - **Category:** Power
 - **Discipline:** Telepathy

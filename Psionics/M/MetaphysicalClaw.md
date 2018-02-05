@@ -1,5 +1,7 @@
 # Metaphysical Claw
 
+[Metaphysical Claw](/Psionics/M/MetaphysicalClaw.md) - Circle 1, Warrior, Psychometabolism
+
 - **Circle:** 1
 - **Category:** Warrior
 - **Discipline:** Psychometabolism

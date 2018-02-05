@@ -1,5 +1,7 @@
 # Precognition, Greater
 
+[Precognition, Greater](/Psionics/P/PrecognitionGreater.md) - Circle 7, Seer, Clairsentience
+
 - **Circle:** 7
 - **Category:** Seer
 - **Discipline:** Clairsentience

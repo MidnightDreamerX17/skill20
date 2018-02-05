@@ -1,5 +1,7 @@
 # Mind Blank, Personal
 
+[Mind Blank, Personal](/Psionics/M/MindBlankPersonal.md) - Circle 7, Warrior, Telepathy
+
 - **Circle:** 7
 - **Category:** Warrior
 - **Discipline:** Telepathy

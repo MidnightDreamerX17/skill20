@@ -1,5 +1,7 @@
 # My Light
 
+[My Light](/Psionics/M/MyLight.md) - Circle 1, Egoist, Psychokinesis
+
 - **Circle:** 1
 - **Category:** Egoist
 - **Discipline:** Psychokinesis

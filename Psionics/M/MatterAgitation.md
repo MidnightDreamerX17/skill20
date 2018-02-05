@@ -1,5 +1,7 @@
 # Matter Agitation
 
+[Matter Agitation](/Psionics/M/MatterAgitation.md) - Circle 1, Kineticist, Psychokinesis
+
 - **Circle:** 1
 - **Category:** Kineticist
 - **Discipline:** Psychokinesis

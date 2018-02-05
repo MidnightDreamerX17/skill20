@@ -1,5 +1,7 @@
 # Mindwipe
 
+[Mindwipe](/Psionics/M/Mindwipe.md) - Circle 4, Telepath, Telepathy
+
 - **Circle:** 4
 - **Category:** Telepath
 - **Discipline:** Telepathy

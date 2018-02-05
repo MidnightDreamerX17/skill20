@@ -1,5 +1,7 @@
 # Mindlink
 
+[Mindlink](/Psionics/M/Mindlink.md) - Circle 2, Telepath, Telepathy
+
 - **Circle:** 2
 - **Category:** Telepath
 - **Discipline:** Telepathy

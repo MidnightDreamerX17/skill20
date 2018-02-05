@@ -1,5 +1,7 @@
 # Mind Probe
 
+[Mind Probe](/Psionics/M/MindProbe.md) - Circle 6, Telepath, Telepathy
+
 - **Circle:** 6
 - **Category:** Telepath
 - **Discipline:** Telepathy

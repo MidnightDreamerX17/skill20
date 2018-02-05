@@ -1,5 +1,7 @@
 # Missive, Mass
 
+[Missive, Mass](/Psionics/M/MissiveMass.md) - Circle 2, Telepath, Telepathy
+
 - **Circle:** 2
 - **Category:** Telepath
 - **Discipline:** Telepathy

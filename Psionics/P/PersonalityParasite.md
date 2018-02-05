@@ -1,5 +1,7 @@
 # Personality Parasite
 
+[Personality Parasite](/Psionics/P/PersonalityParasite.md) - Circle 4, Power, Telepathy
+
 - **Circle:** 4
 - **Category:** Power
 - **Discipline:** Telepathy

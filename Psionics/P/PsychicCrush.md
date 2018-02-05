@@ -1,5 +1,7 @@
 # Psychic Crush
 
+[Psychic Crush](/Psionics/P/PsychicCrush.md) - Circle 5, Power, Telepathy
+
 - **Circle:** 5
 - **Category:** Power
 - **Discipline:** Telepathy

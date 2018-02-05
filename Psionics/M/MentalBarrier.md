@@ -1,5 +1,7 @@
 # Mental Barrier
 
+[Mental Barrier](/Psionics/M/MentalBarrier.md) - Circle 3, Warrior, Clairsentience
+
 - **Circle:** 3
 - **Category:** Warrior
 - **Discipline:** Clairsentience

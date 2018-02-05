@@ -1,5 +1,7 @@
 # Psionic Repair Damage
 
+[Psionic Repair Damage](/Psionics/P/PsionicRepairDamage.md) - Circle 3, Shaper, Metacreativity
+
 - **Circle:** 3
 - **Category:** Shaper
 - **Discipline:** Metacreativity

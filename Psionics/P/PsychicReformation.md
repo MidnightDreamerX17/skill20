@@ -1,5 +1,7 @@
 # Psychic Reformation
 
+[Psychic Reformation](/Psionics/P/PsychicReformation.md) - Circle 4, Egoist, Telepathy
+
 - **Circle:** 4
 - **Category:** Egoist
 - **Discipline:** Telepathy

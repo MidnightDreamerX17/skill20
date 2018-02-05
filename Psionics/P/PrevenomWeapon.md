@@ -1,5 +1,7 @@
 # Prevenom Weapon
 
+[Prevenom Weapon](/Psionics/P/PrevenomWeapon.md) - Circle 1, Warrior, Psychometabolism
+
 - **Circle:** 1
 - **Category:** Warrior
 - **Discipline:** Psychometabolism

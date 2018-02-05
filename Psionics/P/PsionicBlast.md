@@ -1,5 +1,7 @@
 # Psionic Blast
 
+[Psionic Blast](/Psionics/P/PsionicBlast.md) - Circle 3, Telepath, Telepathy
+
 - **Circle:** 3
 - **Category:** Telepath
 - **Discipline:** Telepathy

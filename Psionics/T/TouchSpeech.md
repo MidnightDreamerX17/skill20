@@ -1,5 +1,7 @@
 # Touch Speech
 
+[Touch Speech](/Psionics/T/TouchSpeech.md) - Circle 0, Telepath, Telepathy
+
 - **Circle:** 0
 - **Category:** Telepath
 - **Discipline:** Telepathy

@@ -1,5 +1,7 @@
 # Self Immolation
 
+[Self Immolation](/Psionics/S/SelfImmolation.md) - Circle 0, Egoist, Psychometabolism
+
 - **Circle:** 0
 - **Category:** Egoist
 - **Discipline:** Psychometabolism

@@ -1,5 +1,7 @@
 # Precognition
 
+[Precognition](/Psionics/P/Precognition.md) - Circle 2, Seer, Clairsentience
+
 - **Circle:** 2
 - **Category:** Seer
 - **Discipline:** Clairsentience

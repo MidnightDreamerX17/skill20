@@ -1,5 +1,7 @@
 # Metamorphosis, Greater
 
+[Metamorphosis, Greater](/Psionics/M/MetamorphosisGreater.md) - Circle 10, Egoist, Psychometabolism
+
 - **Circle:** 10
 - **Category:** Egoist
 - **Discipline:** Psychometabolism

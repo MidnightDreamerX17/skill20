@@ -1,5 +1,7 @@
 # Metaconcert
 
+[Metaconcert](/Psionics/M/Metaconcert.md) - Circle 6, Telepath, Telepathy
+
 - **Circle:** 6
 - **Category:** Telepath
 - **Discipline:** Telepathy

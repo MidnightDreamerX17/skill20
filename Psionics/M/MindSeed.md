@@ -1,5 +1,7 @@
 # Mind Seed
 
+[Mind Seed](/Psionics/M/MindSeed.md) - Circle 9, Telepath, Telepathy
+
 - **Circle:** 9
 - **Category:** Telepath
 - **Discipline:** Telepathy

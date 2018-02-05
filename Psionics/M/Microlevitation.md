@@ -1,5 +1,7 @@
 # Microlevitation
 
+[Microlevitation](/Psionics/M/Microlevitation.md) - Circle 0, Kineticist, Psychokinesis
+
 - **Circle:** 0
 - **Category:** Kineticist
 - **Discipline:** Psychokinesis

@@ -1,5 +1,7 @@
 # Metaphysical Weapon
 
+[Metaphysical Weapon](/Psionics/M/MetaphysicalWeapon.md) - Circle 2, Warrior, Metacreativity
+
 - **Circle:** 2
 - **Category:** Warrior
 - **Discipline:** Metacreativity
