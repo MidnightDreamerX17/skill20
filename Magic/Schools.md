@@ -139,6 +139,8 @@ The schools are:
 - [Purify Food and Drink](/Magic/P/PurifyFoodAndDrink.md)
 - [Reduce Person](/Magic/R/ReducePerson.md)
 - [Shillelagh](/Magic/S/Shillelagh.md)
+- [Snakes to Sticks](/Magic/S/SnakesToSticks.md) - Cleric 4, Plant, Transmutation
+- [Sticks to Snakes](/Magic/S/SticksToSnakes.md) - Cleric 4, Plant, Transmutation
 - [Virtue](/Magic/V/Virtue.md)
 
 ## Universal (cannot be specialized or opposed)

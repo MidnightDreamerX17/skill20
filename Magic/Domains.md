@@ -156,6 +156,8 @@ The domains are:
 - [Entangle](/Magic/E/Entangle.md)
 - [Goodberry](/Magic/G/Goodberry.md)
 - [Shillelagh](/Magic/S/Shillelagh.md)
+- [Snakes to Sticks](/Magic/S/SnakesToSticks.md) - Cleric 4, Plant, Transmutation
+- [Sticks to Snakes](/Magic/S/SticksToSnakes.md) - Cleric 4, Plant, Transmutation
 
 ## Protection
 

@@ -67,6 +67,8 @@
 ## 4th Circle
 
 - [Book God's Book, Fast](/Magic/B/BookGodsBookFast.md)
+- [Snakes to Sticks](/Magic/S/SnakesToSticks.md) - Cleric 4, Plant, Transmutation
+- [Sticks to Snakes](/Magic/S/SticksToSnakes.md) - Cleric 4, Plant, Transmutation
 
 ## 5th Circle
 
