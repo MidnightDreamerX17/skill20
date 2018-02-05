@@ -28,7 +28,8 @@ The GM may rule that bonus feats are given as rewards for achieving high ranks i
 - **Astral Tracking** - The character can attempt to track targets through the astral plane just as well as through any other plane.
 - **Astrologer** - The character gains two additional 0th-circle Druid spell energies and memorization slots.
 - **Athletic** - The character gains a bonus of +2 to climbing, swimming, running, and other activities for extended periods of time.
-- **Augment Summoning** - The character's summons gain a bonus of +1 to experience level.
+- **Augment Summoning** - The character's summons have one additional die of hit points, and any skills the summons possess are increased by 1. Typically, summoned creatures with at least 1 experience level will have the necessary skills for their attack types, natural weapons, and abilities.
+- **Augment Summoning, Improved** (requires Experience Level 5) - The character's summons have one additional die of hit points, and any skills the summons possess are increased by 1.
 - **Autonomous** - The character gains a bonus of +2 to Knowledge (Psionics) checks, and concentration checks for both magic and psionics.
 - **Black Magic of Betrayal** (requires Metamagic (INT) skill and Evil alignment) - The character gets one free Betrayal Metamagic per day per 2 caster levels of their lowest-skilled magic type. Betrayal Metamagic acts as either *Empower Spell* or *Extend Spell*, chosen when spellcasting begins. The spell causes 2d6 negative energy damage to one ally within line-of-sight, chosen by the user. The ally can make an Intelligence saving throw for half damage.
 - **Black Magic of Darkness** (requires Metamagic (INT) skill and Evil alignment) - The character gets one free Darkness Metamagic per day per 2 caster levels of their lowest-skilled magic type. The Darkness Metamagic causes half of a spell's damage to be negative energy.

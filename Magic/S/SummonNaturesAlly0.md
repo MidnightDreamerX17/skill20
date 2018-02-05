@@ -22,9 +22,11 @@ The spell conjures a creature with no experience levels and no skills, examples 
 
 **Examples of Level 0 Summonable Monsters:**
 
+- Butterfly
 - Chick wearing an eggshell for pants
 - Gerbil
 - Goldfish (may only be summoned into an aquatic environment)
+- Hummingbird
 - Mouse
 
 If the details of the desired monster type are not available in any book whatsoever, then the defaults are as follows:
