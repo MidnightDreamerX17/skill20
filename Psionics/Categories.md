@@ -31,6 +31,8 @@ The psionic categories are as follows:
 - [Psychic Reformation](/Psionics/P/PsychicReformation.md) - Circle 4, Egoist, Telepathy
 - [Psychic Vampire](/Psionics/P/PsychicVampire.md) - Circle 5, Egoist, Psychometabolism
 - [Psychofeedback](/Psionics/P/Psychofeedback.md) - Circle 6, Egoist, Psychometabolism
+- [Restoration, Psionic](/Psionics/R/RestorationPsionic.md) - Circle 7, Egoist, Psychometabolism
+- [Restore Extremity](/Psionics/R/RestoreExtremity.md) - Circle 6, Egoist, Psychometabolism
 - [Self Immolation](/Psionics/S/SelfImmolation.md) - Circle 0, Egoist, Psychometabolism
 - [Smudge Skin](/Psionics/S/SmudgeSkin.md) - Circle 0, Egoist, Psychometabolism
 
@@ -62,6 +64,7 @@ The psionic categories are as follows:
 - [Matter Agitation](/Psionics/M/MatterAgitation.md) - Circle 1, Kineticist, Psychokinesis
 - [Microlevitation](/Psionics/M/Microlevitation.md) - Circle 0, Kineticist, Psychokinesis
 - [Null Psionics Field](/Psionics/N/NullPsionicsField.md) - Circle 7, Kineticist, Psychokinesis
+- [Reddopsi](/Psionics/R/Reddopsi.md) - Circle 8, Kineticist, Psychokinesis
 
 ## Nomad
 
@@ -86,6 +89,7 @@ The psionic categories are as follows:
 - [Overland Flight, Psionic](/Psionics/O/OverlandFlightPsionic.md) - Circle 6, Nomad, Psychoportation
 - [Phase Door, Psionic](/Psionics/P/PhaseDoorPsionic.md) - Circle 7, Nomad, Psychoportation
 - [Plane Shift, Psionic](/Psionics/P/PlaneShiftPsionic.md) - Circle 5, Nomad, Psychoportation
+- [Retrieve](/Psionics/R/Retrieve.md) - Circle 6, Nomad, Psychoportation
 
 ## Power (cannot be specialized or opposed)
 
@@ -137,6 +141,10 @@ The psionic categories are as follows:
 - [Power Leech](/Psionics/P/PowerLeech.md) - Circle 4, Power, Telepathy
 - [Power Resistance](/Psionics/P/PowerResistance.md) - Circle 5, Power, Clairsentience
 - [Psychic Crush](/Psionics/P/PsychicCrush.md) - Circle 5, Power, Telepathy
+- [Reality Revision](/Psionics/R/RealityRevision.md) - Circle 9, Power, Clairsentience
+- [Recall Agony](/Psionics/R/RecallAgony.md) - Circle 2, Power, Clairsentience
+- [Recall Death](/Psionics/R/RecallDeath.md) - Circle 8, Power, Clairsentience
+- [Remote View Trap](/Psionics/R/RemoteViewTrap.md) - Circle 6, Power, Clairsentience
 
 ## Seer
 
@@ -157,6 +165,7 @@ The psionic categories are as follows:
 - [Object Reading](/Psionics/O/ObjectReading.md) - Circle 3, Seer, Clairsentience
 - [Precognition](/Psionics/P/Precognition.md) - Circle 2, Seer, Clairsentience
 - [Precognition, Greater](/Psionics/P/PrecognitionGreater.md) - Circle 7, Seer, Clairsentience
+- [Remote Viewing](/Psionics/R/RemoteViewing.md) - Circle 5, Seer, Clairsentience
 - [Visualize](/Psionics/V/Visualize.md) - Circle 0, Seer, Clairsentience
 
 ## Shaper
@@ -178,9 +187,10 @@ The psionic categories are as follows:
 - [Hail of Crystals](/Psionics/H/HailOfCrystals.md) - Circle 6, Shaper, Metacreativity
 - [Major Creation, Psionic](/Psionics/M/MajorCreationPsionic.md) - Circle 5, Shaper, Metacreativity
 - [Matter Manipulation](/Psionics/M/MatterManipulation.md) - Circle 8, Shaper, Metacreativity
-- [Minor Creation, Psionic](/Psionics/M/MinorCreationPsionic.md)
+- [Minor Creation, Psionic](/Psionics/M/MinorCreationPsionic.md) - Circle 2, Shaper, Metacreativity
 - [Psionic Lock](/Psionics/P/PsionicLock.md) - Circle 2, Shaper, Psychoportation
 - [Psionic Repair Damage](/Psionics/P/PsionicRepairDamage.md) - Circle 3, Shaper, Metacreativity
+- [Quintessence](/Psionics/Q/Quintessence.md) - Circle 5, Shaper, Metacreativity
 
 ## Telepath
 
@@ -217,6 +227,7 @@ The psionic categories are as follows:
 - [Modify Memory, Psionic](/Psionics/M/ModifyMemoryPsionic.md) - Circle 5, Telepath, Telepathy
 - [Psionic Blast](/Psionics/P/PsionicBlast.md) - Circle 3, Telepath, Telepathy
 - [Psychic Chirurgery](/Psionics/P/PsychicChirurgery.md) - Circle 10, Telepath, Telepathy
+- [Read Thoughts](/Psionics/R/ReadThoughts.md) - Circle 3, Telepath, Telepathy
 - [Touch Speech](/Psionics/T/TouchSpeech.md) - Circle 0, Telepath, Telepathy
 
 ## Warrior

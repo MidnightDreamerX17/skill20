@@ -229,7 +229,7 @@
 - [Mindlink](/Psionics/M/Mindlink.md) - Circle 2, Telepath, Telepathy
 - [Mindlink, Thieving](/Psionics/M/MindlinkThieving.md) - Circle 5, Telepath, Telepathy
 - [Mindwipe](/Psionics/M/Mindwipe.md) - Circle 4, Telepath, Telepathy
-- [Minor Creation, Psionic](/Psionics/M/MinorCreationPsionic.md)
+- [Minor Creation, Psionic](/Psionics/M/MinorCreationPsionic.md) - Circle 2, Shaper, Metacreativity
 - [Missive](/Psionics/M/Missive.md) - Circle 1, Telepath, Telepathy
 - [Missive, Mass](/Psionics/M/MissiveMass.md) - Circle 2, Telepath, Telepathy
 - [Modify Memory, Psionic](/Psionics/M/ModifyMemoryPsionic.md) - Circle 5, Telepath, Telepathy
@@ -274,6 +274,23 @@
 - [Psychic Reformation](/Psionics/P/PsychicReformation.md) - Circle 4, Egoist, Telepathy
 - [Psychic Vampire](/Psionics/P/PsychicVampire.md) - Circle 5, Egoist, Psychometabolism
 - [Psychofeedback](/Psionics/P/Psychofeedback.md) - Circle 6, Egoist, Psychometabolism
+
+## Q
+
+- [Quintessence](/Psionics/Q/Quintessence.md) - Circle 5, Shaper, Metacreativity
+
+## R
+
+- [Read Thoughts](/Psionics/R/ReadThoughts.md) - Circle 3, Telepath, Telepathy
+- [Reality Revision](/Psionics/R/RealityRevision.md) - Circle 9, Power, Clairsentience
+- [Recall Agony](/Psionics/R/RecallAgony.md) - Circle 2, Power, Clairsentience
+- [Recall Death](/Psionics/R/RecallDeath.md) - Circle 8, Power, Clairsentience
+- [Reddopsi](/Psionics/R/Reddopsi.md) - Circle 8, Kineticist, Psychokinesis
+- [Remote View Trap](/Psionics/R/RemoteViewTrap.md) - Circle 6, Power, Clairsentience
+- [Remote Viewing](/Psionics/R/RemoteViewing.md) - Circle 5, Seer, Clairsentience
+- [Restoration, Psionic](/Psionics/R/RestorationPsionic.md) - Circle 7, Egoist, Psychometabolism
+- [Restore Extremity](/Psionics/R/RestoreExtremity.md) - Circle 6, Egoist, Psychometabolism
+- [Retrieve](/Psionics/R/Retrieve.md) - Circle 6, Nomad, Psychoportation
 
 ## S
 

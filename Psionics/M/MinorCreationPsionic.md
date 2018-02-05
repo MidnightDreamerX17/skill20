@@ -1,5 +1,7 @@
 # Minor Creation, Psionic
 
+[Minor Creation, Psionic](/Psionics/M/MinorCreationPsionic.md) - Circle 2, Shaper, Metacreativity
+
 - **Circle:** 2
 - **Category:** Shaper
 - **Discipline:** Metacreativity

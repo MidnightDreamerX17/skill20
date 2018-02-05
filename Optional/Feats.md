@@ -142,7 +142,7 @@ The GM may rule that bonus feats are given as rewards for achieving high ranks i
 - **Psionic Power Specialization** (specific) - One psionic power of choice is considered to be of a lower circle, and its power point cost is reduced by 1. This feat can only be taken once per power.
 - **Psionic Shot** (requires Psionic Power skill) - You can spend 2 Psionic Power Points to add 2d6 psionic damage to one ranged attack.
 - **Psionic Talent** - Your maximum Psionic Power Points are increased by 2. This feat can be purchased a number of times equal to your Intelligence bonus. For example, if you have an Intelligence number of 12, then you can buy this feat once. If you have an Intelligence number of 14, then you can buy this feat up to two times. And so on.
-- **Psionic Weapon** (requires Psionic Power skill) - You can spend 2 Psionic Power Points to add 2d6 psionic damage to one weapon attack.
+- **Psionic Weapon** (requires Psionic Power skill) - You can spend 2 Psionic Power Points to add 2d6 psionic damage to one melee weapon attack.
 - **Quadruple-Wielding** (requires at least four arms, Triple-Wielding) - You can quadruple-wield normally.
 - **Quick Roll** - The character can choose to lose all attack actions in order to gain a +5 bonus to move through enemies and avoid body-blocking.
 - **Rapid Metabolism** - Your Constitution bonus, if +1 or higher, is doubled while resting.

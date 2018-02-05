@@ -43,6 +43,11 @@ The psionic disciplines are as follows:
 - [Precognition, Offensive](/Psionics/P/PrecognitionOffensive.md) - Circle 1, Warrior, Clairsentience
 - [Prescience, Offensive](/Psionics/P/PrescienceOffensive.md) - Circle 1, Warrior, Clairsentience
 - [Prowess](/Psionics/P/Prowess.md) - Circle 3, Warrior, Clairsentience
+- [Reality Revision](/Psionics/R/RealityRevision.md) - Circle 9, Power, Clairsentience
+- [Recall Agony](/Psionics/R/RecallAgony.md) - Circle 2, Power, Clairsentience
+- [Recall Death](/Psionics/R/RecallDeath.md) - Circle 8, Power, Clairsentience
+- [Remote View Trap](/Psionics/R/RemoteViewTrap.md) - Circle 6, Power, Clairsentience
+- [Remote Viewing](/Psionics/R/RemoteViewing.md) - Circle 5, Seer, Clairsentience
 - [Visualize](/Psionics/V/Visualize.md) - Circle 0, Seer, Clairsentience
 
 ## Metacreativity
@@ -74,8 +79,9 @@ The psionic disciplines are as follows:
 - [Major Creation, Psionic](/Psionics/M/MajorCreationPsionic.md) - Circle 5, Shaper, Metacreativity
 - [Matter Manipulation](/Psionics/M/MatterManipulation.md) - Circle 8, Shaper, Metacreativity
 - [Metaphysical Weapon](/Psionics/M/MetaphysicalWeapon.md) - Circle 2, Warrior, Metacreativity
-- [Minor Creation, Psionic](/Psionics/M/MinorCreationPsionic.md)
+- [Minor Creation, Psionic](/Psionics/M/MinorCreationPsionic.md) - Circle 2, Shaper, Metacreativity
 - [Psionic Repair Damage](/Psionics/P/PsionicRepairDamage.md) - Circle 3, Shaper, Metacreativity
+- [Quintessence](/Psionics/Q/Quintessence.md) - Circle 5, Shaper, Metacreativity
 
 ## Psychokinesis
 
@@ -111,6 +117,7 @@ The psionic disciplines are as follows:
 - [Microlevitation](/Psionics/M/Microlevitation.md) - Circle 0, Kineticist, Psychokinesis
 - [My Light](/Psionics/M/MyLight.md) - Circle 1, Egoist, Psychokinesis
 - [Null Psionics Field](/Psionics/N/NullPsionicsField.md) - Circle 7, Kineticist, Psychokinesis
+- [Reddopsi](/Psionics/R/Reddopsi.md) - Circle 8, Kineticist, Psychokinesis
 
 ## Psychometabolism
 
@@ -163,6 +170,8 @@ The psionic disciplines are as follows:
 - [Psionic Scent](/Psionics/P/PsionicScent.md) - Circle 3, Warrior, Psychometabolism
 - [Psychic Vampire](/Psionics/P/PsychicVampire.md) - Circle 5, Egoist, Psychometabolism
 - [Psychofeedback](/Psionics/P/Psychofeedback.md) - Circle 6, Egoist, Psychometabolism
+- [Restoration, Psionic](/Psionics/R/RestorationPsionic.md) - Circle 7, Egoist, Psychometabolism
+- [Restore Extremity](/Psionics/R/RestoreExtremity.md) - Circle 6, Egoist, Psychometabolism
 - [Self Immolation](/Psionics/S/SelfImmolation.md) - Circle 0, Egoist, Psychometabolism
 - [Smudge Skin](/Psionics/S/SmudgeSkin.md) - Circle 0, Egoist, Psychometabolism
 
@@ -200,6 +209,7 @@ The psionic disciplines are as follows:
 - [Phase Door, Psionic](/Psionics/P/PhaseDoorPsionic.md) - Circle 7, Nomad, Psychoportation
 - [Plane Shift, Psionic](/Psionics/P/PlaneShiftPsionic.md) - Circle 5, Nomad, Psychoportation
 - [Psionic Lock](/Psionics/P/PsionicLock.md) - Circle 2, Shaper, Psychoportation
+- [Retrieve](/Psionics/R/Retrieve.md) - Circle 6, Nomad, Psychoportation
 
 ## Telepathy
 
@@ -259,4 +269,5 @@ The psionic disciplines are as follows:
 - [Psychic Chirurgery](/Psionics/P/PsychicChirurgery.md) - Circle 10, Telepath, Telepathy
 - [Psychic Crush](/Psionics/P/PsychicCrush.md) - Circle 5, Power, Telepathy
 - [Psychic Reformation](/Psionics/P/PsychicReformation.md) - Circle 4, Egoist, Telepathy
+- [Read Thoughts](/Psionics/R/ReadThoughts.md) - Circle 3, Telepath, Telepathy
 - [Touch Speech](/Psionics/T/TouchSpeech.md) - Circle 0, Telepath, Telepathy
