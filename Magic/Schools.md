@@ -38,7 +38,9 @@ The schools are:
 - [Mage Armor](/Magic/M/MageArmor.md)
 - [Mount](/Magic/M/Mount.md)
 - [Obscuring Mist](/Magic/O/ObscuringMist.md)
+- [Summon Monster 0](/Magic/S/SummonMonster0.md) - Cleric 0 / Wizard 0, variable Domain, Conjuration
 - [Summon Monster I](/Magic/S/SummonMonster1.md)
+- [Summon Nature's Ally 0](/Magic/S/SummonNaturesAlly0.md) - Druid 0, Animal, Conjuration
 - [Summon Nature's Ally I](/Magic/S/SummonNaturesAlly1.md)
 - [Unseen Servant](/Magic/U/UnseenServant.md)
 
@@ -97,6 +99,7 @@ The schools are:
 - [Holographic Cure Minor Wounds](/Magic/H/HolographicCureMinorWounds.md)
 - [Magic Aura](/Magic/M/MagicAura.md)
 - [Silent Image](/Magic/S/SilentImage.md)
+- [Summon Illusory Creature 0](/Magic/S/SummonIllusoryCreature0.md) - Illusionist 0, Trickery, Illusion
 - [Summon Illusory Creature I](/Magic/S/SummonIllusoryCreature1.md)
 - [Ventriloquism](/Magic/V/Ventriloquism.md)
 

@@ -19,6 +19,7 @@
 - [Prestidigitation](/Magic/P/Prestidigitation.md)
 - [Read Magic](/Magic/R/ReadMagic.md)
 - [Resistance](/Magic/R/Resistance.md)
+- [Summon Illusory Creature 0](/Magic/S/SummonIllusoryCreature0.md) - Illusionist 0, Trickery, Illusion
 - [Touch of Fatigue](/Magic/T/TouchOfFatigue.md)
 
 ## 1st Circle

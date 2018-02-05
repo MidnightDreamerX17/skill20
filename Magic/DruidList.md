@@ -15,6 +15,7 @@
 - [Purify Food and Drink](/Magic/P/PurifyFoodAndDrink.md)
 - [Read Magic](/Magic/R/ReadMagic.md)
 - [Resistance](/Magic/R/Resistance.md)
+- [Summon Nature's Ally 0](/Magic/S/SummonNaturesAlly0.md) - Druid 0, Animal, Conjuration
 - [Virtue](/Magic/V/Virtue.md)
 
 ## 1st Circle

@@ -22,6 +22,7 @@
 - [Ray of Frost](/Magic/R/RayOfFrost.md)
 - [Read Magic](/Magic/R/ReadMagic.md)
 - [Resistance](/Magic/R/Resistance.md)
+- [Summon Monster 0](/Magic/S/SummonMonster0.md) - Cleric 0 / Wizard 0, variable Domain, Conjuration
 - [Touch of Fatigue](/Magic/T/TouchOfFatigue.md)
 
 ## 1st Circle

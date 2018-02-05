@@ -45,6 +45,7 @@ The domains are:
 - [Mount](/Magic/M/Mount.md)
 - [Speak with Animals](/Magic/S/SpeakWithAnimals.md)
 - Summon Monster (animal)
+- [Summon Nature's Ally 0](/Magic/S/SummonNaturesAlly0.md) - Druid 0, Animal, Conjuration
 - [Summon Nature's Ally I](/Magic/S/SummonNaturesAlly1.md)
 
 ## Chaos
@@ -198,6 +199,7 @@ The domains are:
 - [Hypnotism](/Magic/H/Hypnotism.md)
 - [Silent Image](/Magic/S/SilentImage.md)
 - [Sleep](/Magic/S/Sleep.md)
+- [Summon Illusory Creature 0](/Magic/S/SummonIllusoryCreature0.md) - Illusionist 0, Trickery, Illusion
 - [Summon Illusory Creature I](/Magic/S/SummonIllusoryCreature1.md)
 
 ## War

@@ -14,6 +14,7 @@
 - [Purify Food and Drink](/Magic/P/PurifyFoodAndDrink.md)
 - [Read Magic](/Magic/R/ReadMagic.md)
 - [Resistance](/Magic/R/Resistance.md)
+- [Summon Monster 0](/Magic/S/SummonMonster0.md) - Cleric 0 / Wizard 0, variable Domain, Conjuration
 - [Virtue](/Magic/V/Virtue.md)
 
 ## 1st Circle
