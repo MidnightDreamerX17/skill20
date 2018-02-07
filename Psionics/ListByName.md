@@ -264,6 +264,7 @@
 - [Prevenom Weapon](/Psionics/P/PrevenomWeapon.md) - Circle 1, Warrior, Psychometabolism
 - [Prowess](/Psionics/P/Prowess.md) - Circle 3, Warrior, Clairsentience
 - [Psionic Blast](/Psionics/P/PsionicBlast.md) - Circle 3, Telepath, Telepathy
+- [Psionic Cure Own Wounds](/Psionics/P/PsionicCureOwnWounds.md) - Circle 0, Egoist, Pyschometabolism
 - [Psionic Lion's Charge](/Psionics/P/PsionicLionsCharge.md) - Circle 3, Warrior, Psychometabolism
 - [Psionic Lock](/Psionics/P/PsionicLock.md) - Circle 2, Shaper, Psychoportation
 - [Psionic Repair Damage](/Psionics/P/PsionicRepairDamage.md) - Circle 3, Shaper, Metacreativity
@@ -294,8 +295,28 @@
 
 ## S
 
+- [Schism](/Psionics/S/Schism.md) - Circle 5, Telepath, Telepathy
+- [Second Chance](/Psionics/S/SecondChance.md) - Circle 6, Seer, Clairsentience
 - [Self Immolation](/Psionics/S/SelfImmolation.md) - Circle 0, Egoist, Psychometabolism
+- [Sense Link](/Psionics/S/SenseLink.md) - Circle 1, Telepath, Telepathy
+- [Sense Link, Forced](/Psionics/S/SenseLinkForced.md) - Circle 2, Telepath, Telepathy
+- [Sensitivity to Psychic Impressions](/Psionics/S/SensitivityToPsychicImpressions.md) - Circle 3, Seer, Clairsentience
+- [Sequester, Psionic](/Psionics/S/SequesterPsionic.md) - Circle 7, Egoist, Clairsentience
+- [Shadow Body](/Psionics/S/ShadowBody.md) - Circle 8, Egoist, Psychometabolism
+- [Share Pain](/Psionics/S/SharePain.md) - Circle 2, Power, Psychometabolism
+- [Share Pain, Forced](/Psionics/S/SharePainForced.md) - Circle 3, Power, Psychometabolism
+- [Shatter Mind Blank](/Psionics/S/ShatterMindBlank.md) - Circle 5, Power, Telepathy
+- [Skate](/Psionics/S/Skate.md) - Circle 1, Warrior, Psychoportation
 - [Smudge Skin](/Psionics/S/SmudgeSkin.md) - Circle 0, Egoist, Psychometabolism
+- [Solicit Psicrystal](/Psionics/S/SolicitPsicrystal.md) - Circle 3, Power, Telepathy
+- [Steadfast Perception](/Psionics/S/SteadfastPerception.md) - Circle 5, Warrior, Clairsentience
+- [Stomp](/Psionics/S/Stomp.md) - Circle 2, Warrior, Psychokinesis
+- [Strength of My Enemy](/Psionics/S/StrengthOfMyEnemy.md) - Circle 3, Warrior, Psychometabolism
+- [Suggestion, Psionic](/Psionics/S/SuggestionPsion.md) - Circle 3, Telepath, Telepathy
+- [Suspend Life](/Psionics/S/SuspendLife.md) - Circle 6, Warrior, Psychometabolism
+- [Sustenance](/Psionics/S/Sustenance.md) - Circle 2, Warrior, Psychometabolism
+- [Swarm of Crystals](/Psionics/S/SwarmOfCrystals.md) - Circle 2, Shaper, Metacreativity
+- [Synesthete](/Psionics/S/Synesthete.md) - Circle 1, Egoist, Psychometabolism
 
 ## T
 

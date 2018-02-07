@@ -31,6 +31,7 @@
 - [Endure Elements](/Magic/E/EndureElements.md)
 - [Entangle](/Magic/E/Entangle.md)
 - [Faerie Fire](/Magic/F/FaerieFire.md)
+- [Find Familiar](/Magic/F/FindFamiliar.md) - Druid 1 / Wizard 1, Animal, Conjuration
 - [Goodberry](/Magic/G/Goodberry.md)
 - [Jump](/Magic/J/Jump.md)
 - [Longstrider](/Magic/L/Longstrider.md)

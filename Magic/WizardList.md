@@ -44,6 +44,7 @@
 - [Erase](/Magic/E/Erase.md)
 - [Expeditious Retreat](/Magic/E/ExpeditiousRetreat.md)
 - [Feather Fall](/Magic/F/FeatherFall.md)
+- [Find Familiar](/Magic/F/FindFamiliar.md) - Druid 1 / Wizard 1, Animal, Conjuration
 - [Floating Disk](/Magic/F/FloatingDisk.md)
 - [Grease](/Magic/G/Grease.md)
 - [Hold Portal](/Magic/H/HoldPortal.md)

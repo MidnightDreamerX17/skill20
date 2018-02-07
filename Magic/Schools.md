@@ -34,6 +34,7 @@ The schools are:
 - [Cure Light Wounds](/Magic/C/CureLightWounds.md)
 - [Cure Minor Wounds](/Magic/C/CureMinorWounds.md)
 - [Dancing Lights](/Magic/D/DancingLights.md)
+- [Find Familiar](/Magic/F/FindFamiliar.md) - Druid 1 / Wizard 1, Animal, Conjuration
 - [Grease](/Magic/G/Grease.md)
 - [Mage Armor](/Magic/M/MageArmor.md)
 - [Mount](/Magic/M/Mount.md)
