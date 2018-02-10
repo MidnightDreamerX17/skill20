@@ -9,7 +9,7 @@ Battle Arts are just as supernatural as magic, psionics, and chi. They may well 
 - **Gems Socketed Into Equipment** - Each piece of equipment has a maximum possible number of sockets equal to its magical or psionic reinforcement. For example, a Longsword +2 has a maximum of two sockets. Arts can only be combined if they are socketed into the same piece of equipment.
 - **Magic Scrolls of Techniques** - Each Battle Art and Battle Aura is found only in a magic scroll of technique. Upon successfully reading such a scroll, you learn the art or aura, and the scroll disintegrates.
 
-**Battle Arts Stamina:** You have a Battle Arts Stamina pool whose maximum size is equal to your Battle Arts (STR) skill level plus your Constitution modifier. For example, if you have a Battle Arts (STR) level of 5, and 16 Constitution, then your maximum Battle Arts Stamina is 8.
+**Battle Arts Stamina:** You have a Battle Arts Stamina pool whose maximum size is equal to your Battle Arts (STR) skill level plus your Strength modifier. For example, if you have a Battle Arts (STR) level of 5, and 16 Strength, then your maximum Battle Arts Stamina is 8.
 
 Battle Arts Stamina normally recovers at a rate of 1 per ten minutes. 8 hours of contiguous uninterrupted sleep will fully restore it.
 

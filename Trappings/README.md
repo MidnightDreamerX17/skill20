@@ -5,7 +5,7 @@
 3. [Armor and Shields](/Trappings/Armor.md)
 4. [Weapons](/Trappings/Weapons.md)
 5. [Equipment Materials and other Modifiers](/Trappings/Modifiers.md)
-6. [Examples of Named Items](/Trappings/NamedItems.md)
+6. [Examples of Named Magic & Psionic Items](/Trappings/NamedItems.md)
 
 Common currencies:
 

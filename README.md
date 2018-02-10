@@ -21,6 +21,7 @@ Optional Sections:
 
 - [The Planes](/Planes)
 - [Feats](/Optional/Feats.md)
+- [Spacecraft](/Spacecraft)
 
 ## Where to Start?
 
