@@ -14,7 +14,7 @@ Spacecraft have the choice of taking a penalty of 10 to Armor Class in order to 
 
 ## Spacecraft Types And Equipment
 
-| Spacecraft          | Cost        | HP       | Shield HP | AC  | Crew/Passengers | System Slots | Armament Slots | Special |
+| Spacecraft          | Cost        | HP       | Shield HP | AC  | Crew / Riders | System Slots | Armament Slots | Special |
 | ---                 | ---         | ---      | ---       | --- | ---             | ---          | ---            | ---     |
 | Civilian Shuttle    | 20,000      | 4 dice   | 2 dice    | 10  | 4   | 4 slots | none
 | Civilian Cargo Ship | 50,000      | 6 dice   | 3 dice    | 10  | 10  | 6 slots | none
@@ -36,12 +36,35 @@ Spacecraft have the choice of taking a penalty of 10 to Armor Class in order to 
 | Destroyer-Patrol    | 100,000,000 | 18 dice | 8 dice   | 6   | 50  | 18 slots | 2 medium weapon mounts, 6 light weapon mounts, 2 medium missile pods, 6 light missile pods | 4 docking mounts
 | Destroyer-Hunter    | 100,000,000 | 18 dice | 8 dice   | 6   | 50  | 14 slots | 2 heavy weapon mounts, 4 medium weapon mounts, 4 light weapon mounts, 2 medium missile pods, 10 light missile pods | 1 docking mount
 | Destroyer-Battle    | 100,000,000 | 18 dice | 10 dice  | 6   | 50  | 14 slots | 1 capital weapon mount, 2 heavy weapon mounts, 6 light weapon mounts, 4 heavy missile pods, 4 light missile pods | 1 docking mount
-| Light Carrier       | 1,000,000,000 | 24 dice | 10 dice | 2  | 200 | 20 slots | 2 heavy weapon mounts, 6 light weapon mounts, 2 heavy missile pods, 8 light missile pods | storage for 10 craft of Corvette size or smaller
+| Light Carrier       | 1,000,000,000 | 24 dice | 10 dice | 4  | 200 | 20 slots | 2 heavy weapon mounts, 6 light weapon mounts, 2 heavy missile pods, 8 light missile pods | storage for 10 craft of Corvette size or smaller, 1 launch/landing strip
+| Cruiser-Patrol      | 1,000,000,000 | 24 dice | 10 dice | 4  | 200 | 24 slots | 2 heavy weapon mounts, 4 medium weapon mounts, 6 light weapon mounts, 2 heavy missile pods, 4 medium missile pods, 8 light missile pods, 4 docking mounts
+| Cruiser-Support     | 1,000,000,000 | 24 dice | 10 dice | 4  | 200 | 40 slots | 4 medium weapon mounts, 6 light weapon mounts, 4 medium missile pods, 8 light missile pods, 8 docking mounts
+| Cruiser-Battle      | 1,500,000,000 | 24 dice | 12 dice | 4  | 200 | 24 slots | 1 capital weapon mount, 4 heavy weapon mounts, 4 medium weapon mounts, 8 light weapon mounts, 4 heavy missile pods, 4 medium missile pods, 10 light missile pods, 4 docking mounts
+| Carrier             | 10,000,000,000 | 30 dice | 14 dice | 2 | 1,000 | 50 slots | 2 heavy weapon mounts, 6 light weapon mounts, 2 heavy missile pods, 8 light missile pods | storage for 40 craft of Corvette size or smaller, 2 launch/landing strips
+| Battleship          | 10,000,000,000 | 30 dice | 16 dice | 2 | 800   | 40 slots | 4 capital weapon mounts, 4 heavy weapon mounts, 4 medium weapon mounts, 10 light weapon mounts, 10 heavy missile pods, 6 medium missile pods, 10 light missile pods, 4 docking mounts
+
+| Spacecraft Type | Size Number |
+| ---             | ---         |
+| Shuttle         | 4
+| Cargo Ship      | 6
+| Freighter       | 8
+| Fighter         | 2
+| Bomber          | 4
+| Corvette        | 6
+| Frigate         | 8
+| Destroyer       | 10
+| Light Carrier   | 12
+| Cruiser         | 12
+| Carrier         | 14
+| Battleship      | 14
 
 | System                   | Cost      | Size   | Special |
 | ---                      | ---       | ---    | ---     |
 | Charged Hyperspace Drive | 1,000,000 | 2 slots | takes 24 hours to recharge
+| Civilian Kitchen         | 4,000     | 4 slots
 | Component Fabricator     | 1,000,000 | 2 slots | repairs 1d6 HP, or extinguishes all fires, per round, limit 1 per craft
+| Freezer Cargo Bay        | 1,000     | 1 slot
+| Combat Deployment Door   | 10,000    | 2 slots | large enough for Large-sized creatures
 | Craft Storage, Fighter   | 100,000   | 8 slots
 | Craft Storage, Bomber    | 125,000   | 10 slots
 | Craft Storage, Corvette  | 150,000   | 12 slots
@@ -51,14 +74,19 @@ Spacecraft have the choice of taking a penalty of 10 to Armor Class in order to 
 | Docking Mount, Corvette  | 20,000    | 4 slots
 | Fusion Injector          | 10,000    | 1 slot | prerequisite for specific equipment
 | Heavy Sensors            | 50,000    | 1 slot | gives +1 to sensory perception
+| Hydroculture Suite       | 5,000     | 2 slots
 | Hyperwave Communication  | 100,000   | 2 slots | FTL communication system
-| Living Suite             | 100,000   | 1 slot | bathroom, shower, and bed for 1 person, but still quite cramped and compact
-| Living Suite, Luxury     | 200,000   | 2 slots | accomodations for 1 person, enough room to do pushups and have a desk
-| Missile Guidance System  | 100,000   | 1 slot | +2 accuracy with missiles
+| Living Suite             | 10,000    | 1 slot | bathroom, shower, bed, food heater, and mini-fridge for 1 person, but still quite cramped and compact
+| Living Suite, Luxury     | 30,000    | 2 slots | accomodations for 1 person, enough room to do pushups and have a desk
+| Military Kitchen         | 2,000     | 2 slots
+| Missile Guidance System  | 100,000   | 1 slot | +2 accuracy with missiles, limit 1 per craft
+| Modular Mech Shop        | 2,000     | 2 slots
+| Ore Smelter              | 1,000     | 2 slots
 | Passenger Seating        | 1,000     | 1 slot | 4 additional passengers
 | Plant Grow Bay           | 1,000     | 1 slot
 | Shield Projector Array   | 1,000,000 | 2 slots | restores 1d12 shield HP per round, limit 1 per craft
 | Shield Projector Panel   | 50,000    | 1 slot | restores 1d3 shield HP per round, limit 1 per craft
+| Summoning Circle         | 10,000    | 2 slots
 
 | Weapon            | Cost    | Size   | Damage | Special |
 | ---               | ---     | ---    | ---    | ---     |

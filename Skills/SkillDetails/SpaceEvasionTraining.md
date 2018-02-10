@@ -6,6 +6,21 @@ Trying to pilot a craft with Spacecraft Size above the character's Space Evasion
 
 Intuitive Piloting: With the Space Evasion Training skill, the character's Intelligence and Wisdom modifiers are also added to Spacecraft Size capacity. For example, with an Intelligence of 14 and a Wisdom of 14, the character gains 4 additional Spacecraft Size capacity, if they have the Space Evasion Training skill.
 
+| Spacecraft Type | Size Number |
+| ---             | ---         |
+| Shuttle         | 4
+| Cargo Ship      | 6
+| Freighter       | 8
+| Fighter         | 2
+| Bomber          | 4
+| Corvette        | 6
+| Frigate         | 8
+| Destroyer       | 10
+| Light Carrier   | 12
+| Cruiser         | 12
+| Carrier         | 14
+| Battleship      | 14
+
 ## Learning From Party Members
 
 Average Gold Cost: 10,000
