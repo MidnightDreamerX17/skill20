@@ -74,6 +74,7 @@ The psionic disciplines are as follows:
 - [Entangling Ectoplasm](/Psionics/E/EntanglingEctoplasm.md) - Circle 1, Power, Metacreativity
 - [Fabricate, Psionic](/Psionics/F/FabricatePsionic.md) - Circle 5, Shaper, Metacreativity
 - [Fabricate, Greater Psionic](/Psionics/F/FabricateGreaterPsionic.md) - Circle 7, Shaper, Metacreativity
+- [Familiar Psicrystal](/Psionics/F/FamiliarPsicrystal.md) - Circle 1, Shaper, Metacreativity
 - [Genesis](/Psionics/G/Genesis.md) - Circle 10, Shaper, Metacreativity
 - [Grease, Psionic](/Psionics/G/GreasePsionic.md) - Circle 1, Power, Metacreativity
 - [Hail of Crystals](/Psionics/H/HailOfCrystals.md) - Circle 6, Shaper, Metacreativity

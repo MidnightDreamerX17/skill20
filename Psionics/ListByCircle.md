@@ -38,6 +38,7 @@
 - [Empty Mind](/Psionics/E/EmptyMind.md) - Circle 1, Power, Telepathy
 - [Energy Ray](/Psionics/E/EnergyRay.md) - Circle 1, Kineticist, Psychokinesis
 - [Entangling Ectoplasm](/Psionics/E/EntanglingEctoplasm.md) - Circle 1, Power, Metacreativity
+- [Familiar Psicrystal](/Psionics/F/FamiliarPsicrystal.md) - Circle 1, Shaper, Metacreativity
 - [Far Hand](/Psionics/F/FarHand.md) - Circle 1, Kineticist, Psychokinesis
 - [Float](/Psionics/F/Float.md) - Circle 1, Warrior, Psychoportation
 - [Force Screen](/Psionics/F/ForceScreen.md) - Circle 1, Warrior, Psychokinesis

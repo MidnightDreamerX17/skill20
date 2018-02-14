@@ -149,6 +149,7 @@
 - [Fabricate, Psionic](/Psionics/F/FabricatePsionic.md) - Circle 5, Shaper, Metacreativity
 - [Fabricate, Greater Psionic](/Psionics/F/FabricateGreaterPsionic.md) - Circle 7, Shaper, Metacreativity
 - [False Sensory Input](/Psionics/F/FalseSensoryInput.md) - Circle 4, Telepath, Telepathy
+- [Familiar Psicrystal](/Psionics/F/FamiliarPsicrystal.md) - Circle 1, Shaper, Metacreativity
 - [Far Hand](/Psionics/F/FarHand.md) - Circle 1, Kineticist, Psychokinesis
 - [Fate Link](/Psionics/F/FateLink.md) - Circle 4, Seer, Clairsentience
 - [Fate of One](/Psionics/F/FateOfOne.md) - Circle 8, Seer, Clairsentience

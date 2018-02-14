@@ -192,6 +192,7 @@ The psionic categories are as follows:
 - [Ectoplasmic Cocoon, Mass](/Psionics/E/EctoplasmicCocoonMass.md) - Circle 8, Shaper, Metacreativity
 - [Fabricate, Psionic](/Psionics/F/FabricatePsionic.md) - Circle 5, Shaper, Metacreativity
 - [Fabricate, Greater Psionic](/Psionics/F/FabricateGreaterPsionic.md) - Circle 7, Shaper, Metacreativity
+- [Familiar Psicrystal](/Psionics/F/FamiliarPsicrystal.md) - Circle 1, Shaper, Metacreativity
 - [Fuse Flesh](/Psionics/F/FuseFlesh.md) - Circle 7, Shaper, Psychometabolism
 - [Genesis](/Psionics/G/Genesis.md) - Circle 10, Shaper, Metacreativity
 - [Hail of Crystals](/Psionics/H/HailOfCrystals.md) - Circle 6, Shaper, Metacreativity

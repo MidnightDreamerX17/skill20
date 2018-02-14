@@ -1,5 +1,7 @@
 # Familiar Psicrystal
 
+[Familiar Psicrystal](/Psionics/F/FamiliarPsicrystal.md) - Circle 1, Shaper, Metacreativity
+
 - **Circle:** 1
 - **Category:** Shaper
 - **Discipline:** Metacreativity
