@@ -57,6 +57,7 @@
 ## 2nd Circle
 
 - [Book God's Book](/Magic/B/BookGodsBook.md)
+- [Create Ink](/Magic/C/CreateInk.md) - Cleric 2, Knowledge, Conjuration
 - [Identify](/Magic/I/Identify.md)
 - [Produce Flame](/Magic/P/ProduceFlame.md)
 - [Sound Burst](/Magic/S/SoundBurst.md)

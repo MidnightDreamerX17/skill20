@@ -125,6 +125,7 @@ The psionic disciplines are as follows:
 - [Null Psionics Field](/Psionics/N/NullPsionicsField.md) - Circle 7, Kineticist, Psychokinesis
 - [Reddopsi](/Psionics/R/Reddopsi.md) - Circle 8, Kineticist, Psychokinesis
 - [Stomp](/Psionics/S/Stomp.md) - Circle 2, Warrior, Psychokinesis
+- [Telekinetic Force](/Psionics/T/TelekineticForce.md) - Circle 3, Kineticist, Psychokinesis
 
 ## Psychometabolism
 

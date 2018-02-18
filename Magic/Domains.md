@@ -112,6 +112,7 @@ The domains are:
 - [Book God's Page](/Magic/B/BookGodsPage.md)
 - [Book God's Page, Fast](/Magic/B/BookGodsPageFast.md)
 - [Comprehend Languages](/Magic/C/ComprehendLanguages.md)
+- [Create Ink](/Magic/C/CreateInk.md) - Cleric 2, Knowledge, Conjuration
 - [Detect Chaos](/Magic/D/DetectChaos.md)
 - [Detect Evil](/Magic/D/DetectEvil.md)
 - [Detect Good](/Magic/D/DetectGood.md)

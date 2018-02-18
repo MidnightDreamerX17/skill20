@@ -30,6 +30,7 @@ The schools are:
 ## Conjuration
 
 - [Acid Splash](/Magic/A/AcidSplash.md)
+- [Create Ink](/Magic/C/CreateInk.md) - Cleric 2, Knowledge, Conjuration
 - [Create Water](/Magic/C/CreateWater.md)
 - [Cure Light Wounds](/Magic/C/CureLightWounds.md)
 - [Cure Minor Wounds](/Magic/C/CureMinorWounds.md)
