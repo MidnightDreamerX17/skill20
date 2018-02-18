@@ -65,6 +65,7 @@
 ## 3rd Circle
 
 - [Book God's Page, Fast](/Magic/B/BookGodsPageFast.md)
+- [Create Paper](/Magic/C/CreatePaper.md) - Cleric 3, Knowledge, Conjuration
 
 ## 4th Circle
 
