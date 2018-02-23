@@ -10,7 +10,9 @@ Magic Song: Magic Songs always last for one minute (6 combat rounds), unless oth
 - Song of Harmony: This song type does not have a normal duration. It reduces Music Level x 10 minutes from resting time. This song type can only be used immediately before resting.
 - Song of Luck: All saving throws
 - Song of Rhythm: Concentration checks
-- Song of Themes: One attribute, chosen at the time of singing
+- Song of Themes: All d20 rolls involving one attribute. The attribute is chosen at the time of singing.
+
+At Music (CHA) skill level 1, all songs are known. Perhaps the knowledge of the songs is encompassed within the first 100 experience points spent on the skill.
 
 ## Learning From Party Members
 
