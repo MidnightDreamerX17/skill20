@@ -322,8 +322,46 @@
 ## T
 
 - [Telekinetic Force](/Psionics/T/TelekineticForce.md) - Circle 3, Kineticist, Psychokinesis
+- [Telekinetic Maneuver](/Psionics/T/TelekineticManeuver.md) - Circle 4, Kineticist, Psychokinesis
+- [Telekinetic Sphere, Psionic](/Psionics/T/TelekineticSpherePsionic.md) - Circle 9, Kineticist, Psychokinesis
+- [Telekinetic Thrust](/Psionics/T/TelekineticThrust.md) - Circle 3, Kineticist, Psychokinesis
+- [Telempathic Projection](/Psionics/T/TelempathicProjection.md) - Circle 1, Telepath, Telepathy
+- [Teleport, Psionic](/Psionics/T/TeleportPsionic.md) - Circle 6, Nomad, Psychoportation
+- [Teleport, Psionic Greater](/Psionics/T/TeleportPsionicGreater.md) - Circle 8, Nomad, Psychoportation
+- [Teleportation Circle, Psionic](/Psionics/T/TeleportationCirclePsionic.md) - Circle 10, Nomad, Psychoportation
+- [Teleport Trigger](/Psionics/T/TeleportTrigger.md) - Circle 6, Nomad, Psychoportation
+- [Temporal Acceleration](/Psionics/T/TemporalAcceleration.md) - Circle 6, Power, Psychoportation
+- [Thicken Skin](/Psionics/T/ThickenSkin.md) - Circle 2, Egoist, Psychometabolism
+- [Thought Shield](/Psionics/T/ThoughtShield.md) - Circle 2, Power, Telepathy
+- [Time Hop](/Psionics/T/TimeHop.md) - Circle 3, Nomad, Psychoportation
+- [Time Hop, Mass](/Psionics/T/TimeHopMass.md) - Circle 9, Nomad, Psychoportation
+- [Time Regression](/Psionics/T/TimeRegression.md) - Circle 10, Nomad, Psychoportation
+- [Timeless Body](/Psionics/T/TimelessBody.md) - Circle 9, Egoist, Psychoportation
+- [Tongues, Psionic](/Psionics/T/TonguesPsionic.md) - Circle 2, Telepath, Telepathy
+- [Tornado Blast](/Psionics/T/TornadoBlast.md) - Circle 10, Kineticist, Psychokinesis
 - [Touch Speech](/Psionics/T/TouchSpeech.md) - Circle 0, Telepath, Telepathy
+- [Touchsight](/Psionics/T/Touchsight.md) - Circle 3, Seer, Psychometabolism
+- [Tower of Iron Will](/Psionics/T/TowerOfIronWill.md) - Circle 5, Power, Telepathy
+- [Trace Teleport](/Psionics/T/TraceTeleport.md) - Circle 4, Nomad, Clairsentience
+- [True Creation](/Psionics/T/TrueCreation.md) - Circle 10, Shaper, Metacreativity
+- [True Metabolism](/Psionics/T/TrueMetabolism.md) - Circle 8, Egoist, Psychometabolism
+- [True Seeing, Psionic](/Psionics/T/TrueSeeingPsionic.md) - Circle 5, Seer, Clairsentience
+- [Truevenom](/Psionics/T/Truevenom.md) - Circle 5, Warrior, Psychometabolism
+- [Truevenom Weapon](/Psionics/T/TruevenomWeapon.md) - Circle 5, Warrior, Psychometabolism
+
+## U
+
+- [Ubiquitous Vision](/Psionics/U/UbiquitousVision.md) - Circle 3, Seer, Clairsentience
+- [Ultrablast](/Psionics/U/Ultrablast.md) - Circle 7, Telepath, Telepathy
 
 ## V
 
+- [Vampiric Blade](/Psionics/V/VampiricBlade.md) - Circle 4, Warrior, Psychometabolism
+- [Vigor](/Psionics/V/Vigor.md) - Circle 1, Egoist, Psychometabolism
 - [Visualize](/Psionics/V/Visualize.md) - Circle 0, Seer, Clairsentience
+
+## W
+
+- [Wall of Ectoplasm](/Psionics/W/WallOfEctoplasm.md) - Circle 4, Shaper, Metacreativity
+- [Wall Walker](/Psionics/W/WallWalker.md) - Circle 3, Warrior, Psychoportation
+- [Weapon of Energy](/Psionics/W/WeaponOfEnergy.md) - Circle 5, Warrior, Psychokinesis

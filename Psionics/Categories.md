@@ -39,6 +39,10 @@ The psionic categories are as follows:
 - [Shadow Body](/Psionics/S/ShadowBody.md) - Circle 8, Egoist, Psychometabolism
 - [Smudge Skin](/Psionics/S/SmudgeSkin.md) - Circle 0, Egoist, Psychometabolism
 - [Synesthete](/Psionics/S/Synesthete.md) - Circle 1, Egoist, Psychometabolism
+- [Thicken Skin](/Psionics/T/ThickenSkin.md) - Circle 2, Egoist, Psychometabolism
+- [Timeless Body](/Psionics/T/TimelessBody.md) - Circle 9, Egoist, Psychoportation
+- [True Metabolism](/Psionics/T/TrueMetabolism.md) - Circle 8, Egoist, Psychometabolism
+- [Vigor](/Psionics/V/Vigor.md) - Circle 1, Egoist, Psychometabolism
 
 ## Kineticist
 
@@ -70,6 +74,10 @@ The psionic categories are as follows:
 - [Null Psionics Field](/Psionics/N/NullPsionicsField.md) - Circle 7, Kineticist, Psychokinesis
 - [Reddopsi](/Psionics/R/Reddopsi.md) - Circle 8, Kineticist, Psychokinesis
 - [Telekinetic Force](/Psionics/T/TelekineticForce.md) - Circle 3, Kineticist, Psychokinesis
+- [Telekinetic Maneuver](/Psionics/T/TelekineticManeuver.md) - Circle 4, Kineticist, Psychokinesis
+- [Telekinetic Sphere, Psionic](/Psionics/T/TelekineticSpherePsionic.md) - Circle 9, Kineticist, Psychokinesis
+- [Telekinetic Thrust](/Psionics/T/TelekineticThrust.md) - Circle 3, Kineticist, Psychokinesis
+- [Tornado Blast](/Psionics/T/TornadoBlast.md) - Circle 10, Kineticist, Psychokinesis
 
 ## Nomad
 
@@ -95,6 +103,14 @@ The psionic categories are as follows:
 - [Phase Door, Psionic](/Psionics/P/PhaseDoorPsionic.md) - Circle 7, Nomad, Psychoportation
 - [Plane Shift, Psionic](/Psionics/P/PlaneShiftPsionic.md) - Circle 5, Nomad, Psychoportation
 - [Retrieve](/Psionics/R/Retrieve.md) - Circle 6, Nomad, Psychoportation
+- [Teleport, Psionic](/Psionics/T/TeleportPsionic.md) - Circle 6, Nomad, Psychoportation
+- [Teleport, Psionic Greater](/Psionics/T/TeleportPsionicGreater.md) - Circle 8, Nomad, Psychoportation
+- [Teleportation Circle, Psionic](/Psionics/T/TeleportationCirclePsionic.md) - Circle 10, Nomad, Psychoportation
+- [Teleport Trigger](/Psionics/T/TeleportTrigger.md) - Circle 6, Nomad, Psychoportation
+- [Time Hop](/Psionics/T/TimeHop.md) - Circle 3, Nomad, Psychoportation
+- [Time Hop, Mass](/Psionics/T/TimeHopMass.md) - Circle 9, Nomad, Psychoportation
+- [Time Regression](/Psionics/T/TimeRegression.md) - Circle 10, Nomad, Psychoportation
+- [Trace Teleport](/Psionics/T/TraceTeleport.md) - Circle 4, Nomad, Clairsentience
 
 ## Power (cannot be specialized or opposed)
 
@@ -154,6 +170,9 @@ The psionic categories are as follows:
 - [Share Pain, Forced](/Psionics/S/SharePainForced.md) - Circle 3, Power, Psychometabolism
 - [Shatter Mind Blank](/Psionics/S/ShatterMindBlank.md) - Circle 5, Power, Telepathy
 - [Solicit Psicrystal](/Psionics/S/SolicitPsicrystal.md) - Circle 3, Power, Telepathy
+- [Temporal Acceleration](/Psionics/T/TemporalAcceleration.md) - Circle 6, Power, Psychoportation
+- [Thought Shield](/Psionics/T/ThoughtShield.md) - Circle 2, Power, Telepathy
+- [Tower of Iron Will](/Psionics/T/TowerOfIronWill.md) - Circle 5, Power, Telepathy
 
 ## Seer
 
@@ -177,6 +196,9 @@ The psionic categories are as follows:
 - [Remote Viewing](/Psionics/R/RemoteViewing.md) - Circle 5, Seer, Clairsentience
 - [Second Chance](/Psionics/S/SecondChance.md) - Circle 6, Seer, Clairsentience
 - [Sensitivity to Psychic Impressions](/Psionics/S/SensitivityToPsychicImpressions.md) - Circle 3, Seer, Clairsentience
+- [Touchsight](/Psionics/T/Touchsight.md) - Circle 3, Seer, Psychometabolism
+- [True Seeing, Psionic](/Psionics/T/TrueSeeingPsionic.md) - Circle 5, Seer, Clairsentience
+- [Ubiquitous Vision](/Psionics/U/UbiquitousVision.md) - Circle 3, Seer, Clairsentience
 - [Visualize](/Psionics/V/Visualize.md) - Circle 0, Seer, Clairsentience
 
 ## Shaper
@@ -204,6 +226,8 @@ The psionic categories are as follows:
 - [Psionic Repair Damage](/Psionics/P/PsionicRepairDamage.md) - Circle 3, Shaper, Metacreativity
 - [Quintessence](/Psionics/Q/Quintessence.md) - Circle 5, Shaper, Metacreativity
 - [Swarm of Crystals](/Psionics/S/SwarmOfCrystals.md) - Circle 2, Shaper, Metacreativity
+- [True Creation](/Psionics/T/TrueCreation.md) - Circle 10, Shaper, Metacreativity
+- [Wall of Ectoplasm](/Psionics/W/WallOfEctoplasm.md) - Circle 4, Shaper, Metacreativity
 
 ## Telepath
 
@@ -245,7 +269,10 @@ The psionic categories are as follows:
 - [Sense Link](/Psionics/S/SenseLink.md) - Circle 1, Telepath, Telepathy
 - [Sense Link, Forced](/Psionics/S/SenseLinkForced.md) - Circle 2, Telepath, Telepathy
 - [Suggestion, Psionic](/Psionics/S/SuggestionPsion.md) - Circle 3, Telepath, Telepathy
+- [Telempathic Projection](/Psionics/T/TelempathicProjection.md) - Circle 1, Telepath, Telepathy
+- [Tongues, Psionic](/Psionics/T/TonguesPsionic.md) - Circle 2, Telepath, Telepathy
 - [Touch Speech](/Psionics/T/TouchSpeech.md) - Circle 0, Telepath, Telepathy
+- [Ultrablast](/Psionics/U/Ultrablast.md) - Circle 7, Telepath, Telepathy
 
 ## Warrior
 
@@ -302,3 +329,8 @@ The psionic categories are as follows:
 - [Strength of My Enemy](/Psionics/S/StrengthOfMyEnemy.md) - Circle 3, Warrior, Psychometabolism
 - [Suspend Life](/Psionics/S/SuspendLife.md) - Circle 6, Warrior, Psychometabolism
 - [Sustenance](/Psionics/S/Sustenance.md) - Circle 2, Warrior, Psychometabolism
+- [Truevenom](/Psionics/T/Truevenom.md) - Circle 5, Warrior, Psychometabolism
+- [Truevenom Weapon](/Psionics/T/TruevenomWeapon.md) - Circle 5, Warrior, Psychometabolism
+- [Vampiric Blade](/Psionics/V/VampiricBlade.md) - Circle 4, Warrior, Psychometabolism
+- [Wall Walker](/Psionics/W/WallWalker.md) - Circle 3, Warrior, Psychoportation
+- [Weapon of Energy](/Psionics/W/WeaponOfEnergy.md) - Circle 5, Warrior, Psychokinesis

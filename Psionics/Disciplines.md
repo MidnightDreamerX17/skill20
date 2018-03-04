@@ -52,6 +52,9 @@ The psionic disciplines are as follows:
 - [Sensitivity to Psychic Impressions](/Psionics/S/SensitivityToPsychicImpressions.md) - Circle 3, Seer, Clairsentience
 - [Sequester, Psionic](/Psionics/S/SequesterPsionic.md) - Circle 7, Egoist, Clairsentience
 - [Steadfast Perception](/Psionics/S/SteadfastPerception.md) - Circle 5, Warrior, Clairsentience
+- [Trace Teleport](/Psionics/T/TraceTeleport.md) - Circle 4, Nomad, Clairsentience
+- [True Seeing, Psionic](/Psionics/T/TrueSeeingPsionic.md) - Circle 5, Seer, Clairsentience
+- [Ubiquitous Vision](/Psionics/U/UbiquitousVision.md) - Circle 3, Seer, Clairsentience
 - [Visualize](/Psionics/V/Visualize.md) - Circle 0, Seer, Clairsentience
 
 ## Metacreativity
@@ -88,6 +91,8 @@ The psionic disciplines are as follows:
 - [Psionic Repair Damage](/Psionics/P/PsionicRepairDamage.md) - Circle 3, Shaper, Metacreativity
 - [Quintessence](/Psionics/Q/Quintessence.md) - Circle 5, Shaper, Metacreativity
 - [Swarm of Crystals](/Psionics/S/SwarmOfCrystals.md) - Circle 2, Shaper, Metacreativity
+- [True Creation](/Psionics/T/TrueCreation.md) - Circle 10, Shaper, Metacreativity
+- [Wall of Ectoplasm](/Psionics/W/WallOfEctoplasm.md) - Circle 4, Shaper, Metacreativity
 
 ## Psychokinesis
 
@@ -126,6 +131,11 @@ The psionic disciplines are as follows:
 - [Reddopsi](/Psionics/R/Reddopsi.md) - Circle 8, Kineticist, Psychokinesis
 - [Stomp](/Psionics/S/Stomp.md) - Circle 2, Warrior, Psychokinesis
 - [Telekinetic Force](/Psionics/T/TelekineticForce.md) - Circle 3, Kineticist, Psychokinesis
+- [Telekinetic Maneuver](/Psionics/T/TelekineticManeuver.md) - Circle 4, Kineticist, Psychokinesis
+- [Telekinetic Sphere, Psionic](/Psionics/T/TelekineticSpherePsionic.md) - Circle 9, Kineticist, Psychokinesis
+- [Telekinetic Thrust](/Psionics/T/TelekineticThrust.md) - Circle 3, Kineticist, Psychokinesis
+- [Tornado Blast](/Psionics/T/TornadoBlast.md) - Circle 10, Kineticist, Psychokinesis
+- [Weapon of Energy](/Psionics/W/WeaponOfEnergy.md) - Circle 5, Warrior, Psychokinesis
 
 ## Psychometabolism
 
@@ -190,6 +200,13 @@ The psionic disciplines are as follows:
 - [Suspend Life](/Psionics/S/SuspendLife.md) - Circle 6, Warrior, Psychometabolism
 - [Sustenance](/Psionics/S/Sustenance.md) - Circle 2, Warrior, Psychometabolism
 - [Synesthete](/Psionics/S/Synesthete.md) - Circle 1, Egoist, Psychometabolism
+- [Thicken Skin](/Psionics/T/ThickenSkin.md) - Circle 2, Egoist, Psychometabolism
+- [Touchsight](/Psionics/T/Touchsight.md) - Circle 3, Seer, Psychometabolism
+- [True Metabolism](/Psionics/T/TrueMetabolism.md) - Circle 8, Egoist, Psychometabolism
+- [Truevenom](/Psionics/T/Truevenom.md) - Circle 5, Warrior, Psychometabolism
+- [Truevenom Weapon](/Psionics/T/TruevenomWeapon.md) - Circle 5, Warrior, Psychometabolism
+- [Vampiric Blade](/Psionics/V/VampiricBlade.md) - Circle 4, Warrior, Psychometabolism
+- [Vigor](/Psionics/V/Vigor.md) - Circle 1, Egoist, Psychometabolism
 
 ## Psychoportation
 
@@ -226,7 +243,16 @@ The psionic disciplines are as follows:
 - [Plane Shift, Psionic](/Psionics/P/PlaneShiftPsionic.md) - Circle 5, Nomad, Psychoportation
 - [Psionic Lock](/Psionics/P/PsionicLock.md) - Circle 2, Shaper, Psychoportation
 - [Retrieve](/Psionics/R/Retrieve.md) - Circle 6, Nomad, Psychoportation
-- [Skate](/Psionics/S/Skate.md) - Circle 1, Warrior, Psychoportation
+- [Teleport, Psionic](/Psionics/T/TeleportPsionic.md) - Circle 6, Nomad, Psychoportation
+- [Teleport, Psionic Greater](/Psionics/T/TeleportPsionicGreater.md) - Circle 8, Nomad, Psychoportation
+- [Teleportation Circle, Psionic](/Psionics/T/TeleportationCirclePsionic.md) - Circle 10, Nomad, Psychoportation
+- [Teleport Trigger](/Psionics/T/TeleportTrigger.md) - Circle 6, Nomad, Psychoportation
+- [Temporal Acceleration](/Psionics/T/TemporalAcceleration.md) - Circle 6, Power, Psychoportation
+- [Time Hop](/Psionics/T/TimeHop.md) - Circle 3, Nomad, Psychoportation
+- [Time Hop, Mass](/Psionics/T/TimeHopMass.md) - Circle 9, Nomad, Psychoportation
+- [Time Regression](/Psionics/T/TimeRegression.md) - Circle 10, Nomad, Psychoportation
+- [Timeless Body](/Psionics/T/TimelessBody.md) - Circle 9, Egoist, Psychoportation
+- [Wall Walker](/Psionics/W/WallWalker.md) - Circle 3, Warrior, Psychoportation
 
 ## Telepathy
 
@@ -291,6 +317,12 @@ The psionic disciplines are as follows:
 - [Sense Link](/Psionics/S/SenseLink.md) - Circle 1, Telepath, Telepathy
 - [Sense Link, Forced](/Psionics/S/SenseLinkForced.md) - Circle 2, Telepath, Telepathy
 - [Shatter Mind Blank](/Psionics/S/ShatterMindBlank.md) - Circle 5, Power, Telepathy
+- [Skate](/Psionics/S/Skate.md) - Circle 1, Warrior, Psychoportation
 - [Solicit Psicrystal](/Psionics/S/SolicitPsicrystal.md) - Circle 3, Power, Telepathy
 - [Suggestion, Psionic](/Psionics/S/SuggestionPsion.md) - Circle 3, Telepath, Telepathy
+- [Telempathic Projection](/Psionics/T/TelempathicProjection.md) - Circle 1, Telepath, Telepathy
+- [Thought Shield](/Psionics/T/ThoughtShield.md) - Circle 2, Power, Telepathy
+- [Tongues, Psionic](/Psionics/T/TonguesPsionic.md) - Circle 2, Telepath, Telepathy
 - [Touch Speech](/Psionics/T/TouchSpeech.md) - Circle 0, Telepath, Telepathy
+- [Tower of Iron Will](/Psionics/T/TowerOfIronWill.md) - Circle 5, Power, Telepathy
+- [Ultrablast](/Psionics/U/Ultrablast.md) - Circle 7, Telepath, Telepathy
