@@ -27,6 +27,7 @@ The domains are:
 
 ## Air
 
+- [Create Lightning Crystal](/Magic/C/CreateLightningCrystal.md) - Druid 5 / Wizard 5, Air, Conjuration
 - [Feather Fall](/Magic/F/FeatherFall.md)
 - [Floating Disk](/Magic/F/FloatingDisk.md)
 - [Obscuring Mist](/Magic/O/ObscuringMist.md)

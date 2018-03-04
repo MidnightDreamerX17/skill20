@@ -16,7 +16,11 @@ Enhance Projectile (1) - Attack with +1 magic reinforcement, improving both accu
 
 Forking Projectile (2) - If the attack hits, then it also attacks all enemies who are ten feet behind the target. The cost is paid per attack that has Forking Projectile applied.
 
+Guided Projectile (1) - Attack with +2 accuracy. The cost is paid per attack that has Guided Projectile applied.
+
 Phase Projectile (1) - Attack that goes through the Ethereal Plane until it reaches its target. The cost is paid per attack that has Phase Projectile applied.
+
+Piercing Projectile (1) - Attack does not stop inside the target, but instead keeps going, possibly hitting a second target. If *Piercing Projectile* is combined with other projectile arts that multiply or split the projectile, then the other arts only trigger on the second target. The cost is paid per attack that has Piercing Projectile applied.
 
 Repeating Projectile (2) - Attack applies its effect again at the beginning of your next turn. However, the effect is applied in the exact same position as it had hit previously. This means that if it hit a person, and the person moved, then the projectile's repeated effect will hit thin air. The cost is paid per attack that has Repeating Projectile applied.
 

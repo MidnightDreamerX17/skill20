@@ -55,6 +55,8 @@
 
 ## 5th Circle
 
+- [Create Lightning Crystal](/Magic/C/CreateLightningCrystal.md) - Druid 5 / Wizard 5, Air, Conjuration
+
 ## 6th Circle
 
 ## 7th Circle
