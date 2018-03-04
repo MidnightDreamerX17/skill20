@@ -140,6 +140,7 @@
 - [Escape Detection](/Psionics/E/EscapeDetection.md) - Circle 4, Seer, Clairsentience
 - [Ethereal Jaunt, Psionic](/Psionics/E/EtherealJauntPsionic.md) - Circle 8, Nomad, Psychoportation
 - [Etherealness, Psionic](/Psionics/E/EtherealnessPsionic.md) - Circle 9, Power, Psychoportation
+- [Euphoria, Psionic](/Psionics/E/EuphoriaPsionic.md) - Circle 1, Telepath, Telepathy
 - [Evade Burst](/Psionics/E/EvadeBurst.md) - Circle 4, Warrior, Psychometabolism
 - [Exhalation of the Black Dragon](/Psionics/E/ExhalationOfTheBlackDragon.md) - Circle 4, Warrior, Psychometabolism
 - [Expansion](/Psionics/E/Expansion.md) - Circle 2, Warrior, Psychometabolism

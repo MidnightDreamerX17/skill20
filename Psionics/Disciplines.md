@@ -285,6 +285,7 @@ The psionic disciplines are as follows:
 - [Empathic Transfer, Hostile](/Psionics/E/EmpathicTransferHostile.md) - Circle 4, Telepath, Telepathy
 - [Empathy](/Psionics/E/Empathy.md) - Circle 1, Telepath, Telepathy
 - [Empty Mind](/Psionics/E/EmptyMind.md) - Circle 1, Power, Telepathy
+- [Euphoria, Psionic](/Psionics/E/EuphoriaPsionic.md) - Circle 1, Telepath, Telepathy
 - [False Sensory Input](/Psionics/F/FalseSensoryInput.md) - Circle 4, Telepath, Telepathy
 - [Id Insinuation](/Psionics/I/IdInsinuation.md) - Circle 2, Telepath, Telepathy
 - [Inflict Pain](/Psionics/I/InflictPain.md) - Circle 2, Telepath, Telepathy

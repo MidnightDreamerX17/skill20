@@ -245,6 +245,7 @@ The psionic categories are as follows:
 - [Dominate, Psionic](/Psionics/D/DominatePsionic.md) - Circle 5, Telepath, Telepathy
 - [Empathic Transfer, Hostile](/Psionics/E/EmpathicTransferHostile.md) - Circle 4, Telepath, Telepathy
 - [Empathy](/Psionics/E/Empathy.md) - Circle 1, Telepath, Telepathy
+- [Euphoria, Psionic](/Psionics/E/EuphoriaPsionic.md) - Circle 1, Telepath, Telepathy
 - [False Sensory Input](/Psionics/F/FalseSensoryInput.md) - Circle 4, Telepath, Telepathy
 - [Id Insinuation](/Psionics/I/IdInsinuation.md) - Circle 2, Telepath, Telepathy
 - [Inflict Pain](/Psionics/I/InflictPain.md) - Circle 2, Telepath, Telepathy
