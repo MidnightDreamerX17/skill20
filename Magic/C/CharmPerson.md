@@ -1,5 +1,7 @@
 # Charm Person
 
+[Charm Person](/Magic/C/CharmPerson.md) - Illusionist 1 / Wizard 1, Trickery, Enchantment
+
 - **Circle:** Illusionist 1, Wizard 1
 - **Domain:** Trickery
 - **School:** Enchantment

@@ -2,11 +2,11 @@
 
 ## 0th Circle
 
-- [Cause Minor Wounds](/Magic/C/CauseMinorWounds.md)
-- [Create Water](/Magic/C/CreateWater.md)
-- [Cure Minor Wounds](/Magic/C/CureMinorWounds.md)
-- [Detect Magic](/Magic/D/DetectMagic.md)
-- [Detect Poison](/Magic/D/DetectPoison.md)
+- [Cause Minor Wounds](/Magic/C/CauseMinorWounds.md) - Cleric 0 / Druid 0, Destruction, Necromancy
+- [Create Water](/Magic/C/CreateWater.md) - Cleric 0 / Druid 0, Water, Conjuration
+- [Cure Minor Wounds](/Magic/C/CureMinorWounds.md) - Cleric 0 / Druid 0, Healing, Conjuration
+- [Detect Magic](/Magic/D/DetectMagic.md) - Cleric 0 / Druid 0 / Illusionist 0 / Wizard 0, Magic, Divination
+- [Detect Poison](/Magic/D/DetectPoison.md) - Cleric 0 / Druid 0 / Illusionist 0 / Wizard 0, Magic, Divination
 - [Flare](/Magic/F/Flare.md)
 - [Guidance](/Magic/G/Guidance.md)
 - [Know Direction](/Magic/K/KnowDirection.md)
@@ -20,14 +20,14 @@
 
 ## 1st Circle
 
-- [Alarm](/Magic/A/Alarm.md)
-- [Calm Animals](/Magic/C/CalmAnimals.md)
-- [Cause Light Wounds](/Magic/C/CauseLightWounds.md)
-- [Charm Animal](/Magic/C/CharmAnimal.md)
-- [Cure Light Wounds](/Magic/C/CureLightWounds.md)
-- [Detect Animals Or Plants](/Magic/D/DetectAnimalsOrPlants.md)
-- [Detect Neutrality](/Magic/D/DetectNeutrality.md)
-- [Detect Snares and Pits](/Magic/D/DetectSnaresAndPits.md)
+- [Alarm](/Magic/A/Alarm.md) - Druid 1 / Illusionist 1 / Wizard 1, Protection, Abjuration
+- [Calm Animals](/Magic/C/CalmAnimals.md) - Druid 1 / Illusionist 1, Animal, Enchantment
+- [Cause Light Wounds](/Magic/C/CauseLightWounds.md) - Cleric 1 / Druid 1, Destruction, Necromancy
+- [Charm Animal](/Magic/C/CharmAnimal.md) - Druid 1 / Illusionist 1, Animal, Enchantment
+- [Cure Light Wounds](/Magic/C/CureLightWounds.md) - Cleric 1 / Druid 1, Healing, Conjuration
+- [Detect Animals or Plants](/Magic/D/DetectAnimalsOrPlants.md) - Druid 1, Animal / Plant, Divination
+- [Detect Neutrality](/Magic/D/DetectNeutrality.md) - Cleric 1 / Druid 1, Knowledge, Divination
+- [Detect Snares and Pits](/Magic/D/DetectSnaresAndPits.md) - Druid 1, Earth, Divination
 - [Endure Elements](/Magic/E/EndureElements.md)
 - [Entangle](/Magic/E/Entangle.md)
 - [Faerie Fire](/Magic/F/FaerieFire.md)

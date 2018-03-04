@@ -1,5 +1,7 @@
 # Book God's Page, Fast
 
+[Book God's Page, Fast](/Magic/B/BookGodsPageFast.md) - Cleric 3 / Wizard 3, Knowledge, Transmutation
+
 - **Circle:** Cleric 3, Wizard 3
 - **Domain:** Knowledge
 - **School:** Transmutation

@@ -1,5 +1,7 @@
 # Cause Fear
 
+[Cause Fear](/Magic/C/CauseFear.md) - Cleric 1 / Illusionist 1 / Wizard 1, War, Necromancy
+
 - **Circle:** Cleric 1, Illusionist 1, Wizard 1
 - **Domain:** War
 - **School:** Necromancy

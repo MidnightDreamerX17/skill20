@@ -1,5 +1,7 @@
 # Dancing Lights
 
+[Dancing Lights](/Magic/D/DancingLights.md) - Illusionist 0 / Wizard 0, Sun, Evocation
+
 - **Circle:** Illusionist 0, Wizard 0
 - **Domain:** Sun
 - **School:** Evocation

@@ -1,5 +1,7 @@
 # Detect Snares and Pits
 
+[Detect Snares and Pits](/Magic/D/DetectSnaresAndPits.md) - Druid 1, Earth, Divination
+
 - **Circle:** Druid 1
 - **Domain:** Earth
 - **School:** Divination

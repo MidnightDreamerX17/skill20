@@ -1,5 +1,7 @@
 # Alarm
 
+[Alarm](/Magic/A/Alarm.md) - Druid 1 / Illusionist 1 / Wizard 1, Protection, Abjuration
+
 - **Circle:** Druid 1, Illusionist 1, Wizard 1
 - **Domain:** Protection
 - **School:** Abjuration

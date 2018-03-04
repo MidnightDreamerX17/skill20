@@ -1,5 +1,7 @@
 # Calm Animals
 
+[Calm Animals](/Magic/C/CalmAnimals.md) - Druid 1 / Illusionist 1, Animal, Enchantment
+
 - **Circle:** Druid 1, Illusionist 1
 - **Domain:** Animal
 - **School:** Enchantment

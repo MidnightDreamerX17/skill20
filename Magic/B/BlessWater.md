@@ -1,5 +1,7 @@
 # Bless Water
 
+[Bless Water](/Magic/B/BlessWater.md) - Cleric 1, Good, Transmutation
+
 - **Circle:** Cleric 1
 - **Domain:** Good
 - **School:** Transmutation

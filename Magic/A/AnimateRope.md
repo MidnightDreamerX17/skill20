@@ -1,5 +1,7 @@
 # Animate Rope
 
+[Animate Rope](/Magic/A/AnimateRope.md) - Wizard 1, Magic, Transmutation
+
 - **Circle:** Wizard 1
 - **Domain:** Magic
 - **School:** Transmutation

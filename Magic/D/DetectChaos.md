@@ -1,5 +1,7 @@
 # Detect Chaos
 
+[Detect Chaos](/Magic/D/DetectChaos.md) - Cleric 1, Knowledge, Divination
+
 - **Circle:** Cleric 1
 - **Domain:** Knowledge
 - **School:** Divination

@@ -1,5 +1,7 @@
 # Detect Neutrality
 
+[Detect Neutrality](/Magic/D/DetectNeutrality.md) - Cleric 1 / Druid 1, Knowledge, Divination
+
 - **Circle:** Cleric 1, Druid 1
 - **Domain:** Knowledge
 - **School:** Divination

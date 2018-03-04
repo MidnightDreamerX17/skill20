@@ -1,5 +1,7 @@
 # Detect Poison
 
+[Detect Poison](/Magic/D/DetectPoison.md) - Cleric 0 / Druid 0 / Illusionist 0 / Wizard 0, Magic, Divination
+
 - **Circle:** Cleric 0, Druid 0, Illusionist 0, Wizard 0
 - **Domain:** Magic
 - **School:** Divination

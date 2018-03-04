@@ -1,5 +1,7 @@
 # Daze
 
+[Daze](/Magic/D/Daze.md) - Illusionist 0 / Wizard 0, Trickery, Enchantment
+
 - **Circle:** Illusionist 0, Wizard 0
 - **Domain:** Trickery
 - **School:** Enchantment

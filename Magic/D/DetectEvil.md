@@ -1,5 +1,7 @@
 # Detect Evil
 
+[Detect Evil](/Magic/D/DetectEvil.md) - Cleric 1, Knowledge, Divination
+
 - **Circle:** Cleric 1
 - **Domain:** Knowledge
 - **School:** Divination

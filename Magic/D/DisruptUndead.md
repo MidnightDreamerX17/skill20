@@ -1,5 +1,7 @@
 # Disrupt Undead
 
+[Disrupt Undead](/Magic/D/DisruptUndead.md) - Cleric 0 / Wizard 0, Death, Necromancy
+
 - **Circle:** Cleric 0, Wizard 0
 - **Domain:** Death
 - **School:** Necromancy

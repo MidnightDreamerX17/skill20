@@ -1,5 +1,7 @@
 # Bless
 
+[Bless](/Magic/B/Bless.md) - Cleric 1, Luck, Enchantment
+
 - **Circle:** Cleric 1
 - **Domain:** Luck
 - **School:** Enchantment

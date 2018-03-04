@@ -1,5 +1,7 @@
 # Acid Splash
 
+[Acid Splash](/Magic/A/AcidSplash.md) - Wizard 0, Destruction, Conjuration
+
 - **Circle:** Wizard 0
 - **Domain:** Destruction
 - **School:** Conjuration

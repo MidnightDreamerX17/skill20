@@ -1,5 +1,7 @@
 # Book God's Book
 
+[Book God's Book](/Magic/B/BookGodsBook.md) - Cleric 2 / Wizard 2, Knowledge, Transmutation
+
 - **Circle:** Cleric 2, Wizard 2
 - **Domain:** Knowledge
 - **School:** Transmutation

@@ -1,5 +1,7 @@
 # Disguise Self
 
+[Disguise Self](/Magic/D/DisguiseSelf.md) - Illusionist 1 / Wizard 1, Trickery, Illusion
+
 - **Circle:** Illusionist 1, Wizard 1
 - **Domain:** Trickery
 - **School:** Illusion

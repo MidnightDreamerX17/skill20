@@ -1,5 +1,7 @@
 # Chill Touch
 
+[Chill Touch](/Magic/C/ChillTouch.md) - Cleric 1 / Wizard 1, Death, Necromancy
+
 - **Circle:** Cleric 1, Wizard 1
 - **Domain:** Death
 - **School:** Necromancy

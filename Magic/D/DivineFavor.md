@@ -1,5 +1,7 @@
 # Divine Favor
 
+[Divine Favor](/Magic/D/DivineFavor.md) - Cleric 1, Strength, Evocation
+
 - **Circle:** Cleric 1
 - **Domain:** Strength
 - **School:** Evocation

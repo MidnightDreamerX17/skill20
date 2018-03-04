@@ -14,7 +14,7 @@ The schools are:
 
 ## Abjuration
 
-- [Alarm](/Magic/A/Alarm.md)
+- [Alarm](/Magic/A/Alarm.md) - Druid 1 / Illusionist 1 / Wizard 1, Protection, Abjuration
 - [Endure Elements](/Magic/E/EndureElements.md)
 - [Entropic Shield](/Magic/E/EntropicShield.md)
 - [Hide from Undead](/Magic/H/HideFromUndead.md)
@@ -29,13 +29,13 @@ The schools are:
 
 ## Conjuration
 
-- [Acid Splash](/Magic/A/AcidSplash.md)
+- [Acid Splash](/Magic/A/AcidSplash.md) - Wizard 0, Destruction, Conjuration
 - [Create Ink](/Magic/C/CreateInk.md) - Cleric 2, Knowledge, Conjuration
 - [Create Paper](/Magic/C/CreatePaper.md) - Cleric 3, Knowledge, Conjuration
-- [Create Water](/Magic/C/CreateWater.md)
-- [Cure Light Wounds](/Magic/C/CureLightWounds.md)
-- [Cure Minor Wounds](/Magic/C/CureMinorWounds.md)
-- [Dancing Lights](/Magic/D/DancingLights.md)
+- [Create Water](/Magic/C/CreateWater.md) - Cleric 0 / Druid 0, Water, Conjuration
+- [Cure Light Wounds](/Magic/C/CureLightWounds.md) - Cleric 1 / Druid 1, Healing, Conjuration
+- [Cure Minor Wounds](/Magic/C/CureMinorWounds.md) - Cleric 0 / Druid 0, Healing, Conjuration
+- [Dancing Lights](/Magic/D/DancingLights.md) - Illusionist 0 / Wizard 0, Sun, Evocation - Illusionist 0 / Wizard 0, Sun, Evocation
 - [Find Familiar](/Magic/F/FindFamiliar.md) - Druid 1 / Wizard 1, Animal, Conjuration
 - [Grease](/Magic/G/Grease.md)
 - [Mage Armor](/Magic/M/MageArmor.md)
@@ -49,17 +49,18 @@ The schools are:
 
 ## Divination
 
-- [Comprehend Languages](/Magic/C/ComprehendLanguages.md)
-- [Detect Animals Or Plants](/Magic/D/DetectAnimalsOrPlants.md)
-- [Detect Chaos](/Magic/D/DetectChaos.md)
-- [Detect Evil](/Magic/D/DetectEvil.md)
-- [Detect Good](/Magic/D/DetectGood.md)
-- [Detect Law](/Magic/D/DetectLaw.md)
-- [Detect Magic](/Magic/D/DetectMagic.md)
-- [Detect Neutrality](/Magic/D/DetectNeutrality.md)
-- [Detect Poison](/Magic/D/DetectPoison.md)
-- [Detect Secret Doors](/Magic/D/DetectSecretDoors.md)
-- [Detect Undead](/Magic/D/DetectUndead.md)
+- [Comprehend Languages](/Magic/C/ComprehendLanguages.md) - Cleric 1 / Illusionist 1 / Wizard 1, Knowledge, Divination
+- [Detect Animals or Plants](/Magic/D/DetectAnimalsOrPlants.md) - Druid 1, Animal / Plant, Divination
+- [Detect Chaos](/Magic/D/DetectChaos.md) - Cleric 1, Knowledge, Divination
+- [Detect Evil](/Magic/D/DetectEvil.md) - Cleric 1, Knowledge, Divination
+- [Detect Good](/Magic/D/DetectGood.md) - Cleric 1, Knowledge, Divination
+- [Detect Law](/Magic/D/DetectLaw.md) - Cleric 1, Knowledge, Divination
+- [Detect Magic](/Magic/D/DetectMagic.md) - Cleric 0 / Druid 0 / Illusionist 0 / Wizard 0, Magic, Divination
+- [Detect Neutrality](/Magic/D/DetectNeutrality.md) - Cleric 1 / Druid 1, Knowledge, Divination
+- [Detect Poison](/Magic/D/DetectPoison.md) - Cleric 0 / Druid 0 / Illusionist 0 / Wizard 0, Magic, Divination
+- [Detect Secret Doors](/Magic/D/DetectSecretDoors.md) - Illusionist 1 / Wizard 1, Knowledge, Divination
+- [Detect Snares and Pits](/Magic/D/DetectSnaresAndPits.md) - Druid 1, Earth, Divination
+- [Detect Undead](/Magic/D/DetectUndead.md) - Cleric 1 / Wizard 1, Death, Divination
 - [Guidance](/Magic/G/Guidance.md)
 - [Identify](/Magic/I/Identify.md)
 - [Know Direction](/Magic/K/KnowDirection.md)
@@ -69,19 +70,20 @@ The schools are:
 
 ## Enchantment
 
-- [Bane](/Magic/B/Bane.md)
-- [Bless](/Magic/B/Bless.md)
-- [Calm Animals](/Magic/C/CalmAnimals.md)
-- [Charm Animal](/Magic/C/CharmAnimal.md)
-- [Charm Person](/Magic/C/CharmPerson.md)
-- [Command](/Magic/C/Command.md)
+- [Bane](/Magic/B/Bane.md) - Cleric 1, Luck, Enchantment
+- [Bless](/Magic/B/Bless.md) - Cleric 1, Luck, Enchantment
+- [Calm Animals](/Magic/C/CalmAnimals.md) - Druid 1 / Illusionist 1, Animal, Enchantment
+- [Charm Animal](/Magic/C/CharmAnimal.md) - Druid 1 / Illusionist 1, Animal, Enchantment
+- [Charm Person](/Magic/C/CharmPerson.md) - Illusionist 1 / Wizard 1, Trickery, Enchantment
+- [Command](/Magic/C/Command.md) - Cleric 1, Trickery, Enchantment
+- [Daze](/Magic/D/Daze.md) - Illusionist 0 / Wizard 0, Trickery, Enchantment
 - [Hypnotism](/Magic/H/Hypnotism.md)
 - [Sleep](/Magic/S/Sleep.md)
 
 ## Evocation
 
-- [Burning Hands](/Magic/B/BurningHands.md)
-- [Divine Favor](/Magic/D/DivineFavor.md)
+- [Burning Hands](/Magic/B/BurningHands.md) - Wizard 1, Fire, Evocation
+- [Divine Favor](/Magic/D/DivineFavor.md) - Cleric 1, Strength, Evocation
 - [Eldritch Blast](/Magic/E/EldritchBlast.md)
 - [Faerie Fire](/Magic/F/FaerieFire.md)
 - [Flare](/Magic/F/Flare.md)
@@ -95,8 +97,8 @@ The schools are:
 
 ## Illusion
 
-- [Color Spray](/Magic/C/ColorSpray.md)
-- [Disguise Self](/Magic/D/DisguiseSelf.md)
+- [Color Spray](/Magic/C/ColorSpray.md) - Illusionist 1 / Wizard 1, Chaos, Illusion
+- [Disguise Self](/Magic/D/DisguiseSelf.md) - Illusionist 1 / Wizard 1, Trickery, Illusion
 - [Ghost Sound](/Magic/G/GhostSound.md)
 - [Holographic Cure Light Wounds](/Magic/H/HolographicCureLightWounds.md)
 - [Holographic Cure Minor Wounds](/Magic/H/HolographicCureMinorWounds.md)
@@ -108,26 +110,26 @@ The schools are:
 
 ## Necromancy
 
-- [Cause Fear](/Magic/C/CauseFear.md)
-- [Cause Light Wounds](/Magic/C/CauseLightWounds.md)
-- [Cause Minor Wounds](/Magic/C/CauseMinorWounds.md)
-- [Chill Touch](/Magic/C/ChillTouch.md)
-- [Curse Water](/Magic/C/CurseWater.md)
-- [Deathwatch](/Magic/D/Deathwatch.md)
-- [Disrupt Undead](/Magic/D/DisruptUndead.md)
-- [Doom](/Magic/D/Doom.md)
+- [Cause Fear](/Magic/C/CauseFear.md) - Cleric 1 / Illusionist 1 / Wizard 1, War, Necromancy
+- [Cause Light Wounds](/Magic/C/CauseLightWounds.md) - Cleric 1 / Druid 1, Destruction, Necromancy
+- [Cause Minor Wounds](/Magic/C/CauseMinorWounds.md) - Cleric 0 / Druid 0, Destruction, Necromancy
+- [Chill Touch](/Magic/C/ChillTouch.md) - Cleric 1 / Wizard 1, Death, Necromancy
+- [Curse Water](/Magic/C/CurseWater.md) - Cleric 1, Evil, Necromancy
+- [Deathwatch](/Magic/D/Deathwatch.md) - Cleric 1, Evil, Necromancy
+- [Disrupt Undead](/Magic/D/DisruptUndead.md) - Cleric 0 / Wizard 0, Death, Necromancy
+- [Doom](/Magic/D/Doom.md) - Cleric 1, Destruction, Necromancy
 - [Ray of Enfeeblement](/Magic/R/RayOfEnfeeblement.md)
 - [Touch of Fatigue](/Magic/T/TouchOfFatigue.md)
 
 ## Transmutation
 
-- [Animate Rope](/Magic/A/AnimateRope.md)
-- [Blade Grasp](/Magic/B/BladeGrasp.md)
-- [Bless Water](/Magic/B/BlessWater.md)
-- [Book God's Book](/Magic/B/BookGodsBook.md)
-- [Book God's Book, Fast](/Magic/B/BookGodsBookFast.md)
-- [Book God's Page](/Magic/B/BookGodsPage.md)
-- [Book God's Page, Fast](/Magic/B/BookGodsPageFast.md)
+- [Animate Rope](/Magic/A/AnimateRope.md) - Wizard 1, Magic, Transmutation
+- [Blade Grasp](/Magic/B/BladeGrasp.md) - Wizard 0, War, Transmutation
+- [Bless Water](/Magic/B/BlessWater.md) - Cleric 1, Good, Transmutation
+- [Book God's Book](/Magic/B/BookGodsBook.md) - Cleric 2 / Wizard 2, Knowledge, Transmutation
+- [Book God's Book, Fast](/Magic/B/BookGodsBookFast.md) - Cleric 4 / Wizard 4, Knowledge, Transmutation
+- [Book God's Page](/Magic/B/BookGodsPage.md) - Cleric 1 / Wizard 1, Knowledge, Transmutation
+- [Book God's Page, Fast](/Magic/B/BookGodsPageFast.md) - Cleric 3 / Wizard 3, Knowledge, Transmutation
 - [Enlarge Person](/Magic/E/EnlargePerson.md)
 - [Entangle](/Magic/E/Entangle.md)
 - [Erase](/Magic/E/Erase.md)
@@ -151,5 +153,5 @@ The schools are:
 
 ## Universal (cannot be specialized or opposed)
 
-- [Arcane Mark](/Magic/A/ArcaneMark.md)
+- [Arcane Mark](/Magic/A/ArcaneMark.md) - Illusionist 0 / Wizard 0, Magic, Universal
 - [Prestidigitation](/Magic/P/Prestidigitation.md)

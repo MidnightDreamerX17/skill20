@@ -1,5 +1,7 @@
 # Command
 
+[Command](/Magic/C/Command.md) - Cleric 1, Trickery, Enchantment
+
 - **Circle:** Cleric 1
 - **Domain:** Trickery
 - **School:** Enchantment

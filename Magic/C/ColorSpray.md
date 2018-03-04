@@ -1,5 +1,7 @@
 # Color Spray
 
+[Color Spray](/Magic/C/ColorSpray.md) - Illusionist 1 / Wizard 1, Chaos, Illusion
+
 - **Circle:** Illusionist 1, Wizard 1
 - **Domain:** Chaos
 - **School:** Illusion

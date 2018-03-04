@@ -1,5 +1,7 @@
 # Doom
 
+[Doom](/Magic/D/Doom.md) - Cleric 1, Destruction, Necromancy
+
 - **Circle:** Cleric 1
 - **Domain:** Destruction
 - **School:** Necromancy

@@ -1,5 +1,7 @@
 # Bane
 
+[Bane](/Magic/B/Bane.md) - Cleric 1, Luck, Enchantment
+
 - **Circle:** Cleric 1
 - **Domain:** Luck
 - **School:** Enchantment

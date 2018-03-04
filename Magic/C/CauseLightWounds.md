@@ -1,5 +1,7 @@
 # Cause Light Wounds
 
+[Cause Light Wounds](/Magic/C/CauseLightWounds.md) - Cleric 1 / Druid 1, Destruction, Necromancy
+
 - **Circle:** Cleric 1, Druid 1
 - **Domain:** Destruction
 - **School:** Necromancy

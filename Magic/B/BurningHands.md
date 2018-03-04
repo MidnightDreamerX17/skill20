@@ -1,7 +1,9 @@
 # Burning Hands
 
+[Burning Hands](/Magic/B/BurningHands.md) - Wizard 1, Fire, Evocation
+
 - **Circle:** Wizard 1
-- **Domain:** Fire 1
+- **Domain:** Fire
 - **School:** Evocation
 - **Verbal Component:** Ignis Manus Aestus
 - **Somatic Component:** Draw a symbol of fire in the air, then grasp the symbol with both hands

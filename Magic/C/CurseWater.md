@@ -1,5 +1,7 @@
 # Curse Water
 
+[Curse Water](/Magic/C/CurseWater.md) - Cleric 1, Evil, Necromancy
+
 - **Circle:** Cleric 1
 - **Domain:** Evil
 - **School:** Necromancy

@@ -1,5 +1,7 @@
 # Detect Secret Doors
 
+[Detect Secret Doors](/Magic/D/DetectSecretDoors.md) - Illusionist 1 / Wizard 1, Knowledge, Divination
+
 - **Circle:** Illusionist 1, Wizard 1
 - **Domain:** Knowledge
 - **School:** Divination

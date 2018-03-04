@@ -1,5 +1,7 @@
 # Arcane Mark
 
+[Arcane Mark](/Magic/A/ArcaneMark.md) - Illusionist 0 / Wizard 0, Magic, Universal
+
 - **Circle:** Illusionist 0, Wizard 0
 - **Domain:** Magic
 - **School:** Universal

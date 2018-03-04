@@ -2,14 +2,14 @@
 
 ## 0th Circle
 
-- [Acid Splash](/Magic/A/AcidSplash.md)
-- [Arcane Mark](/Magic/A/ArcaneMark.md)
-- [Blade Grasp](/Magic/B/BladeGrasp.md)
-- [Dancing Lights](/Magic/D/DancingLights.md)
-- [Daze](/Magic/D/Daze.md)
-- [Detect Magic](/Magic/D/DetectMagic.md)
-- [Detect Poison](/Magic/D/DetectPoison.md)
-- [Disrupt Undead](/Magic/D/DisruptUndead.md)
+- [Acid Splash](/Magic/A/AcidSplash.md) - Wizard 0, Destruction, Conjuration
+- [Arcane Mark](/Magic/A/ArcaneMark.md) - Illusionist 0 / Wizard 0, Magic, Universal
+- [Blade Grasp](/Magic/B/BladeGrasp.md) - Wizard 0, War, Transmutation
+- [Dancing Lights](/Magic/D/DancingLights.md) - Illusionist 0 / Wizard 0, Sun, Evocation
+- [Daze](/Magic/D/Daze.md) - Illusionist 0 / Wizard 0, Trickery, Enchantment
+- [Detect Magic](/Magic/D/DetectMagic.md) - Cleric 0 / Druid 0 / Illusionist 0 / Wizard 0, Magic, Divination
+- [Detect Poison](/Magic/D/DetectPoison.md) - Cleric 0 / Druid 0 / Illusionist 0 / Wizard 0, Magic, Divination
+- [Disrupt Undead](/Magic/D/DisruptUndead.md) - Cleric 0 / Wizard 0, Death, Necromancy
 - [Eldritch Blast](/Magic/E/EldritchBlast.md)
 - [Flare](/Magic/F/Flare.md)
 - [Ghost Sound](/Magic/G/GhostSound.md)
@@ -27,18 +27,18 @@
 
 ## 1st Circle
 
-- [Alarm](/Magic/A/Alarm.md)
-- [Animate Rope](/Magic/A/AnimateRope.md)
-- [Book God's Page](/Magic/B/BookGodsPage.md)
-- [Burning Hands](/Magic/B/BurningHands.md)
-- [Cause Fear](/Magic/C/CauseFear.md)
-- [Charm Person](/Magic/C/CharmPerson.md)
-- [Chill Touch](/Magic/C/ChillTouch.md)
-- [Color Spray](/Magic/C/ColorSpray.md)
-- [Comprehend Languages](/Magic/C/ComprehendLanguages.md)
-- [Detect Secret Doors](/Magic/D/DetectSecretDoors.md)
-- [Detect Undead](/Magic/D/DetectUndead.md)
-- [Disguise Self](/Magic/D/DisguiseSelf.md)
+- [Alarm](/Magic/A/Alarm.md) - Druid 1 / Illusionist 1 / Wizard 1, Protection, Abjuration
+- [Animate Rope](/Magic/A/AnimateRope.md) - Wizard 1, Magic, Transmutation
+- [Book God's Page](/Magic/B/BookGodsPage.md) - Cleric 1 / Wizard 1, Knowledge, Transmutation
+- [Burning Hands](/Magic/B/BurningHands.md) - Wizard 1, Fire, Evocation
+- [Cause Fear](/Magic/C/CauseFear.md) - Cleric 1 / Illusionist 1 / Wizard 1, War, Necromancy
+- [Charm Person](/Magic/C/CharmPerson.md) - Illusionist 1 / Wizard 1, Trickery, Enchantment
+- [Chill Touch](/Magic/C/ChillTouch.md) - Cleric 1 / Wizard 1, Death, Necromancy
+- [Color Spray](/Magic/C/ColorSpray.md) - Illusionist 1 / Wizard 1, Chaos, Illusion
+- [Comprehend Languages](/Magic/C/ComprehendLanguages.md) - Cleric 1 / Illusionist 1 / Wizard 1, Knowledge, Divination
+- [Detect Secret Doors](/Magic/D/DetectSecretDoors.md) - Illusionist 1 / Wizard 1, Knowledge, Divination
+- [Detect Undead](/Magic/D/DetectUndead.md) - Cleric 1 / Wizard 1, Death, Divination
+- [Disguise Self](/Magic/D/DisguiseSelf.md) - Illusionist 1 / Wizard 1, Trickery, Illusion
 - [Endure Elements](/Magic/E/EndureElements.md)
 - [Enlarge Person](/Magic/E/EnlargePerson.md)
 - [Erase](/Magic/E/Erase.md)
@@ -75,16 +75,16 @@
 
 ## 2nd Circle
 
-- [Book God's Book](/Magic/B/BookGodsBook.md)
+- [Book God's Book](/Magic/B/BookGodsBook.md) - Cleric 2 / Wizard 2, Knowledge, Transmutation
 - [Sound Burst](/Magic/S/SoundBurst.md)
 
 ## 3rd Circle
 
-- [Book God's Page, Fast](/Magic/B/BookGodsPageFast.md)
+- [Book God's Page, Fast](/Magic/B/BookGodsPageFast.md) - Cleric 3 / Wizard 3, Knowledge, Transmutation
 
 ## 4th Circle
 
-- [Book God's Book, Fast](/Magic/B/BookGodsBookFast.md)
+- [Book God's Book, Fast](/Magic/B/BookGodsBookFast.md) - Cleric 4 / Wizard 4, Knowledge, Transmutation
 
 ## 5th Circle
 

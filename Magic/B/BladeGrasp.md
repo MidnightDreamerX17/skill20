@@ -1,5 +1,7 @@
 # Blade Grasp
 
+[Blade Grasp](/Magic/B/BladeGrasp.md) - Wizard 0, War, Transmutation
+
 - **Circle:** Wizard 0
 - **Domain:** War
 - **School:** Transmutation

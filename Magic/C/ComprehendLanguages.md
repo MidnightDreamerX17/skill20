@@ -1,5 +1,7 @@
 # Comprehend Languages
 
+[Comprehend Languages](/Magic/C/ComprehendLanguages.md) - Cleric 1 / Illusionist 1 / Wizard 1, Knowledge, Divination
+
 - **Circle:** Cleric 1, Illusionist 1, Wizard 1
 - **Domain:** Knowledge
 - **School:** Divination

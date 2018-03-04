@@ -1,5 +1,7 @@
 # Cure Minor Wounds
 
+[Cure Minor Wounds](/Magic/C/CureMinorWounds.md) - Cleric 0 / Druid 0, Healing, Conjuration
+
 - **Circle:** Cleric 0, Druid 0
 - **Domain:** Healing
 - **School:** Conjuration

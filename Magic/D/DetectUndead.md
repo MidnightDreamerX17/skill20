@@ -1,5 +1,7 @@
 # Detect Undead
 
+[Detect Undead](/Magic/D/DetectUndead.md) - Cleric 1 / Wizard 1, Death, Divination
+
 - **Circle:** Cleric 1, Wizard 1
 - **Domain:** Death
 - **School:** Divination

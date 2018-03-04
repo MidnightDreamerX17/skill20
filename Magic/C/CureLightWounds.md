@@ -1,5 +1,7 @@
 # Cure Light Wounds
 
+[Cure Light Wounds](/Magic/C/CureLightWounds.md) - Cleric 1 / Druid 1, Healing, Conjuration
+
 - **Circle:** Cleric 1, Druid 1
 - **Domain:** Healing
 - **School:** Conjuration

@@ -1,5 +1,7 @@
 # Cause Minor Wounds
 
+[Cause Minor Wounds](/Magic/C/CauseMinorWounds.md) - Cleric 0 / Druid 0, Destruction, Necromancy
+
 - **Circle:** Cleric 0, Druid 0
 - **Domain:** Destruction
 - **School:** Necromancy

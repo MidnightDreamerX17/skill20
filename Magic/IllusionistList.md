@@ -2,11 +2,11 @@
 
 ## 0th Circle
 
-- [Arcane Mark](/Magic/A/ArcaneMark.md)
-- [Dancing Lights](/Magic/D/DancingLights.md)
-- [Daze](/Magic/D/Daze.md)
-- [Detect Magic](/Magic/D/DetectMagic.md)
-- [Detect Poison](/Magic/D/DetectPoison.md)
+- [Arcane Mark](/Magic/A/ArcaneMark.md) - Illusionist 0 / Wizard 0, Magic, Universal
+- [Dancing Lights](/Magic/D/DancingLights.md) - Illusionist 0 / Wizard 0, Sun, Evocation
+- [Daze](/Magic/D/Daze.md) - Illusionist 0 / Wizard 0, Trickery, Enchantment
+- [Detect Magic](/Magic/D/DetectMagic.md) - Cleric 0 / Druid 0 / Illusionist 0 / Wizard 0, Magic, Divination
+- [Detect Poison](/Magic/D/DetectPoison.md) - Cleric 0 / Druid 0 / Illusionist 0 / Wizard 0, Magic, Divination
 - [Eldritch Blast](/Magic/E/EldritchBlast.md)
 - [Flare](/Magic/F/Flare.md)
 - [Ghost Sound](/Magic/G/GhostSound.md)
@@ -24,15 +24,15 @@
 
 ## 1st Circle
 
-- [Alarm](/Magic/A/Alarm.md)
-- [Calm Animals](/Magic/C/CalmAnimals.md)
-- [Cause Fear](/Magic/C/CauseFear.md)
-- [Charm Animal](/Magic/C/CharmAnimal.md)
-- [Charm Person](/Magic/C/CharmPerson.md)
-- [Color Spray](/Magic/C/ColorSpray.md)
-- [Comprehend Languages](/Magic/C/ComprehendLanguages.md)
-- [Detect Secret Doors](/Magic/D/DetectSecretDoors.md)
-- [Disguise Self](/Magic/D/DisguiseSelf.md)
+- [Alarm](/Magic/A/Alarm.md) - Druid 1 / Illusionist 1 / Wizard 1, Protection, Abjuration
+- [Calm Animals](/Magic/C/CalmAnimals.md) - Druid 1 / Illusionist 1, Animal, Enchantment
+- [Cause Fear](/Magic/C/CauseFear.md) - Cleric 1 / Illusionist 1 / Wizard 1, War, Necromancy
+- [Charm Animal](/Magic/C/CharmAnimal.md) - Druid 1 / Illusionist 1, Animal, Enchantment
+- [Charm Person](/Magic/C/CharmPerson.md) - Illusionist 1 / Wizard 1, Trickery, Enchantment
+- [Color Spray](/Magic/C/ColorSpray.md) - Illusionist 1 / Wizard 1, Chaos, Illusion
+- [Comprehend Languages](/Magic/C/ComprehendLanguages.md) - Cleric 1 / Illusionist 1 / Wizard 1, Knowledge, Divination
+- [Detect Secret Doors](/Magic/D/DetectSecretDoors.md) - Illusionist 1 / Wizard 1, Knowledge, Divination
+- [Disguise Self](/Magic/D/DisguiseSelf.md) - Illusionist 1 / Wizard 1, Trickery, Illusion
 - [Erase](/Magic/E/Erase.md)
 - [Faerie Fire](/Magic/F/FaerieFire.md)
 - [Holographic Cure Light Wounds](/Magic/H/HolographicCureLightWounds.md)

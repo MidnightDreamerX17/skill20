@@ -1,5 +1,7 @@
 # Book God's Book, Fast
 
+[Book God's Book, Fast](/Magic/B/BookGodsBookFast.md) - Cleric 4 / Wizard 4, Knowledge, Transmutation
+
 - **Circle:** Cleric 4, Wizard 4
 - **Domain:** Knowledge
 - **School:** Transmutation

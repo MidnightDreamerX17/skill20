@@ -1,5 +1,7 @@
 # Detect Law
 
+[Detect Law](/Magic/D/DetectLaw.md) - Cleric 1, Knowledge, Divination
+
 - **Circle:** Cleric 1
 - **Domain:** Knowledge
 - **School:** Divination

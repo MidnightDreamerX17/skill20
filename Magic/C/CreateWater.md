@@ -1,5 +1,7 @@
 # Create Water
 
+[Create Water](/Magic/C/CreateWater.md) - Cleric 0 / Druid 0, Water, Conjuration
+
 - **Circle:** Cleric 0, Druid 0
 - **Domain:** Water
 - **School:** Conjuration

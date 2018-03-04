@@ -1,5 +1,7 @@
 # Detect Animals or Plants
 
+[Detect Animals or Plants](/Magic/D/DetectAnimalsOrPlants.md) - Druid 1, Animal & Plant, Divination
+
 - **Circle:** Druid 1
 - **Domain:** Animal, Plant
 - **School:** Divination

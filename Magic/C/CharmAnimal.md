@@ -1,5 +1,7 @@
 # Charm Animal
 
+[Charm Animal](/Magic/C/CharmAnimal.md) - Druid 1 / Illusionist 1, Animal, Enchantment
+
 - **Circle:** Druid 1, Illusionist 1
 - **Domain:** Animal
 - **School:** Enchantment

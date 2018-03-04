@@ -1,5 +1,7 @@
 # Deathwatch
 
+[Deathwatch](/Magic/D/Deathwatch.md) - Cleric 1, Evil, Necromancy
+
 - **Circle:** Cleric 1
 - **Domain:** Evil
 - **School:** Necromancy
