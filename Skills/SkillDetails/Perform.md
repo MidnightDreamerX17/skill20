@@ -3,17 +3,20 @@
 Examples of Perform skills:
 
 - Act
+- Blowing Smoke
 - Comedy
 - Dance
 - Fashion
 - Keyboard Instruments
 - Martial Arts Kata
+- Miming
 - Moving Images
 - Music Sequencers
 - Oratory
 - Orchestral Composition
 - Percussion Instruments
 - Poetry
+- Shadow Puppetry
 - Sing
 - Sports Commentating
 - String Instruments
