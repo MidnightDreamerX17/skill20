@@ -39,8 +39,8 @@
 - [Detect Undead](/Magic/D/DetectUndead.md) - Cleric 1 / Wizard 1, Death, Divination
 - [Divine Favor](/Magic/D/DivineFavor.md) - Cleric 1, Strength, Evocation
 - [Doom](/Magic/D/Doom.md) - Cleric 1, Destruction, Necromancy
-- [Endure Elements](/Magic/E/EndureElements.md)
-- [Entropic Shield](/Magic/E/EntropicShield.md)
+- [Endure Elements](/Magic/E/EndureElements.md) - Cleric 1 / Druid 1 / Wizard 1, Sun, Abjuration
+- [Entropic Shield](/Magic/E/EntropicShield.md) - Cleric 1, Luck, Abjuration
 - [Hide from Undead](/Magic/H/HideFromUndead.md)
 - [Magic Stone](/Magic/M/MagicStone.md)
 - [Magic Weapon](/Magic/M/MagicWeapon.md)

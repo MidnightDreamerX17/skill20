@@ -1,5 +1,7 @@
 # Entangle
 
+[Entangle](/Magic/E/Entangle.md) - Druid 1, Plant, Transmutation
+
 - **Circle:** Druid 1
 - **Domain:** Plant
 - **School:** Transmutation

@@ -133,7 +133,7 @@ The domains are:
 
 - [Bane](/Magic/B/Bane.md) - Cleric 1, Luck, Enchantment
 - [Bless](/Magic/B/Bless.md) - Cleric 1, Luck, Enchantment
-- [Entropic Shield](/Magic/E/EntropicShield.md)
+- [Entropic Shield](/Magic/E/EntropicShield.md) - Cleric 1, Luck, Abjuration
 - [Faerie Fire](/Magic/F/FaerieFire.md)
 - [Guidance](/Magic/G/Guidance.md)
 - [True Strike](/Magic/T/TrueStrike.md)
@@ -144,7 +144,7 @@ The domains are:
 - [Arcane Mark](/Magic/A/ArcaneMark.md) - Illusionist 0 / Wizard 0, Magic, Universal
 - [Detect Magic](/Magic/D/DetectMagic.md) - Cleric 0 / Druid 0 / Illusionist 0 / Wizard 0, Magic, Divination
 - [Detect Poison](/Magic/D/DetectPoison.md) - Cleric 0 / Druid 0 / Illusionist 0 / Wizard 0, Magic, Divination
-- [Eldritch Blast](/Magic/E/EldritchBlast.md)
+- [Eldritch Blast](/Magic/E/EldritchBlast.md) - Illusionist 0 / Wizard 0, Magic, Evocation
 - [Hold Portal](/Magic/H/HoldPortal.md)
 - [Identify](/Magic/I/Identify.md)
 - [Magic Aura](/Magic/M/MagicAura.md)
@@ -157,7 +157,7 @@ The domains are:
 ## Plant
 
 - [Detect Animals or Plants](/Magic/D/DetectAnimalsOrPlants.md) - Druid 1, Animal & Plant, Divination
-- [Entangle](/Magic/E/Entangle.md)
+- [Entangle](/Magic/E/Entangle.md) - Druid 1, Plant, Transmutation
 - [Goodberry](/Magic/G/Goodberry.md)
 - [Shillelagh](/Magic/S/Shillelagh.md)
 - [Snakes to Sticks](/Magic/S/SnakesToSticks.md) - Cleric 4, Plant, Transmutation
@@ -176,14 +176,14 @@ The domains are:
 ## Strength
 
 - [Divine Favor](/Magic/D/DivineFavor.md) - Cleric 1, Strength, Evocation
-- [Enlarge Person](/Magic/E/EnlargePerson.md)
+- [Enlarge Person](/Magic/E/EnlargePerson.md) - Wizard 1, Strength, Transmutation
 - [Magic Fang](/Magic/M/MagicFang.md)
 - [Reduce Person](/Magic/R/ReducePerson.md)
 
 ## Sun
 
 - [Dancing Lights](/Magic/D/DancingLights.md) - Illusionist 0 / Wizard 0, Sun, Evocation
-- [Endure Elements](/Magic/E/EndureElements.md)
+- [Endure Elements](/Magic/E/EndureElements.md) - Cleric 1 / Druid 1 / Wizard 1, Sun, Abjuration
 - [Flare](/Magic/F/Flare.md)
 - [Light](/Magic/L/Light.md)
 

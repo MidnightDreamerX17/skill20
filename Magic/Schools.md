@@ -15,8 +15,8 @@ The schools are:
 ## Abjuration
 
 - [Alarm](/Magic/A/Alarm.md) - Druid 1 / Illusionist 1 / Wizard 1, Protection, Abjuration
-- [Endure Elements](/Magic/E/EndureElements.md)
-- [Entropic Shield](/Magic/E/EntropicShield.md)
+- [Endure Elements](/Magic/E/EndureElements.md) - Cleric 1 / Druid 1 / Wizard 1, Sun, Abjuration
+- [Entropic Shield](/Magic/E/EntropicShield.md) - Cleric 1, Luck, Abjuration
 - [Hide from Undead](/Magic/H/HideFromUndead.md)
 - [Hold Portal](/Magic/H/HoldPortal.md)
 - [Protection From Chaos](/Magic/P/ProtectionFromChaos.md)
@@ -84,7 +84,7 @@ The schools are:
 
 - [Burning Hands](/Magic/B/BurningHands.md) - Wizard 1, Fire, Evocation
 - [Divine Favor](/Magic/D/DivineFavor.md) - Cleric 1, Strength, Evocation
-- [Eldritch Blast](/Magic/E/EldritchBlast.md)
+- [Eldritch Blast](/Magic/E/EldritchBlast.md) - Illusionist 0 / Wizard 0, Magic, Evocation
 - [Faerie Fire](/Magic/F/FaerieFire.md)
 - [Flare](/Magic/F/Flare.md)
 - [Floating Disk](/Magic/F/FloatingDisk.md)
@@ -130,8 +130,8 @@ The schools are:
 - [Book God's Book, Fast](/Magic/B/BookGodsBookFast.md) - Cleric 4 / Wizard 4, Knowledge, Transmutation
 - [Book God's Page](/Magic/B/BookGodsPage.md) - Cleric 1 / Wizard 1, Knowledge, Transmutation
 - [Book God's Page, Fast](/Magic/B/BookGodsPageFast.md) - Cleric 3 / Wizard 3, Knowledge, Transmutation
-- [Enlarge Person](/Magic/E/EnlargePerson.md)
-- [Entangle](/Magic/E/Entangle.md)
+- [Enlarge Person](/Magic/E/EnlargePerson.md) - Wizard 1, Strength, Transmutation
+- [Entangle](/Magic/E/Entangle.md) - Druid 1, Plant, Transmutation
 - [Erase](/Magic/E/Erase.md)
 - [Expeditious Retreat](/Magic/E/ExpeditiousRetreat.md)
 - [Feather Fall](/Magic/F/FeatherFall.md)

@@ -28,8 +28,8 @@
 - [Detect Animals or Plants](/Magic/D/DetectAnimalsOrPlants.md) - Druid 1, Animal / Plant, Divination
 - [Detect Neutrality](/Magic/D/DetectNeutrality.md) - Cleric 1 / Druid 1, Knowledge, Divination
 - [Detect Snares and Pits](/Magic/D/DetectSnaresAndPits.md) - Druid 1, Earth, Divination
-- [Endure Elements](/Magic/E/EndureElements.md)
-- [Entangle](/Magic/E/Entangle.md)
+- [Endure Elements](/Magic/E/EndureElements.md) - Cleric 1 / Druid 1 / Wizard 1, Sun, Abjuration
+- [Entangle](/Magic/E/Entangle.md) - Druid 1, Plant, Transmutation
 - [Faerie Fire](/Magic/F/FaerieFire.md)
 - [Find Familiar](/Magic/F/FindFamiliar.md) - Druid 1 / Wizard 1, Animal, Conjuration
 - [Goodberry](/Magic/G/Goodberry.md)

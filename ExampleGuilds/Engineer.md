@@ -1,4 +1,4 @@
-# Duellist Guild
+# Engineer Guild
 
 **Liked Guilds:** Alchemist, Crafting Union, Knowledge Union, Law Association
 

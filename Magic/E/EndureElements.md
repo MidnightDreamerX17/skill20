@@ -1,5 +1,7 @@
 # Endure Elements
 
+[Endure Elements](/Magic/E/EndureElements.md) - Cleric 1 / Druid 1 / Wizard 1, Sun, Abjuration
+
 - **Circle:** Cleric 1, Druid 1, Wizard 1
 - **Domain:** Sun
 - **School:** Abjuration

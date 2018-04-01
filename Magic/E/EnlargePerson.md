@@ -1,5 +1,7 @@
 # Enlarge Person
 
+[Enlarge Person](/Magic/E/EnlargePerson.md) - Wizard 1, Strength, Transmutation
+
 - **Circle:** Wizard 1
 - **Domain:** Strength
 - **School:** Transmutation

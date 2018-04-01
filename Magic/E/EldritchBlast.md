@@ -1,5 +1,7 @@
 # Eldritch Blast
 
+[Eldritch Blast](/Magic/E/EldritchBlast.md) - Illusionist 0 / Wizard 0, Magic, Evocation
+
 - **Circle:** Illusionist 0, Wizard 0
 - **Domain:** Magic
 - **School:** Evocation

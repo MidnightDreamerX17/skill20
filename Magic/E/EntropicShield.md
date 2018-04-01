@@ -1,5 +1,7 @@
 # Entropic Shield
 
+[Entropic Shield](/Magic/E/EntropicShield.md) - Cleric 1, Luck, Abjuration
+
 - **Circle:** Cleric 1
 - **Domain:** Luck
 - **School:** Abjuration

@@ -10,7 +10,7 @@
 - [Detect Magic](/Magic/D/DetectMagic.md) - Cleric 0 / Druid 0 / Illusionist 0 / Wizard 0, Magic, Divination
 - [Detect Poison](/Magic/D/DetectPoison.md) - Cleric 0 / Druid 0 / Illusionist 0 / Wizard 0, Magic, Divination
 - [Disrupt Undead](/Magic/D/DisruptUndead.md) - Cleric 0 / Wizard 0, Death, Necromancy
-- [Eldritch Blast](/Magic/E/EldritchBlast.md)
+- [Eldritch Blast](/Magic/E/EldritchBlast.md) - Illusionist 0 / Wizard 0, Magic, Evocation
 - [Flare](/Magic/F/Flare.md)
 - [Ghost Sound](/Magic/G/GhostSound.md)
 - [Light](/Magic/L/Light.md)
@@ -39,8 +39,8 @@
 - [Detect Secret Doors](/Magic/D/DetectSecretDoors.md) - Illusionist 1 / Wizard 1, Knowledge, Divination
 - [Detect Undead](/Magic/D/DetectUndead.md) - Cleric 1 / Wizard 1, Death, Divination
 - [Disguise Self](/Magic/D/DisguiseSelf.md) - Illusionist 1 / Wizard 1, Trickery, Illusion
-- [Endure Elements](/Magic/E/EndureElements.md)
-- [Enlarge Person](/Magic/E/EnlargePerson.md)
+- [Endure Elements](/Magic/E/EndureElements.md) - Cleric 1 / Druid 1 / Wizard 1, Sun, Abjuration
+- [Enlarge Person](/Magic/E/EnlargePerson.md) - Wizard 1, Strength, Transmutation
 - [Erase](/Magic/E/Erase.md)
 - [Expeditious Retreat](/Magic/E/ExpeditiousRetreat.md)
 - [Feather Fall](/Magic/F/FeatherFall.md)

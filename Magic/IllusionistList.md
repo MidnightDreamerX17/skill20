@@ -7,7 +7,7 @@
 - [Daze](/Magic/D/Daze.md) - Illusionist 0 / Wizard 0, Trickery, Enchantment
 - [Detect Magic](/Magic/D/DetectMagic.md) - Cleric 0 / Druid 0 / Illusionist 0 / Wizard 0, Magic, Divination
 - [Detect Poison](/Magic/D/DetectPoison.md) - Cleric 0 / Druid 0 / Illusionist 0 / Wizard 0, Magic, Divination
-- [Eldritch Blast](/Magic/E/EldritchBlast.md)
+- [Eldritch Blast](/Magic/E/EldritchBlast.md) - Illusionist 0 / Wizard 0, Magic, Evocation
 - [Flare](/Magic/F/Flare.md)
 - [Ghost Sound](/Magic/G/GhostSound.md)
 - [Holographic Cure Minor Wounds](/Magic/H/HolographicCureMinorWounds.md)

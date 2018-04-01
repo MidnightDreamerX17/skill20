@@ -140,6 +140,8 @@
 
 | Weapon                     | Cost      | Ammo                          | Damage             | Map Range | Special |
 | ---                        | ---       | ---                           | ---                | ---       | ---     |
+| Airgun, Hand               | 800.00    | darts + air canister          | 2d4 puncture       | 80 feet   | air canister lasts for 10 shots
+| Airgun, Heavy              | 1,600.00  | darts + air canister          | 2d6 puncture       | 120 feet  | air canister lasts for 15 shots
 | Arquebus                   | 200.00    | firearm bullets + powder      | 1d6 puncture       | 40 feet | reload with 5 attack actions
 | Crossbow, Hand             | 100.00    | crossbow bolts                | 1d4 puncture       | 30 feet | no reload time
 | Crossbow, Heavy            | 50.00     | crossbow bolts                | 1d10 puncture      | 120 feet | reload with 2 attack actions
@@ -150,7 +152,16 @@
 | Machine-Pressed Crossbow   | 40.00     | crossbow bolts                | 1d6 puncture       | 60 feet | reload with 1 attack action
 | Modern Assault Weapon      | 2,000.00  | modern cartridges (30 magazine) | 2d6 puncture     | 150 feet | change magazine with 1 attack action, burst-fire option
 | Modern Handgun             | 1,200.00  | modern cartridges (15 magazine) | 2d4 puncture     | 100 feet | change magazine with 1 attack action
+| Modern Heavy Rifle         | 8,000.00 | modern cartridges (5 magazine) | 3d6 puncture       | 250 feet | change magazine with 1 attack action
 | Musket                     | 500.00    | firearm bullets + powder      | 1d6 puncture       | 60 feet | reload with 4 attack actions
+
+| Ammunition | Cost  |
+| ---        | ---   |
+| Modern Handgun Magazine | 100.00
+| Modern Assault Magazine | 300.00
+| Modern Heavy Magazine   | 600.00
+
+Presumably ammunition costs less in a world that is able to mass-produce it, otherwise it is scavenged and refurbished from various planar sources.
 
 ## Throwing Weapons and Slings (Ranged)
 
