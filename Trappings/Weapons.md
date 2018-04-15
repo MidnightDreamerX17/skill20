@@ -155,8 +155,13 @@
 | Modern Heavy Rifle         | 8,000.00 | modern cartridges (5 magazine) | 3d6 puncture       | 250 feet | change magazine with 1 attack action
 | Musket                     | 500.00    | firearm bullets + powder      | 1d6 puncture       | 60 feet | reload with 4 attack actions
 
-| Ammunition | Cost  |
-| ---        | ---   |
+| Ammunition | Cost  | Special |
+| ---        | ---   | ---     |
+| Air Canister | 10.00
+| Arrows for Bow | 1.00 | for 20 arrows
+| Bolts for Crossbow | 1.00 | for 20 bolts
+| Darts for Airgun | 1.00 | for 10 airgun darts
+| Hand Pump for Air Canister | 75.00 | 10 minutes per canister
 | Modern Handgun Magazine | 100.00
 | Modern Assault Magazine | 300.00
 | Modern Heavy Magazine   | 600.00
