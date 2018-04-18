@@ -49,6 +49,7 @@ The schools are:
 
 ## Divination
 
+- [Arcane Eye, Penetrating](/Magic/A/ArcaneEyePenetrating.md) - Illusionist 5 / Wizard 5, Divination, Magic
 - [Comprehend Languages](/Magic/C/ComprehendLanguages.md) - Cleric 1 / Illusionist 1 / Wizard 1, Knowledge, Divination
 - [Detect Animals or Plants](/Magic/D/DetectAnimalsOrPlants.md) - Druid 1, Animal / Plant, Divination
 - [Detect Chaos](/Magic/D/DetectChaos.md) - Cleric 1, Knowledge, Divination

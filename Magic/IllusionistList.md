@@ -57,6 +57,8 @@
 
 ## 5th Circle
 
+- [Arcane Eye, Penetrating](/Magic/A/ArcaneEyePenetrating.md) - Illusionist 5 / Wizard 5, Divination, Magic
+
 ## 6th Circle
 
 ## 7th Circle

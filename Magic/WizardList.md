@@ -88,6 +88,7 @@
 
 ## 5th Circle
 
+- [Arcane Eye, Penetrating](/Magic/A/ArcaneEyePenetrating.md) - Illusionist 5 / Wizard 5, Divination, Magic
 - [Create Lightning Crystal](/Magic/C/CreateLightningCrystal.md) - Druid 5 / Wizard 5, Air, Conjuration
 
 ## 6th Circle

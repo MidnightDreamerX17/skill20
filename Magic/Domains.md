@@ -141,6 +141,7 @@ The domains are:
 ## Magic
 
 - [Animate Rope](/Magic/A/AnimateRope.md) - Wizard 1, Magic, Transmutation
+- [Arcane Eye, Penetrating](/Magic/A/ArcaneEyePenetrating.md) - Illusionist 5 / Wizard 5, Divination, Magic
 - [Arcane Mark](/Magic/A/ArcaneMark.md) - Illusionist 0 / Wizard 0, Magic, Universal
 - [Detect Magic](/Magic/D/DetectMagic.md) - Cleric 0 / Druid 0 / Illusionist 0 / Wizard 0, Magic, Divination
 - [Detect Poison](/Magic/D/DetectPoison.md) - Cleric 0 / Druid 0 / Illusionist 0 / Wizard 0, Magic, Divination
