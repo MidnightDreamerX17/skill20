@@ -159,6 +159,7 @@ The domains are:
 
 - [Detect Animals or Plants](/Magic/D/DetectAnimalsOrPlants.md) - Druid 1, Animal & Plant, Divination
 - [Entangle](/Magic/E/Entangle.md) - Druid 1, Plant, Transmutation
+- [Friendly Fungus](/Magic/F/FriendlyFungus.md) - Druid 4 / Illusionist 4, Plant, Conjuration
 - [Goodberry](/Magic/G/Goodberry.md)
 - [Shillelagh](/Magic/S/Shillelagh.md)
 - [Snakes to Sticks](/Magic/S/SnakesToSticks.md) - Cleric 4, Plant, Transmutation
@@ -217,6 +218,7 @@ The domains are:
 ## Water
 
 - [Create Water](/Magic/C/CreateWater.md) - Cleric 0 / Druid 0, Water, Conjuration
+- [Bucket of Suds](/Magic/B/BucketOfSuds.md) - Illusionist 1 / Wizard 2, Water, Illusion
 - [Obscuring Mist](/Magic/O/ObscuringMist.md)
 - Summon Monster (elemental)
 - [Ray of Frost](/Magic/R/RayOfFrost.md)

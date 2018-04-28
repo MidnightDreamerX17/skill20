@@ -7,7 +7,7 @@
 - **School:** Evocation
 - **Verbal Component:** Ignis Manus Aestus
 - **Somatic Component:** Draw a symbol of fire in the air, then grasp the symbol with both hands
-- **Map Range: Very Close (15 feet + 5 feet per 3 caster levels)
+- **Map Range:** Very Close (15 feet + 5 feet per 3 caster levels)
 - **Map Area:** Cone-shaped burst
 - **Map-less Area:** Front row of enemies
 - **Duration:** Instantaneous

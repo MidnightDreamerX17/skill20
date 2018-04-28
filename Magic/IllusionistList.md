@@ -25,6 +25,7 @@
 ## 1st Circle
 
 - [Alarm](/Magic/A/Alarm.md) - Druid 1 / Illusionist 1 / Wizard 1, Protection, Abjuration
+- [Bucket of Suds](/Magic/B/BucketOfSuds.md) - Illusionist 1 / Wizard 2, Water, Illusion
 - [Calm Animals](/Magic/C/CalmAnimals.md) - Druid 1 / Illusionist 1, Animal, Enchantment
 - [Cause Fear](/Magic/C/CauseFear.md) - Cleric 1 / Illusionist 1 / Wizard 1, War, Necromancy
 - [Charm Animal](/Magic/C/CharmAnimal.md) - Druid 1 / Illusionist 1, Animal, Enchantment
@@ -54,6 +55,8 @@
 ## 3rd Circle
 
 ## 4th Circle
+
+- [Friendly Fungus](/Magic/F/FriendlyFungus.md) - Druid 4 / Illusionist 4, Plant, Conjuration
 
 ## 5th Circle
 

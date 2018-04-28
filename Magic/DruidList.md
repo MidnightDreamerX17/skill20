@@ -53,6 +53,8 @@
 
 ## 4th Circle
 
+- [Friendly Fungus](/Magic/F/FriendlyFungus.md) - Druid 4 / Illusionist 4, Plant, Conjuration
+
 ## 5th Circle
 
 - [Create Lightning Crystal](/Magic/C/CreateLightningCrystal.md) - Druid 5 / Wizard 5, Air, Conjuration

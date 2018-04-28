@@ -158,6 +158,7 @@
 - [Telekinetic Thrust](/Psionics/T/TelekineticThrust.md) - Circle 3, Kineticist, Psychokinesis
 - [Time Hop](/Psionics/T/TimeHop.md) - Circle 3, Nomad, Psychoportation
 - [Touchsight](/Psionics/T/Touchsight.md) - Circle 3, Seer, Psychometabolism
+- [Truthsense](/Psionics/T/Truthsense.md) - Circle 3, Telepath, Telepathy
 - [Ubiquitous Vision](/Psionics/U/UbiquitousVision.md) - Circle 3, Seer, Clairsentience
 - [Wall Walker](/Psionics/W/WallWalker.md) - Circle 3, Warrior, Psychoportation
 

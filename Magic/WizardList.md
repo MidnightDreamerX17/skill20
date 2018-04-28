@@ -76,6 +76,7 @@
 ## 2nd Circle
 
 - [Book God's Book](/Magic/B/BookGodsBook.md) - Cleric 2 / Wizard 2, Knowledge, Transmutation
+- [Bucket of Suds](/Magic/B/BucketOfSuds.md) - Illusionist 1 / Wizard 2, Water, Illusion
 - [Sound Burst](/Magic/S/SoundBurst.md)
 
 ## 3rd Circle

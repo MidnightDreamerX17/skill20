@@ -349,6 +349,7 @@
 - [True Seeing, Psionic](/Psionics/T/TrueSeeingPsionic.md) - Circle 5, Seer, Clairsentience
 - [Truevenom](/Psionics/T/Truevenom.md) - Circle 5, Warrior, Psychometabolism
 - [Truevenom Weapon](/Psionics/T/TruevenomWeapon.md) - Circle 5, Warrior, Psychometabolism
+- [Truthsense](/Psionics/T/Truthsense.md) - Circle 3, Telepath, Telepathy
 
 ## U
 

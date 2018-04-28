@@ -326,4 +326,5 @@ The psionic disciplines are as follows:
 - [Tongues, Psionic](/Psionics/T/TonguesPsionic.md) - Circle 2, Telepath, Telepathy
 - [Touch Speech](/Psionics/T/TouchSpeech.md) - Circle 0, Telepath, Telepathy
 - [Tower of Iron Will](/Psionics/T/TowerOfIronWill.md) - Circle 5, Power, Telepathy
+- [Truthsense](/Psionics/T/Truthsense.md) - Circle 3, Telepath, Telepathy
 - [Ultrablast](/Psionics/U/Ultrablast.md) - Circle 7, Telepath, Telepathy

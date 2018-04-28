@@ -273,6 +273,7 @@ The psionic categories are as follows:
 - [Telempathic Projection](/Psionics/T/TelempathicProjection.md) - Circle 1, Telepath, Telepathy
 - [Tongues, Psionic](/Psionics/T/TonguesPsionic.md) - Circle 2, Telepath, Telepathy
 - [Touch Speech](/Psionics/T/TouchSpeech.md) - Circle 0, Telepath, Telepathy
+- [Truthsense](/Psionics/T/Truthsense.md) - Circle 3, Telepath, Telepathy
 - [Ultrablast](/Psionics/U/Ultrablast.md) - Circle 7, Telepath, Telepathy
 
 ## Warrior

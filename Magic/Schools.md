@@ -37,6 +37,7 @@ The schools are:
 - [Cure Minor Wounds](/Magic/C/CureMinorWounds.md) - Cleric 0 / Druid 0, Healing, Conjuration
 - [Dancing Lights](/Magic/D/DancingLights.md) - Illusionist 0 / Wizard 0, Sun, Evocation - Illusionist 0 / Wizard 0, Sun, Evocation
 - [Find Familiar](/Magic/F/FindFamiliar.md) - Druid 1 / Wizard 1, Animal, Conjuration
+- [Friendly Fungus](/Magic/F/FriendlyFungus.md) - Druid 4 / Illusionist 4, Plant, Conjuration
 - [Grease](/Magic/G/Grease.md)
 - [Mage Armor](/Magic/M/MageArmor.md)
 - [Mount](/Magic/M/Mount.md)
@@ -98,6 +99,7 @@ The schools are:
 
 ## Illusion
 
+- [Bucket of Suds](/Magic/B/BucketOfSuds.md) - Illusionist 1 / Wizard 2, Water, Illusion
 - [Color Spray](/Magic/C/ColorSpray.md) - Illusionist 1 / Wizard 1, Chaos, Illusion
 - [Disguise Self](/Magic/D/DisguiseSelf.md) - Illusionist 1 / Wizard 1, Trickery, Illusion
 - [Ghost Sound](/Magic/G/GhostSound.md)
