@@ -21,6 +21,9 @@ Quality modifiers add an amount of cost that is relative to the base cost of the
 | Expert-Crafted Weapon  | + x5     | Melee/Ranged Fighting 2   | +1 accuracy and damage
 | Master-Crafted Weapon  | + x10    | Melee/Ranged Fighting 5   | +2 accuracy and damage
 | Custom-Grip-and-Balance Weapon | + x20 | Melee/Ranged Fighting 10 | +3 accuracy and damage
+| Expert-Crafted Tool    | + x5     | Skill 2                   | +1 to relevant skill checks
+| Master-Crafted Tool    | + x10    | Skill 5                   | +2 to relevant skill checks
+| Custom-Grip-and-Balance Tool | + x20 | Skill 10               | +3 to relevant skill checks
 
 ## Material Modifiers
 

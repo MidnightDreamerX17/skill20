@@ -157,6 +157,8 @@ Since you don’t need to hit a specific target, you can simply aim at a particu
 | Artisan's Tools, Masterwork | 55.00
 | Celestial Etheroscope | 1,000.00
 | Climber's Kit | 80.00
+| Clock, Inaccurate | 10.00
+| Clock, Accurate | 1,000.00
 | Disguise Kit | 50.00
 | Healer's Kit | 50.00
 | Holly and Mistletoe | -    |
