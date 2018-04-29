@@ -5,6 +5,7 @@
 - [Clay Figurine](/Psionics/C/ClayFigurine.md) - Circle 0, Shaper, Metacreativity
 - [Disappearing Trick](/Psionics/D/DisappearingTrick.md) - Circle 0, Nomad, Psychoportation
 - [Hand Eye](/Psionics/H/HandEye.md) - Circle 0, Seer, Clairsentience
+- [Heartcounter](/Psionics/H/Heartcounter.md) - Circle 0, Seer, Psychometabolism
 - [Microlevitation](/Psionics/M/Microlevitation.md) - Circle 0, Kineticist, Psychokinesis
 - [Motion Adaptation](/Psionics/M/MotionAdaptation.md) - Circle 0, Nomad, Psychoportation
 - [Psionic Cure Own Wounds](/Psionics/P/PsionicCureOwnWounds.md) - Circle 0, Egoist, Pyschometabolism

@@ -15,6 +15,7 @@
 - [Ghost Sound](/Magic/G/GhostSound.md)
 - [Light](/Magic/L/Light.md)
 - [Mage Hand](/Magic/M/MageHand.md)
+- [Magic Clock](/Magic/M/MagicClock.md) - Cleric 0 / Druid 0 / Illusionist 0 / Wizard 0, Sun, Universal
 - [Mending](/Magic/M/Mending.md)
 - [Message](/Magic/M/Message.md)
 - [Open/Close](/Magic/O/OpenClose.md)

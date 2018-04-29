@@ -186,6 +186,7 @@ The psionic categories are as follows:
 - [Fate Link](/Psionics/F/FateLink.md) - Circle 4, Seer, Clairsentience
 - [Fate of One](/Psionics/F/FateOfOne.md) - Circle 8, Seer, Clairsentience
 - [Hand Eye](/Psionics/H/HandEye.md) - Circle 0, Seer, Clairsentience
+- [Heartcounter](/Psionics/H/Heartcounter.md) - Circle 0, Seer, Psychometabolism
 - [Hypercognition](/Psionics/H/Hypercognition.md) - Circle 9, Seer, Clairsentience
 - [Identify Psionic](/Psionics/I/IdentifyPsionic.md) - Circle 2, Seer, Clairsentience
 - [Know Direction And Location](/Psionics/K/KnowDirectionAndLocation.md) - Circle 1, Seer, Clairsentience

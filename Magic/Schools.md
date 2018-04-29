@@ -157,4 +157,5 @@ The schools are:
 ## Universal (cannot be specialized or opposed)
 
 - [Arcane Mark](/Magic/A/ArcaneMark.md) - Illusionist 0 / Wizard 0, Magic, Universal
+- [Magic Clock](/Magic/M/MagicClock.md) - Cleric 0 / Druid 0 / Illusionist 0 / Wizard 0, Sun, Universal
 - [Prestidigitation](/Magic/P/Prestidigitation.md)

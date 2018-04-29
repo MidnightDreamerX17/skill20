@@ -172,6 +172,7 @@ The psionic disciplines are as follows:
 - [Graft Weapon](/Psionics/G/GraftWeapon.md) - Circle 4, Warrior, Psychometabolism
 - [Grip of Iron](/Psionics/G/GripOfIron.md) - Circle 2, Warrior, Psychometabolism
 - [Hammer](/Psionics/H/Hammer.md) - Circle 1, Warrior, Psychometabolism
+- [Heartcounter](/Psionics/H/Heartcounter.md) - Circle 0, Seer, Psychometabolism
 - [Hustle](/Psionics/H/Hustle.md) - Circle 3, Egoist, Psychometabolism
 - [Immovability](/Psionics/I/Immovability.md) - Circle 5, Warrior, Psychometabolism
 - [Leech Field](/Psionics/L/LeechField.md) - Circle 5, Power, Psychometabolism

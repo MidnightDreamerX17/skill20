@@ -11,6 +11,7 @@
 - [Guidance](/Magic/G/Guidance.md)
 - [Know Direction](/Magic/K/KnowDirection.md)
 - [Light](/Magic/L/Light.md)
+- [Magic Clock](/Magic/M/MagicClock.md) - Cleric 0 / Druid 0 / Illusionist 0 / Wizard 0, Sun, Universal
 - [Mending](/Magic/M/Mending.md)
 - [Purify Food and Drink](/Magic/P/PurifyFoodAndDrink.md)
 - [Read Magic](/Magic/R/ReadMagic.md)

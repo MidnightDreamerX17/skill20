@@ -177,6 +177,7 @@
 - [Hail of Crystals](/Psionics/H/HailOfCrystals.md) - Circle 6, Shaper, Metacreativity
 - [Hammer](/Psionics/H/Hammer.md) - Circle 1, Warrior, Psychometabolism
 - [Hand Eye](/Psionics/H/HandEye.md) - Circle 0, Seer, Clairsentience
+- [Heartcounter](/Psionics/H/Heartcounter.md) - Circle 0, Seer, Psychometabolism
 - [Hustle](/Psionics/H/Hustle.md) - Circle 3, Egoist, Psychometabolism
 - [Hypercognition](/Psionics/H/Hypercognition.md) - Circle 9, Seer, Clairsentience
 

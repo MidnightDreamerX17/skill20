@@ -188,6 +188,7 @@ The domains are:
 - [Endure Elements](/Magic/E/EndureElements.md) - Cleric 1 / Druid 1 / Wizard 1, Sun, Abjuration
 - [Flare](/Magic/F/Flare.md)
 - [Light](/Magic/L/Light.md)
+- [Magic Clock](/Magic/M/MagicClock.md) - Cleric 0 / Druid 0 / Illusionist 0 / Wizard 0, Sun, Universal
 
 ## Travel
 
