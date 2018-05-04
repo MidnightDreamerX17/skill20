@@ -26,6 +26,12 @@ The spell no longer requires a verbal component.
 
 #### Metamagic Level 4
 
+Element-Changed Spell - +1 circle
+
+This metamagic can only be applied to spells that do fire, cold, electric, poison, or sonic damage. The element of the spell is changed. This also changes the spell's effective Domain.
+
+#### Metamagic Level 5
+
 Extend Spell - +1 circle
 
 The spell's duration is doubled. The spell's base duration must be two rounds or longer.
