@@ -51,6 +51,7 @@ The psionic categories are as follows:
 - [Control Body](/Psionics/C/ControlBody.md) - Circle 5, Kineticist, Psychokinesis
 - [Control Flames](/Psionics/C/ControlFlames.md) - Circle 1, Kineticist, Psychokinesis
 - [Control Object](/Psionics/C/ControlObject.md) - Circle 2, Kineticist, Psychokinesis
+- [Cut Guns](/Psionics/C/CutGuns.md) - Circle 5, Kineticist, Psychokinesis
 - [Dispelling Buffer](/Psionics/D/DispellingBuffer.md) - Circle 7, Kineticist, Psychokinesis
 - [Energy Ball](/Psionics/E/EnergyBall.md) - Circle 5, Kineticist, Psychokinesis
 - [Energy Bolt](/Psionics/E/EnergyBolt.md) - Circle 3, Kineticist, Psychokinesis

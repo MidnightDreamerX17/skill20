@@ -55,9 +55,12 @@
 
 ## 3rd Circle
 
+- [See Electricity](/Magic/S/SeeElectricity.md) - Illusionist 3 / Wizard 2, Air, Divination
+
 ## 4th Circle
 
 - [Friendly Fungus](/Magic/F/FriendlyFungus.md) - Druid 4 / Illusionist 4, Plant, Conjuration
+- [Hold Machine](/Magic/H/HoldMachine.md) - Illusionist 4 / Cleric 7 / Wizard 5, Law, Enchantment
 
 ## 5th Circle
 

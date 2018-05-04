@@ -31,6 +31,7 @@ The domains are:
 - [Feather Fall](/Magic/F/FeatherFall.md)
 - [Floating Disk](/Magic/F/FloatingDisk.md)
 - [Obscuring Mist](/Magic/O/ObscuringMist.md)
+- [See Electricity](/Magic/S/SeeElectricity.md) - Illusionist 3 / Wizard 2, Air, Divination
 - [Shocking Grasp](/Magic/S/ShockingGrasp.md)
 - [Sound Burst](/Magic/S/SoundBurst.md)
 - Summon Monster (elemental)
@@ -73,6 +74,7 @@ The domains are:
 
 ## Earth
 
+- [Anklets of Tripping](/Magic/A/AnkletsOfTripping.md) - Cleric 1 / Wizard 1, Earth, Conjuration
 - [Detect Snares and Pits](/Magic/D/DetectSnaresAndPits.md) - Druid 1, Earth, Divination
 - [Know Direction](/Magic/K/KnowDirection.md)
 - [Magic Stone](/Magic/M/MagicStone.md)
@@ -89,6 +91,7 @@ The domains are:
 ## Fire
 
 - [Burning Hands](/Magic/B/BurningHands.md) - Wizard 1, Fire, Evocation
+- [Explode Ammunition](/Magic/E/ExplodeAmmunition.md) - Wizard 7, Fire, Transmutation
 - [Produce Flame](/Magic/P/ProduceFlame.md)
 - Summon Monster (elemental)
 
@@ -125,6 +128,7 @@ The domains are:
 
 ## Law
 
+- [Hold Machine](/Magic/H/HoldMachine.md) - Illusionist 4 / Cleric 7 / Wizard 5, Law, Enchantment
 - [Mending](/Magic/M/Mending.md)
 - [Protection From Chaos](/Magic/P/ProtectionFromChaos.md)
 - Summon Monster (aligned)
@@ -169,6 +173,7 @@ The domains are:
 
 - [Alarm](/Magic/A/Alarm.md) - Druid 1 / Illusionist 1 / Wizard 1, Protection, Abjuration
 - [Mage Armor](/Magic/M/MageArmor.md)
+- [Protection From Bullets](/Magic/P/ProtectionFromBullets.md) - Wizard 3, Protection, Abjuration
 - [Resistance](/Magic/R/Resistance.md)
 - [Sanctuary](/Magic/S/Sanctuary.md)
 - [Shield](/Magic/S/Shield.md)
@@ -213,6 +218,7 @@ The domains are:
 
 - [Blade Grasp](/Magic/B/BladeGrasp.md) - Wizard 0, War, Transmutation
 - [Cause Fear](/Magic/C/CauseFear.md) - Cleric 1 / Illusionist 1 / Wizard 1, War, Necromancy
+- [Gun Jam](/Magic/G/GunJam.md) - Wizard 6, War, Transmutation
 - [Magic Weapon](/Magic/M/MagicWeapon.md)
 - [Remove Fear](/Magic/R/RemoveFear.md)
 

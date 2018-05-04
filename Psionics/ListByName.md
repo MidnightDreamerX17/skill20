@@ -69,6 +69,7 @@
 - [Crisis of Life](/Psionics/C/CrisisOfLife.md) - Circle 8, Telepath, Telepathy
 - [Crystal Shard](/Psionics/C/CrystalShard.md) - Circle 1, Shaper, Metacreativity
 - [Crystallize](/Psionics/C/Crystallize.md) - Circle 7, Shaper, Metacreativity
+- [Cut Guns](/Psionics/C/CutGuns.md) - Circle 5, Kineticist, Psychokinesis
 
 ## D
 

@@ -30,6 +30,7 @@
 
 - [Alarm](/Magic/A/Alarm.md) - Druid 1 / Illusionist 1 / Wizard 1, Protection, Abjuration
 - [Animate Rope](/Magic/A/AnimateRope.md) - Wizard 1, Magic, Transmutation
+- [Anklets of Tripping](/Magic/A/AnkletsOfTripping.md) - Cleric 1 / Wizard 1, Earth, Conjuration
 - [Book God's Page](/Magic/B/BookGodsPage.md) - Cleric 1 / Wizard 1, Knowledge, Transmutation
 - [Burning Hands](/Magic/B/BurningHands.md) - Wizard 1, Fire, Evocation
 - [Cause Fear](/Magic/C/CauseFear.md) - Cleric 1 / Illusionist 1 / Wizard 1, War, Necromancy
@@ -78,11 +79,13 @@
 
 - [Book God's Book](/Magic/B/BookGodsBook.md) - Cleric 2 / Wizard 2, Knowledge, Transmutation
 - [Bucket of Suds](/Magic/B/BucketOfSuds.md) - Illusionist 1 / Wizard 2, Water, Illusion
+- [See Electricity](/Magic/S/SeeElectricity.md) - Illusionist 3 / Wizard 2, Air, Divination
 - [Sound Burst](/Magic/S/SoundBurst.md)
 
 ## 3rd Circle
 
 - [Book God's Page, Fast](/Magic/B/BookGodsPageFast.md) - Cleric 3 / Wizard 3, Knowledge, Transmutation
+- [Protection From Bullets](/Magic/P/ProtectionFromBullets.md) - Wizard 3, Protection, Abjuration
 
 ## 4th Circle
 
@@ -92,10 +95,15 @@
 
 - [Arcane Eye, Penetrating](/Magic/A/ArcaneEyePenetrating.md) - Illusionist 5 / Wizard 5, Divination, Magic
 - [Create Lightning Crystal](/Magic/C/CreateLightningCrystal.md) - Druid 5 / Wizard 5, Air, Conjuration
+- [Hold Machine](/Magic/H/HoldMachine.md) - Illusionist 4 / Cleric 7 / Wizard 5, Law, Enchantment
 
 ## 6th Circle
 
+- [Gun Jam](/Magic/G/GunJam.md) - Wizard 6, War, Transmutation
+
 ## 7th Circle
+
+- [Explode Ammunition](/Magic/E/ExplodeAmmunition.md) - Wizard 7, Fire, Transmutation
 
 ## 8th Circle
 

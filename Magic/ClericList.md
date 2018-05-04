@@ -20,6 +20,7 @@
 
 ## 1st Circle
 
+- [Anklets of Tripping](/Magic/A/AnkletsOfTripping.md) - Cleric 1 / Wizard 1, Earth, Conjuration
 - [Bane](/Magic/B/Bane.md) - Cleric 1, Luck, Enchantment
 - [Bless](/Magic/B/Bless.md) - Cleric 1, Luck, Enchantment
 - [Bless Water](/Magic/B/BlessWater.md) - Cleric 1, Good, Transmutation
@@ -79,6 +80,8 @@
 ## 6th Circle
 
 ## 7th Circle
+
+- [Hold Machine](/Magic/H/HoldMachine.md) - Illusionist 4 / Cleric 7 / Wizard 5, Law, Enchantment
 
 ## 8th Circle
 

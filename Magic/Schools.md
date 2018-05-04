@@ -19,6 +19,7 @@ The schools are:
 - [Entropic Shield](/Magic/E/EntropicShield.md) - Cleric 1, Luck, Abjuration
 - [Hide from Undead](/Magic/H/HideFromUndead.md)
 - [Hold Portal](/Magic/H/HoldPortal.md)
+- [Protection From Bullets](/Magic/P/ProtectionFromBullets.md) - Wizard 3, Protection, Abjuration
 - [Protection From Chaos](/Magic/P/ProtectionFromChaos.md)
 - [Protection From Evil](/Magic/P/ProtectionFromEvil.md)
 - [Protection From Good](/Magic/P/ProtectionFromGood.md)
@@ -30,6 +31,7 @@ The schools are:
 ## Conjuration
 
 - [Acid Splash](/Magic/A/AcidSplash.md) - Wizard 0, Destruction, Conjuration
+- [Anklets of Tripping](/Magic/A/AnkletsOfTripping.md) - Cleric 1 / Wizard 1, Earth, Conjuration
 - [Create Ink](/Magic/C/CreateInk.md) - Cleric 2, Knowledge, Conjuration
 - [Create Paper](/Magic/C/CreatePaper.md) - Cleric 3, Knowledge, Conjuration
 - [Create Water](/Magic/C/CreateWater.md) - Cleric 0 / Druid 0, Water, Conjuration
@@ -67,6 +69,7 @@ The schools are:
 - [Identify](/Magic/I/Identify.md)
 - [Know Direction](/Magic/K/KnowDirection.md)
 - [Read Magic](/Magic/R/ReadMagic.md)
+- [See Electricity](/Magic/S/SeeElectricity.md) - Illusionist 3 / Wizard 2, Air, Divination
 - [Speak with Animals](/Magic/S/SpeakWithAnimals.md)
 - [True Strike](/Magic/T/TrueStrike.md)
 
@@ -79,6 +82,7 @@ The schools are:
 - [Charm Person](/Magic/C/CharmPerson.md) - Illusionist 1 / Wizard 1, Trickery, Enchantment
 - [Command](/Magic/C/Command.md) - Cleric 1, Trickery, Enchantment
 - [Daze](/Magic/D/Daze.md) - Illusionist 0 / Wizard 0, Trickery, Enchantment
+- [Hold Machine](/Magic/H/HoldMachine.md) - Illusionist 4 / Cleric 7 / Wizard 5, Law, Enchantment
 - [Hypnotism](/Magic/H/Hypnotism.md)
 - [Sleep](/Magic/S/Sleep.md)
 
@@ -137,8 +141,10 @@ The schools are:
 - [Entangle](/Magic/E/Entangle.md) - Druid 1, Plant, Transmutation
 - [Erase](/Magic/E/Erase.md)
 - [Expeditious Retreat](/Magic/E/ExpeditiousRetreat.md)
+- [Explode Ammunition](/Magic/E/ExplodeAmmunition.md) - Wizard 7, Fire, Transmutation
 - [Feather Fall](/Magic/F/FeatherFall.md)
 - [Goodberry](/Magic/G/Goodberry.md)
+- [Gun Jam](/Magic/G/GunJam.md) - Wizard 6, War, Transmutation
 - [Jump](/Magic/J/Jump.md)
 - [Longstrider](/Magic/L/Longstrider.md)
 - [Magic Fang](/Magic/M/MagicFang.md)

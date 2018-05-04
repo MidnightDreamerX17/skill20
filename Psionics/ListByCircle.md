@@ -206,6 +206,7 @@
 - [Catapsi](/Psionics/C/Catapsi.md) - Circle 5, Warrior, Telepathy
 - [Claw of Energy](/Psionics/C/ClawOfEnergy.md) - Circle 5, Warrior, Psychokinesis
 - [Control Body](/Psionics/C/ControlBody.md) - Circle 5, Kineticist, Psychokinesis
+- [Cut Guns](/Psionics/C/CutGuns.md) - Circle 5, Kineticist, Psychokinesis
 - [Dimensional Anchor, Psionic](/Psionics/D/DimensionalAnchorPsionic.md) - Circle 5, Nomad, Psychoportation
 - [Dismissal, Psionic](/Psionics/D/DismissalPsionic.md) - Circle 5, Nomad, Psychoportation
 - [Dominate, Psionic](/Psionics/D/DominatePsionic.md) - Circle 5, Telepath, Telepathy

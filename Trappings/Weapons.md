@@ -50,6 +50,8 @@
 | Mini-Staff             | 0      | 1d6 impact     |         |
 | Morningstar            | 8.00   | 1d8 impact     |         |
 | Tetsubo                | 25.00  | 1d12 impact    | 2-handed
+| Tonfa                  | 1.00   | 1d6 impact     |         |
+| Truncheon              | 1.00   | 1d6 impact     |         |
 | Warhammer              | 12.00  | 1d8 impact     |         |
 
 ## Polearms, Pikes, and Lances
@@ -70,6 +72,7 @@
 | Dagger, Punching  | 2.00    | 1d4 puncture   | finesse, concealable
 | Kama              | 2.00    | 1d6 slash      | finesse, disguisable as farm tool
 | Kukri             | 8.00    | 1d4 slash      | finesse, concealable
+| Metal Calligraphy Pen | 1.00 | 1d4 puncture  | finesse, concealable
 | Nunchaku          | 2.00    | 1d6 impact     | finesse
 | Rolled-up Paper   | 0       | 1d4 impact     |         |
 | Sai               | 1.00    | 1d4 puncture   | finesse, throwable (map range increment 10 feet)
