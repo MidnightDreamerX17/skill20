@@ -165,6 +165,7 @@ The domains are:
 - [Entangle](/Magic/E/Entangle.md) - Druid 1, Plant, Transmutation
 - [Friendly Fungus](/Magic/F/FriendlyFungus.md) - Druid 4 / Illusionist 4, Plant, Conjuration
 - [Goodberry](/Magic/G/Goodberry.md)
+- [Minty Fresh Bouquet](/Magic/M/MintyFreshBouquet.md) - Druid 0 / Illusionist 0, Plant, Illusion
 - [Shillelagh](/Magic/S/Shillelagh.md)
 - [Snakes to Sticks](/Magic/S/SnakesToSticks.md) - Cleric 4, Plant, Transmutation
 - [Sticks to Snakes](/Magic/S/SticksToSnakes.md) - Cleric 4, Plant, Transmutation

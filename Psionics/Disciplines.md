@@ -322,7 +322,7 @@ The psionic disciplines are as follows:
 - [Shatter Mind Blank](/Psionics/S/ShatterMindBlank.md) - Circle 5, Power, Telepathy
 - [Skate](/Psionics/S/Skate.md) - Circle 1, Warrior, Psychoportation
 - [Solicit Psicrystal](/Psionics/S/SolicitPsicrystal.md) - Circle 3, Power, Telepathy
-- [Suggestion, Psionic](/Psionics/S/SuggestionPsion.md) - Circle 3, Telepath, Telepathy
+- [Suggestion, Psionic](/Psionics/S/SuggestionPsionic.md) - Circle 3, Telepath, Telepathy
 - [Telempathic Projection](/Psionics/T/TelempathicProjection.md) - Circle 1, Telepath, Telepathy
 - [Thought Shield](/Psionics/T/ThoughtShield.md) - Circle 2, Power, Telepathy
 - [Tongues, Psionic](/Psionics/T/TonguesPsionic.md) - Circle 2, Telepath, Telepathy

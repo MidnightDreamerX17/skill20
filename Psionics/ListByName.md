@@ -316,7 +316,7 @@
 - [Steadfast Perception](/Psionics/S/SteadfastPerception.md) - Circle 5, Warrior, Clairsentience
 - [Stomp](/Psionics/S/Stomp.md) - Circle 2, Warrior, Psychokinesis
 - [Strength of My Enemy](/Psionics/S/StrengthOfMyEnemy.md) - Circle 3, Warrior, Psychometabolism
-- [Suggestion, Psionic](/Psionics/S/SuggestionPsion.md) - Circle 3, Telepath, Telepathy
+- [Suggestion, Psionic](/Psionics/S/SuggestionPsionic.md) - Circle 3, Telepath, Telepathy
 - [Suspend Life](/Psionics/S/SuspendLife.md) - Circle 6, Warrior, Psychometabolism
 - [Sustenance](/Psionics/S/Sustenance.md) - Circle 2, Warrior, Psychometabolism
 - [Swarm of Crystals](/Psionics/S/SwarmOfCrystals.md) - Circle 2, Shaper, Metacreativity

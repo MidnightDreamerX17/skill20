@@ -16,6 +16,7 @@
 - [Magic Clock](/Magic/M/MagicClock.md) - Cleric 0 / Druid 0 / Illusionist 0 / Wizard 0, Sun, Universal
 - [Mending](/Magic/M/Mending.md)
 - [Message](/Magic/M/Message.md)
+- [Minty Fresh Bouquet](/Magic/M/MintyFreshBouquet.md) - Druid 0 / Illusionist 0, Plant, Illusion
 - [Open/Close](/Magic/O/OpenClose.md)
 - [Prestidigitation](/Magic/P/Prestidigitation.md)
 - [Read Magic](/Magic/R/ReadMagic.md)

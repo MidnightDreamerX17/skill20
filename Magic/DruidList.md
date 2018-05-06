@@ -13,6 +13,7 @@
 - [Light](/Magic/L/Light.md)
 - [Magic Clock](/Magic/M/MagicClock.md) - Cleric 0 / Druid 0 / Illusionist 0 / Wizard 0, Sun, Universal
 - [Mending](/Magic/M/Mending.md)
+- [Minty Fresh Bouquet](/Magic/M/MintyFreshBouquet.md) - Druid 0 / Illusionist 0, Plant, Illusion
 - [Purify Food and Drink](/Magic/P/PurifyFoodAndDrink.md)
 - [Read Magic](/Magic/R/ReadMagic.md)
 - [Resistance](/Magic/R/Resistance.md)

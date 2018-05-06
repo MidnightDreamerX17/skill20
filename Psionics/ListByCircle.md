@@ -154,7 +154,7 @@
 - [Share Pain, Forced](/Psionics/S/SharePainForced.md) - Circle 3, Power, Psychometabolism
 - [Solicit Psicrystal](/Psionics/S/SolicitPsicrystal.md) - Circle 3, Power, Telepathy
 - [Strength of My Enemy](/Psionics/S/StrengthOfMyEnemy.md) - Circle 3, Warrior, Psychometabolism
-- [Suggestion, Psionic](/Psionics/S/SuggestionPsion.md) - Circle 3, Telepath, Telepathy
+- [Suggestion, Psionic](/Psionics/S/SuggestionPsionic.md) - Circle 3, Telepath, Telepathy
 - [Telekinetic Force](/Psionics/T/TelekineticForce.md) - Circle 3, Kineticist, Psychokinesis
 - [Telekinetic Thrust](/Psionics/T/TelekineticThrust.md) - Circle 3, Kineticist, Psychokinesis
 - [Time Hop](/Psionics/T/TimeHop.md) - Circle 3, Nomad, Psychoportation

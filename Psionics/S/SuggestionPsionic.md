@@ -1,6 +1,6 @@
 # Suggestion, Psionic
 
-[Suggestion, Psionic](/Psionics/S/SuggestionPsion.md) - Circle 3, Telepath, Telepathy
+[Suggestion, Psionic](/Psionics/S/SuggestionPsionic.md) - Circle 3, Telepath, Telepathy
 
 - **Circle:** 3
 - **Category:** Telepath

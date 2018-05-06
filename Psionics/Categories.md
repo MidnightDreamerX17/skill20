@@ -271,7 +271,7 @@ The psionic categories are as follows:
 - [Schism](/Psionics/S/Schism.md) - Circle 5, Telepath, Telepathy
 - [Sense Link](/Psionics/S/SenseLink.md) - Circle 1, Telepath, Telepathy
 - [Sense Link, Forced](/Psionics/S/SenseLinkForced.md) - Circle 2, Telepath, Telepathy
-- [Suggestion, Psionic](/Psionics/S/SuggestionPsion.md) - Circle 3, Telepath, Telepathy
+- [Suggestion, Psionic](/Psionics/S/SuggestionPsionic.md) - Circle 3, Telepath, Telepathy
 - [Telempathic Projection](/Psionics/T/TelempathicProjection.md) - Circle 1, Telepath, Telepathy
 - [Tongues, Psionic](/Psionics/T/TonguesPsionic.md) - Circle 2, Telepath, Telepathy
 - [Touch Speech](/Psionics/T/TouchSpeech.md) - Circle 0, Telepath, Telepathy

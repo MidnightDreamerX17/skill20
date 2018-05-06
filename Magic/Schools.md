@@ -110,6 +110,7 @@ The schools are:
 - [Holographic Cure Light Wounds](/Magic/H/HolographicCureLightWounds.md)
 - [Holographic Cure Minor Wounds](/Magic/H/HolographicCureMinorWounds.md)
 - [Magic Aura](/Magic/M/MagicAura.md)
+- [Minty Fresh Bouquet](/Magic/M/MintyFreshBouquet.md) - Druid 0 / Illusionist 0, Plant, Illusion
 - [Silent Image](/Magic/S/SilentImage.md)
 - [Summon Illusory Creature 0](/Magic/S/SummonIllusoryCreature0.md) - Illusionist 0, Trickery, Illusion
 - [Summon Illusory Creature I](/Magic/S/SummonIllusoryCreature1.md)
