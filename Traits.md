@@ -113,6 +113,8 @@
 
 **Hoarder** - The character cannot sell anything, and cannot trade or give to anyone who will just sell it later. The character must make an Intelligence or Wisdom check at difficulty 30 in order to throw away or sell something.
 
+**Hunger Compulsion** - The character goes into a frenzy upon being in environments where there is plenty of food and drink. The character has a penalty of -2 to all d20 rolls in such environments. Causes could include and are not limited to: growing up hungry, being unable to feel full until it is too late, etc.
+
 **Low Attribute (Specific)** - One of the character's attributes is decreased by 2.
 
 **Moon Madness** - During the three nights of the full moon, the character is unable to sleep while the full moon is out in the night sky. The character has a penalty of -2 to all d20 checks until they are able to rest for eight hours. The character also rolls a d20 in each full moon night to determine if they run around under the stars. On a roll of 1, they run around uncontrollable beneath the night sky while the full moon is showing.

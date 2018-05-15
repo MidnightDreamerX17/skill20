@@ -121,6 +121,7 @@ The psionic disciplines are as follows:
 - [Eradicate Invisibility](/Psionics/E/EradicateInvisibility.md) - Circle 3, Power, Psychokinesis
 - [Far Hand](/Psionics/F/FarHand.md) - Circle 1, Kineticist, Psychokinesis
 - [Fiery Discorporation](/Psionics/F/FieryDiscorporation.md) - Circle 6, Kineticist, Psychokinesis
+- [Force Palm](/Psionics/F/ForcePalm.md) - Circle 3, Kineticist, Psychokinesis
 - [Force Screen](/Psionics/F/ForceScreen.md) - Circle 1, Warrior, Psychokinesis
 - [Inertial Armor](/Psionics/I/InertialArmor.md) - Circle 1, Warrior, Psychokinesis
 - [Inertial Barrier](/Psionics/I/InertialBarrier.md) - Circle 5, Kineticist, Psychokinesis

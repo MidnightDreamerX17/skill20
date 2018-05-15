@@ -106,7 +106,10 @@
 ## 7th Circle
 
 - [Explode Ammunition](/Magic/E/ExplodeAmmunition.md) - Wizard 7, Fire, Transmutation
+- [Teleport to the Capital City of Neutrality](/Magic/T/TeleportToTheCapitalCityOfNeutrality.md) - Cleric 7 / Wizard 7, Travel, Conjuration
 
 ## 8th Circle
+
+- [Plane Shift Improved](/Magic/P/PlaneShiftImproved.md) - Cleric 6 / Wizard 8, Travel, Conjuration
 
 ## 9th Circle

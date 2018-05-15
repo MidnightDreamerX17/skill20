@@ -45,10 +45,12 @@ The schools are:
 - [Mage Armor](/Magic/M/MageArmor.md) - Wizard 1, Protection, Conjuration
 - [Mount](/Magic/M/Mount.md)
 - [Obscuring Mist](/Magic/O/ObscuringMist.md)
+- [Plane Shift Improved](/Magic/P/PlaneShiftImproved.md) - Cleric 6 / Wizard 8, Travel, Conjuration
 - [Summon Monster 0](/Magic/S/SummonMonster0.md) - Cleric 0 / Wizard 0, variable Domain, Conjuration
 - [Summon Monster I](/Magic/S/SummonMonster1.md)
 - [Summon Nature's Ally 0](/Magic/S/SummonNaturesAlly0.md) - Druid 0, Animal, Conjuration
 - [Summon Nature's Ally I](/Magic/S/SummonNaturesAlly1.md)
+- [Teleport to the Capital City of Neutrality](/Magic/T/TeleportToTheCapitalCityOfNeutrality.md) - Cleric 7 / Wizard 7, Travel, Conjuration
 - [Unseen Servant](/Magic/U/UnseenServant.md)
 
 ## Divination

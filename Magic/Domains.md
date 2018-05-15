@@ -204,6 +204,8 @@ The domains are:
 - [Expeditious Retreat](/Magic/E/ExpeditiousRetreat.md) - Wizard 1, Travel, Transmutation
 - [Jump](/Magic/J/Jump.md) - Druid 1 / Wizard 1, Travel, Transmutation
 - [Longstrider](/Magic/L/Longstrider.md) - Druid 1, Travel, Transmutation
+- [Plane Shift Improved](/Magic/P/PlaneShiftImproved.md) - Cleric 6 / Wizard 8, Travel, Conjuration
+- [Teleport to the Capital City of Neutrality](/Magic/T/TeleportToTheCapitalCityOfNeutrality.md) - Cleric 7 / Wizard 7, Travel, Conjuration
 
 ## Trickery
 

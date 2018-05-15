@@ -67,6 +67,7 @@ The psionic categories are as follows:
 - [Energy Wave](/Psionics/E/EnergyWave.md) - Circle 7, Kineticist, Psychokinesis
 - [Far Hand](/Psionics/F/FarHand.md) - Circle 1, Kineticist, Psychokinesis
 - [Fiery Discorporation](/Psionics/F/FieryDiscorporation.md) - Circle 6, Kineticist, Psychokinesis
+- [Force Palm](/Psionics/F/ForcePalm.md) - Circle 3, Kineticist, Psychokinesis
 - [Inertial Barrier](/Psionics/I/InertialBarrier.md) - Circle 5, Kineticist, Psychokinesis
 - [Intellect Fortress](/Psionics/I/IntellectFortress.md) - Circle 4, Kineticist, Psychokinesis
 - [Knock, Psionic](/Psionics/K/KnockPsionic.md) - Circle 2, Kineticist, Psychoportation

@@ -138,6 +138,7 @@
 - [Energy Retort](/Psionics/E/EnergyRetort.md) - Circle 3, Kineticist, Psychokinesis
 - [Energy Wall](/Psionics/E/EnergyWall.md) - Circle 3, Kineticist, Metacreativity
 - [Eradicate Invisibility](/Psionics/E/EradicateInvisibility.md) - Circle 3, Power, Psychokinesis
+- [Force Palm](/Psionics/F/ForcePalm.md) - Circle 3, Kineticist, Psychokinesis
 - [Hustle](/Psionics/H/Hustle.md) - Circle 3, Egoist, Psychometabolism
 - [Keen Edge, Psionic](/Psionics/K/KeenEdgePsionic.md) - Circle 3, Warrior, Metacreativity
 - [Mental Barrier](/Psionics/M/MentalBarrier.md) - Circle 3, Warrior, Clairsentience

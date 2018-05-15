@@ -79,9 +79,12 @@
 
 ## 6th Circle
 
+- [Plane Shift Improved](/Magic/P/PlaneShiftImproved.md) - Cleric 6 / Wizard 8, Travel, Conjuration
+
 ## 7th Circle
 
 - [Hold Machine](/Magic/H/HoldMachine.md) - Illusionist 4 / Cleric 7 / Wizard 5, Law, Enchantment
+- [Teleport to the Capital City of Neutrality](/Magic/T/TeleportToTheCapitalCityOfNeutrality.md) - Cleric 7 / Wizard 7, Travel, Conjuration
 
 ## 8th Circle
 

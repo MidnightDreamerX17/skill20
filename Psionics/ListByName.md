@@ -160,6 +160,7 @@
 - [Fission](/Psionics/F/Fission.md) - Circle 8, Egoist, Psychometabolism
 - [Float](/Psionics/F/Float.md) - Circle 1, Warrior, Psychoportation
 - [Fly, Psionic](/Psionics/F/FlyPsionic.md) - Circle 5, Nomad, Psychoportation
+- [Force Palm](/Psionics/F/ForcePalm.md) - Circle 3, Kineticist, Psychokinesis
 - [Force Screen](/Psionics/F/ForceScreen.md) - Circle 1, Warrior, Psychokinesis
 - [Form of Doom](/Psionics/F/FormOfDoom.md) - Circle 7, Warrior, Psychometabolism
 - [Freedom of Movement, Psionic](/Psionics/F/FreedomOfMovementPsionic.md) - Circle 4, Warrior, Psychoportation
