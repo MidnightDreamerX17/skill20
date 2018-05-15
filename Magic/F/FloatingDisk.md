@@ -1,5 +1,7 @@
 # Floating Disk
 
+[Floating Disk](/Magic/F/FloatingDisk.md) - Wizard 1, Air, Evocation
+
 - **Circle:** Wizard 1
 - **Domain:** Air
 - **School:** Evocation

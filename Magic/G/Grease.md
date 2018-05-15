@@ -1,5 +1,7 @@
 # Grease
 
+[Grease](/Magic/G/Grease.md) - Wizard 1, Animal, Conjuration
+
 - **Circle:** Wizard 1
 - **Domain:** Animal
 - **School:** Conjuration

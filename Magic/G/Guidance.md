@@ -1,5 +1,7 @@
 # Guidance
 
+[Guidance](/Magic/G/Guidance.md) - Cleric 0 / Druid 0, Luck, Divination
+
 - **Circle:** Cleric 0, Druid 0
 - **Domain:** Luck
 - **School:** Divination

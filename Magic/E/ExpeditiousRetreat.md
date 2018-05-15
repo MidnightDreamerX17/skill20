@@ -1,5 +1,7 @@
 # Expeditious Retreat
 
+[Expeditious Retreat](/Magic/E/ExpeditiousRetreat.md) - Wizard 1, Travel, Transmutation
+
 - **Circle:** Wizard 1
 - **Domain:** Travel
 - **School:** Transmutation

@@ -1,5 +1,7 @@
 # Faerie Fire
 
+[Faerie Fire](/Magic/F/FaerieFire.md) - Druid 1 / Illusionist 1, Luck, Evocation
+
 - **Circle:** Druid 1, Illusionist 1
 - **Domain:** Luck
 - **School:** Evocation
@@ -13,4 +15,6 @@
 - **Saving Throw:** None
 - **Spell Resistance:** Yes
 
-A pale glow surrounds and outlines the subjects. Outlined subjects shed light as candles. Outlined creatures do not benefit from the concealment normally provided by darkness (though a 2nd-circle or higher magical *darkness* effect functions normally), *Blur*, *Displacement*, *Invisibility*, or similar effects. The light is too dim to have any special effect on undead or dark-dwelling creatures vulnerable to light. The faerie fire can be blue, green, or violet, according to your choice at the time of casting. The faerie fire does not cause any harm to the objects or creatures thus outlined.
+*Faerie Fire* targets all creatures and objects within the area of effect, even if the caster cannot see them.
+
+A pale glow surrounds and outlines the subjects. Outlined subjects shed light as candles. Outlined creatures do not benefit from the concealment normally provided by darkness (though a 2nd-circle or higher magical *darkness* effect functions normally), *Blur*, *Displacement*, *Invisibility*, or similar effects. The light is too dim to have any special effect on undead or dark-dwelling creatures vulnerable to light. The *faerie fire* can be blue, green, or violet, according to your choice at the time of casting. The *faerie fire* does not cause any harm to the objects or creatures thus outlined.

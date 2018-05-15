@@ -1,5 +1,7 @@
 # Erase
 
+[Erase](/Magic/E/Erase.md) - Illusionist 1 / Wizard 1, Knowledge, Transmutation
+
 - **Circle:** Illusionist 1, Wizard 1
 - **Domain:** Knowledge
 - **School:** Transmutation

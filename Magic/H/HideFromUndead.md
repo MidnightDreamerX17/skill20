@@ -1,5 +1,7 @@
 # Hide from Undead
 
+[Hide From Undead](/Magic/H/HideFromUndead.md) - Cleric 1, Death, Abjuration
+
 - **Circle:** Cleric 1
 - **Domain:** Death
 - **School:** Abjuration

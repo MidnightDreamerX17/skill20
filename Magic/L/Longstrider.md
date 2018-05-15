@@ -1,5 +1,7 @@
 # Longstrider
 
+[Longstrider](/Magic/L/Longstrider.md) - Druid 1, Travel, Transmutation
+
 - **Circle:** Druid 1
 - **Domain:** Travel
 - **School:** Transmutation

@@ -1,5 +1,7 @@
 # Hypnotism
 
+[Hypnotism](/Magic/H/Hypnotism.md) - Illusionist 1 / Wizard 1, Trickery, Enchantment
+
 - **Circle:** Illusionist 1, Wizard 1
 - **Domain:** Trickery
 - **School:** Enchantment

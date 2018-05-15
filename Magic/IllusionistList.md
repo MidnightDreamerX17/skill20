@@ -8,11 +8,11 @@
 - [Detect Magic](/Magic/D/DetectMagic.md) - Cleric 0 / Druid 0 / Illusionist 0 / Wizard 0, Magic, Divination
 - [Detect Poison](/Magic/D/DetectPoison.md) - Cleric 0 / Druid 0 / Illusionist 0 / Wizard 0, Magic, Divination
 - [Eldritch Blast](/Magic/E/EldritchBlast.md) - Illusionist 0 / Wizard 0, Magic, Evocation
-- [Flare](/Magic/F/Flare.md)
-- [Ghost Sound](/Magic/G/GhostSound.md)
-- [Holographic Cure Minor Wounds](/Magic/H/HolographicCureMinorWounds.md)
-- [Light](/Magic/L/Light.md)
-- [Mage Hand](/Magic/M/MageHand.md)
+- [Flare](/Magic/F/Flare.md) - Druid 0 / Illusionist 0 / Wizard 0, Sun, Evocation
+- [Ghost Sound](/Magic/G/GhostSound.md) - Illusionist 0 / Wizard 0, Trickery, Illusionist
+- [Holographic Cure Minor Wounds](/Magic/H/HolographicCureMinorWounds.md) - Illusionist 0, Healing, Illusion
+- [Light](/Magic/L/Light.md) - Cleric 0 / Druid 0 / Illusionist 0 / Wizard 0, Sun, Evocation
+- [Mage Hand](/Magic/M/MageHand.md) - Illusionist 0 / Wizard 0, Magic, Transmutation
 - [Magic Clock](/Magic/M/MagicClock.md) - Cleric 0 / Druid 0 / Illusionist 0 / Wizard 0, Sun, Universal
 - [Mending](/Magic/M/Mending.md)
 - [Message](/Magic/M/Message.md)
@@ -36,10 +36,10 @@
 - [Comprehend Languages](/Magic/C/ComprehendLanguages.md) - Cleric 1 / Illusionist 1 / Wizard 1, Knowledge, Divination
 - [Detect Secret Doors](/Magic/D/DetectSecretDoors.md) - Illusionist 1 / Wizard 1, Knowledge, Divination
 - [Disguise Self](/Magic/D/DisguiseSelf.md) - Illusionist 1 / Wizard 1, Trickery, Illusion
-- [Erase](/Magic/E/Erase.md)
-- [Faerie Fire](/Magic/F/FaerieFire.md)
-- [Holographic Cure Light Wounds](/Magic/H/HolographicCureLightWounds.md)
-- [Hypnotism](/Magic/H/Hypnotism.md)
+- [Erase](/Magic/E/Erase.md) - Illusionist 1 / Wizard 1, Knowledge, Transmutation
+- [Faerie Fire](/Magic/F/FaerieFire.md) - Druid 1 / Illusionist 1, Luck, Evocation
+- [Holographic Cure Light Wounds](/Magic/H/HolographicCureLightWounds.md) - Illusionist 1, Healing, Illusion
+- [Hypnotism](/Magic/H/Hypnotism.md) - Illusionist 1 / Wizard 1, Trickery, Enchantment
 - [Magic Aura](/Magic/M/MagicAura.md)
 - [Obscuring Mist](/Magic/O/ObscuringMist.md)
 - [Remove Fear](/Magic/R/RemoveFear.md)
@@ -52,7 +52,7 @@
 
 ## 2nd Circle
 
-- [Identify](/Magic/I/Identify.md)
+- [Identify](/Magic/I/Identify.md) - Cleric 2 / Druid 2 / Illusionist 2 / Wizard 1, Magic, Divination
 
 ## 3rd Circle
 

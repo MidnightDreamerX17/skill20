@@ -1,5 +1,7 @@
 # Mage Armor
 
+[Mage Armor](/Magic/M/MageArmor.md) - Wizard 1, Protection, Conjuration
+
 - **Circle:** Wizard 1
 - **Domain:** Protection
 - **School:** Conjuration
@@ -13,6 +15,6 @@
 - **Saving Throw:** Wisdom negates (harmless)
 - **Spell Resistance:** No
 
-An invisible but tangible field of force surrounds the subject of a mage armor spell, providing a +4 bonus to AC.
+An invisible but tangible field of force surrounds the subject of a *mage armor* spell, providing a +4 bonus to AC.
 
 Since *Mage Armor* is made of magical force, it works normally against incorporeal creatures.

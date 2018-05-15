@@ -17,8 +17,8 @@ The schools are:
 - [Alarm](/Magic/A/Alarm.md) - Druid 1 / Illusionist 1 / Wizard 1, Protection, Abjuration
 - [Endure Elements](/Magic/E/EndureElements.md) - Cleric 1 / Druid 1 / Wizard 1, Sun, Abjuration
 - [Entropic Shield](/Magic/E/EntropicShield.md) - Cleric 1, Luck, Abjuration
-- [Hide from Undead](/Magic/H/HideFromUndead.md)
-- [Hold Portal](/Magic/H/HoldPortal.md)
+- [Hide From Undead](/Magic/H/HideFromUndead.md) - Cleric 1, Death, Abjuration
+- [Hold Portal](/Magic/H/HoldPortal.md) - Wizard 1, Magic, Abjuration
 - [Protection From Bullets](/Magic/P/ProtectionFromBullets.md) - Wizard 3, Protection, Abjuration
 - [Protection From Chaos](/Magic/P/ProtectionFromChaos.md)
 - [Protection From Evil](/Magic/P/ProtectionFromEvil.md)
@@ -39,9 +39,10 @@ The schools are:
 - [Cure Minor Wounds](/Magic/C/CureMinorWounds.md) - Cleric 0 / Druid 0, Healing, Conjuration
 - [Dancing Lights](/Magic/D/DancingLights.md) - Illusionist 0 / Wizard 0, Sun, Evocation - Illusionist 0 / Wizard 0, Sun, Evocation
 - [Find Familiar](/Magic/F/FindFamiliar.md) - Druid 1 / Wizard 1, Animal, Conjuration
+- [Fireshot Totem](/Magic/F/FireshotTotem.md) - Wizard 3, Fire, Conjuration
 - [Friendly Fungus](/Magic/F/FriendlyFungus.md) - Druid 4 / Illusionist 4, Plant, Conjuration
-- [Grease](/Magic/G/Grease.md)
-- [Mage Armor](/Magic/M/MageArmor.md)
+- [Grease](/Magic/G/Grease.md) - Wizard 1, Animal, Conjuration
+- [Mage Armor](/Magic/M/MageArmor.md) - Wizard 1, Protection, Conjuration
 - [Mount](/Magic/M/Mount.md)
 - [Obscuring Mist](/Magic/O/ObscuringMist.md)
 - [Summon Monster 0](/Magic/S/SummonMonster0.md) - Cleric 0 / Wizard 0, variable Domain, Conjuration
@@ -65,9 +66,9 @@ The schools are:
 - [Detect Secret Doors](/Magic/D/DetectSecretDoors.md) - Illusionist 1 / Wizard 1, Knowledge, Divination
 - [Detect Snares and Pits](/Magic/D/DetectSnaresAndPits.md) - Druid 1, Earth, Divination
 - [Detect Undead](/Magic/D/DetectUndead.md) - Cleric 1 / Wizard 1, Death, Divination
-- [Guidance](/Magic/G/Guidance.md)
-- [Identify](/Magic/I/Identify.md)
-- [Know Direction](/Magic/K/KnowDirection.md)
+- [Guidance](/Magic/G/Guidance.md) - Cleric 0 / Druid 0, Luck, Divination
+- [Identify](/Magic/I/Identify.md) - Cleric 2 / Druid 2 / Illusionist 2 / Wizard 1, Magic, Divination
+- [Know Direction](/Magic/K/KnowDirection.md) - Druid 0, Earth, Divination
 - [Read Magic](/Magic/R/ReadMagic.md)
 - [See Electricity](/Magic/S/SeeElectricity.md) - Illusionist 3 / Wizard 2, Air, Divination
 - [Speak with Animals](/Magic/S/SpeakWithAnimals.md)
@@ -83,7 +84,7 @@ The schools are:
 - [Command](/Magic/C/Command.md) - Cleric 1, Trickery, Enchantment
 - [Daze](/Magic/D/Daze.md) - Illusionist 0 / Wizard 0, Trickery, Enchantment
 - [Hold Machine](/Magic/H/HoldMachine.md) - Illusionist 4 / Cleric 7 / Wizard 5, Law, Enchantment
-- [Hypnotism](/Magic/H/Hypnotism.md)
+- [Hypnotism](/Magic/H/Hypnotism.md) - Illusionist 1 / Wizard 1, Trickery, Enchantment
 - [Sleep](/Magic/S/Sleep.md)
 
 ## Evocation
@@ -91,10 +92,11 @@ The schools are:
 - [Burning Hands](/Magic/B/BurningHands.md) - Wizard 1, Fire, Evocation
 - [Divine Favor](/Magic/D/DivineFavor.md) - Cleric 1, Strength, Evocation
 - [Eldritch Blast](/Magic/E/EldritchBlast.md) - Illusionist 0 / Wizard 0, Magic, Evocation
-- [Faerie Fire](/Magic/F/FaerieFire.md)
-- [Flare](/Magic/F/Flare.md)
-- [Floating Disk](/Magic/F/FloatingDisk.md)
-- [Light](/Magic/L/Light.md)
+- [Faerie Fire](/Magic/F/FaerieFire.md) - Druid 1 / Illusionist 1, Luck, Evocation
+- [Flare](/Magic/F/Flare.md) - Druid 0 / Illusionist 0 / Wizard 0, Sun, Evocation
+- [Floating Disk](/Magic/F/FloatingDisk.md) - Wizard 1, Air, Evocation
+- [Ground Sparks](/Magic/G/GroundSparks.md) - Wizard 3, Air, Evocation
+- [Light](/Magic/L/Light.md) - Cleric 0 / Druid 0 / Illusionist 0 / Wizard 0, Sun, Evocation
 - [Magic Missile](/Magic/M/MagicMissile.md)
 - [Produce Flame](/Magic/P/ProduceFlame.md)
 - [Ray of Frost](/Magic/R/RayOfFrost.md)
@@ -106,9 +108,9 @@ The schools are:
 - [Bucket of Suds](/Magic/B/BucketOfSuds.md) - Illusionist 1 / Wizard 2, Water, Illusion
 - [Color Spray](/Magic/C/ColorSpray.md) - Illusionist 1 / Wizard 1, Chaos, Illusion
 - [Disguise Self](/Magic/D/DisguiseSelf.md) - Illusionist 1 / Wizard 1, Trickery, Illusion
-- [Ghost Sound](/Magic/G/GhostSound.md)
-- [Holographic Cure Light Wounds](/Magic/H/HolographicCureLightWounds.md)
-- [Holographic Cure Minor Wounds](/Magic/H/HolographicCureMinorWounds.md)
+- [Ghost Sound](/Magic/G/GhostSound.md) - Illusionist 0 / Wizard 0, Trickery, Illusionist
+- [Holographic Cure Light Wounds](/Magic/H/HolographicCureLightWounds.md) - Illusionist 1, Healing, Illusion
+- [Holographic Cure Minor Wounds](/Magic/H/HolographicCureMinorWounds.md) - Illusionist 0, Healing, Illusion
 - [Magic Aura](/Magic/M/MagicAura.md)
 - [Minty Fresh Bouquet](/Magic/M/MintyFreshBouquet.md) - Druid 0 / Illusionist 0, Plant, Illusion
 - [Silent Image](/Magic/S/SilentImage.md)
@@ -140,14 +142,15 @@ The schools are:
 - [Book God's Page, Fast](/Magic/B/BookGodsPageFast.md) - Cleric 3 / Wizard 3, Knowledge, Transmutation
 - [Enlarge Person](/Magic/E/EnlargePerson.md) - Wizard 1, Strength, Transmutation
 - [Entangle](/Magic/E/Entangle.md) - Druid 1, Plant, Transmutation
-- [Erase](/Magic/E/Erase.md)
-- [Expeditious Retreat](/Magic/E/ExpeditiousRetreat.md)
+- [Erase](/Magic/E/Erase.md) - Illusionist 1 / Wizard 1, Knowledge, Transmutation
+- [Expeditious Retreat](/Magic/E/ExpeditiousRetreat.md) - Wizard 1, Travel, Transmutation
 - [Explode Ammunition](/Magic/E/ExplodeAmmunition.md) - Wizard 7, Fire, Transmutation
-- [Feather Fall](/Magic/F/FeatherFall.md)
-- [Goodberry](/Magic/G/Goodberry.md)
+- [Feather Fall](/Magic/F/FeatherFall.md) - Wizard 1, Air, Transmutation
+- [Goodberry](/Magic/G/Goodberry.md) - Druid 1, Plant, Transmutation
 - [Gun Jam](/Magic/G/GunJam.md) - Wizard 6, War, Transmutation
-- [Jump](/Magic/J/Jump.md)
-- [Longstrider](/Magic/L/Longstrider.md)
+- [Jump](/Magic/J/Jump.md) - Druid 1 / Wizard 1, Travel, Transmutation
+- [Longstrider](/Magic/L/Longstrider.md) - Druid 1, Travel, Transmutation
+- [Mage Hand](/Magic/M/MageHand.md) - Illusionist 0 / Wizard 0, Magic, Transmutation
 - [Magic Fang](/Magic/M/MagicFang.md)
 - [Magic Stone](/Magic/M/MagicStone.md)
 - [Mending](/Magic/M/Mending.md)

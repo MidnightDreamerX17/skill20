@@ -11,10 +11,10 @@
 - [Detect Poison](/Magic/D/DetectPoison.md) - Cleric 0 / Druid 0 / Illusionist 0 / Wizard 0, Magic, Divination
 - [Disrupt Undead](/Magic/D/DisruptUndead.md) - Cleric 0 / Wizard 0, Death, Necromancy
 - [Eldritch Blast](/Magic/E/EldritchBlast.md) - Illusionist 0 / Wizard 0, Magic, Evocation
-- [Flare](/Magic/F/Flare.md)
-- [Ghost Sound](/Magic/G/GhostSound.md)
-- [Light](/Magic/L/Light.md)
-- [Mage Hand](/Magic/M/MageHand.md)
+- [Flare](/Magic/F/Flare.md) - Druid 0 / Illusionist 0 / Wizard 0, Sun, Evocation
+- [Ghost Sound](/Magic/G/GhostSound.md) - Illusionist 0 / Wizard 0, Trickery, Illusionist
+- [Light](/Magic/L/Light.md) - Cleric 0 / Druid 0 / Illusionist 0 / Wizard 0, Sun, Evocation
+- [Mage Hand](/Magic/M/MageHand.md) - Illusionist 0 / Wizard 0, Magic, Transmutation
 - [Magic Clock](/Magic/M/MagicClock.md) - Cleric 0 / Druid 0 / Illusionist 0 / Wizard 0, Sun, Universal
 - [Mending](/Magic/M/Mending.md)
 - [Message](/Magic/M/Message.md)
@@ -43,17 +43,17 @@
 - [Disguise Self](/Magic/D/DisguiseSelf.md) - Illusionist 1 / Wizard 1, Trickery, Illusion
 - [Endure Elements](/Magic/E/EndureElements.md) - Cleric 1 / Druid 1 / Wizard 1, Sun, Abjuration
 - [Enlarge Person](/Magic/E/EnlargePerson.md) - Wizard 1, Strength, Transmutation
-- [Erase](/Magic/E/Erase.md)
-- [Expeditious Retreat](/Magic/E/ExpeditiousRetreat.md)
-- [Feather Fall](/Magic/F/FeatherFall.md)
+- [Erase](/Magic/E/Erase.md) - Illusionist 1 / Wizard 1, Knowledge, Transmutation
+- [Expeditious Retreat](/Magic/E/ExpeditiousRetreat.md) - Wizard 1, Travel, Transmutation
+- [Feather Fall](/Magic/F/FeatherFall.md) - Wizard 1, Air, Transmutation
 - [Find Familiar](/Magic/F/FindFamiliar.md) - Druid 1 / Wizard 1, Animal, Conjuration
-- [Floating Disk](/Magic/F/FloatingDisk.md)
-- [Grease](/Magic/G/Grease.md)
-- [Hold Portal](/Magic/H/HoldPortal.md)
-- [Hypnotism](/Magic/H/Hypnotism.md)
-- [Identify](/Magic/I/Identify.md)
-- [Jump](/Magic/J/Jump.md)
-- [Mage Armor](/Magic/M/MageArmor.md)
+- [Floating Disk](/Magic/F/FloatingDisk.md) - Wizard 1, Air, Evocation
+- [Grease](/Magic/G/Grease.md) - Wizard 1, Animal, Conjuration
+- [Hold Portal](/Magic/H/HoldPortal.md) - Wizard 1, Magic, Abjuration
+- [Hypnotism](/Magic/H/Hypnotism.md) - Illusionist 1 / Wizard 1, Trickery, Enchantment
+- [Identify](/Magic/I/Identify.md) - Cleric 2 / Druid 2 / Illusionist 2 / Wizard 1, Magic, Divination
+- [Jump](/Magic/J/Jump.md) - Druid 1 / Wizard 1, Travel, Transmutation
+- [Mage Armor](/Magic/M/MageArmor.md) - Wizard 1, Protection, Conjuration
 - [Magic Aura](/Magic/M/MagicAura.md)
 - [Magic Missile](/Magic/M/MagicMissile.md)
 - [Magic Weapon](/Magic/M/MagicWeapon.md)
@@ -85,6 +85,8 @@
 ## 3rd Circle
 
 - [Book God's Page, Fast](/Magic/B/BookGodsPageFast.md) - Cleric 3 / Wizard 3, Knowledge, Transmutation
+- [Fireshot Totem](/Magic/F/FireshotTotem.md) - Wizard 3, Fire, Conjuration
+- [Ground Sparks](/Magic/G/GroundSparks.md) - Wizard 3, Air, Evocation
 - [Protection From Bullets](/Magic/P/ProtectionFromBullets.md) - Wizard 3, Protection, Abjuration
 
 ## 4th Circle

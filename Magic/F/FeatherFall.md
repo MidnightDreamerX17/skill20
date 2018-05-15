@@ -1,5 +1,7 @@
 # Feather Fall
 
+[Feather Fall](/Magic/F/FeatherFall.md) - Wizard 1, Air, Transmutation
+
 - **Circle:** Wizard 1
 - **Domain:** Air
 - **School:** Transmutation

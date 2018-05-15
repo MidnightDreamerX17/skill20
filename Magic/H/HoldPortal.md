@@ -1,5 +1,7 @@
 # Hold Portal
 
+[Hold Portal](/Magic/H/HoldPortal.md) - Wizard 1, Magic, Abjuration
+
 - **Circle:** Wizard 1
 - **Domain:** Magic
 - **School:** Abjuration

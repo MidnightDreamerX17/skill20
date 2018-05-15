@@ -28,8 +28,9 @@ The domains are:
 ## Air
 
 - [Create Lightning Crystal](/Magic/C/CreateLightningCrystal.md) - Druid 5 / Wizard 5, Air, Conjuration
-- [Feather Fall](/Magic/F/FeatherFall.md)
-- [Floating Disk](/Magic/F/FloatingDisk.md)
+- [Feather Fall](/Magic/F/FeatherFall.md) - Wizard 1, Air, Transmutation
+- [Floating Disk](/Magic/F/FloatingDisk.md) - Wizard 1, Air, Evocation
+- [Ground Sparks](/Magic/G/GroundSparks.md) - Wizard 3, Air, Evocation
 - [Obscuring Mist](/Magic/O/ObscuringMist.md)
 - [See Electricity](/Magic/S/SeeElectricity.md) - Illusionist 3 / Wizard 2, Air, Divination
 - [Shocking Grasp](/Magic/S/ShockingGrasp.md)
@@ -43,7 +44,7 @@ The domains are:
 - [Calm Animals](/Magic/C/CalmAnimals.md) - Druid 1 / Illusionist 1, Animal, Enchantment
 - [Charm Animal](/Magic/C/CharmAnimal.md) - Druid 1 / Illusionist 1, Animal, Enchantment
 - [Detect Animals or Plants](/Magic/D/DetectAnimalsOrPlants.md) - Druid 1, Animal & Plant, Divination
-- [Grease](/Magic/G/Grease.md)
+- [Grease](/Magic/G/Grease.md) - Wizard 1, Animal, Conjuration
 - [Mount](/Magic/M/Mount.md)
 - [Speak with Animals](/Magic/S/SpeakWithAnimals.md)
 - Summon Monster (animal)
@@ -61,7 +62,7 @@ The domains are:
 - [Chill Touch](/Magic/C/ChillTouch.md) - Cleric 1 / Wizard 1, Death, Necromancy
 - [Detect Undead](/Magic/D/DetectUndead.md) - Cleric 1 / Wizard 1, Death, Divination
 - [Disrupt Undead](/Magic/D/DisruptUndead.md) - Cleric 0 / Wizard 0, Death, Necromancy
-- [Hide from Undead](/Magic/H/HideFromUndead.md)
+- [Hide From Undead](/Magic/H/HideFromUndead.md) - Cleric 1, Death, Abjuration
 - [Ray of Enfeeblement](/Magic/R/RayOfEnfeeblement.md)
 - [Touch of Fatigue](/Magic/T/TouchOfFatigue.md)
 
@@ -76,7 +77,7 @@ The domains are:
 
 - [Anklets of Tripping](/Magic/A/AnkletsOfTripping.md) - Cleric 1 / Wizard 1, Earth, Conjuration
 - [Detect Snares and Pits](/Magic/D/DetectSnaresAndPits.md) - Druid 1, Earth, Divination
-- [Know Direction](/Magic/K/KnowDirection.md)
+- [Know Direction](/Magic/K/KnowDirection.md) - Druid 0, Earth, Divination
 - [Magic Stone](/Magic/M/MagicStone.md)
 - [Pass Without Trace](/Magic/P/PassWithoutTrace.md)
 - Summon Monster (elemental)
@@ -92,6 +93,7 @@ The domains are:
 
 - [Burning Hands](/Magic/B/BurningHands.md) - Wizard 1, Fire, Evocation
 - [Explode Ammunition](/Magic/E/ExplodeAmmunition.md) - Wizard 7, Fire, Transmutation
+- [Fireshot Totem](/Magic/F/FireshotTotem.md) - Wizard 3, Fire, Conjuration
 - [Produce Flame](/Magic/P/ProduceFlame.md)
 - Summon Monster (elemental)
 
@@ -105,8 +107,8 @@ The domains are:
 
 - [Cure Light Wounds](/Magic/C/CureLightWounds.md) - Cleric 1 / Druid 1, Healing, Conjuration
 - [Cure Minor Wounds](/Magic/C/CureMinorWounds.md) - Cleric 0 / Druid 0, Healing, Conjuration
-- [Holographic Cure Light Wounds](/Magic/H/HolographicCureLightWounds.md)
-- [Holographic Cure Minor Wounds](/Magic/H/HolographicCureMinorWounds.md)
+- [Holographic Cure Light Wounds](/Magic/H/HolographicCureLightWounds.md) - Illusionist 1, Healing, Illusion
+- [Holographic Cure Minor Wounds](/Magic/H/HolographicCureMinorWounds.md) - Illusionist 0, Healing, Illusion
 - [Purify Food and Drink](/Magic/P/PurifyFoodAndDrink.md)
 
 ## Knowledge
@@ -124,7 +126,7 @@ The domains are:
 - [Detect Law](/Magic/D/DetectLaw.md) - Cleric 1, Knowledge, Divination
 - [Detect Neutrality](/Magic/D/DetectNeutrality.md) - Cleric 1 / Druid 1, Knowledge, Divination
 - [Detect Secret Doors](/Magic/D/DetectSecretDoors.md) - Illusionist 1 / Wizard 1, Knowledge, Divination
-- [Erase](/Magic/E/Erase.md)
+- [Erase](/Magic/E/Erase.md) - Illusionist 1 / Wizard 1, Knowledge, Transmutation
 
 ## Law
 
@@ -138,8 +140,8 @@ The domains are:
 - [Bane](/Magic/B/Bane.md) - Cleric 1, Luck, Enchantment
 - [Bless](/Magic/B/Bless.md) - Cleric 1, Luck, Enchantment
 - [Entropic Shield](/Magic/E/EntropicShield.md) - Cleric 1, Luck, Abjuration
-- [Faerie Fire](/Magic/F/FaerieFire.md)
-- [Guidance](/Magic/G/Guidance.md)
+- [Faerie Fire](/Magic/F/FaerieFire.md) - Druid 1 / Illusionist 1, Luck, Evocation
+- [Guidance](/Magic/G/Guidance.md) - Cleric 0 / Druid 0, Luck, Divination
 - [True Strike](/Magic/T/TrueStrike.md)
 
 ## Magic
@@ -150,8 +152,9 @@ The domains are:
 - [Detect Magic](/Magic/D/DetectMagic.md) - Cleric 0 / Druid 0 / Illusionist 0 / Wizard 0, Magic, Divination
 - [Detect Poison](/Magic/D/DetectPoison.md) - Cleric 0 / Druid 0 / Illusionist 0 / Wizard 0, Magic, Divination
 - [Eldritch Blast](/Magic/E/EldritchBlast.md) - Illusionist 0 / Wizard 0, Magic, Evocation
-- [Hold Portal](/Magic/H/HoldPortal.md)
-- [Identify](/Magic/I/Identify.md)
+- [Hold Portal](/Magic/H/HoldPortal.md) - Wizard 1, Magic, Abjuration
+- [Identify](/Magic/I/Identify.md) - Cleric 2 / Druid 2 / Illusionist 2 / Wizard 1, Magic, Divination
+- [Mage Hand](/Magic/M/MageHand.md) - Illusionist 0 / Wizard 0, Magic, Transmutation
 - [Magic Aura](/Magic/M/MagicAura.md)
 - [Magic Missile](/Magic/M/MagicMissile.md)
 - [Message](/Magic/M/Message.md)
@@ -164,7 +167,7 @@ The domains are:
 - [Detect Animals or Plants](/Magic/D/DetectAnimalsOrPlants.md) - Druid 1, Animal & Plant, Divination
 - [Entangle](/Magic/E/Entangle.md) - Druid 1, Plant, Transmutation
 - [Friendly Fungus](/Magic/F/FriendlyFungus.md) - Druid 4 / Illusionist 4, Plant, Conjuration
-- [Goodberry](/Magic/G/Goodberry.md)
+- [Goodberry](/Magic/G/Goodberry.md) - Druid 1, Plant, Transmutation
 - [Minty Fresh Bouquet](/Magic/M/MintyFreshBouquet.md) - Druid 0 / Illusionist 0, Plant, Illusion
 - [Shillelagh](/Magic/S/Shillelagh.md)
 - [Snakes to Sticks](/Magic/S/SnakesToSticks.md) - Cleric 4, Plant, Transmutation
@@ -173,7 +176,7 @@ The domains are:
 ## Protection
 
 - [Alarm](/Magic/A/Alarm.md) - Druid 1 / Illusionist 1 / Wizard 1, Protection, Abjuration
-- [Mage Armor](/Magic/M/MageArmor.md)
+- [Mage Armor](/Magic/M/MageArmor.md) - Wizard 1, Protection, Conjuration
 - [Protection From Bullets](/Magic/P/ProtectionFromBullets.md) - Wizard 3, Protection, Abjuration
 - [Resistance](/Magic/R/Resistance.md)
 - [Sanctuary](/Magic/S/Sanctuary.md)
@@ -192,15 +195,15 @@ The domains are:
 
 - [Dancing Lights](/Magic/D/DancingLights.md) - Illusionist 0 / Wizard 0, Sun, Evocation
 - [Endure Elements](/Magic/E/EndureElements.md) - Cleric 1 / Druid 1 / Wizard 1, Sun, Abjuration
-- [Flare](/Magic/F/Flare.md)
-- [Light](/Magic/L/Light.md)
+- [Flare](/Magic/F/Flare.md) - Druid 0 / Illusionist 0 / Wizard 0, Sun, Evocation
+- [Light](/Magic/L/Light.md) - Cleric 0 / Druid 0 / Illusionist 0 / Wizard 0, Sun, Evocation
 - [Magic Clock](/Magic/M/MagicClock.md) - Cleric 0 / Druid 0 / Illusionist 0 / Wizard 0, Sun, Universal
 
 ## Travel
 
-- [Expeditious Retreat](/Magic/E/ExpeditiousRetreat.md)
-- [Jump](/Magic/J/Jump.md)
-- [Longstrider](/Magic/L/Longstrider.md)
+- [Expeditious Retreat](/Magic/E/ExpeditiousRetreat.md) - Wizard 1, Travel, Transmutation
+- [Jump](/Magic/J/Jump.md) - Druid 1 / Wizard 1, Travel, Transmutation
+- [Longstrider](/Magic/L/Longstrider.md) - Druid 1, Travel, Transmutation
 
 ## Trickery
 
@@ -208,8 +211,8 @@ The domains are:
 - [Command](/Magic/C/Command.md) - Cleric 1, Trickery, Enchantment
 - [Daze](/Magic/D/Daze.md) - Illusionist 0 / Wizard 0, Trickery, Enchantment
 - [Disguise Self](/Magic/D/DisguiseSelf.md) - Illusionist 1 / Wizard 1, Trickery, Illusion
-- [Ghost Sound](/Magic/G/GhostSound.md)
-- [Hypnotism](/Magic/H/Hypnotism.md)
+- [Ghost Sound](/Magic/G/GhostSound.md) - Illusionist 0 / Wizard 0, Trickery, Illusionist
+- [Hypnotism](/Magic/H/Hypnotism.md) - Illusionist 1 / Wizard 1, Trickery, Enchantment
 - [Silent Image](/Magic/S/SilentImage.md)
 - [Sleep](/Magic/S/Sleep.md)
 - [Summon Illusory Creature 0](/Magic/S/SummonIllusoryCreature0.md) - Illusionist 0, Trickery, Illusion

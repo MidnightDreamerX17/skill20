@@ -1,5 +1,7 @@
 # Ghost Sound
 
+[Ghost Sound](/Magic/G/GhostSound.md) - Illusionist 0 / Wizard 0, Trickery, Illusionist
+
 - **Circle:** Illusionist 0, Wizard 0
 - **Domain:** Trickery
 - **School:** Illusion

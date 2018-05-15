@@ -1,5 +1,7 @@
 # Jump
 
+[Jump](/Magic/J/Jump.md) - Druid 1 / Wizard 1, Travel, Transmutation
+
 - **Circle:** Druid 1, Wizard 1
 - **Domain:** Travel
 - **School:** Transmutation

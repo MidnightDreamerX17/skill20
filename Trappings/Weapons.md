@@ -68,8 +68,10 @@
 
 | Weapon            | Cost    | Damage         | Special |
 | ---               | ---     | ---            | ---     |
+| Barber's Razor    | 2.00    | 1d6 slash      | finesse
 | Dagger            | 2.00    | 1d4 puncture   | finesse, concealable, throwable (map range increment 10 feet)
 | Dagger, Punching  | 2.00    | 1d4 puncture   | finesse, concealable
+| Fan, Bladed       | 1.00    | 1d4 slash      | finesse, concealable, throwable (map range increment 10 feet)
 | Kama              | 2.00    | 1d6 slash      | finesse, disguisable as farm tool
 | Kukri             | 8.00    | 1d4 slash      | finesse, concealable
 | Metal Calligraphy Pen | 1.00 | 1d4 puncture  | finesse, concealable
@@ -132,20 +134,38 @@
 
 ## Archery (Ranged)
 
-| Weapon             | Cost    | Damage          | Map Range | Special |
-| ---                | ---     | ---             | ---       | ---     |
-| Longbow            | 75.00   | 1d8 puncture    | 100 feet
-| Longbow, Composite | 100.00  | 1d10 puncture   | 110 feet
-| Shortbow           | 30.00   | 1d6 puncture    | 60 feet
+All bows are two-handed.
+
+| Weapon              | Cost    | Damage          | Map Range | Special |
+| ---                 | ---     | ---             | ---       | ---     |
+| Longbow             | 75.00   | 1d8 puncture    | 100 feet
+| Longbow, Composite  | 100.00  | 1d10 puncture   | 110 feet
+| Shortbow            | 30.00   | 1d6 puncture    | 60 feet
 | Shortbow, Composite | 75.00  | 1d8 puncture    | 70 feet
 
+## Magic Shooters (Ranged)
+
+| Weapon                     | Cost    | Damage          | Map Range | Special |
+| ---                        | ---     | ---             | ---       | ---     |
+| Book of Shooting           | 300.00  | 1d4 magic       | 80 feet   | two-handed, adds half of Wizard Potential (INT) skill to accuracy
+| Rod of Shooting            | 300.00  | 1d4 magic       | 80 feet   | two-handed, adds half of Cleric Potential (INT) skill to accuracy
+| Rabbit-and-Hat of Shooting | 300.00  | 1d4 magic       | 80 feet   | two-handed, adds half of Illusionist Potential (INT) skill to accuracy
+| Rose of Shooting           | 200.00  | 1d3 magic       | 40 feet   | one-handed, adds half of Illusionist Potential (INT) skill to accuracy
+| Scepter of Shooting        | 200.00  | 1d3 magic       | 40 feet   | one-handed, adds half of Cleric Potential (INT) skill to accuracy
+| Shillelagh of Shooting     | 200.00  | 1d3 magic       | 40 feet   | one-handed, adds half of Druid Potential (WIS) skill to accuracy
+| Staff of Shooting          | 300.00  | 1d4 magic       | 80 feet   | two-handed, adds half of Druid Potential (WIS) skill to accuracy
+| Wand of Shooting           | 200.00  | 1d3 magic       | 40 feet   | one-handed, adds half of Wizard Potential (INT) skill to accuracy
+
 ## Point-and-Shoot Weapons (Ranged)
+
+Point-and-Shoot Weapons specified as "Hand" or "Handgun" are one-handed. All others are two-handed.
 
 | Weapon                     | Cost      | Ammo                          | Damage             | Map Range | Special |
 | ---                        | ---       | ---                           | ---                | ---       | ---     |
 | Airgun, Hand               | 800.00    | darts + air canister          | 2d4 puncture       | 80 feet   | air canister lasts for 10 shots
 | Airgun, Heavy              | 1,600.00  | darts + air canister          | 2d6 puncture       | 120 feet  | air canister lasts for 15 shots
 | Arquebus                   | 200.00    | firearm bullets + powder      | 1d6 puncture       | 40 feet | reload with 5 attack actions
+| Blowgun                    | 10.00     | darts                         | 1d4 puncture       | 30 feet | no reload time
 | Crossbow, Hand             | 100.00    | crossbow bolts                | 1d4 puncture       | 30 feet | no reload time
 | Crossbow, Heavy            | 50.00     | crossbow bolts                | 1d10 puncture      | 120 feet | reload with 2 attack actions
 | Crossbow, Light            | 35.00     | crossbow bolts                | 1d8 puncture       | 80 feet | reload with 1 attack action

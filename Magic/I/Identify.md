@@ -1,5 +1,7 @@
 # Identify
 
+[Identify](/Magic/I/Identify.md) - Cleric 2 / Druid 2 / Illusionist 2 / Wizard 1, Magic, Divination
+
 - **Circle:** Cleric 2, Druid 2, Illusionist 2, Wizard 1
 - **Domain:** Magic
 - **School:** Divination

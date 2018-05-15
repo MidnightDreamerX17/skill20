@@ -8,8 +8,8 @@
 - [Detect Magic](/Magic/D/DetectMagic.md) - Cleric 0 / Druid 0 / Illusionist 0 / Wizard 0, Magic, Divination
 - [Detect Poison](/Magic/D/DetectPoison.md) - Cleric 0 / Druid 0 / Illusionist 0 / Wizard 0, Magic, Divination
 - [Disrupt Undead](/Magic/D/DisruptUndead.md) - Cleric 0 / Wizard 0, Death, Necromancy
-- [Guidance](/Magic/G/Guidance.md)
-- [Light](/Magic/L/Light.md)
+- [Guidance](/Magic/G/Guidance.md) - Cleric 0 / Druid 0, Luck, Divination
+- [Light](/Magic/L/Light.md) - Cleric 0 / Druid 0 / Illusionist 0 / Wizard 0, Sun, Evocation
 - [Magic Clock](/Magic/M/MagicClock.md) - Cleric 0 / Druid 0 / Illusionist 0 / Wizard 0, Sun, Universal
 - [Mending](/Magic/M/Mending.md)
 - [Purify Food and Drink](/Magic/P/PurifyFoodAndDrink.md)
@@ -43,7 +43,7 @@
 - [Doom](/Magic/D/Doom.md) - Cleric 1, Destruction, Necromancy
 - [Endure Elements](/Magic/E/EndureElements.md) - Cleric 1 / Druid 1 / Wizard 1, Sun, Abjuration
 - [Entropic Shield](/Magic/E/EntropicShield.md) - Cleric 1, Luck, Abjuration
-- [Hide from Undead](/Magic/H/HideFromUndead.md)
+- [Hide From Undead](/Magic/H/HideFromUndead.md) - Cleric 1, Death, Abjuration
 - [Magic Stone](/Magic/M/MagicStone.md)
 - [Magic Weapon](/Magic/M/MagicWeapon.md)
 - [Obscuring Mist](/Magic/O/ObscuringMist.md)
@@ -60,7 +60,7 @@
 
 - [Book God's Book](/Magic/B/BookGodsBook.md) - Cleric 2 / Wizard 2, Knowledge, Transmutation
 - [Create Ink](/Magic/C/CreateInk.md) - Cleric 2, Knowledge, Conjuration
-- [Identify](/Magic/I/Identify.md)
+- [Identify](/Magic/I/Identify.md) - Cleric 2 / Druid 2 / Illusionist 2 / Wizard 1, Magic, Divination
 - [Produce Flame](/Magic/P/ProduceFlame.md)
 - [Sound Burst](/Magic/S/SoundBurst.md)
 

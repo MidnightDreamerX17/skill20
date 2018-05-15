@@ -1,5 +1,7 @@
 # Mage Hand
 
+[Mage Hand](/Magic/M/MageHand.md) - Illusionist 0 / Wizard 0, Magic, Transmutation
+
 - **Circle:** Illusionist 0, Wizard 0
 - **Domain:** Magic
 - **School:** Transmutation

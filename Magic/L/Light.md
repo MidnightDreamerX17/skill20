@@ -1,5 +1,7 @@
 # Light
 
+[Light](/Magic/L/Light.md) - Cleric 0 / Druid 0 / Illusionist 0 / Wizard 0, Sun, Evocation
+
 - **Circle:** Cleric 0, Druid 0, Illusionist 0, Wizard 0
 - **Domain:** Sun
 - **School:** Evocation

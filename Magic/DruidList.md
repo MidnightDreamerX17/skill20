@@ -7,10 +7,10 @@
 - [Cure Minor Wounds](/Magic/C/CureMinorWounds.md) - Cleric 0 / Druid 0, Healing, Conjuration
 - [Detect Magic](/Magic/D/DetectMagic.md) - Cleric 0 / Druid 0 / Illusionist 0 / Wizard 0, Magic, Divination
 - [Detect Poison](/Magic/D/DetectPoison.md) - Cleric 0 / Druid 0 / Illusionist 0 / Wizard 0, Magic, Divination
-- [Flare](/Magic/F/Flare.md)
-- [Guidance](/Magic/G/Guidance.md)
-- [Know Direction](/Magic/K/KnowDirection.md)
-- [Light](/Magic/L/Light.md)
+- [Flare](/Magic/F/Flare.md) - Druid 0 / Illusionist 0 / Wizard 0, Sun, Evocation
+- [Guidance](/Magic/G/Guidance.md) - Cleric 0 / Druid 0, Luck, Divination
+- [Know Direction](/Magic/K/KnowDirection.md) - Druid 0, Earth, Divination
+- [Light](/Magic/L/Light.md) - Cleric 0 / Druid 0 / Illusionist 0 / Wizard 0, Sun, Evocation
 - [Magic Clock](/Magic/M/MagicClock.md) - Cleric 0 / Druid 0 / Illusionist 0 / Wizard 0, Sun, Universal
 - [Mending](/Magic/M/Mending.md)
 - [Minty Fresh Bouquet](/Magic/M/MintyFreshBouquet.md) - Druid 0 / Illusionist 0, Plant, Illusion
@@ -32,11 +32,11 @@
 - [Detect Snares and Pits](/Magic/D/DetectSnaresAndPits.md) - Druid 1, Earth, Divination
 - [Endure Elements](/Magic/E/EndureElements.md) - Cleric 1 / Druid 1 / Wizard 1, Sun, Abjuration
 - [Entangle](/Magic/E/Entangle.md) - Druid 1, Plant, Transmutation
-- [Faerie Fire](/Magic/F/FaerieFire.md)
+- [Faerie Fire](/Magic/F/FaerieFire.md) - Druid 1 / Illusionist 1, Luck, Evocation
 - [Find Familiar](/Magic/F/FindFamiliar.md) - Druid 1 / Wizard 1, Animal, Conjuration
-- [Goodberry](/Magic/G/Goodberry.md)
-- [Jump](/Magic/J/Jump.md)
-- [Longstrider](/Magic/L/Longstrider.md)
+- [Goodberry](/Magic/G/Goodberry.md) - Druid 1, Plant, Transmutation
+- [Jump](/Magic/J/Jump.md) - Druid 1 / Wizard 1, Travel, Transmutation
+- [Longstrider](/Magic/L/Longstrider.md) - Druid 1, Travel, Transmutation
 - [Magic Fang](/Magic/M/MagicFang.md)
 - [Magic Stone](/Magic/M/MagicStone.md)
 - [Mount](/Magic/M/Mount.md)
@@ -49,7 +49,7 @@
 
 ## 2nd Circle
 
-- [Identify](/Magic/I/Identify.md)
+- [Identify](/Magic/I/Identify.md) - Cleric 2 / Druid 2 / Illusionist 2 / Wizard 1, Magic, Divination
 
 ## 3rd Circle
 

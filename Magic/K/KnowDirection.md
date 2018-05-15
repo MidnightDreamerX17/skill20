@@ -1,5 +1,7 @@
 # Know Direction
 
+[Know Direction](/Magic/K/KnowDirection.md) - Druid 0, Earth, Divination
+
 - **Circle:** Druid 0
 - **Domain:** Earth
 - **School:** Divination

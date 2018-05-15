@@ -1,5 +1,7 @@
 # Holographic Cure Minor Wounds
 
+[Holographic Cure Minor Wounds](/Magic/H/HolographicCureMinorWounds.md) - Illusionist 0, Healing, Illusion
+
 - **Circle:** Illusionist 0
 - **Domain:** Healing
 - **School:** Illusion

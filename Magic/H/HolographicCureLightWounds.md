@@ -1,5 +1,7 @@
 # Holographic Cure Light Wounds
 
+[Holographic Cure Light Wounds](/Magic/H/HolographicCureLightWounds.md) - Illusionist 1, Healing, Illusion
+
 - **Circle:** Illusionist 1
 - **Domain:** Healing
 - **School:** Illusion
