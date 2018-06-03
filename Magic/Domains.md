@@ -28,6 +28,7 @@ The domains are:
 ## Air
 
 - [Create Lightning Crystal](/Magic/C/CreateLightningCrystal.md) - Druid 5 / Wizard 5, Air, Conjuration
+- [Elemental Weapon](/Magic/E/ElementalWeapon.md) - Druid 2, variable domain, Abjuration
 - [Feather Fall](/Magic/F/FeatherFall.md) - Wizard 1, Air, Transmutation
 - [Floating Disk](/Magic/F/FloatingDisk.md) - Wizard 1, Air, Evocation
 - [Ground Sparks](/Magic/G/GroundSparks.md) - Wizard 3, Air, Evocation
@@ -77,9 +78,11 @@ The domains are:
 
 - [Anklets of Tripping](/Magic/A/AnkletsOfTripping.md) - Cleric 1 / Wizard 1, Earth, Conjuration
 - [Detect Snares and Pits](/Magic/D/DetectSnaresAndPits.md) - Druid 1, Earth, Divination
+- [Elemental Weapon](/Magic/E/ElementalWeapon.md) - Druid 2, variable domain, Abjuration
 - [Know Direction](/Magic/K/KnowDirection.md) - Druid 0, Earth, Divination
 - [Magic Stone](/Magic/M/MagicStone.md)
 - [Pass Without Trace](/Magic/P/PassWithoutTrace.md)
+- [Pit](/Magic/P/Pit.md) - Druid 2 / Wizard 2, Earth, Conjuration
 - Summon Monster (elemental)
 
 ## Evil
@@ -92,6 +95,7 @@ The domains are:
 ## Fire
 
 - [Burning Hands](/Magic/B/BurningHands.md) - Wizard 1, Fire, Evocation
+- [Elemental Weapon](/Magic/E/ElementalWeapon.md) - Druid 2, variable domain, Abjuration
 - [Explode Ammunition](/Magic/E/ExplodeAmmunition.md) - Wizard 7, Fire, Transmutation
 - [Fireshot Totem](/Magic/F/FireshotTotem.md) - Wizard 3, Fire, Conjuration
 - [Produce Flame](/Magic/P/ProduceFlame.md)
@@ -232,6 +236,7 @@ The domains are:
 
 - [Create Water](/Magic/C/CreateWater.md) - Cleric 0 / Druid 0, Water, Conjuration
 - [Bucket of Suds](/Magic/B/BucketOfSuds.md) - Illusionist 1 / Wizard 2, Water, Illusion
+- [Elemental Weapon](/Magic/E/ElementalWeapon.md) - Druid 2, variable domain, Abjuration
 - [Obscuring Mist](/Magic/O/ObscuringMist.md)
 - Summon Monster (elemental)
 - [Ray of Frost](/Magic/R/RayOfFrost.md)

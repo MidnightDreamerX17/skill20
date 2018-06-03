@@ -49,7 +49,9 @@
 
 ## 2nd Circle
 
+- [Elemental Weapon](/Magic/E/ElementalWeapon.md) - Druid 2, variable domain, Abjuration
 - [Identify](/Magic/I/Identify.md) - Cleric 2 / Druid 2 / Illusionist 2 / Wizard 1, Magic, Divination
+- [Pit](/Magic/P/Pit.md) - Druid 2 / Wizard 2, Earth, Conjuration
 
 ## 3rd Circle
 

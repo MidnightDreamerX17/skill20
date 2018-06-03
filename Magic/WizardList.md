@@ -79,6 +79,7 @@
 
 - [Book God's Book](/Magic/B/BookGodsBook.md) - Cleric 2 / Wizard 2, Knowledge, Transmutation
 - [Bucket of Suds](/Magic/B/BucketOfSuds.md) - Illusionist 1 / Wizard 2, Water, Illusion
+- [Pit](/Magic/P/Pit.md) - Druid 2 / Wizard 2, Earth, Conjuration
 - [See Electricity](/Magic/S/SeeElectricity.md) - Illusionist 3 / Wizard 2, Air, Divination
 - [Sound Burst](/Magic/S/SoundBurst.md)
 

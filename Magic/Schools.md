@@ -45,6 +45,7 @@ The schools are:
 - [Mage Armor](/Magic/M/MageArmor.md) - Wizard 1, Protection, Conjuration
 - [Mount](/Magic/M/Mount.md)
 - [Obscuring Mist](/Magic/O/ObscuringMist.md)
+- [Pit](/Magic/P/Pit.md) - Druid 2 / Wizard 2, Earth, Conjuration
 - [Plane Shift Improved](/Magic/P/PlaneShiftImproved.md) - Cleric 6 / Wizard 8, Travel, Conjuration
 - [Summon Monster 0](/Magic/S/SummonMonster0.md) - Cleric 0 / Wizard 0, variable Domain, Conjuration
 - [Summon Monster I](/Magic/S/SummonMonster1.md)
