@@ -154,3 +154,18 @@ Characters must spend a number of days training equal to their next skill level.
 ### Optional: Attribute Improvements With Experience
 
 Characters gain one attribute point at every 4th experience level.
+
+### Optional: Alternate Attribute-to-Modifiers Table
+
+This table is meant to make characters more equal, unless they have exceptional attributes. It is also meant to reduce the number of times that attribute modifiers become a factor. It does make characters weaker under some attribute rolling methods.
+
+| Attribute | Modifier |
+| ---       | ---      |
+| 1 - 3     | -3
+| 4 - 5     | -2
+| 6 - 8     | -1
+| 9 - 12    | none
+| 13 - 15   | +1
+| 16 - 17   | +2
+| 18 - 20   | +3
+| 21 - 22   | +4

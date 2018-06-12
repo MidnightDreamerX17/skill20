@@ -52,6 +52,10 @@ Significant balance differences compared to D&D:
 
 This game uses d20 OGL content in order to get going as quickly as possible. Experienced GMs should make house rules to make the game work the way they want, since everyone must inevitably develop their own opinions on fantasy gaming. In fact, it is more concerning if the group never ponders how any rule could be different.
 
+## Swapping Out Whole Sections
+
+Skill20 is intended to allow GMs to swap out entire sections, such as the Magic, Psionics, and Trappings sections. Skill20 uses the d20 OGL content to flesh out these sections, but GMs and players will inevitably decide on their own favorites.
+
 ## Map-less Conversion Notes
 
 - Touch Attack --> Melee Attacking with the Unarmed weapon category
