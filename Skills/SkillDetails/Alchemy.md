@@ -2,7 +2,7 @@
 
 Potion Fusion: It takes one day to conduct an act of Potion Fusion. The character can combine potions in the following manner:
 
-- 2 Potions of First Aid into 1 Potion of Cure Light Wounds
+- 2 Potions of Cure Minor Wounds into 1 Potion of Cure Light Wounds
 - 2 Potions of Cure Light Wounds into 1 Potion of Cure Moderate Wounds
 - 2 Potions of Cure Moderate Wounds into 1 Potion of Cure Serious Wounds
 - 2 Potions of Cure Serious Wounds into 1 Potion of Cure Critical Wounds

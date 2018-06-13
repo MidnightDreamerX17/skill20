@@ -90,21 +90,21 @@ Weapon Infusions can only be applied to weapons, and other objects that can be u
 
 Each infusion has a flat cost of 5,000 gold.
 
-- Fire: The weapon damage's element is changed to fire.
-- Blessed: The weapon damage's element is changed to true sunlight. The weapon now always uses Wisdom for accuracy and damage.
-- Blood: On an attack accuracy roll of a natural 19 or 20, the target starts bleeding. This only applies to targets that are capable of bleeding.
-- Crystal: The weapon damage's element is changed to magic. The weapon now always uses Intelligence for accuracy and damage.
-- Dark: The weapon damage's element is changed to darkness. It also drains 1 hit point on every damaging attack.
-- Deep: The weapon damage's element is changed to darkness. It gains a bonus of +1 to damage.
-- Heavy: The weapon requires (16 + Reinforcement) Strength in order to use. The weapon now always uses Strength for accuracy and damage. For each Strength bonus at +4 and higher, an additional point of bonus is gained.
-- Hollow: The weapon requires (16 + Reinforcement) Charisma in order to use. The weapon now always uses Charisma for accuracy and damage. For each Charisma bonus at +4 and higher, an additional point of bonus is gained.
-- Lightning: The weapon damage's element is changed to electricity.
-- Poison: The weapon damage's element is changed to poison.
-- Raw: The weapon gains +5 accuracy and damage. It no longer uses any attributes for accuracy or damage, nor can it be reinforced.
-- Refined: The average of the user's Strength & Dexterity are used for attack accuracy and damage.
-- Sharp: The weapon requires (16 + Reinforcement) Dexterity in order to use. The weapon now always uses Dexterity for accuracy and damage. For each Dexterity bonus at +4 and higher, an additional point of bonus is gained.
-- Simple: The weapon has a penalty of -3 to accuracy and damage. It increases caster experience level by an amount equal to its Reinforcement number.
+- **Fire**: The weapon damage's element is changed to fire.
+- **Blessed**: The weapon damage's element is changed to true sunlight. The weapon now always uses Wisdom for accuracy and damage.
+- **Blood**: On an attack accuracy roll of a natural 19 or 20, the target starts bleeding. This only applies to targets that are capable of bleeding.
+- **Crystal**: The weapon damage's element is changed to magic. The weapon now always uses Intelligence for accuracy and damage.
+- **Dark**: The weapon damage's element is changed to darkness. It also drains 1 hit point on every damaging attack.
+- **Deep**: The weapon damage's element is changed to darkness. It gains a bonus of +1 to damage.
+- **Heavy**: The weapon requires (16 + Reinforcement) Strength in order to use. The weapon now always uses Strength for accuracy and damage. For each Strength bonus at +4 and higher, an additional point of bonus is gained.
+- **Hollow**: The weapon requires (16 + Reinforcement) Charisma in order to use. The weapon now always uses Charisma for accuracy and damage. For each Charisma bonus at +4 and higher, an additional point of bonus is gained.
+- **Lightning**: The weapon damage's element is changed to electricity.
+- **Poison**: The weapon damage's element is changed to poison.
+- **Raw**: The weapon gains +5 accuracy and damage. It no longer uses any attributes for accuracy or damage, nor can it be reinforced.
+- **Refined**: The average of the user's Strength & Dexterity are used for attack accuracy and damage.
+- **Sharp**: The weapon requires (16 + Reinforcement) Dexterity in order to use. The weapon now always uses Dexterity for accuracy and damage. For each Dexterity bonus at +4 and higher, an additional point of bonus is gained.
+- **Simple**: The weapon has a penalty of -4 to accuracy and damage. It increases caster experience level by an amount equal to its Reinforcement number - thus allowing it to take advantage of magic skills that exceed normal experience level.
 
 ### Crafting Weapon Infusions
 
-The crafter must have at least 10 experience levels, and must provide half of the gold cost in infusion materials. The skill check to infuse is an extended check, with a difficulty of 200 and a time scale of one roll per day.
+The crafter must have at least 5 experience levels, and must provide half of the gold cost in infusion materials. The skill check to infuse is an extended check, with a difficulty of 200 and a time scale of one roll per day.

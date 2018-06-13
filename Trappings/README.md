@@ -1,7 +1,7 @@
 # Trappings
 
 1. [Common Items, Lodgings, and Services](/Trappings/CommonStuff.md)
-2. [Travel Equipment, Gear, Tools, and Vehicles](/Trappings/Equipment.md)
+2. [Travel Equipment, Gear, Tools, Common Magic Items, and Vehicles](/Trappings/Equipment.md)
 3. [Armor and Shields](/Trappings/Armor.md)
 4. [Weapons](/Trappings/Weapons.md)
 5. [Equipment Materials and other Modifiers](/Trappings/Modifiers.md)

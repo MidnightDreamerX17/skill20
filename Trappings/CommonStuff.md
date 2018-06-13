@@ -44,6 +44,7 @@
 | Air Plane Fluffcandy | 10,000.00 |     | 
 | Astral Plane Brainburner Powder | 2,000.00 | 1/10th pound dosage - Doubles initiative for 1 round, then causes nosebleeding and possible brain aneurysms
 | Celestial Fruit | 25,000.00 |    | 
+| Chaos Plane Clay | 1,000.00 | Any item made from it will change its shape to a related object at the beginning of every day
 | Chaos Plane Color-changing Ink | 1,000.00 | Constantly changing and shifting colors
 | Earth Plane Puresoil | 1,000.00 |   | 
 | Earth Plane Rock Candy | 1,000.00 | Takes roughly ten million licks to get to the center of a one-pound sphere

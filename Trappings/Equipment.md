@@ -1,4 +1,4 @@
-# Travel Equipment, Gear, Tools, and Vehicles
+# Travel Equipment, Gear, Tools, Common Magic Items, and Vehicles
 
 Adventure Capital Official Starter Kit: 40.00 gold (discount of 2.39 gold)
 
@@ -178,7 +178,29 @@ Since you don’t need to hit a specific target, you can simply aim at a particu
 
 Healing / Healer's Kits can be used to restore a number of hit points equal to the target's Constitution score. However, this requires an extended check with a difficulty of 100, and a time scale of 1 hour per roll.
 
-Masterwork tools generally give a bonus of +1, if the user has a skill level of at least 5.
+Masterwork tools and instruments generally give a bonus of +1, if the user has a skill level of at least 5.
+
+## Common Magic Items
+
+- **Moss Clump, Blood-Red** (100 gold) - For 6 rounds, be immune to bleeding, stop all current bleeding
+- **Moss Clump, Purple** (100 gold) - For 6 rounds, gain a bonus of +5 to save against poison, gain one additional save against all current poison statuses
+- **Moss Clump, Rime-Blue** (100 gold) - For 6 rounds, gain a bonus of +5 to save against cold, gain one additional save against all current cold/freezing statuses
+- **Potion of Cure Minor Wounds** (50 gold) - Restores 2 hit points
+- **Potion of Cure Light Wounds** (100 gold) - Restores 1d8+1 hit points
+- **Potion of Cure Moderate Wounds** (200 gold) - Restores 2d8+3 hit points
+- **Potion of Cure Serious Wounds** (400 gold) - Restores 3d8+5 hit points
+- **Potion of Cure Critical Wounds** (900 gold) - Restores 4d8+7 hit points
+- **Prism Stone** (25 gold) - Shiny colored stone that is visible in darkness from a long distance. When dropped, it makes a sound proportional to how far it has fallen.
+- **Resin, Bleeding Serum** (100 gold) - Applied to one weapon or 20 units of ammunition, change the affected weapons/ammo for 6 rounds to cause 1 point of bleeding on hit
+- **Resin, Brittle Bark** (100 gold) - Applied to one weapon or 20 units of ammunition, change their damage output to sonic for 6 rounds
+- **Resin, Charcoal** (100 gold) - Applied to one weapon or 20 units of ammunition, change their damage output to fire for 6 rounds
+- **Resin, Gold Pine** (100 gold) - Applied to one weapon or 20 units of ammunition, change their damage output to electric for 6 rounds
+- **Resin, Hearty Oak** (100 gold) - Applied to one weapon or 20 units of ammunition, change their damage output to good for 6 rounds
+- **Resin, Humanblood Rooted** (100 gold) - Applied to one weapon or 20 units of ammunition, change their damage output to evil for 6 rounds
+- **Resin, Ironwood** (100 gold) - Applied to one weapon or 20 units of ammunition, change their damage output to lawful for 6 rounds
+- **Resin, Pale Pine** (100 gold) - Applied to one weapon or 20 units of ammunition, change their damage output to magic for 6 rounds, enabling them to hit anything that normally requires some amount of magic reinforcement to hit
+- **Resin, Rotten Pine** (100 gold) - Applied to one weapon or 20 units of ammunition, change their damage output to poison for 6 rounds
+- **Resin, Swirling Vine** (100 gold) - Applied to one weapon or 20 units of ammunition, change their damage output to chaotic for 6 rounds
 
 ## Vehicles
 

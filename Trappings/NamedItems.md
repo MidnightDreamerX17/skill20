@@ -12,6 +12,8 @@ Breathing Robes (Padded Armor) (10,000 gold) - No armor class. It still counts a
 
 Mark's Pelt +2 (Hide Armor) (8,000 gold) - AC 5 (3 from armor type, +2 magical reinforcement). You are constantly under the effect of *Resist Energy* for fire and cold.
 
+Tabula Rasa (Padded Armor) (25,000 gold) - No armor class. It still counts as body armor with an armor weight of 1. Six linked sockets. It cannot have any modifiers.
+
 ### Shields
 
 Bloody Handprints +2 (Tower Metal Shield) (8,000 gold) - AC 6 (4 from shield type, +2 magical reinforcement). While the user is bleeding for at least 1 point per round, its AC is further increased by +2 to a total of AC 8.
@@ -28,8 +30,6 @@ The Short Circuit (Helmet) (8,000 gold) - You cannot be surprised by enemies. If
 
 Mary's Smock (Tabard) (2,000 gold) - Your damage output is set to chaos alignment. This includes your spells and psionics.
 
-### Pants
-
 ### Shorts
 
 Sagat's Shorts (Shorts) (2,000 gold) - Your movement speed increases by 5 feet. Your jumping height increases by 10 feet.
@@ -42,7 +42,7 @@ Terry's Cap (Hat) (1,000 gold) - If an enemy gets a guaranteed miss against you 
 
 Ryu's Headband (Headband) (2,000 gold) - If an enemy gets a guaranteed miss against you (usually a natural 1), then you immediately get one attack against that enemy.
 
-Yuukoku (Headband) (8,000 gold) - Cursed item of Neutral Evil. When it is not attached to someone, its emblem appears to be that of the viewer's homeland, coat of arms, or flag. The wearer is constantly under the effect of *Dominate Monster* to kill in the name of purity and patriotism, and to only use melee attacks. The wearer is compelled to use a tanto, wakizashi, katana, or handgun if available. The wearer is inclined towards killing government officials. If the wearer could be imprisoned or is in the presence of someone who could uncurse the item, then they are pushed to commit seppuku.
+Yuukoku (Headband) (8,000 gold) - Cursed item of Neutral Evil. When it is not attached to someone, its emblem appears to be that of the viewer's homeland, coat of arms, or flag. The wearer is constantly under the effect of *Dominate Monster* to kill in the name of purity and patriotism, and to only use melee attacks. The wearer is compelled to use a tanto, wakizashi, katana, or handgun if available. The wearer is inclined towards killing government officials. If the wearer could be imprisoned or is in the presence of someone who could uncurse the item, then the wearer is pushed to commit seppuku.
 
 ### Eyepatches
 
@@ -74,7 +74,9 @@ Iron Ring of the Exile +1 (Ring) (2,000 gold) - +1 accuracy and damage with weap
 
 ### Backpacks
 
-Backpack of Disentanglement (8,000 gold) - Ropes, cables, strings, yarn, wires, cords, and other such objects cannot get entangled inside this backpack. If a tangled mess of cords is placed in the Backpack of Disentanglement, then they will reorder into neatly-wrapped bundles whenever you are not looking.
+Backpack of Disentanglement (8,000 gold) - Ropes, cables, strings, yarn, wires, cords, and other such objects cannot get entangled inside this backpack. If a tangled mess of cords is placed in the Backpack of Disentanglement, then they will reorder into neatly-wrapped bundles whenever nobody is looking.
+
+Life Stranding (8,000 gold) - Provides air and temperature control, allowing contained creatures to breathe normally. It is also possible to stick one's head inside to breathe.
 
 Sparkster (Backpack) (50,000 gold) - Constant *Levitate*, except with the ability to do a 100-foot rocket dash in a straight line once per minute.
 
@@ -82,13 +84,17 @@ Sparkster (Backpack) (50,000 gold) - Constant *Levitate*, except with the abilit
 
 ### Axes, Picks, and Scythes
 
+Elfriede's Reaping +3 (Great Scythe) (18,000 gold) - Two-handed. 1d12+3 cold damage. Every time it deals cold damage, it forces a Constitution save against a difficulty of 19 to avoid being Stunned for 1 round.
+
 Executioner's Greataxe +1 (Greataxe) (2,000 gold) - Two-handed. 1d12+1 slash damage. If the weapon gets a guaranteed hit (usually a natural 20), then it adds 1 point of bleeding.
 
 ### Chains, Whips, and Flails
 
-Riddia's Taming (Whip) (8,000 gold) - Reach. 1d4 impact damage. Summon spells that you cast gain an increased duration as if you had 2 more caster experience levels.
+Riddia's Taming +2 (Whip) (8,000 gold) - Reach. 1d4+2 impact damage. Summon spells that you cast gain an increased duration as if you had 2 more caster levels.
 
 Roxy's Punishment +1 (Whip) (2,000 gold) - Reach. 1d4+1 impact damage. If a hit from this weapon sends the target to 0 or fewer hit points, then it casts *Charm Monster* on the target. The caster level is equal to the wielder's Melee Fighting (STR) skill level.
+
+Vampire Smiter +3 (Whip) (18,000 gold) - Reach. 1d4+3 sunlight damage. Makes a Stun Undead attempt on the target, on every successful hit.
 
 ### Hammers, Maces, and Clubs
 
@@ -104,9 +110,9 @@ Alexander's Reach +1 (Pike) (2,000 gold) - Two-handed. Reach. Spear wall. 1d6+1 
 
 ### Short Weapons
 
-Mary's Chisel +1 (Dagger) (2,000 gold) - Finesse weapon. Concealable. 1d4+1 chaos damage. If the target is currently capable of shapeshifting, or is under any sort of *Polymorph* effect, then it takes double damage from Mary's Chisel.
+Mary's Chisel +1 (Dagger) (2,000 gold) - Finesse weapon. Concealable. 1d4+1 chaos damage. If the target is currently capable of shapeshifting, or is under any sort of *Alter Self* or *Polymorph* effect, then it takes double damage from Mary's Chisel.
 
-Tanto of Rashomon +2 (Tanto) (8,000 gold) - Finesse weapon. Concealable. Chaotic Neutral. 1d6+2 chaos damage. It carves stories that can change depending on one's perspective.
+Tanto of Rashomon +2 (Tanto) (8,000 gold) - Finesse weapon. Concealable. Chaotic Neutral. 1d6+2 chaos damage. It carves stories that constantly change depending on one's perspective.
 
 ### Spears, Rods, and Staves
 
@@ -114,7 +120,7 @@ Callosum's Connector +1 (Quarterstaff) (2,000 gold) - Two-handed. 1d6+1 impact d
 
 Fireball Totem +1 (Quarterstaff) (2,000 gold) - Two-handed. 1d6+1 fire damage. You can cast *Fireball* from the location of the Fireball Totem rather than from your own hands, as long as you have line of sight to the Fireball Totem. The Fireball Totem can only be used with your own spell energies, and not from any wands, scrolls, or other such items.
 
-Rit-Tam's Rod +1 (Rod) (2,000 gold) - Two-handed. 1d6+1 impact damage. You gain a bonus of +2 to grappling checks.
+Rit-Tam's Rod +1 (Rod) (2,000 gold) - Two-handed. 1d6+1 impact damage. While holding the rod in both hands, you gain a bonus of +2 to grappling checks.
 
 Rod of Knives +1 (Rod) (2,000 gold) - Two-handed. 1d6+1 slashing damage. You can no longer use the Chi Fist (CON) or Psy Blade (INT) skills. Your *Magic Missile* damage per missile is now equal to what your psy blade would have done. The Rod of Knives only affects casting from your own spell energies, and not from any wands, scrolls, or other such items.
 
@@ -146,6 +152,8 @@ Tony's Tiger Paws +1 (Sport Gloves) (2,000 gold) - 1d4+1 slashing damage. You ca
 
 ### Archery
 
+Hokuto-no-Yumi +2 (Composite Longbow) (8,000 gold) - Ranged. 1d10+2 magic damage. Adds Wisdom modifier to accuracy and damage as well.
+
 Morton's Barrage +2 (Longbow) (8,000 gold) - Ranged. 1 puncture damage. Double the number of attacks.
 
 ### Point-and-Shoot Weapons
@@ -156,11 +164,17 @@ Blender Blaster +1 (Musket) (2,000 gold) - Ranged. Reload with 4 attack actions.
 
 Hayden's Glaive +1 (Throwing Axe) (2,000 gold) - Ranged. 1d6+1 slash damage. Instantly returns to the user, such that all ranged attacks in one round could be done with the weapon.
 
+Lightning Javelin +1 (Javelin) (2,000 gold) - Ranged. 1d6+1 lightning damage. Instantly returns to the user, such that all ranged attacks in one round could be done with the weapon.
+
+Magic Eight-Ball +2 (Iron Ball) (8,000 gold) - Ranged. 1d6+2 chaos damage. Instantly returns to the user, such that all ranged attacks in one round could be done with the weapon. It can be read for random fortunes.
+
 ## Other Items
 
 ### Instruments
 
 Final Conflict +1 (Erhu) (2,000 gold) - Gives a bonus of +1 to performance checks, and an additional +3 while in the astral and ethereal planes.
+
+Gilbert's Twinharp +1 (Harp) (2,000 gold) - Gives a bonus of +1 to performance checks. It can be split into two half-harps, which constantly transmit sound between each other. Splitting or recombining the harps takes 1 full round action.
 
 Kimihiro's Piano +1 (Piano) (2,000 gold) - Gives a bonus of +1 to performance checks, and an additional +3 while in a good environment.
 
@@ -171,6 +185,8 @@ Morlenbaum's Cello +1 (Cello) (2,000 gold) - Gives a bonus of +1 to performance 
 Muldrow's Microphone of the Flood +1 (Microphone) (2,000 gold) - Gives a bonus of +1 to performance checks, and an additional +3 while in a chaotic environment.
 
 Ryuichi's Piano +1 (Piano) (2,000 gold) - Gives a bonus of +1 to performance checks. Your effective Perform (Keyboard Instruments) (CHA) and Perform (Music Sequencers) (CHA) skills are switched.
+
+Sawai's Song +1 (Koto) (2,000 gold) - Gives a bonus of +1 to performance checks. While having ownership of Sawai's Song, your damage output is changed to the water element.
 
 ### Tools
 
@@ -230,10 +246,10 @@ Orb of Alchemy of the Exile (8,000 gold) - Orbs are single-use items. This orb m
 
 Orb of Chance of the Exile (10,000 gold) - Orbs are single-use items. This orb must be targeted at a non-magical and non-psionic item that you are holding or wearing. Roll a 1d100 to determine the effect.
 
-| Roll | Orb of Chance of the Exile Result |
-| ---  | ---                               |
-| 1 - 5 | Named cursed item of the same type.
-| 6 - 10 | Magically Cursed -5
+| Roll    | Orb of Chance of the Exile Result |
+| ---     | ---                               |
+| 1 - 5   | Named cursed item of the same type.
+| 6 - 10  | Magically Cursed -5
 | 11 - 20 | Magically Cursed -4
 | 21 - 30 | Magically Cursed -3
 | 31 - 40 | Magically Cursed -2

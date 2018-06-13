@@ -20,6 +20,7 @@
 | Handaxe          | 6.00   | 1d6 slash     |         |
 | Pick, Heavy      | 8.00   | 1d6 puncture  |         |
 | Pick, Light      | 4.00   | 1d4 puncture  | finesse |
+| Scythe, Great    | 20.00  | 1d12 slash    | 2-handed
 | Urgrosh, Dwarven | 50.00  | 1d8 slash or puncture | 2-handed
 | Waraxe, Dwarven  | 30.00  | 1d10 slash    |         |
 
