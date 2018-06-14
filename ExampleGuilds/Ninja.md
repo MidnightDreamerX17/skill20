@@ -10,6 +10,12 @@
 
 Have a personal connection with another member. Complete a number of trials that test your patience and art of stealth. Make a blood pact with the guild for absolute loyalty.
 
+Trials include and are not limited to:
+
+- Surviving and overcoming surprise attacks from puppet-ninja automatons
+- Infiltrating a castle and retrieving an item
+- Demonstrating convincing disguises, covering a variety of professions and ages
+
 ### Increase
 
 Assassinate the enemies of the guild. Practice ninjutsu and show demonstrable improvement. Participate in contracts for assassination and spying.

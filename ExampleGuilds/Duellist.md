@@ -34,6 +34,7 @@ Help build new arenas for duelling. Talk to the wealthy to get their interest in
 | Charisma Training (CHA) | 20 | Grandmaster
 | Craft (Calligraphy) (INT) | 1 | 10
 | Craft (Clothing) (INT) | 1 | 10
+| Craft (Floral Arrangements) (INT) | 1 | 10
 | Craft (Leather) (INT) | 1 | 10
 | Craft (Shoes) (INT) | 1 | 10
 | Craft (Weapons) (INT) | 1 | 10

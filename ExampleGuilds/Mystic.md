@@ -36,12 +36,14 @@ Teach advanced mystic arts to lower-ranked members. Seek out the masters and gra
 | Chi Fist (CON) | 5 | 20
 | Chi Mysticism (CON) | 1 | 10
 | Constitution Training (CON) | 20 | Grandmaster
+| Craft (Bonsai Trees) (INT) | 1 | 10
 | Craft (Bookbinding) (INT) | 1 | 10
 | Craft (Carpentry) (INT) | 1 | 10
 | Craft (Cloth) (INT) | 1 | 10
 | Craft (Clothing) (INT) | 1 | 10
 | Craft (Gemcutting) (INT) | 1 | 10
 | Craft (Glass) (INT) | 1 | 10
+| Craft (Ikebana) (INT) | 1 | 10
 | Craft (Musical Instruments) (INT) | 1 | 10
 | Craft (Pottery) (INT) | 1 | 10
 | Craft (Sculpture) (INT) | 1 | 10

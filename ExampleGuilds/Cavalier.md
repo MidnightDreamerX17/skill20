@@ -36,6 +36,7 @@ Organize the defense of guild castles. Lead small armies to war. Lead cavalry fo
 | Charisma Training (CHA) | 20 | Grandmaster
 | Constitution Training (CON) | 20 | Grandmaster
 | Craft (Clothing) (INT) | 1 | 10
+| Craft (Floral Arrangements) (INT) | 1 | 10
 | Craft (Painting) (INT) | 1 | 10
 | Dexterity Training (DEX) | 20 | Grandmaster
 | Knight Honor (CHA) (Aligned) | 5 | 20

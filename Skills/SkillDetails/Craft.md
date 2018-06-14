@@ -5,6 +5,7 @@ Examples of Craft skills:
 - Armor
 - Baskets
 - Blacksmith
+- Bonsai Trees
 - Bookbinding
 - Bows
 - Calligraphy
@@ -14,8 +15,10 @@ Examples of Craft skills:
 - Clothing
 - Cooking
 - Firearms
+- Floral Arrangements
 - Gemcutting
 - Glass
+- Ikebana
 - Jewelry
 - Leather
 - Locks
@@ -35,7 +38,7 @@ Examples of Craft skills:
 - Siege Engines
 - Stonemasonry
 - Tattoo
-- Traps - allows crafting trap kits for less than their market price, but deployment of them is done by the Traps (INT) skill
+- Traps - allows crafting trap kits for half their market price, but deployment of them is done by the Traps (INT) skill
 - Weapons
 - \<Other Craft\>
 

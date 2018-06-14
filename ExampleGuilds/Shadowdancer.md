@@ -37,8 +37,9 @@ Design obstacle courses. Be the lead dancer in complex dance routines. Start up 
 | Knowledge (Planes) (INT) | 1 | 10
 | Locks (DEX) | 1 | 10
 | Melee Fighting (STR) | 5 | 20
-| Perform (Dance) (DEX) | 1 | 10
-| Perform (Martial Arts Kata) (DEX) | 1 | 10
+| Perform (Dance) (CHA) | 1 | 10
+| Perform (Martial Arts Kata) (CHA) | 1 | 10
+| Perform (Shadow Puppetry) (CHA) | 1 | 10
 | Profession (Acrobat) (WIS) | 1 | 10
 | Psionic Potential (INT) | 5 | 20
 | Psionic Power (INT) | 5 | 20
