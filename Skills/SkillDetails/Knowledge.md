@@ -13,6 +13,7 @@ Examples of knowledge skills:
 - Law
 - Linguistics - Each level of Linguistics grants one extra language.
 - Medicine
+- Monster Lore
 - Nature
 - Nobility
 - Physics
