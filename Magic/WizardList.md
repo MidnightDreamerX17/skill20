@@ -86,8 +86,10 @@
 ## 3rd Circle
 
 - [Book God's Page, Fast](/Magic/B/BookGodsPageFast.md) - Cleric 3 / Wizard 3, Knowledge, Transmutation
+- [Far-Flying Flame](/Magic/F/FarFlyingFlame.md) - Druid 3 / Wizard 4, Fire, Evocation
 - [Fireshot Totem](/Magic/F/FireshotTotem.md) - Wizard 3, Fire, Conjuration
 - [Ground Sparks](/Magic/G/GroundSparks.md) - Wizard 3, Air, Evocation
+- [Iceball](/Magic/I/Iceball.md) - Druid 3 / Wizard 3, Water, Evocation
 - [Protection From Bullets](/Magic/P/ProtectionFromBullets.md) - Wizard 3, Protection, Abjuration
 
 ## 4th Circle

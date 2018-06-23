@@ -79,6 +79,7 @@ The schools are:
 
 ## Enchantment
 
+- [Animal Speech](/Magic/A/AnimalSpeech.md) - Druid 3, Animal, Enchantment
 - [Bane](/Magic/B/Bane.md) - Cleric 1, Luck, Enchantment
 - [Bless](/Magic/B/Bless.md) - Cleric 1, Luck, Enchantment
 - [Calm Animals](/Magic/C/CalmAnimals.md) - Druid 1 / Illusionist 1, Animal, Enchantment
@@ -96,9 +97,11 @@ The schools are:
 - [Divine Favor](/Magic/D/DivineFavor.md) - Cleric 1, Strength, Evocation
 - [Eldritch Blast](/Magic/E/EldritchBlast.md) - Illusionist 0 / Wizard 0, Magic, Evocation
 - [Faerie Fire](/Magic/F/FaerieFire.md) - Druid 1 / Illusionist 1, Luck, Evocation
+- [Far-Flying Flame](/Magic/F/FarFlyingFlame.md) - Druid 3 / Wizard 4, Fire, Evocation
 - [Flare](/Magic/F/Flare.md) - Druid 0 / Illusionist 0 / Wizard 0, Sun, Evocation
 - [Floating Disk](/Magic/F/FloatingDisk.md) - Wizard 1, Air, Evocation
 - [Ground Sparks](/Magic/G/GroundSparks.md) - Wizard 3, Air, Evocation
+- [Iceball](/Magic/I/Iceball.md) - Druid 3 / Wizard 3, Water, Evocation
 - [Light](/Magic/L/Light.md) - Cleric 0 / Druid 0 / Illusionist 0 / Wizard 0, Sun, Evocation
 - [Magic Missile](/Magic/M/MagicMissile.md)
 - [Produce Flame](/Magic/P/ProduceFlame.md)
@@ -131,6 +134,7 @@ The schools are:
 - [Deathwatch](/Magic/D/Deathwatch.md) - Cleric 1, Evil, Necromancy
 - [Disrupt Undead](/Magic/D/DisruptUndead.md) - Cleric 0 / Wizard 0, Death, Necromancy
 - [Doom](/Magic/D/Doom.md) - Cleric 1, Destruction, Necromancy
+- [Feign Death](/Magic/F/FeignDeath.md) - Cleric 3 / Druid 3, Death, Necromancy
 - [Ray of Enfeeblement](/Magic/R/RayOfEnfeeblement.md)
 - [Touch of Fatigue](/Magic/T/TouchOfFatigue.md)
 

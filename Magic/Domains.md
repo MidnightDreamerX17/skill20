@@ -42,6 +42,7 @@ The domains are:
 
 ## Animal
 
+- [Animal Speech](/Magic/A/AnimalSpeech.md) - Druid 3, Animal, Enchantment
 - [Calm Animals](/Magic/C/CalmAnimals.md) - Druid 1 / Illusionist 1, Animal, Enchantment
 - [Charm Animal](/Magic/C/CharmAnimal.md) - Druid 1 / Illusionist 1, Animal, Enchantment
 - [Detect Animals or Plants](/Magic/D/DetectAnimalsOrPlants.md) - Druid 1, Animal & Plant, Divination
@@ -63,6 +64,7 @@ The domains are:
 - [Chill Touch](/Magic/C/ChillTouch.md) - Cleric 1 / Wizard 1, Death, Necromancy
 - [Detect Undead](/Magic/D/DetectUndead.md) - Cleric 1 / Wizard 1, Death, Divination
 - [Disrupt Undead](/Magic/D/DisruptUndead.md) - Cleric 0 / Wizard 0, Death, Necromancy
+- [Feign Death](/Magic/F/FeignDeath.md) - Cleric 3 / Druid 3, Death, Necromancy
 - [Hide From Undead](/Magic/H/HideFromUndead.md) - Cleric 1, Death, Abjuration
 - [Ray of Enfeeblement](/Magic/R/RayOfEnfeeblement.md)
 - [Touch of Fatigue](/Magic/T/TouchOfFatigue.md)
@@ -97,6 +99,7 @@ The domains are:
 - [Burning Hands](/Magic/B/BurningHands.md) - Wizard 1, Fire, Evocation
 - [Elemental Weapon](/Magic/E/ElementalWeapon.md) - Druid 2, variable domain, Abjuration
 - [Explode Ammunition](/Magic/E/ExplodeAmmunition.md) - Wizard 7, Fire, Transmutation
+- [Far-Flying Flame](/Magic/F/FarFlyingFlame.md) - Druid 3 / Wizard 4, Fire, Evocation
 - [Fireshot Totem](/Magic/F/FireshotTotem.md) - Wizard 3, Fire, Conjuration
 - [Produce Flame](/Magic/P/ProduceFlame.md)
 - Summon Monster (elemental)
@@ -237,6 +240,7 @@ The domains are:
 - [Create Water](/Magic/C/CreateWater.md) - Cleric 0 / Druid 0, Water, Conjuration
 - [Bucket of Suds](/Magic/B/BucketOfSuds.md) - Illusionist 1 / Wizard 2, Water, Illusion
 - [Elemental Weapon](/Magic/E/ElementalWeapon.md) - Druid 2, variable domain, Abjuration
+- [Iceball](/Magic/I/Iceball.md) - Druid 3 / Wizard 3, Water, Evocation
 - [Obscuring Mist](/Magic/O/ObscuringMist.md)
 - Summon Monster (elemental)
 - [Ray of Frost](/Magic/R/RayOfFrost.md)

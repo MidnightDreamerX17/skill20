@@ -55,6 +55,11 @@
 
 ## 3rd Circle
 
+- [Animal Speech](/Magic/A/AnimalSpeech.md) - Druid 3, Animal, Enchantment
+- [Far-Flying Flame](/Magic/F/FarFlyingFlame.md) - Druid 3 / Wizard 4, Fire, Evocation
+- [Feign Death](/Magic/F/FeignDeath.md) - Cleric 3 / Druid 3, Death, Necromancy
+- [Iceball](/Magic/I/Iceball.md) - Druid 3 / Wizard 3, Water, Evocation
+
 ## 4th Circle
 
 - [Friendly Fungus](/Magic/F/FriendlyFungus.md) - Druid 4 / Illusionist 4, Plant, Conjuration

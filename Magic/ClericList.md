@@ -68,6 +68,7 @@
 
 - [Book God's Page, Fast](/Magic/B/BookGodsPageFast.md) - Cleric 3 / Wizard 3, Knowledge, Transmutation
 - [Create Paper](/Magic/C/CreatePaper.md) - Cleric 3, Knowledge, Conjuration
+- [Feign Death](/Magic/F/FeignDeath.md) - Cleric 3 / Druid 3, Death, Necromancy
 
 ## 4th Circle
 
