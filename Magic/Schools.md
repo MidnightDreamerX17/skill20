@@ -147,6 +147,7 @@ The schools are:
 - [Book God's Book, Fast](/Magic/B/BookGodsBookFast.md) - Cleric 4 / Wizard 4, Knowledge, Transmutation
 - [Book God's Page](/Magic/B/BookGodsPage.md) - Cleric 1 / Wizard 1, Knowledge, Transmutation
 - [Book God's Page, Fast](/Magic/B/BookGodsPageFast.md) - Cleric 3 / Wizard 3, Knowledge, Transmutation
+- [Deus Ex Instrument](/Magic/D/DeusExInstrument.md) - Illusionist 1 / Wizard 1, Magic, Transmutation
 - [Enlarge Person](/Magic/E/EnlargePerson.md) - Wizard 1, Strength, Transmutation
 - [Entangle](/Magic/E/Entangle.md) - Druid 1, Plant, Transmutation
 - [Erase](/Magic/E/Erase.md) - Illusionist 1 / Wizard 1, Knowledge, Transmutation
