@@ -14,25 +14,11 @@ HP: 14 / 14
 
 ## Stats
 
-AC: 14
-
-- +1 skill ability, +3 attribute
-
-Melee BtH: +1
-
-- +1 skill
-
-Melee Damage: 1d6+1
-
-- +1 skill ability
-
-Ranged BtH: +4
-
-- +1 skill, +3 attribute
-
-Ranged Damage: 1d4+3
-
-- +3 attribute
+- AC: 14 (1 from Chi Body unarmored, +3 DEX)
+- Melee Accuracy: /roll 1d20+1 (1 base)
+- Melee Damage: 1d6+1 (1 from Chi Fist natural weapon)
+- Ranged Accuracy: /roll 1d20+1+3 (1 base, +3 DEX)
+- Ranged Damage: /roll 1d4+3 (+3 DEX)
 
 STR: 10
 DEX: 16 (+3)

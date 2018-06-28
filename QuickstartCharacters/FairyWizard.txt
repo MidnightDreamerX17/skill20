@@ -14,17 +14,11 @@ HP: 11 / 11
 
 ## Stats
 
-AC: 12
-
-- +2 attribute
-
-Ranged BtH: +3
-
-- +1 skill, +2 attribute
-
-Ranged Damage: 1d8+2
-
-- +2 attribute
+- AC: 12 (+2 DEX)
+- Melee Accuracy: /roll 1d20+2 (+2 DEX)
+- Melee Damage: /roll 1d4+2 (+2 DEX)
+- Ranged Accuracy: /roll 1d20+1+2 (1 skill, +2 DEX)
+- Ranged Damage: /roll 1d10+2 (+2 DEX)
 
 STR: 6 (-2)
 DEX: 14 (+2)
@@ -77,12 +71,13 @@ Wizard Spell Energies:
 
 ## Equipment
 
-Gold: 60.00
+Gold: 58.00
 
 Loans:
 
 - 250.00 gold owed to Adventure Capital
 
+Dagger - 1d4 puncture
 Longbow, Composite - 1d10
 
 Wizard Spellbook containing:

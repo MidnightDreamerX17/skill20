@@ -14,13 +14,12 @@ HP: 18 / 18
 
 ## Stats
 
-AC: 16
 
-- +2 racial, +1 attribute, +3 shield
-
-BtH: +1
-
-- +1 skill
+- AC: 16 (+2 racial, +1 attribute, +3 shield)
+- Melee Accuracy: /roll 1d20+1 (1 skill)
+- Melee Damage: /roll 1d8
+- Ranged Accuracy: /roll 1d20+1+1 (1 skill, +1 DEX)
+- Ranged Damage: /roll 1d4+1 (+1 DEX)
 
 Damage: 1d8
 
@@ -89,6 +88,7 @@ Loans:
 
 Mace, Heavy - 1d8
 Shield, Great Metal - AC 3
+Sling - 1d4, range increment 50 feet
 
 Backpack
 Bedroll

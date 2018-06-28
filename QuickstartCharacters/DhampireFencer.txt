@@ -16,9 +16,9 @@ HP: 13 / 13
 
 - AC: 14 (10 + 3 DEX + 1 iron body while unarmored)
 - Melee Accuracy: /roll 1d20+1+1
-- Melee Damage: 5 psionic
+- Melee Damage: 4 psionic (1 base, +2 INT, +1 STR)
 - Ranged Accuracy: /roll 1d20+3+1
-- Ranged Damage: 5 psionic
+- Ranged Damage: 6 psionic (1 base, +2 INT, +3 DEX)
 
 - STR: 12 (+1)
 - DEX: 16 (+3)

@@ -14,17 +14,11 @@ HP: 18 / 18
 
 ## Stats
 
-AC: 17
-
-- +1 attribute, +4 armor, +2 shield
-
-BtH: +4
-
-- +1 skill, +3 attribute
-
-Damage: 1d8+3
-
-- +3 attribute
+- AC: 17 (4 armor, 2 shield, +1 DEX)
+- Melee Accuracy: /roll 1d20+1+3 (1 skill, +3 STR)
+- Melee Damage: /roll 1d8+3 (+3 STR)
+- Ranged Accuracy: /roll 1d20+1+1 (1 skill, +1 DEX)
+- Ranged Damage: /roll 1d4+1 (+1 DEX)
 
 STR: 16 (+3)
 DEX: 12 (+1)
@@ -84,6 +78,8 @@ Loans:
 Longsword - 1d8
 Chain Shirt - AC 4
 Shield, Heavy Metal - AC 2
+
+Sling - 1d4, range increment 50 feet
 
 Backpack
 Bedroll

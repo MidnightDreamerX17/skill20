@@ -14,9 +14,11 @@ HP: 13 / 13
 
 ## Stats
 
-AC: 10
-
-BtH: +0
+- AC: 10
+- Melee Accuracy: /roll 1d20-1 (-1 STR)
+- Melee Damage: /roll 1d6-1
+- Ranged Accuracy: /roll 1d20
+- Ranged Damage: /roll 1d6
 
 Damage: 0
 
@@ -101,6 +103,8 @@ Wizard Spellbook:
 Loans:
 
 - 250.00 gold owed to Adventure Capital
+
+Staff-Sling - 1d6, range increment 50 feet
 
 Backpack
 Bedroll
