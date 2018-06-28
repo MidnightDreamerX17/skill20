@@ -1,37 +1,29 @@
 # Psy Blade (INT)
 
-A Psy-Blade is considered one of the following:
+A Psy-Blade is considered one of the following per round:
 
-- A subtype of Two-Handed Straight Sword - when used as a melee weapon
-- A subtype of Throwing Weapon - when used as a throwing weapon
+- A subtype of Two-Handed Straight Sword - when used as a melee weapon. Just like with most other melee weapons, Strength modifier is added for accuracy and damage.
+- A subtype of Throwing Weapon - when used as a throwing weapon. In this case it has a range increment of 60 feet. Just like with most other ranged weapons, Dexterity modifier is added for accuracy and damage.
 
-**Projected Blade:** The Projected Blade requires the character to be conscious and not under any mind-altering effects. If the character falls unconscious or comes under a mind-altering effect, then the Projected Blade disappears. It takes both hands to use. It can be used as either a melee weapon, or as a throwing weapon with a range increment of 60 feet, but not both in the same round. It deals an amount of damage according to the following table:
+**Projected Blade:** The Projected Blade requires the character to be conscious and not under any mind-altering effects. If the character falls unconscious or comes under a mind-altering effect, then the Projected Blade disappears. It takes both hands to use. It can be used as either a melee weapon, or as a throwing weapon with a range increment of 60 feet, but not both in the same round.
 
-| Psy Blade Level | Damage | Accuracy Bonus | Psionic Reinforcement Equivalency |
-| ---             | ---    | ---            | ---                               |
-| 1  | 1 + (2 x INT bonus)           |    | Psionic
-| 2  | 1d2 + (2 x INT bonus)         |    | Psionic
-| 4  | 1d4 + (2 x INT bonus)         | +1 | Psionic +1
-| 6  | 1d6 + (2 x INT bonus)         | +1 | Psionic +1
-| 8  | 1d8 + (2 x INT bonus)         | +2 | Psionic +2
-| 10 | 1d10 + (3 x INT bonus)        | +2 | Psionic +2
-| 12 | 1d12 + (3 x INT bonus)        | +3 | Psionic +3
-| 14 | 1d12 + 1d2 + (3 x INT bonus)  | +3 | Psionic +3
-| 16 | 1d12 + 1d4 + (3 x INT bonus)  | +4 | Psionic +4
-| 18 | 1d12 + 1d6 + (3 x INT bonus)  | +4 | Psionic +4
-| 20 | 1d12 + 1d8 + (4 x INT bonus)  | +5 | Psionic +5
-| 22 | 1d12 + 1d10 + (4 x INT bonus) | +5 | Psionic +5
-| 24 | 2d12 + (4 x INT bonus)        | +6 | Psionic +6
-| 26 | 2d12 + 1d2 + (4 x INT bonus)  | +6 | Psionic +6
-| 28 | 2d12 + 1d4 + (4 x INT bonus)  | +7 | Psionic +7
-| 30 | 2d12 + 1d6 + (5 x INT bonus)  | +7 | Psionic +7
-| 32 | 2d12 + 1d8 + (5 x INT bonus)  | +8 | Psionic +8
-| 34 | 2d12 + 1d10 + (5 x INT bonus) | +8 | Psionic +8
-| 36 | 3d12 + (5 x INT bonus)        | +9 | Psionic +9
-| 38 | 3d12 + 1d2 + (5 x INT bonus)  | +9 | Psionic +9
-| 40 | 4d20 + (6 x INT bonus)        | +10 | Psionic +10
+It does an amount of damage equal to Psy Blade (INT) Level, plus Intelligence modifier, plus either Strength or Dexterity modifier according to the way it is used. This means that at 9 or less Intelligence, the Psy Blade potentially does no damage until the skill is improved enough.
 
-If the character has an Intelligence of 9 or less, then the blade does no damage.
+It further gains an accuracy bonus and Psionic Reinforcement equivalency according to the following table:
+
+| Psy Blade Level | Accuracy Bonus | Psionic Reinforcement Equivalency |
+| ---             | ---            | ---                               |
+| 1 |    | Psionic
+| 4 | +1 | Psionic +1
+| 8 | +2 | Psionic +2
+| 12 | +3 | Psionic +3
+| 16 | +4 | Psionic +4
+| 20 | +5 | Psionic +5
+| 24 | +6 | Psionic +6
+| 28 | +7 | Psionic +7
+| 32 | +8 | Psionic +8
+| 36 | +9 | Psionic +9
+| 40 | +10 | Psionic +10
 
 **Solid Blade:**
 
