@@ -17,6 +17,7 @@ Noise Penalty is applied to usage of the Stealth (DEX) skill in relevant situati
 | Machine-Pressed Plate  | 50.00     | 6   | 12     | 8 |        |
 | Splint Mail on Leather | 200.00    | 6   | 6      | 6 |        |
 | Banded Mail on Leather | 250.00    | 6   | 6      | 6 |        |
+| Brigandine             | 250.00    | 6   | 6      | 6 |        |
 | Half Plate             | 600.00    | 7   | 7      | 6 |        |
 | Machine-Pressed Steel  | 200.00    | 8   | 16     | 12 |       |
 | Full Plate             | 1,500.00  | 8   | 8      | 8 |        |

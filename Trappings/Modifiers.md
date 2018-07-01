@@ -29,31 +29,40 @@ Quality modifiers add an amount of cost that is relative to the base cost of the
 
 Material modifiers add an amount of cost that is relative to the base cost of the equipment. The default material is assumed to be Common Steel.
 
+Weight Mods also set a required amount of Strength for wielding weapons effectively. The minimum Strength needed to wield a weapon without penalty is equal to 10 + Weight Mod. For example, Dwarven Graysteel weapons require a Strength of 14. Insufficient Strength will result in both Strength and Dexterity bonuses no longer being applied to weapon damage or accuracy.
+
+Point-and-shoot weapons avoid this penalty if they are deployed on special weapon mounts, or laid on the ground with a bipod.
+
+Weight Mods increase the amount of time needed to craft things made from the material. Weight Mod is added directly to the number of days required to craft. For example, it takes a whole week minimum to craft one item from Dragonbone.
+
 | Material              | Cost Mod  | Weight Mod | Armor AC       | Weapon Mod                       | Special |
 | ---                   | ---       | ---        | ---            | ---                              | ---     |
 | Bronze                | halved    | none       | -1 AC          | -1 accuracy and damage           |         |
-| Common Steel          | no mod    | no mod     | no mod         | no change                        | the default material |
-| Exotic Steel          | + x2      | +1         | +1 AC          | +1 accuracy and damage           |         |
+| Cast Iron             | halved    | +2         | none           | none                             | heats evenly, requires carbon seasoning
+| Common Steel          | no mod    | none       | none           | none                             | the default material |
+| Exotic Steel          | + x2      | none       | +1 AC          | +1 accuracy and damage           |         |
 | Ironwood              | + x4      | none       | none           | none                             | not metal
 | Meteoric Cold-Forged  | + x4      | none       | none           | none                             | not metal
 | Green Steel           | + x4      | +1         | +1 AC (magic)  | +1 accuracy and damage (magic)   | functions equally in all planes that have magic |
 | Silvered Steel        | + x5      | +1         | +1 AC (silver) | +1 accuracy and damage (silver)  |         |
-| Dwarven Graysteel     | + x25     | +2         | +2 AC          | +2 accuracy and damage           |         |
-| Elven Bluesteel       | + x50     | +1         | +2 AC          | +2 accuracy and damage           | +1 against evil-crafted humanoids |
-| Orichalcum            | + x100    | +3         | +3 AC          | +3 accuracy and damage           |         |
-| Graphite Composite    | + x120    | +1         | +2 AC          | +2 accuracy and damage           | not metal
-| Carbon Fiber          | + x200    | none       | +2 AC          | +2 accuracy and damage           | not metal
-| Konkressite           | + x200    | +4         | +4 AC          | +4 accuracy and damage           |         |
-| Slammite              | + x250    | +5         | +5 AC          | +5 accuracy and damage           |         |
-| Burned Miasma Ceramic | + x350    | +5         | +5 AC          | +5 accuracy and damage           | not metal
-| Validium              | + x400    | +6         | +6 AC          | +6 accuracy and damage           |         |
-| Ormu Carapace         | + x450    | +6         | +6 AC          | +6 accuracy and damage           | not metal
-| Dragonbone            | + x500    | +7         | +7 AC          | +7 accuracy and damage           | not metal
-| Mithril               | + x1,000  | +2         | +6 AC          | +6 accuracy and damage           |         |
-| Adamantine            | + x2,500  | +3         | +7 AC          | +7 accuracy and damage           |         |
-| Forged Terracore      | + x5,000  | +8         | +8 AC          | +8 accuracy and damage           |         |
-| Forged Starcore       | + x10,000 | +9         | +9 AC          | +9 accuracy and damage           |         |
-| Black-Hole-Forged     | + x50,000 | +10        | +10 AC         | +10 accuracy and damage          |         |
+| Dwarven Graysteel     | + x20     | +4         | +2 AC          | +2 accuracy and damage           |         |
+| Graphite Composite    | + x40     | none       | +2 AC          | +2 accuracy                      | not metal
+| Elven Bluesteel       | + x80     | none       | +2 AC          | +2 accuracy and damage           | +1 against evil-crafted humanoids |
+| Orichalcum            | + x30     | +6         | +3 AC          | +3 accuracy and damage           |         |
+| Carbon Fiber          | + x120    | none       | +3 AC          | +3 accuracy                      | not metal
+| Konkressite           | + x40     | +8         | +4 AC          | +4 accuracy and damage           |         |
+| Slammite              | + x50     | +10        | +5 AC          | +5 accuracy and damage           |         |
+| Burned Miasma Ceramic | + x250    | +5         | +5 AC          | +5 accuracy and damage           | not metal
+| Validium              | + x60     | +12        | +6 AC          | +6 accuracy and damage           |         |
+| Ormu Carapace         | + x360    | +6         | +6 AC          | +6 accuracy and damage           | not metal
+| Mithril               | + x800    | +3         | +6 AC          | +6 accuracy and damage           | armor can only be penetrated by magic/psionic +1
+| Techno-Ironworks      | + x70     | +14        | +7 AC          | +7 accuracy and damage           |         |
+| Dragonbone            | + x490    | +7         | +7 AC          | +7 accuracy and damage           | not metal
+| Adamantine            | + x1,000  | +4         | +7 AC          | +7 accuracy and damage           | armor can only be penetrated by magic/psionic +2
+| Forged Terracore      | + x80     | +16        | +8 AC          | +8 accuracy and damage           |         |
+| Forged Starcore       | + x90     | +18        | +9 AC          | +9 accuracy and damage           |         |
+| Black-Hole-Forged     | + x100    | +20        | +10 AC         | +10 accuracy and damage          |         |
+| Crystal               | + x10,000 | +10        | +10 AC         | +10 accuracy and damage          | not metal
 
 ## Equipment Reinforcement Modifiers
 
