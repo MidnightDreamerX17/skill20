@@ -62,7 +62,7 @@ Skill20 is intended to allow GMs to swap out entire sections, such as the Magic,
 - Touch Attack Spell --> Automatic hit to one enemy in the front row
 - Ranged Touch Attack --> Ranged Attacking with the Point-and-Shoot weapon category
 - Ranged Touch Attack Spell --> Automatic hit to one enemy in the front or back row
-- Ray --> One enemy in the front and back rows
+- Ray --> One enemy in each row
 - Cone --> Front row of enemies
 - Large area of effect --> Whole Party or All Enemies
 
